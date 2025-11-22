@@ -1,0 +1,220 @@
+00011221-r:
+  definition:
+  - with nevertheless the final result
+  example:
+  - He arrived only to find his wife dead
+  - We won only to lose again in the next round
+  ili: i18208
+  members:
+  - only
+  partOfSpeech: r
+00027761-r:
+  definition:
+  - despite anything to the contrary (usually preceding a concession)
+  example:
+  - although I'm a little afraid, however I'd like to try it
+  - while we disliked each other, nevertheless we agreed
+  - he was a stern yet fair master
+  - granted that it is dangerous, all the same I still want to go
+  ili: i18298
+  members:
+  - however
+  - nevertheless
+  - withal
+  - still
+  - yet
+  - all the same
+  - even so
+  - nonetheless
+  - notwithstanding
+  - at the same time
+  partOfSpeech: r
+00028715-r:
+  definition:
+  - except that
+  example:
+  - It was the same story; only this time she came out better
+  ili: i18302
+  members:
+  - only
+  partOfSpeech: r
+00044486-r:
+  definition:
+  - (in formal usage, especially legal usage) for that or for it
+  domain_topic:
+  - 08458195-n
+  example:
+  - ordering goods and enclosing payment therefor
+  - a refund therefor
+  ili: i18396
+  members:
+  - therefor
+  partOfSpeech: r
+00063395-r:
+  definition:
+  - (sentence connectors) because of the reason given
+  example:
+  - consequently, he didn't do it
+  - continued to have severe headaches and accordingly returned to the doctor
+  ili: i18516
+  members:
+  - consequently
+  - accordingly
+  partOfSpeech: r
+00063710-r:
+  definition:
+  - in place of, or as an alternative to
+  example:
+  - Felix became a herpetologist instead
+  - alternatively we could buy a used car
+  ili: i18518
+  members:
+  - alternatively
+  - instead
+  - or else
+  partOfSpeech: r
+00099264-r:
+  definition:
+  - on the contrary
+  example:
+  - rather than disappoint the children, he did two quick tricks before he left
+  - he didn't call; rather (or instead), he wrote her a letter
+  - used English terms instead of Latin ones
+  ili: i18757
+  members:
+  - rather
+  - instead
+  partOfSpeech: r
+00118928-r:
+  definition:
+  - in that case or as a consequence
+  example:
+  - if he didn't take it, then who did?
+  - keep it then if you want to
+  - the case, then, is closed
+  - you've made up your mind then?
+  - then you'll be rich
+  ili: i18892
+  members:
+  - then
+  partOfSpeech: r
+00119259-r:
+  definition:
+  - in a manner that facilitates
+  example:
+  - he observed the snakes so he could describe their behavior
+  - he stooped down so he could pick up his hat
+  ili: i18894
+  members:
+  - so
+  partOfSpeech: r
+00119427-r:
+  definition:
+  - in spite of everything; without regard to drawbacks
+  example:
+  - he carried on regardless of the difficulties
+  ili: i18895
+  members:
+  - regardless
+  - irrespective
+  - disregardless
+  - no matter
+  - disregarding
+  partOfSpeech: r
+00120034-r:
+  definition:
+  - (postpositive) however
+  example:
+  - it might be unpleasant, though
+  ili: i18899
+  members:
+  - though
+  partOfSpeech: r
+00121886-r:
+  definition:
+  - by that means or because of that
+  example:
+  - He knocked over the red wine, thereby ruining the table cloth
+  ili: i18910
+  members:
+  - thereby
+  partOfSpeech: r
+00138725-r:
+  definition:
+  - in the order given
+  example:
+  - the brothers were called Felix and Max, respectively
+  ili: i19056
+  members:
+  - respectively
+  - severally
+  partOfSpeech: r
+00151061-r:
+  definition:
+  - at present
+  example:
+  - the transmission screen shows the picture that is actually on the air
+  ili: i19144
+  members:
+  - actually
+  partOfSpeech: r
+00271877-r:
+  definition:
+  - as known or named at another time or place
+  example:
+  - Mr. Smith, alias Mr. Lafayette
+  ili: i20031
+  members:
+  - alias
+  - a.k.a.
+  - also known as
+  partOfSpeech: r
+00294567-r:
+  definition:
+  - in the opposite direction
+  example:
+  - run counter
+  ili: i20191
+  members:
+  - counter
+  partOfSpeech: r
+00295773-r:
+  definition:
+  - as a consequence
+  example:
+  - he had good reason to be grateful for the opportunities which they had made available
+    to him and which consequently led to the good position he now held
+  ili: i20199
+  members:
+  - consequently
+  - therefore
+  partOfSpeech: r
+00358029-r:
+  definition:
+  - of or concerning this
+  example:
+  - the twigs hereof are physic
+  ili: i20596
+  members:
+  - hereof
+  partOfSpeech: r
+00470062-r:
+  definition:
+  - of or concerning this or that
+  example:
+  - a problem and the solution thereof
+  ili: i21385
+  members:
+  - thereof
+  partOfSpeech: r
+00470257-r:
+  definition:
+  - to that
+  example:
+  - with all the appurtenances fitting thereto
+  ili: i21387
+  members:
+  - thereto
+  - to it
+  - to that
+  partOfSpeech: r

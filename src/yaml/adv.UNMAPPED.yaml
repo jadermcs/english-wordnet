@@ -1,0 +1,7772 @@
+00001740-r:
+  definition:
+  - without musical accompaniment
+  example:
+  - they performed a cappella
+  ili: i18157
+  members:
+  - a cappella
+  - a capella
+  partOfSpeech: r
+00003675-r:
+  definition:
+  - in an anisotropic manner
+  ili: i18166
+  members:
+  - anisotropically
+  partOfSpeech: r
+00003761-r:
+  definition:
+  - in an annoying manner or to an annoying degree
+  ili: i18167
+  members:
+  - annoyingly
+  partOfSpeech: r
+00004152-r:
+  definition:
+  - in a blessed manner
+  ili: i18169
+  members:
+  - blessedly
+  partOfSpeech: r
+00005834-r:
+  definition:
+  - in an unabashed manner
+  example:
+  - unabashedly, he asked for more
+  ili: i18182
+  members:
+  - unabashedly
+  partOfSpeech: r
+00006415-r:
+  definition:
+  - in a gross manner
+  ili: i18186
+  members:
+  - grossly
+  partOfSpeech: r
+00012509-r:
+  definition:
+  - in an isotropic manner
+  ili: i18214
+  members:
+  - isotropically
+  partOfSpeech: r
+00015830-r:
+  definition:
+  - in a satisfactory manner
+  ili: i18231
+  members:
+  - satisfactorily
+  partOfSpeech: r
+00016322-r:
+  definition:
+  - in the manner of prosperous people
+  ili: i18234
+  members:
+  - prosperously
+  partOfSpeech: r
+00018343-r:
+  definition:
+  - at the same time as
+  example:
+  - even as he lay dying they argued over his estate
+  - the building collapsed just as he arrived
+  ili: i18244
+  members:
+  - even as
+  - just as
+  partOfSpeech: r
+00018727-r:
+  definition:
+  - even
+  ili: i18247
+  members:
+  - e'en
+  partOfSpeech: r
+00020362-r:
+  definition:
+  - (music) with vigor
+  domain_topic:
+  - 07034009-n
+  example:
+  - allegro con brio
+  ili: i18256
+  members:
+  - con brio
+  partOfSpeech: r
+00020474-r:
+  definition:
+  - in a manner involving or inclined to conjecture and supposition
+  ili: i18257
+  members:
+  - conjecturally
+  partOfSpeech: r
+00021131-r:
+  definition:
+  - in a coterminous manner
+  ili: i18261
+  members:
+  - coterminously
+  partOfSpeech: r
+00022855-r:
+  definition:
+  - of the distant or comparatively distant past
+  example:
+  - We met once long ago
+  - they long ago forsook their nomadic life
+  - left for work long ago
+  - he has long since given up mountain climbing
+  - This name has long since been forgotten
+  - ‘lang syne’ is Scottish
+  ili: i18268
+  members:
+  - long ago
+  - long since
+  - lang syne
+  - langsyne
+  partOfSpeech: r
+00023171-r:
+  definition:
+  - to some degree
+  example:
+  - we were pretty much lost when we met the forest ranger
+  ili: i18269
+  members:
+  - pretty much
+  partOfSpeech: r
+00023622-r:
+  definition:
+  - in a paradoxical manner
+  example:
+  - paradoxically, ice ages seem to occur when the sun gets hotter
+  ili: i18273
+  members:
+  - paradoxically
+  partOfSpeech: r
+00023771-r:
+  definition:
+  - in a parasitic manner
+  ili: i18274
+  members:
+  - parasitically
+  partOfSpeech: r
+00023852-r:
+  definition:
+  - in a conformable manner
+  ili: i18275
+  members:
+  - conformably
+  partOfSpeech: r
+00024234-r:
+  definition:
+  - in a pathogenic manner
+  ili: i18278
+  members:
+  - pathogenically
+  partOfSpeech: r
+00024715-r:
+  definition:
+  - used to express refusal or denial or disagreement etc. or especially to emphasize
+    a negative statement
+  example:
+  - no, you are wrong
+  ili: i18282
+  members:
+  - 'no'
+  partOfSpeech: r
+00026470-r:
+  definition:
+  - everywhere
+  example:
+  - searched high and low
+  ili: i18292
+  members:
+  - high and low
+  partOfSpeech: r
+00026948-r:
+  definition:
+  - used to indicate that a statement explains or supports a previous statement
+  example:
+  - Anyhow, he is dead now
+  - I think they're asleep; anyhow, they're quiet
+  - I don't know what happened to it; anyway, it's gone
+  - anyway, there is another factor to consider
+  - I don't know how it started; in any case, there was a brief scuffle
+  - in any event, the government faced a serious protest
+  - but at any rate he got a knighthood for it
+  ili: i18295
+  members:
+  - anyhow
+  - anyway
+  - anyways
+  - in any case
+  - at any rate
+  - in any event
+  partOfSpeech: r
+00027470-r:
+  definition:
+  - in the actual state of affairs and often contrary to expectations
+  example:
+  - he might have been killed; as it is, he was severely injured
+  ili: i18296
+  members:
+  - as it is
+  partOfSpeech: r
+00029193-r:
+  definition:
+  - by contrast; on the other hand
+  example:
+  - the first part was easy; the second, however, took hours
+  ili: i18305
+  members:
+  - however
+  partOfSpeech: r
+00029433-r:
+  definition:
+  - making an additional point; anyway
+  example:
+  - I don't want to go to a restaurant; besides, we can't afford it
+  - she couldn't shelter behind him all the time and in any case he wasn't always
+    with her
+  ili: i18307
+  members:
+  - besides
+  - in any case
+  partOfSpeech: r
+00029674-r:
+  definition:
+  - in a fugal style
+  domain_topic:
+  - 07034009-n
+  ili: i18308
+  members:
+  - fugally
+  partOfSpeech: r
+00029763-r:
+  definition:
+  - denoting additional information
+  example:
+  - computer chess games are getting cheaper all the time; furthermore, their quality
+    is improving
+  - the cellar was dark; moreover, mice nested there
+  - what is more, there's no sign of a change
+  ili: i18309
+  members:
+  - furthermore
+  - moreover
+  - what is more
+  - in addition
+  partOfSpeech: r
+00031610-r:
+  definition:
+  - in a futile and unproductive manner
+  ili: i18315
+  members:
+  - futilely
+  partOfSpeech: r
+00031911-r:
+  definition:
+  - not now
+  example:
+  - she is no more
+  ili: i18317
+  members:
+  - no longer
+  - no more
+  partOfSpeech: r
+00033624-r:
+  definition:
+  - under the terms of this agreement
+  ili: i18329
+  members:
+  - hereunder
+  partOfSpeech: r
+00034050-r:
+  definition:
+  - to a small degree; somewhat
+  example:
+  - it's a bit warm
+  - felt a little better
+  - a trifle smaller
+  ili: i18333
+  members:
+  - a bit
+  - a little
+  - a trifle
+  partOfSpeech: r
+00034524-r:
+  definition:
+  - as soon as possible
+  ili: i18336
+  members:
+  - ASAP
+  partOfSpeech: r
+00035133-r:
+  definition:
+  - in a spirited or lively manner; with animation and vivacity
+  ili: i18342
+  members:
+  - spiritedly
+  partOfSpeech: r
+00035249-r:
+  definition:
+  - in a merry sportive manner
+  ili: i18343
+  members:
+  - sportively
+  partOfSpeech: r
+00035332-r:
+  definition:
+  - in a stormy or violent manner
+  ili: i18344
+  members:
+  - stormily
+  - turbulently
+  - passionately
+  partOfSpeech: r
+00035642-r:
+  definition:
+  - more often or more frequently
+  ili: i18346
+  members:
+  - oftener
+  partOfSpeech: r
+00037166-r:
+  definition:
+  - with respect to its inherent nature
+  example:
+  - this statement is interesting per se
+  ili: i18355
+  members:
+  - intrinsically
+  - per se
+  - in and of itself
+  partOfSpeech: r
+00037864-r:
+  definition:
+  - (used as an interjection) an expression of surprise or skepticism or irony etc.
+  example:
+  - Wants to marry the butler? Indeed!
+  exemplifies:
+  - 07120931-n
+  ili: i18358
+  members:
+  - indeed
+  partOfSpeech: r
+00038270-r:
+  definition:
+  - in a difficult or vulnerable position
+  example:
+  - he resigned and left me in the lurch
+  exemplifies:
+  - 07169038-n
+  ili: i18360
+  members:
+  - in the lurch
+  partOfSpeech: r
+00038658-r:
+  definition:
+  - an archaic word originally meaning ‘in truth’ but now usually used to express
+    disbelief
+  ili: i18362
+  members:
+  - forsooth
+  partOfSpeech: r
+00038782-r:
+  definition:
+  - in the uterus
+  example:
+  - the child was infected in utero from the mother
+  ili: i18363
+  members:
+  - in utero
+  partOfSpeech: r
+00038883-r:
+  definition:
+  - in a vacuum
+  ili: i18364
+  members:
+  - in vacuo
+  partOfSpeech: r
+00038931-r:
+  definition:
+  - in isolation and without reference to anything else
+  ili: i18365
+  members:
+  - in vacuo
+  partOfSpeech: r
+00039019-r:
+  definition:
+  - as might be expected
+  example:
+  - naturally, the lawyer sent us a huge bill
+  ili: i18366
+  members:
+  - naturally
+  - of course
+  - course
+  partOfSpeech: r
+00039611-r:
+  definition:
+  - in a manner that is unclear
+  ili: i18369
+  members:
+  - unclearly
+  partOfSpeech: r
+00040906-r:
+  definition:
+  - together with this
+  ili: i18373
+  members:
+  - withal
+  partOfSpeech: r
+00041131-r:
+  definition:
+  - in a way that was not expected
+  example:
+  - her brother showed up at the wedding out of the blue
+  ili: i18375
+  members:
+  - unexpectedly
+  - out of the blue
+  partOfSpeech: r
+00041294-r:
+  definition:
+  - so as not to obstruct or hinder
+  example:
+  - put that box out of the way so that no one trips on it
+  ili: i18377
+  members:
+  - out of the way
+  partOfSpeech: r
+00041426-r:
+  definition:
+  - murdered
+  example:
+  - the mob boss wanted his rival out of the way
+  ili: i18378
+  members:
+  - out of the way
+  partOfSpeech: r
+00041525-r:
+  definition:
+  - in a remote location or at a distance from the usual route
+  ili: i18379
+  members:
+  - out of the way
+  partOfSpeech: r
+00041626-r:
+  definition:
+  - improper; amiss
+  ili: i18380
+  members:
+  - out of the way
+  partOfSpeech: r
+00041684-r:
+  definition:
+  - extraordinary; unusual
+  example:
+  - such erratic behavior was out of the way for him
+  ili: i18381
+  members:
+  - out of the way
+  partOfSpeech: r
+00041802-r:
+  definition:
+  - not along the usual route
+  example:
+  - in order to experience something different, you need to go off the beaten path
+  members:
+  - off the beaten track
+  - off the beaten path
+  partOfSpeech: r
+00041980-r:
+  definition:
+  - forming a hindrance, impediment, or obstruction
+  example:
+  - she might have succeeded in her ambition, had not circumstances been in her way
+  ili: i18382
+  members:
+  - in the way
+  - in someone's way
+  partOfSpeech: r
+00042364-r:
+  definition:
+  - without distinction of one from others
+  example:
+  - he is interested in snakes in general
+  ili: i18384
+  members:
+  - generally
+  - in general
+  - in the main
+  partOfSpeech: r
+00043757-r:
+  definition:
+  - (used as a sentence connector) therefore or consequently
+  ili: i18391
+  members:
+  - ergo
+  partOfSpeech: r
+00043931-r:
+  definition:
+  - from this place
+  example:
+  - get thee hence!
+  exemplifies:
+  - 07087487-n
+  ili: i18393
+  members:
+  - hence
+  partOfSpeech: r
+00044804-r:
+  definition:
+  - involving close contact; confronting each other
+  example:
+  - the boy and the policeman suddenly came face-to-face at the corner
+  - they spoke face to face
+  ili: i18398
+  members:
+  - face to face
+  partOfSpeech: r
+00045694-r:
+  definition:
+  - without the intrusion of a third person; in intimate privacy
+  example:
+  - we talked tete-a-tete
+  ili: i18403
+  members:
+  - tete a tete
+  partOfSpeech: r
+00045819-r:
+  definition:
+  - perhaps; indicating possibility of being more remarkable (greater or better or
+    sooner) than
+  example:
+  - will yield 10% if not more
+  - pretty if not actually beautiful
+  - let's meet tonight if not sooner
+  ili: i18404
+  members:
+  - if not
+  partOfSpeech: r
+00047083-r:
+  definition:
+  - in excess or without limit
+  example:
+  - amazed beyond measure
+  ili: i18412
+  members:
+  - beyond measure
+  partOfSpeech: r
+00047594-r:
+  definition:
+  - by a considerable margin
+  example:
+  - she was by far the smartest student
+  - it was far and away the best meal he had ever eaten
+  ili: i18415
+  members:
+  - by far
+  - far and away
+  - out and away
+  partOfSpeech: r
+00047777-r:
+  definition:
+  - outstandingly superior to
+  example:
+  - in intelligence he was head and shoulders above the others in his class
+  ili: i18416
+  members:
+  - head and shoulders above
+  partOfSpeech: r
+00048676-r:
+  definition:
+  - after an unspecified period of time or an especially long delay
+  ili: i18421
+  members:
+  - finally
+  - eventually
+  partOfSpeech: r
+00050296-r:
+  definition:
+  - (prefatory or transitional) indicates a change of subject or activity
+  example:
+  - Now the next problem is …
+  ili: i18429
+  members:
+  - now
+  partOfSpeech: r
+00050427-r:
+  definition:
+  - interjection of rebuke
+  ili: i18430
+  members:
+  - now now
+  partOfSpeech: r
+00053542-r:
+  definition:
+  - an expression of agreement normally occurring at the beginning of a sentence
+  ili: i18450
+  members:
+  - very well
+  - fine
+  - alright
+  - all right
+  - OK
+  partOfSpeech: r
+00053690-r:
+  definition:
+  - without doubt (used to reinforce an assertion)
+  example:
+  - it's expensive all right
+  ili: i18451
+  members:
+  - all right
+  - alright
+  partOfSpeech: r
+00054490-r:
+  definition:
+  - by reasonable assumption
+  example:
+  - presumably, he missed the train
+  ili: i18456
+  members:
+  - presumably
+  - presumptively
+  partOfSpeech: r
+00054865-r:
+  definition:
+  - temporarily
+  example:
+  - we'll stop for the time being
+  ili: i18459
+  members:
+  - for the moment
+  - for the time being
+  partOfSpeech: r
+00055062-r:
+  definition:
+  - without the use of a machine
+  example:
+  - this dress is sewn by hand
+  ili: i18461
+  members:
+  - by hand
+  partOfSpeech: r
+00055174-r:
+  definition:
+  - with the use of a machine
+  example:
+  - the shirt is sewn by machine
+  ili: i18462
+  members:
+  - by machine
+  partOfSpeech: r
+00055288-r:
+  definition:
+  - at close quarters
+  example:
+  - fought hand to hand
+  ili: i18463
+  members:
+  - hand to hand
+  partOfSpeech: r
+00055369-r:
+  definition:
+  - with barely enough money for immediate needs
+  example:
+  - they lived from hand to mouth
+  ili: i18464
+  members:
+  - hand to mouth
+  partOfSpeech: r
+00057190-r:
+  definition:
+  - in a drastic manner
+  ili: i18476
+  members:
+  - drastically
+  partOfSpeech: r
+00057267-r:
+  definition:
+  - in the slightest degree or in any respect
+  example:
+  - Are you at all interested? No, not at all
+  - was not in the least unfriendly
+  ili: i18477
+  members:
+  - at all
+  - in the least
+  - the least bit
+  partOfSpeech: r
+00057454-r:
+  definition:
+  - definitely or certainly
+  example:
+  - Visit us by all means
+  exemplifies:
+  - 07089193-n
+  ili: i18478
+  members:
+  - by all means
+  partOfSpeech: r
+00057580-r:
+  definition:
+  - definitely not
+  example:
+  - the prize is by no means certain
+  - and that isn't all, not by a long sight
+  exemplifies:
+  - 07089193-n
+  ili: i18479
+  members:
+  - by no means
+  - not by a long sight
+  - not by a blame sight
+  partOfSpeech: r
+00059029-r:
+  definition:
+  - in an indigenous manner
+  ili: i18487
+  members:
+  - indigenously
+  partOfSpeech: r
+00059111-r:
+  definition:
+  - in an individualistic manner
+  ili: i18488
+  members:
+  - individualistically
+  partOfSpeech: r
+00059205-r:
+  definition:
+  - in an intractable manner
+  ili: i18489
+  members:
+  - intractably
+  partOfSpeech: r
+00059709-r:
+  definition:
+  - to a very great degree or extent
+  example:
+  - I feel a lot better
+  - we enjoyed ourselves very much
+  - she was very much interested
+  - this would help a great deal
+  exemplifies:
+  - 06332047-n
+  ili: i18494
+  members:
+  - a lot
+  - lots
+  - a good deal
+  - a great deal
+  partOfSpeech: r
+00060085-r:
+  definition:
+  - in many cases or instances
+  ili: i18496
+  members:
+  - often
+  partOfSpeech: r
+00060735-r:
+  definition:
+  - in reality or fact
+  example:
+  - the result was, de facto, a one-party system
+  ili: i18500
+  members:
+  - de facto
+  partOfSpeech: r
+00060838-r:
+  definition:
+  - in every practical sense
+  example:
+  - to all intents and purposes the case is closed
+  - the rest are for all practical purposes useless
+  ili: i18501
+  members:
+  - for all practical purposes
+  - to all intents and purposes
+  - for all intents and purposes
+  partOfSpeech: r
+00061079-r:
+  definition:
+  - in a manner that is reproducible
+  ili: i18502
+  members:
+  - reproducibly
+  partOfSpeech: r
+00062352-r:
+  definition:
+  - suddenly as if by a magic trick
+  example:
+  - source: Swift
+    text: Presto! begone! 'tis here again
+  ili: i18508
+  members:
+  - presto
+  partOfSpeech: r
+00062437-r:
+  definition:
+  - at a very fast tempo (faster than allegro)
+  domain_topic:
+  - 07034009-n
+  ili: i18509
+  members:
+  - presto
+  partOfSpeech: r
+00062533-r:
+  definition:
+  - by means of an inscription
+  ili: i18510
+  members:
+  - inscriptively
+  partOfSpeech: r
+00062619-r:
+  definition:
+  - in an inscrutable manner
+  ili: i18511
+  members:
+  - inscrutably
+  partOfSpeech: r
+00062701-r:
+  definition:
+  - by means of an insecticide
+  ili: i18512
+  members:
+  - insecticidally
+  partOfSpeech: r
+00062788-r:
+  definition:
+  - in an insensate manner
+  ili: i18513
+  members:
+  - insensately
+  partOfSpeech: r
+00063907-r:
+  definition:
+  - much less
+  example:
+  - she can't boil potatoes, let alone cook a meal
+  ili: i18519
+  members:
+  - let alone
+  - not to mention
+  partOfSpeech: r
+00064021-r:
+  definition:
+  - with greater reason; for a still stronger, more certain reason
+  example:
+  - if you are wrong then, a fortiori, so am I
+  ili: i18520
+  members:
+  - a fortiori
+  partOfSpeech: r
+00064312-r:
+  definition:
+  - used of a group whose members acted or were acted upon collectively and when ‘all’
+    and ‘together’ can be separated by other words
+  example:
+  - they were herded all together
+  - they were all herded together
+  - the books lay all together in a heap
+  - the books all lay together …
+  ili: i18522
+  members:
+  - all together
+  partOfSpeech: r
+00065584-r:
+  definition:
+  - at the same time but in another place
+  example:
+  - meanwhile, back at the ranch …
+  ili: i18531
+  members:
+  - meanwhile
+  partOfSpeech: r
+00065886-r:
+  definition:
+  - slowly and broadly
+  domain_topic:
+  - 07034009-n
+  ili: i18534
+  members:
+  - largo
+  partOfSpeech: r
+00066222-r:
+  definition:
+  - the item at the end
+  example:
+  - last, I'll discuss family values
+  ili: i18537
+  members:
+  - last
+  - lastly
+  - in conclusion
+  - finally
+  partOfSpeech: r
+00066363-r:
+  definition:
+  - in addition to all the foregoing
+  example:
+  - last not least, he plays the saxophone
+  ili: i18538
+  members:
+  - last but not least
+  - last not least
+  partOfSpeech: r
+00066500-r:
+  definition:
+  - in an enduring or permanent manner
+  ili: i18539
+  members:
+  - lastingly
+  partOfSpeech: r
+00066927-r:
+  definition:
+  - in an affected manner
+  ili: i18542
+  members:
+  - affectedly
+  partOfSpeech: r
+00068615-r:
+  definition:
+  - all the time or over a period of time
+  example:
+  - She had known all along
+  - the hope had been there all along
+  ili: i18550
+  members:
+  - all along
+  - right along
+  partOfSpeech: r
+00071050-r:
+  definition:
+  - in an analogous manner
+  example:
+  - analogously, we have a variable
+  ili: i18564
+  members:
+  - analogously
+  partOfSpeech: r
+00073049-r:
+  definition:
+  - in or to various places; first this place and then that; location pronoun
+  example:
+  - he worked here and there but never for long in one town
+  - we drove here and there in the darkness
+  ili: i18576
+  members:
+  - here and there
+  partOfSpeech: r
+00076147-r:
+  definition:
+  - at right angles to the length of a ship or airplane
+  ili: i18594
+  members:
+  - abeam
+  partOfSpeech: r
+00076459-r:
+  definition:
+  - moving from one place to another and back again
+  example:
+  - he traveled back and forth between Los Angeles and New York
+  - the treetops whipped to and fro in a frightening manner
+  - the old man just sat on the porch and rocked back and forth all day
+  ili: i18596
+  members:
+  - back and forth
+  - backward and forward
+  - to and fro
+  partOfSpeech: r
+00076778-r:
+  definition:
+  - moving backward and forward along a given course
+  example:
+  - he walked up and down the locker room
+  - all up and down the Eastern seaboard
+  ili: i18597
+  members:
+  - up and down
+  partOfSpeech: r
+00078316-r:
+  definition:
+  - with the terms of the relation reversed
+  example:
+  - conversely, not all women are mothers
+  ili: i18608
+  members:
+  - conversely
+  partOfSpeech: r
+00080389-r:
+  definition:
+  - in or to a place that is lower
+  ili: i18623
+  members:
+  - below
+  - at a lower place
+  - to a lower place
+  - beneath
+  partOfSpeech: r
+00080519-r:
+  definition:
+  - in or to a place that is higher
+  ili: i18624
+  members:
+  - above
+  - higher up
+  - in a higher place
+  - to a higher place
+  partOfSpeech: r
+00080654-r:
+  definition:
+  - in addition; over and above what is expected
+  example:
+  - He lost his wife in the bargain
+  ili: i18625
+  members:
+  - in the bargain
+  - into the bargain
+  partOfSpeech: r
+00080795-r:
+  definition:
+  - in a manner deserving contempt
+  ili: i18626
+  members:
+  - contemptibly
+  partOfSpeech: r
+00082389-r:
+  definition:
+  - in a manner or to a degree that dazzles the beholder
+  ili: i18636
+  members:
+  - dazzlingly
+  partOfSpeech: r
+00082842-r:
+  definition:
+  - in a deprecative manner
+  ili: i18639
+  members:
+  - deprecatively
+  partOfSpeech: r
+00082925-r:
+  definition:
+  - in a depressing manner or to a depressing degree
+  ili: i18640
+  members:
+  - depressingly
+  partOfSpeech: r
+00083032-r:
+  definition:
+  - in a dichotomous manner
+  ili: i18641
+  members:
+  - dichotomously
+  partOfSpeech: r
+00083115-r:
+  definition:
+  - in a digitate manner
+  ili: i18642
+  members:
+  - digitately
+  partOfSpeech: r
+00083192-r:
+  definition:
+  - in a disruptive manner
+  ili: i18643
+  members:
+  - disruptively
+  partOfSpeech: r
+00083430-r:
+  definition:
+  - in a dorsal location or direction
+  ili: i18645
+  members:
+  - dorsally
+  partOfSpeech: r
+00083653-r:
+  definition:
+  - in a ventral location or direction
+  ili: i18647
+  members:
+  - ventrally
+  partOfSpeech: r
+00084962-r:
+  definition:
+  - with the full authority of the office
+  example:
+  - the pope must speak ex cathedra for an encyclical to be infallible
+  ili: i18655
+  members:
+  - ex cathedra
+  partOfSpeech: r
+00085603-r:
+  definition:
+  - in an exasperating manner
+  ili: i18660
+  members:
+  - exasperatingly
+  partOfSpeech: r
+00086390-r:
+  definition:
+  - (poetic, literary) quickly
+  domain_topic:
+  - 06376048-n
+  - 07107220-n
+  members:
+  - apace
+  partOfSpeech: r
+00086743-r:
+  definition:
+  - at top speed
+  example:
+  - he ran flat out to catch the bus
+  - he was off down the road like blue murder
+  ili: i18666
+  members:
+  - flat out
+  - like blue murder
+  partOfSpeech: r
+00087016-r:
+  definition:
+  - more quickly
+  ili: i18668
+  members:
+  - quicker
+  - faster
+  partOfSpeech: r
+00087109-r:
+  definition:
+  - more slowly
+  ili: i18669
+  members:
+  - slower
+  partOfSpeech: r
+00087173-r:
+  definition:
+  - most quickly
+  ili: i18670
+  members:
+  - quickest
+  - fastest
+  partOfSpeech: r
+00087268-r:
+  definition:
+  - most slowly
+  ili: i18671
+  members:
+  - slowest
+  partOfSpeech: r
+00087333-r:
+  definition:
+  - in a permissive manner
+  ili: i18672
+  members:
+  - permissively
+  partOfSpeech: r
+00087414-r:
+  definition:
+  - in a permissible manner
+  ili: i18673
+  members:
+  - permissibly
+  - allowably
+  partOfSpeech: r
+00088265-r:
+  definition:
+  - to infinity; without or seemingly without limit
+  example:
+  - talked on and on ad infinitum
+  ili: i18679
+  members:
+  - ad infinitum
+  partOfSpeech: r
+00088561-r:
+  definition:
+  - for an indefinitely long time
+  example:
+  - bequeathed to the nation in perpetuity
+  ili: i18681
+  members:
+  - in perpetuity
+  partOfSpeech: r
+00088674-r:
+  definition:
+  - for life
+  example:
+  - desire happiness in perpetuity
+  - an annuity paid in perpetuity
+  ili: i18682
+  members:
+  - in perpetuity
+  partOfSpeech: r
+00089037-r:
+  definition:
+  - for an intervening time; temporarily
+  example:
+  - elected to serve ad interim
+  ili: i18684
+  members:
+  - ad interim
+  partOfSpeech: r
+00089143-r:
+  definition:
+  - without advance preparation
+  example:
+  - he spoke ad lib
+  ili: i18685
+  members:
+  - ad lib
+  - ad libitum
+  - spontaneously
+  - impromptu
+  partOfSpeech: r
+00091139-r:
+  definition:
+  - in an energetic manner
+  ili: i18699
+  members:
+  - energetically
+  partOfSpeech: r
+00091747-r:
+  definition:
+  - with reluctance
+  ili: i18704
+  members:
+  - reluctantly
+  partOfSpeech: r
+00094530-r:
+  definition:
+  - into the skin
+  ili: i18724
+  members:
+  - intradermally
+  partOfSpeech: r
+00097658-r:
+  definition:
+  - toward the source or against the current
+  ili: i18745
+  members:
+  - upriver
+  - upstream
+  partOfSpeech: r
+00097781-r:
+  definition:
+  - away from the source or with the current
+  ili: i18746
+  members:
+  - downriver
+  - downstream
+  partOfSpeech: r
+00098716-r:
+  definition:
+  - at, to, or toward the place where you reside
+  example:
+  - he worked at home
+  ili: i18752
+  members:
+  - at home
+  partOfSpeech: r
+00098817-r:
+  definition:
+  - on the home team's field
+  domain_topic:
+  - 00524569-n
+  example:
+  - they played at home last night
+  ili: i18753
+  members:
+  - at home
+  partOfSpeech: r
+00101323-r:
+  definition:
+  - as far as that is concerned
+  example:
+  - for that matter I don't care either
+  ili: i18769
+  members:
+  - for that matter
+  partOfSpeech: r
+00102579-r:
+  definition:
+  - over great areas or distances; everywhere
+  example:
+  - he traveled far and wide
+  - the news spread far and wide
+  - people came from far and near
+  - searched for the child far and near
+  ili: i18777
+  members:
+  - far and wide
+  - far and near
+  partOfSpeech: r
+00102808-r:
+  definition:
+  - in a fictional manner (created by the imagination)
+  ili: i18778
+  members:
+  - fictitiously
+  partOfSpeech: r
+00102917-r:
+  definition:
+  - in a false manner intended to mislead
+  ili: i18779
+  members:
+  - fictitiously
+  partOfSpeech: r
+00103431-r:
+  definition:
+  - in the second place
+  example:
+  - second, we must consider the economy
+  ili: i18783
+  members:
+  - second
+  - secondly
+  partOfSpeech: r
+00103744-r:
+  definition:
+  - at the beginning
+  example:
+  - at first he didn't notice anything strange
+  ili: i18786
+  members:
+  - initially
+  - ab initio
+  - at first
+  partOfSpeech: r
+00103874-r:
+  definition:
+  - on first seeing (someone or something); immediately
+  example:
+  - it was love at first sight
+  ili: i18787
+  members:
+  - at first sight
+  - at first glance
+  partOfSpeech: r
+00104016-r:
+  definition:
+  - after an initial impression, which later proves incorrect
+  members:
+  - at first sight
+  - at first glance
+  partOfSpeech: r
+00104134-r:
+  definition:
+  - as a first impression
+  example:
+  - at first blush the offer seemed attractive
+  ili: i18788
+  members:
+  - at first blush
+  - when first seen
+  partOfSpeech: r
+00104351-r:
+  definition:
+  - continuing in the same way
+  ili: i18790
+  members:
+  - and so forth
+  - and so on
+  - etcetera
+  - etc.
+  partOfSpeech: r
+00104786-r:
+  definition:
+  - in reality
+  example:
+  - she is very kind at heart
+  ili: i18794
+  members:
+  - at heart
+  - at bottom
+  - deep down
+  - inside
+  - in spite of appearance
+  partOfSpeech: r
+00104920-r:
+  definition:
+  - in a general fashion
+  example:
+  - he talked at large about his plans
+  ili: i18795
+  members:
+  - at large
+  - in a broad way
+  partOfSpeech: r
+00105032-r:
+  definition:
+  - not less than
+  example:
+  - at least two hours studying the manual
+  - a tumor at least as big as an orange
+  ili: i18796
+  members:
+  - at least
+  - at the least
+  partOfSpeech: r
+00105215-r:
+  definition:
+  - not more than
+  example:
+  - spend at most $20 on the lunch
+  ili: i18797
+  members:
+  - at most
+  - at the most
+  partOfSpeech: r
+00105348-r:
+  definition:
+  - if nothing else (‘leastwise’ is informal and ‘leastways’ is colloquial)
+  example:
+  - at least he survived
+  - they felt — at any rate Jim felt — relieved though still wary
+  - the influence of economists — or at any rate of economics — is far-reaching
+  exemplifies:
+  - 07089193-n
+  ili: i18798
+  members:
+  - at least
+  - leastways
+  - leastwise
+  - at any rate
+  partOfSpeech: r
+00105927-r:
+  definition:
+  - at a particular time in the past
+  example:
+  - just then the bugle sounded
+  ili: i18801
+  members:
+  - just then
+  partOfSpeech: r
+00106462-r:
+  definition:
+  - under the best of conditions
+  example:
+  - at best we'll lose only the money
+  ili: i18805
+  members:
+  - at best
+  - at the best
+  partOfSpeech: r
+00106595-r:
+  definition:
+  - under the worst of conditions
+  example:
+  - at worst we'll go to jail
+  ili: i18806
+  members:
+  - at worst
+  - at the worst
+  partOfSpeech: r
+00106723-r:
+  definition:
+  - in a very agitated manner; as if possessed by an evil spirit
+  ili: i18807
+  members:
+  - demoniacally
+  - frenetically
+  partOfSpeech: r
+00107831-r:
+  definition:
+  - in the usual manner
+  example:
+  - as usual, she arrived late
+  ili: i18814
+  members:
+  - as usual
+  partOfSpeech: r
+00109415-r:
+  definition:
+  - to this place (especially toward the speaker)
+  example:
+  - come here, please
+  ili: i18824
+  members:
+  - here
+  - hither
+  partOfSpeech: r
+00111558-r:
+  definition:
+  - on the inside
+  example:
+  - inside, the car is a mess
+  ili: i18840
+  members:
+  - inside
+  - within
+  partOfSpeech: r
+00111662-r:
+  definition:
+  - on the outside
+  example:
+  - outside, the box is black
+  ili: i18841
+  members:
+  - outside
+  partOfSpeech: r
+00112653-r:
+  definition:
+  - especially not
+  example:
+  - nobody, least of all Joe, agreed with me
+  ili: i18848
+  members:
+  - least of all
+  partOfSpeech: r
+00113197-r:
+  definition:
+  - with respect to the whole earth
+  example:
+  - think globally, not locally
+  members:
+  - globally
+  partOfSpeech: r
+00113930-r:
+  definition:
+  - from the beginning
+  domain_topic:
+  - 06975340-n
+  ili: i18855
+  members:
+  - de novo
+  partOfSpeech: r
+00114741-r:
+  definition:
+  - without fail
+  ili: i18861
+  members:
+  - unfailingly
+  partOfSpeech: r
+00115368-r:
+  definition:
+  - not in an official capacity
+  example:
+  - unofficially, he serves as the treasurer
+  ili: i18866
+  members:
+  - unofficially
+  partOfSpeech: r
+00115839-r:
+  definition:
+  - in or at or near a periphery or according to a peripheral role or function or
+    relationship
+  ili: i18869
+  members:
+  - peripherally
+  partOfSpeech: r
+00116911-r:
+  definition:
+  - in a pornographic manner
+  ili: i18876
+  members:
+  - pornographically
+  partOfSpeech: r
+00116998-r:
+  definition:
+  - in a self-indulgent manner
+  ili: i18877
+  members:
+  - self-indulgently
+  partOfSpeech: r
+00117087-r:
+  definition:
+  - in a symbiotic manner
+  domain_topic:
+  - 06047178-n
+  ili: i18878
+  members:
+  - symbiotically
+  partOfSpeech: r
+00117612-r:
+  definition:
+  - with a common plan
+  example:
+  - act in concert
+  ili: i18883
+  members:
+  - in concert
+  - together
+  partOfSpeech: r
+00117806-r:
+  definition:
+  - participating in or knowledgeable out
+  example:
+  - was in on the scheme
+  ili: i18885
+  members:
+  - in on
+  partOfSpeech: r
+00119623-r:
+  definition:
+  - regardless; a combination of irrespective and regardless sometimes used humorously
+  exemplifies:
+  - 07089193-n
+  ili: i18896
+  members:
+  - irregardless
+  partOfSpeech: r
+00120125-r:
+  definition:
+  - to a feasible extent
+  example:
+  - she helped him as much as possible
+  ili: i18900
+  members:
+  - as far as possible
+  - as much as possible
+  partOfSpeech: r
+00120252-r:
+  definition:
+  - immediately following or undeservedly benefiting from
+  example:
+  - the CEO resigned on the coattails of the scandal
+  - he was elected on his predecessor's coattails
+  ili: i18901
+  members:
+  - on the coattails
+  - on one's coattails
+  partOfSpeech: r
+00120473-r:
+  definition:
+  - (contrastive) from another point of view
+  example:
+  - on the other hand, she is too ambitious for her own good
+  - then again, she might not go
+  ili: i18902
+  members:
+  - on the other hand
+  - then again
+  partOfSpeech: r
+00120682-r:
+  definition:
+  - from one point of view
+  example:
+  - on the one hand, she is a gifted chemist
+  ili: i18903
+  members:
+  - on the one hand
+  - on one hand
+  partOfSpeech: r
+00122170-r:
+  definition:
+  - in regard to academic matters
+  example:
+  - academically, this is a good school
+  ili: i18912
+  members:
+  - academically
+  partOfSpeech: r
+00123514-r:
+  definition:
+  - in an undemocratic manner
+  example:
+  - undemocratically, he made all the important decisions without his colleagues
+  ili: i18922
+  members:
+  - undemocratically
+  partOfSpeech: r
+00124384-r:
+  definition:
+  - in an economical manner
+  ili: i18928
+  members:
+  - economically
+  partOfSpeech: r
+00125152-r:
+  definition:
+  - in an idyllic manner
+  ili: i18935
+  members:
+  - idyllically
+  partOfSpeech: r
+00125333-r:
+  definition:
+  - in an injurious manner
+  ili: i18937
+  members:
+  - injuriously
+  partOfSpeech: r
+00125413-r:
+  definition:
+  - in an irrevocable manner
+  ili: i18938
+  members:
+  - irrevocably
+  partOfSpeech: r
+00125817-r:
+  definition:
+  - in a medicinal manner
+  ili: i18942
+  members:
+  - medicinally
+  partOfSpeech: r
+00126790-r:
+  definition:
+  - in a rewarding manner
+  ili: i18950
+  members:
+  - rewardingly
+  partOfSpeech: r
+00126997-r:
+  definition:
+  - in a sacrilegious manner
+  ili: i18952
+  members:
+  - sacrilegiously
+  partOfSpeech: r
+00128014-r:
+  definition:
+  - according to the exact meaning; according to the facts
+  example:
+  - technically, a bank's reserves belong to the stockholders
+  - technically, the term is no longer used by experts
+  ili: i18961
+  members:
+  - technically
+  partOfSpeech: r
+00128750-r:
+  definition:
+  - for therapeutic purposes
+  ili: i18967
+  members:
+  - therapeutically
+  partOfSpeech: r
+00128836-r:
+  definition:
+  - by means of heat from the interior of the earth
+  ili: i18968
+  members:
+  - geothermally
+  partOfSpeech: r
+00128942-r:
+  definition:
+  - by means of heat or with respect to thermal properties
+  ili: i18969
+  members:
+  - thermally
+  partOfSpeech: r
+00131535-r:
+  definition:
+  - in a limited manner
+  ili: i18993
+  members:
+  - limitedly
+  partOfSpeech: r
+00133132-r:
+  definition:
+  - concerning the speaker
+  example:
+  - personally, I find him stupid
+  ili: i19006
+  members:
+  - personally
+  partOfSpeech: r
+00134663-r:
+  definition:
+  - with respect to neurobiology
+  example:
+  - explain the phenomenon neurobiologically
+  ili: i19020
+  members:
+  - neurobiological
+  partOfSpeech: r
+00134925-r:
+  definition:
+  - with respect to musicology
+  ili: i19022
+  members:
+  - musicologically
+  partOfSpeech: r
+00135342-r:
+  definition:
+  - in a metonymic manner
+  ili: i19026
+  members:
+  - metonymically
+  partOfSpeech: r
+00136998-r:
+  definition:
+  - with respect to the face
+  ili: i19041
+  members:
+  - facially
+  partOfSpeech: r
+00138072-r:
+  definition:
+  - in a manner to produce an effect
+  ili: i19051
+  members:
+  - operatively
+  partOfSpeech: r
+00138269-r:
+  definition:
+  - by means of a chromatographic process
+  ili: i19053
+  members:
+  - chromatographically
+  partOfSpeech: r
+00139881-r:
+  definition:
+  - in an undramatic manner
+  ili: i19063
+  members:
+  - undramatically
+  partOfSpeech: r
+00142439-r:
+  definition:
+  - in an episodic manner
+  ili: i19080
+  members:
+  - episodically
+  partOfSpeech: r
+00142726-r:
+  definition:
+  - in, at, or toward the front
+  ili: i19083
+  members:
+  - frontally
+  partOfSpeech: r
+00143610-r:
+  definition:
+  - by means of horticulture
+  ili: i19091
+  members:
+  - horticulturally
+  partOfSpeech: r
+00144102-r:
+  definition:
+  - in an insistent manner
+  ili: i19096
+  members:
+  - insistently
+  partOfSpeech: r
+00144584-r:
+  definition:
+  - in a rural manner
+  ili: i19101
+  members:
+  - rurally
+  partOfSpeech: r
+00144980-r:
+  definition:
+  - in a monosyllabic manner
+  ili: i19105
+  members:
+  - monosyllabically
+  partOfSpeech: r
+00145067-r:
+  definition:
+  - in a polysyllabic manner
+  ili: i19106
+  members:
+  - polysyllabically
+  partOfSpeech: r
+00145154-r:
+  definition:
+  - by symptoms
+  ili: i19107
+  members:
+  - symptomatically
+  partOfSpeech: r
+00146749-r:
+  definition:
+  - as much as necessary
+  example:
+  - have I eaten enough?
+  - I've had plenty, thanks (‘plenty’ is nonstandard)
+  ili: i19117
+  members:
+  - enough
+  - plenty
+  partOfSpeech: r
+00147536-r:
+  definition:
+  - intentionally so written (used after a printed word or phrase)
+  ili: i19123
+  members:
+  - sic
+  partOfSpeech: r
+00148538-r:
+  definition:
+  - in all ways possible
+  example:
+  - they served him hand and foot
+  ili: i19130
+  members:
+  - hand and foot
+  partOfSpeech: r
+00148633-r:
+  definition:
+  - clasping each other's hands
+  example:
+  - they walked hand in hand
+  ili: i19131
+  members:
+  - hand in hand
+  partOfSpeech: r
+00148729-r:
+  definition:
+  - at a tremendous rate
+  example:
+  - made money hand over fist
+  ili: i19132
+  members:
+  - hand over fist
+  partOfSpeech: r
+00149387-r:
+  definition:
+  - under control
+  example:
+  - the riots were in hand
+  ili: i19136
+  members:
+  - in hand
+  partOfSpeech: r
+00149480-r:
+  definition:
+  - out of control
+  example:
+  - the riots got out of hand
+  ili: i19137
+  members:
+  - out of hand
+  - beyond control
+  partOfSpeech: r
+00149598-r:
+  definition:
+  - from some points of view
+  example:
+  - she was right in a way
+  ili: i19138
+  members:
+  - in a way
+  partOfSpeech: r
+00149685-r:
+  definition:
+  - as a fact or based on fact
+  example:
+  - they learn much, factually, about the problems of retirement and provision for
+    old age, and, psychologically, in the sharing of their thoughts on retirement
+  ili: i19139
+  members:
+  - factually
+  partOfSpeech: r
+00149927-r:
+  definition:
+  - in reality or actuality
+  example:
+  - in fact, it was a wonder anyone survived
+  - painters who are in fact anything but unsophisticated
+  - as a matter of fact, he is several inches taller than his father
+  ili: i19140
+  members:
+  - in fact
+  - in point of fact
+  - as a matter of fact
+  partOfSpeech: r
+00151192-r:
+  definition:
+  - admittedly
+  example:
+  - to be sure, he is no Einstein
+  ili: i19145
+  members:
+  - to be sure
+  - without doubt
+  - no doubt
+  partOfSpeech: r
+00151301-r:
+  definition:
+  - as supposed or expected
+  example:
+  - sure enough, he asked her for money again
+  ili: i19146
+  members:
+  - sure enough
+  partOfSpeech: r
+00151409-r:
+  definition:
+  - an interjection expressing agreement; Yes, you are indeed correct
+  ili: i19147
+  members:
+  - right
+  - right on
+  partOfSpeech: r
+00151490-r:
+  definition:
+  - in entirety
+  example:
+  - they bought the business in toto
+  - in recommendations were adopted in toto
+  ili: i19148
+  members:
+  - in toto
+  partOfSpeech: r
+00151616-r:
+  definition:
+  - to any extent at all
+  example:
+  - are you in the least interested?
+  ili: i19149
+  members:
+  - in the least
+  - even a little
+  partOfSpeech: r
+00151729-r:
+  definition:
+  - above and beyond all other consideration
+  example:
+  - above all, you must be independent
+  ili: i19150
+  members:
+  - above all
+  - most importantly
+  - most especially
+  partOfSpeech: r
+00151882-r:
+  definition:
+  - while absent; although absent
+  example:
+  - he was sentenced in absentia
+  ili: i19151
+  members:
+  - in absentia
+  partOfSpeech: r
+00151983-r:
+  definition:
+  - including all
+  example:
+  - we got a pay raise across the board
+  ili: i19152
+  members:
+  - across the board
+  partOfSpeech: r
+00152098-r:
+  definition:
+  - to some extent; not very well
+  example:
+  - he speaks French after a fashion
+  ili: i19153
+  members:
+  - after a fashion
+  partOfSpeech: r
+00152207-r:
+  definition:
+  - emphasizes something to be considered
+  example:
+  - after all, she is your boss, so invite her
+  - he is, after all, our president
+  ili: i19154
+  members:
+  - after all
+  partOfSpeech: r
+00152363-r:
+  definition:
+  - in spite of expectations
+  example:
+  - came to the party after all
+  - it didn't rain after all
+  ili: i19155
+  members:
+  - after all
+  partOfSpeech: r
+00152484-r:
+  definition:
+  - not during regular hours
+  example:
+  - he often worked after hours
+  ili: i19156
+  members:
+  - after hours
+  partOfSpeech: r
+00152579-r:
+  definition:
+  - as fast as possible; before a deadline
+  example:
+  - it was a race against the clock
+  ili: i19157
+  members:
+  - against the clock
+  - against time
+  partOfSpeech: r
+00152713-r:
+  definition:
+  - in an advantageous position
+  example:
+  - she's ahead of the game
+  ili: i19158
+  members:
+  - ahead of the game
+  partOfSpeech: r
+00152813-r:
+  definition:
+  - with everything considered (and neglecting details)
+  example:
+  - altogether, I'm sorry it happened
+  - all in all, it's not so bad
+  ili: i19159
+  members:
+  - all in all
+  - on the whole
+  - altogether
+  - tout ensemble
+  partOfSpeech: r
+00153015-r:
+  definition:
+  - suddenly
+  example:
+  - all at once, he started shouting
+  ili: i19160
+  members:
+  - all of a sudden
+  - all at once
+  partOfSpeech: r
+00153124-r:
+  definition:
+  - to the goal
+  example:
+  - she climbed the mountain all the way
+  ili: i19161
+  members:
+  - all the way
+  - the whole way
+  partOfSpeech: r
+00153231-r:
+  definition:
+  - not stopping short of sexual intercourse
+  example:
+  - she went all the way with him
+  ili: i19162
+  members:
+  - all the way
+  partOfSpeech: r
+00153344-r:
+  definition:
+  - thoroughly
+  ili: i19163
+  members:
+  - from start to finish
+  partOfSpeech: r
+00153403-r:
+  definition:
+  - an expression of emphatic agreement
+  ili: i19164
+  members:
+  - and how
+  - you bet
+  - you said it
+  partOfSpeech: r
+00153498-r:
+  definition:
+  - and considerably more in addition
+  example:
+  - it cost me a week's salary and then some
+  ili: i19165
+  members:
+  - and then some
+  partOfSpeech: r
+00153617-r:
+  definition:
+  - endlessly
+  example:
+  - she worked around the clock
+  ili: i19166
+  members:
+  - around the clock
+  - for 24 hours
+  - round the clock
+  partOfSpeech: r
+00153742-r:
+  definition:
+  - what is listed next
+  example:
+  - her complaints went as follows
+  ili: i19167
+  members:
+  - as follows
+  partOfSpeech: r
+00153834-r:
+  definition:
+  - as if it were really so
+  example:
+  - she lives here, as it were
+  ili: i19168
+  members:
+  - as it were
+  - so to speak
+  partOfSpeech: r
+00153940-r:
+  definition:
+  - in a manner of speaking
+  example:
+  - the feeling is, as we say, quite dead
+  ili: i19169
+  members:
+  - as we say
+  - so to speak
+  partOfSpeech: r
+00154056-r:
+  definition:
+  - by the shortest and most direct route
+  example:
+  - it's 10 miles as the crow flies
+  ili: i19170
+  members:
+  - as the crow flies
+  partOfSpeech: r
+00154174-r:
+  definition:
+  - regardless of the cost involved
+  example:
+  - he wanted to save her life at all cost
+  ili: i19171
+  members:
+  - at all costs
+  - at any cost
+  - at any expense
+  partOfSpeech: r
+00154319-r:
+  definition:
+  - simultaneously
+  example:
+  - he took three cookies at a time
+  ili: i19172
+  members:
+  - at a time
+  - at once
+  - at one time
+  partOfSpeech: r
+00154430-r:
+  definition:
+  - as one chooses or pleases
+  example:
+  - he can roam the neighborhood at will
+  ili: i19173
+  members:
+  - at will
+  partOfSpeech: r
+00154814-r:
+  definition:
+  - in a careful deliberate manner
+  ili: i19176
+  members:
+  - mindfully
+  - heedfully
+  - advertently
+  partOfSpeech: r
+00154998-r:
+  definition:
+  - in a careless and thoughtless manner
+  ili: i19177
+  members:
+  - unmindfully
+  partOfSpeech: r
+00155582-r:
+  definition:
+  - believed or reputed to be the case
+  ili: i19182
+  members:
+  - purportedly
+  - supposedly
+  partOfSpeech: r
+00155858-r:
+  definition:
+  - in an manner suggesting originality
+  ili: i19184
+  members:
+  - originally
+  partOfSpeech: r
+00155936-r:
+  definition:
+  - in an unoriginal manner
+  ili: i19185
+  members:
+  - unoriginally
+  partOfSpeech: r
+00156476-r:
+  definition:
+  - by a great deal
+  example:
+  - he is the best by a long shot
+  - his labors haven't ended there — not by a long shot
+  ili: i19189
+  members:
+  - by a long shot
+  partOfSpeech: r
+00156754-r:
+  definition:
+  - usually; as a rule
+  example:
+  - by and large it doesn't rain much here
+  ili: i19191
+  members:
+  - by and large
+  - generally
+  - more often than not
+  - mostly
+  partOfSpeech: r
+00156898-r:
+  definition:
+  - in any way necessary; by any possible means
+  example:
+  - I'll pass this course by hook or by crook
+  ili: i19192
+  members:
+  - by hook or by crook
+  partOfSpeech: r
+00157034-r:
+  definition:
+  - by committing to memory
+  example:
+  - she knew the poem by heart
+  ili: i19193
+  members:
+  - by heart
+  - by memory
+  partOfSpeech: r
+00157136-r:
+  definition:
+  - by a short distance
+  example:
+  - they moved it by inches
+  ili: i19194
+  members:
+  - by inches
+  - little by little
+  - by small degrees
+  partOfSpeech: r
+00157258-r:
+  definition:
+  - intermittently
+  example:
+  - he worked on his book by fits and starts
+  ili: i19195
+  members:
+  - by fits and starts
+  partOfSpeech: r
+00157363-r:
+  definition:
+  - introducing a different topic
+  example:
+  - incidentally, I won't go to the party
+  ili: i19196
+  members:
+  - by the way
+  - by the bye
+  - incidentally
+  - apropos
+  partOfSpeech: r
+00157510-r:
+  definition:
+  - one piece at a time
+  example:
+  - she sold the plates by the piece
+  ili: i19197
+  members:
+  - by the piece
+  - one by one
+  partOfSpeech: r
+00157619-r:
+  definition:
+  - by spoken rather than written means
+  example:
+  - these stories were transmitted by word of mouth
+  ili: i19198
+  members:
+  - orally
+  - by word of mouth
+  partOfSpeech: r
+00157956-r:
+  definition:
+  - in spite of all obstacles
+  example:
+  - we'll go to Tibet come hell or high water
+  ili: i19200
+  members:
+  - come hell or high water
+  - no matter what happens
+  - whatever may come
+  partOfSpeech: r
+00158123-r:
+  definition:
+  - without respite
+  example:
+  - he plays chess day in and day out
+  ili: i19201
+  members:
+  - day in and day out
+  - all the time
+  partOfSpeech: r
+00158237-r:
+  definition:
+  - exactly ahead or in front
+  example:
+  - the laboratory is dead ahead
+  ili: i19202
+  members:
+  - dead ahead
+  partOfSpeech: r
+00158427-r:
+  definition:
+  - all together
+  example:
+  - the students turned out en masse
+  ili: i19204
+  members:
+  - en masse
+  - en bloc
+  - as a group
+  partOfSpeech: r
+00158535-r:
+  definition:
+  - occasionally
+  example:
+  - every so often she visits her father
+  ili: i19205
+  members:
+  - every so often
+  - every now and then
+  partOfSpeech: r
+00158651-r:
+  definition:
+  - in every way; completely
+  example:
+  - he was every inch a statesman
+  ili: i19206
+  members:
+  - every inch
+  partOfSpeech: r
+00159313-r:
+  definition:
+  - taking everything together
+  example:
+  - she was first and last a scientist
+  ili: i19210
+  members:
+  - first and last
+  - above all
+  partOfSpeech: r
+00159774-r:
+  definition:
+  - for a relatively small amount of money
+  example:
+  - we bought the house for a song
+  ili: i19212
+  members:
+  - for a song
+  - for a bargain price
+  - at a low price
+  partOfSpeech: r
+00159924-r:
+  definition:
+  - as though your life was at stake
+  example:
+  - he was running for dear life
+  ili: i19213
+  members:
+  - for dear life
+  partOfSpeech: r
+00160030-r:
+  definition:
+  - to be won or lost; at risk
+  example:
+  - perhaps a million dollars are at stake
+  ili: i19214
+  members:
+  - at stake
+  partOfSpeech: r
+00160135-r:
+  definition:
+  - in question or at issue
+  example:
+  - there is more at stake than your modesty
+  ili: i19215
+  members:
+  - at stake
+  partOfSpeech: r
+00160239-r:
+  definition:
+  - as an example
+  example:
+  - take ribbon snakes, for example
+  ili: i19216
+  members:
+  - for example
+  - for instance
+  - e.g.
+  partOfSpeech: r
+00160349-r:
+  definition:
+  - in addition (as to close a deal)
+  example:
+  - the car salesman threw in the radio, for good measure
+  ili: i19217
+  members:
+  - for good measure
+  partOfSpeech: r
+00160483-r:
+  definition:
+  - for the winner to keep all
+  example:
+  - they played for keeps
+  ili: i19218
+  members:
+  - for keeps
+  partOfSpeech: r
+00160572-r:
+  definition:
+  - under any circumstances
+  example:
+  - she wouldn't give up her pets for love or money
+  ili: i19219
+  members:
+  - for love or money
+  - for anything
+  - for any price
+  - for all the world
+  partOfSpeech: r
+00160743-r:
+  definition:
+  - as a particular one of several possibilities
+  example:
+  - I for one feel very grateful
+  - her mother for one was worried
+  ili: i19220
+  members:
+  - for one
+  partOfSpeech: r
+00160889-r:
+  definition:
+  - as an abbreviation
+  example:
+  - call me Bob for short
+  ili: i19221
+  members:
+  - for short
+  partOfSpeech: r
+00160970-r:
+  definition:
+  - on the occasion of a request
+  example:
+  - advice was free for the asking
+  ili: i19222
+  members:
+  - for the asking
+  - on request
+  partOfSpeech: r
+00161088-r:
+  definition:
+  - from the beginning, especially without relying on resources or other advantages
+  example:
+  - he baked the torte from scratch
+  - she built her business up from scratch
+  ili: i19223
+  members:
+  - from scratch
+  partOfSpeech: r
+00161285-r:
+  definition:
+  - written formula for ending a letter
+  ili: i19224
+  members:
+  - sincerely
+  - sincerely yours
+  partOfSpeech: r
+00161376-r:
+  definition:
+  - since long ago
+  example:
+  - she knows him from way back
+  ili: i19225
+  members:
+  - from way back
+  - since a long time ago
+  partOfSpeech: r
+00161487-r:
+  definition:
+  - nearly opposite to the direction from which wind is coming
+  domain_topic:
+  - 00315295-n
+  example:
+  - sailing close to the wind
+  ili: i19226
+  members:
+  - close to the wind
+  partOfSpeech: r
+00164539-r:
+  definition:
+  - in close cooperation
+  example:
+  - they work hand in glove
+  ili: i19244
+  members:
+  - hand in glove
+  - hand and glove
+  - cooperatively
+  partOfSpeech: r
+00164679-r:
+  definition:
+  - in close proximity
+  example:
+  - the houses were jumbled together cheek by jowl
+  ili: i19245
+  members:
+  - cheek by jowl
+  partOfSpeech: r
+00164903-r:
+  definition:
+  - in disorderly haste
+  example:
+  - we ran head over heels toward the shelter
+  ili: i19247
+  members:
+  - head over heels
+  - heels over head
+  - topsy-turvy
+  - topsy-turvily
+  - in great confusion
+  partOfSpeech: r
+00165080-r:
+  definition:
+  - in a feckless manner; irresponsibly and incompetently
+  ili: i19248
+  members:
+  - fecklessly
+  partOfSpeech: r
+00165552-r:
+  definition:
+  - with complete faith
+  example:
+  - she was with him heart and soul
+  ili: i19251
+  members:
+  - heart and soul
+  - body and soul
+  partOfSpeech: r
+00165665-r:
+  definition:
+  - without reservations
+  example:
+  - he believed her story hook, line, and sinker
+  ili: i19252
+  members:
+  - hook line and sinker
+  partOfSpeech: r
+00165777-r:
+  definition:
+  - without making progress
+  example:
+  - the candidates talked in circles
+  ili: i19253
+  members:
+  - in circles
+  partOfSpeech: r
+00165875-r:
+  definition:
+  - absolutely not; never
+  exemplifies:
+  - 07089193-n
+  ili: i19254
+  members:
+  - in a pig's eye
+  partOfSpeech: r
+00165958-r:
+  definition:
+  - if there happens to be need
+  example:
+  - in case of trouble call 911
+  - I have money, just in case
+  ili: i19255
+  members:
+  - in case
+  - just in case
+  partOfSpeech: r
+00166484-r:
+  definition:
+  - at the appropriate time
+  example:
+  - we'll get to this question in due course
+  ili: i19258
+  members:
+  - in due course
+  - in due season
+  - in good time
+  - in due time
+  - when the time comes
+  partOfSpeech: r
+00166660-r:
+  definition:
+  - proceeding with full vigor
+  example:
+  - the party was in full swing
+  ili: i19259
+  members:
+  - in full swing
+  - in full action
+  partOfSpeech: r
+00166776-r:
+  definition:
+  - with something of the same kind
+  example:
+  - she pays him back in kind
+  ili: i19260
+  members:
+  - in kind
+  - in a similar way
+  partOfSpeech: r
+00166891-r:
+  definition:
+  - one behind another in a line or queue
+  example:
+  - they waited in line for the tickets
+  ili: i19261
+  members:
+  - in line
+  partOfSpeech: r
+00167003-r:
+  definition:
+  - by title or repute though not in fact
+  example:
+  - he's a doctor in name only
+  ili: i19262
+  members:
+  - in name
+  - in name only
+  partOfSpeech: r
+00167121-r:
+  definition:
+  - in a relatively short time
+  example:
+  - she finished the assignment in no time
+  ili: i19263
+  members:
+  - in no time
+  - very fast
+  partOfSpeech: r
+00167533-r:
+  definition:
+  - for an extended distance
+  ili: i19265
+  members:
+  - long
+  partOfSpeech: r
+00167590-r:
+  definition:
+  - incidentally; in the course of doing something else
+  example:
+  - he made this remark in passing
+  ili: i19266
+  members:
+  - in passing
+  - en passant
+  partOfSpeech: r
+00167994-r:
+  definition:
+  - with the inside facing outward
+  example:
+  - she turned the shirt inside out
+  ili: i19270
+  members:
+  - inside out
+  partOfSpeech: r
+00168098-r:
+  definition:
+  - thoroughly; from every perspective
+  example:
+  - she knows this town inside out
+  ili: i19271
+  members:
+  - inside out
+  partOfSpeech: r
+00168205-r:
+  definition:
+  - on everybody's mind
+  example:
+  - Christmas was in the air
+  ili: i19272
+  members:
+  - in the air
+  - in everyone's thoughts
+  partOfSpeech: r
+00168316-r:
+  definition:
+  - before now
+  example:
+  - why didn't you tell me in the first place?
+  ili: i19273
+  members:
+  - in the first place
+  - earlier
+  - in the beginning
+  - to begin with
+  - originally
+  partOfSpeech: r
+00168477-r:
+  definition:
+  - eventually or after a lengthy period of time
+  example:
+  - she will succeed in the end
+  ili: i19274
+  members:
+  - in the end
+  partOfSpeech: r
+00168591-r:
+  definition:
+  - at the last possible moment
+  example:
+  - she was saved in the nick of time
+  ili: i19275
+  members:
+  - in the nick of time
+  - just in time
+  partOfSpeech: r
+00168718-r:
+  definition:
+  - almost simultaneously
+  example:
+  - she praised and criticized him in the same breath
+  ili: i19276
+  members:
+  - in the same breath
+  partOfSpeech: r
+00168839-r:
+  definition:
+  - without being tardy
+  example:
+  - we made it to the party in time
+  ili: i19277
+  members:
+  - in time
+  - soon enough
+  partOfSpeech: r
+00169253-r:
+  definition:
+  - in a careful manner
+  example:
+  - you must treat this plant just so
+  ili: i19280
+  members:
+  - just so
+  partOfSpeech: r
+00169345-r:
+  definition:
+  - at full speed
+  example:
+  - she tackled the job lickety-split
+  ili: i19281
+  members:
+  - lickety split
+  - lickety cut
+  partOfSpeech: r
+00169451-r:
+  definition:
+  - with regularity and precision
+  example:
+  - the rocket launch went off like clockwork
+  exemplifies:
+  - 07169038-n
+  ili: i19282
+  members:
+  - like clockwork
+  partOfSpeech: r
+00169587-r:
+  definition:
+  - (informal) with great speed or effort or intensity; used for emphasis
+  example:
+  - drove like crazy
+  - worked like hell to get the job done
+  - this sprain hurts like hell
+  - ran like sin for the storm cellar
+  - work like thunder
+  - fought like the devil
+  exemplifies:
+  - 07089193-n
+  ili: i19283
+  members:
+  - like hell
+  - like mad
+  - like crazy
+  - like sin
+  - like thunder
+  - like the devil
+  partOfSpeech: r
+00169954-r:
+  definition:
+  - used ironically to indicate the opposite of what is stated
+  example:
+  - says he'll help me? Like hell he will!
+  ili: i19284
+  members:
+  - like hell
+  - like fun
+  partOfSpeech: r
+00170122-r:
+  definition:
+  - not intended seriously; meant as a joke
+  example:
+  - some of the girls did go to extremes, but it was all in fun
+  - let's pretend we don't like Mary, just for fun
+  members:
+  - in fun
+  - for fun
+  partOfSpeech: r
+00170319-r:
+  definition:
+  - on and on for a long time
+  example:
+  - the child cried no end
+  ili: i19285
+  members:
+  - no end
+  partOfSpeech: r
+00170405-r:
+  definition:
+  - not regularly
+  example:
+  - they phone each other off and on
+  ili: i19286
+  members:
+  - off and on
+  - on and off
+  partOfSpeech: r
+00170506-r:
+  definition:
+  - without preparation
+  example:
+  - the presidential candidate made a remark off the cuff
+  ili: i19287
+  members:
+  - off the cuff
+  partOfSpeech: r
+00170754-r:
+  definition:
+  - not for quotation
+  example:
+  - he spoke to the reporter off the record
+  ili: i19289
+  members:
+  - off the record
+  partOfSpeech: r
+00170857-r:
+  definition:
+  - on hands and knees
+  example:
+  - he got down on all fours to play with his grandson
+  ili: i19290
+  members:
+  - on all fours
+  partOfSpeech: r
+00170970-r:
+  definition:
+  - typically
+  example:
+  - on average he watches three movies a week
+  ili: i19291
+  members:
+  - on the average
+  - on average
+  partOfSpeech: r
+00171080-r:
+  definition:
+  - for examination (with an option to buy)
+  example:
+  - they took the VCR on approval
+  ili: i19292
+  members:
+  - on approval
+  partOfSpeech: r
+00171192-r:
+  definition:
+  - with trust and confidence
+  example:
+  - we accepted him on faith
+  ili: i19293
+  members:
+  - on faith
+  partOfSpeech: r
+00171282-r:
+  definition:
+  - by hypothesis
+  ili: i19294
+  members:
+  - hypothetically
+  partOfSpeech: r
+00171356-r:
+  definition:
+  - in theory; according to the assumed facts
+  example:
+  - on paper the candidate seems promising
+  ili: i19295
+  members:
+  - theoretically
+  - on paper
+  partOfSpeech: r
+00171643-r:
+  definition:
+  - in an opposite position
+  ili: i19297
+  members:
+  - oppositely
+  partOfSpeech: r
+00171723-r:
+  definition:
+  - contrary to expectations
+  example:
+  - he didn't stay home; on the contrary, he went out with his friends
+  ili: i19298
+  members:
+  - contrarily
+  - to the contrary
+  - contrariwise
+  - on the contrary
+  partOfSpeech: r
+00171925-r:
+  definition:
+  - on the run or in a hurry
+  example:
+  - she wrote those letters on the fly
+  ili: i19299
+  members:
+  - on the fly
+  - hurridly
+  partOfSpeech: r
+00172037-r:
+  definition:
+  - while in motion
+  example:
+  - he caught the punt on the fly
+  members:
+  - on the fly
+  partOfSpeech: r
+00172124-r:
+  definition:
+  - without delay or immediately
+  example:
+  - we hired her on the spot
+  - thought they were going to shoot us down on the spot
+  ili: i19300
+  members:
+  - on the spot
+  partOfSpeech: r
+00172276-r:
+  definition:
+  - at the place in question; there
+  example:
+  - they were on the spot when it happened
+  - it had to be decided by the man on the spot
+  ili: i19301
+  members:
+  - on the spot
+  partOfSpeech: r
+00172436-r:
+  definition:
+  - in a difficult situation
+  example:
+  - that question really put him on the spot
+  ili: i19302
+  members:
+  - on the spot
+  partOfSpeech: r
+00172731-r:
+  definition:
+  - on a route to some place
+  example:
+  - help is on the way
+  - we saw him on the way to California
+  ili: i19304
+  members:
+  - on the way
+  - en route
+  partOfSpeech: r
+00172866-r:
+  definition:
+  - at the expected or proper time
+  example:
+  - she always arrives on time
+  ili: i19305
+  members:
+  - on time
+  - punctually
+  partOfSpeech: r
+00172975-r:
+  definition:
+  - without warning
+  example:
+  - your cousin arrived out of thin air
+  ili: i19306
+  members:
+  - out of thin air
+  - out of nothing
+  - from nowhere
+  partOfSpeech: r
+00173105-r:
+  definition:
+  - of unwed parents
+  example:
+  - he was born out of wedlock
+  ili: i19307
+  members:
+  - out of wedlock
+  - outside marriage
+  partOfSpeech: r
+00173213-r:
+  definition:
+  - in a manner that uses the most flattering or best aspects of
+  example:
+  - the dress brought out her figure to advantage
+  ili: i19308
+  members:
+  - to advantage
+  partOfSpeech: r
+00173363-r:
+  definition:
+  - without exception
+  example:
+  - voted for unionization to a man
+  ili: i19309
+  members:
+  - to a man
+  partOfSpeech: r
+00173452-r:
+  definition:
+  - in every detail
+  example:
+  - the new house suited them to a T
+  ili: i19310
+  members:
+  - to a T
+  - to the letter
+  - just right
+  - to perfection
+  partOfSpeech: r
+00173583-r:
+  definition:
+  - prior to the present time
+  example:
+  - no suspect has been found to date
+  ili: i19311
+  members:
+  - up to now
+  - to date
+  partOfSpeech: r
+00173693-r:
+  definition:
+  - to specification
+  example:
+  - he had the shoes made to order
+  ili: i19312
+  members:
+  - to order
+  partOfSpeech: r
+00173780-r:
+  definition:
+  - with force and ferocity
+  example:
+  - she fought tooth and nail
+  ili: i19313
+  members:
+  - tooth and nail
+  partOfSpeech: r
+00173875-r:
+  definition:
+  - with that general meaning
+  example:
+  - she said something to that effect
+  ili: i19314
+  members:
+  - to that effect
+  partOfSpeech: r
+00173980-r:
+  definition:
+  - in full
+  example:
+  - you are in this to the hilt
+  ili: i19315
+  members:
+  - to the hilt
+  - to the limit
+  partOfSpeech: r
+00174073-r:
+  definition:
+  - because of prevailing conditions
+  example:
+  - under the circumstances I cannot buy the house
+  ili: i19316
+  members:
+  - under the circumstances
+  partOfSpeech: r
+00174207-r:
+  definition:
+  - toward the mouth or oral region
+  ili: i19317
+  members:
+  - orad
+  partOfSpeech: r
+00174307-r:
+  definition:
+  - away from the mouth or oral region
+  ili: i19318
+  members:
+  - aborad
+  partOfSpeech: r
+00176473-r:
+  definition:
+  - with violent and uncontrollable passion
+  example:
+  - attacked wildly, slashing and stabbing over and over
+  ili: i19334
+  members:
+  - wildly
+  partOfSpeech: r
+00178467-r:
+  definition:
+  - repeatedly
+  example:
+  - the unknown word turned up over and over again in the text
+  ili: i19349
+  members:
+  - over and over
+  - again and again
+  - over and over again
+  - time and again
+  - time and time again
+  - repeatedly
+  partOfSpeech: r
+00179172-r:
+  definition:
+  - with the order reversed
+  example:
+  - she hates him and vice versa
+  ili: i19353
+  members:
+  - vice versa
+  - the other way around
+  - contrariwise
+  partOfSpeech: r
+00179304-r:
+  definition:
+  - gradually and progressively
+  example:
+  - his health weakened day by day
+  ili: i19354
+  members:
+  - day by day
+  - daily
+  partOfSpeech: r
+00179412-r:
+  definition:
+  - for an indefinite number of successive days
+  ili: i19355
+  members:
+  - day in day out
+  - day after day
+  partOfSpeech: r
+00179514-r:
+  definition:
+  - for an indefinite number of successive weeks
+  ili: i19356
+  members:
+  - week after week
+  partOfSpeech: r
+00179602-r:
+  definition:
+  - weekly
+  example:
+  - week by week, the betrayal gnawed at his heart
+  ili: i19357
+  members:
+  - week by week
+  partOfSpeech: r
+00179699-r:
+  definition:
+  - for an indefinite number of months
+  example:
+  - month by month, the betrayal gnawed at his heart
+  ili: i19358
+  members:
+  - month by month
+  partOfSpeech: r
+00180819-r:
+  definition:
+  - otherwise stated
+  example:
+  - in other words, we are broke
+  ili: i19366
+  members:
+  - in other words
+  - put differently
+  partOfSpeech: r
+00181906-r:
+  definition:
+  - in proper order or sequence
+  example:
+  - talked to each child in turn
+  - the stable became in turn a chapel and then a movie theater
+  ili: i19375
+  members:
+  - successively
+  - in turn
+  partOfSpeech: r
+00182242-r:
+  definition:
+  - not taken into account or excluded from consideration
+  example:
+  - these problems apart, the country is doing well
+  - all joking aside, I think you're crazy
+  ili: i19377
+  members:
+  - apart
+  - aside
+  partOfSpeech: r
+00182904-r:
+  definition:
+  - according to need (physicians use PRN in writing prescriptions)
+  example:
+  - add water as needed
+  ili: i19382
+  members:
+  - as needed
+  - as required
+  - pro re nata
+  - PRN
+  partOfSpeech: r
+00183162-r:
+  definition:
+  - in a place across an ocean
+  ili: i19384
+  members:
+  - overseas
+  - abroad
+  partOfSpeech: r
+00183580-r:
+  definition:
+  - in the living organism
+  example:
+  - studies conducted in vivo
+  ili: i19387
+  members:
+  - in vivo
+  partOfSpeech: r
+00184393-r:
+  definition:
+  - without consideration; in an inconsiderate manner
+  example:
+  - inconsiderately, he asked to be invited for dinner
+  ili: i19393
+  members:
+  - inconsiderately
+  partOfSpeech: r
+00185770-r:
+  definition:
+  - as acknowledged
+  example:
+  - true, she is the smartest in her class
+  ili: i19401
+  members:
+  - 'true'
+  - admittedly
+  - avowedly
+  - confessedly
+  partOfSpeech: r
+00189276-r:
+  definition:
+  - toward or in the upper part of town
+  ili: i19427
+  members:
+  - uptown
+  partOfSpeech: r
+00189364-r:
+  definition:
+  - toward or in the lower or central part of town
+  ili: i19428
+  members:
+  - downtown
+  partOfSpeech: r
+00189465-r:
+  definition:
+  - especially fortunate
+  example:
+  - best of all, we don't have any homework!
+  ili: i19429
+  members:
+  - best of all
+  partOfSpeech: r
+00190022-r:
+  definition:
+  - as follows
+  ili: i19434
+  members:
+  - namely
+  - viz.
+  - that is to say
+  - to wit
+  - videlicet
+  partOfSpeech: r
+00190112-r:
+  definition:
+  - in a similar way
+  ili: i19435
+  members:
+  - much as
+  - very much like
+  partOfSpeech: r
+00191026-r:
+  definition:
+  - in an exaggerated manner
+  ili: i19442
+  members:
+  - hyperbolically
+  - exaggeratedly
+  partOfSpeech: r
+00191723-r:
+  definition:
+  - by some means not understood by the speaker
+  example:
+  - God knows how he did it, but he did climbed that steep wall
+  ili: i19447
+  members:
+  - God knows how
+  partOfSpeech: r
+00192665-r:
+  definition:
+  - and elsewhere (used when referring to other occurrences in a text)
+  ili: i19454
+  members:
+  - et al.
+  - et al
+  - et alibi
+  partOfSpeech: r
+00192785-r:
+  definition:
+  - and others (‘et al.’ is used as an abbreviation of ‘et alii’ (masculine plural)
+    or ‘et aliae’ (feminine plural) or ‘et alia’ (neuter plural) when referring to
+    a number of people)
+  example:
+  - the data reported by Smith et al.
+  ili: i19455
+  members:
+  - et al.
+  - et al
+  - et alii
+  - et aliae
+  - et alia
+  partOfSpeech: r
+00193074-r:
+  definition:
+  - compare
+  ili: i19456
+  members:
+  - cf.
+  - cf
+  partOfSpeech: r
+00193186-r:
+  also:
+  - 91000331-r
+  definition:
+  - a figure of speech used as a way to provide further information, or to be more
+    specific or exact about something
+  ili: i19457
+  members:
+  - i.e.
+  - ie
+  - id est
+  partOfSpeech: r
+00194810-r:
+  definition:
+  - in a manner characteristic of a thief
+  ili: i19469
+  members:
+  - thievishly
+  partOfSpeech: r
+00196544-r:
+  definition:
+  - in a bewildered manner
+  ili: i19482
+  members:
+  - bewilderedly
+  partOfSpeech: r
+00196820-r:
+  definition:
+  - in an ideal manner
+  example:
+  - ideally, this will remove all problems
+  ili: i19487
+  members:
+  - ideally
+  partOfSpeech: r
+00197608-r:
+  definition:
+  - in the right manner; correctly; suitably
+  example:
+  - please do your job properly!
+  - can't you carry me decent?
+  ili: i19493
+  members:
+  - properly
+  - decently
+  - decent
+  - right
+  partOfSpeech: r
+00198687-r:
+  definition:
+  - thoroughly (including all important particulars)
+  example:
+  - he studied the snake in detail
+  ili: i19500
+  members:
+  - in detail
+  partOfSpeech: r
+00199241-r:
+  definition:
+  - in concrete terms
+  example:
+  - concretely, this meant that he was broke
+  ili: i19504
+  members:
+  - concretely
+  partOfSpeech: r
+00199377-r:
+  definition:
+  - in abstract terms
+  ili: i19505
+  members:
+  - abstractly
+  partOfSpeech: r
+00200566-r:
+  definition:
+  - in a wrongheaded manner
+  ili: i19512
+  members:
+  - wrongheadedly
+  partOfSpeech: r
+00201116-r:
+  definition:
+  - without fear
+  example:
+  - fearlessly, he led the troops into combat
+  ili: i19517
+  members:
+  - fearlessly
+  - dauntlessly
+  - intrepidly
+  partOfSpeech: r
+00203322-r:
+  definition:
+  - vacuously or complacently and unconsciously foolish
+  ili: i19532
+  members:
+  - fatuously
+  - inanely
+  partOfSpeech: r
+00206334-r:
+  definition:
+  - without justice or fairness
+  example:
+  - source: Shakespeare
+    text: wouldst not play false and yet would wrongly win
+  ili: i19552
+  members:
+  - wrongly
+  partOfSpeech: r
+00208808-r:
+  definition:
+  - in an ornamental, nonfunctional manner
+  ili: i19572
+  members:
+  - ornamentally
+  partOfSpeech: r
+00214599-r:
+  definition:
+  - in an amazing manner; to everyone's surprise
+  example:
+  - amazingly, he finished medical school in three years
+  ili: i19612
+  members:
+  - amazingly
+  - surprisingly
+  - astonishingly
+  partOfSpeech: r
+00215382-r:
+  definition:
+  - in an unproductive manner
+  ili: i19616
+  members:
+  - unproductively
+  - fruitlessly
+  - unprofitably
+  partOfSpeech: r
+00216059-r:
+  definition:
+  - in an interesting manner
+  example:
+  - source: Time
+    text: when he ceases to be just interestingly neurotic and … gets locked up
+  ili: i19620
+  members:
+  - interestingly
+  partOfSpeech: r
+00216240-r:
+  definition:
+  - in an uninteresting manner
+  ili: i19621
+  members:
+  - uninterestingly
+  partOfSpeech: r
+00218072-r:
+  definition:
+  - in a petulant manner
+  example:
+  - 'he said testily: ‘Go away!’'
+  ili: i19632
+  members:
+  - testily
+  - irritably
+  - petulantly
+  - pettishly
+  partOfSpeech: r
+00219959-r:
+  definition:
+  - in a polite manner
+  example:
+  - the policeman answered politely, ‘Now look here, lady … ’
+  ili: i19644
+  members:
+  - politely
+  - courteously
+  partOfSpeech: r
+00221121-r:
+  definition:
+  - in an inverted manner
+  example:
+  - the box was lying on the floor upside down
+  ili: i19650
+  members:
+  - upside down
+  partOfSpeech: r
+00224618-r:
+  definition:
+  - by title vested in yourself or by virtue of qualifications that you have achieved
+  example:
+  - a peer in his own right
+  - a leading sports figure in his own right
+  - a fine opera in its own right
+  - she's a rich woman in her own right rather than by inheritance
+  - an excellent novel in its own right
+  ili: i19672
+  members:
+  - in one's own right
+  - in his own right
+  - in her own right
+  - in its own right
+  partOfSpeech: r
+00225012-r:
+  definition:
+  - in a faithful manner
+  example:
+  - it always came on, faithfully, like the radio
+  ili: i19673
+  members:
+  - faithfully
+  - dependably
+  - reliably
+  partOfSpeech: r
+00225252-r:
+  definition:
+  - in an unfaithful undependable unreliable manner
+  ili: i19674
+  members:
+  - unfaithfully
+  - undependably
+  - unreliably
+  partOfSpeech: r
+00225596-r:
+  definition:
+  - without violence
+  example:
+  - the government was overthrown nonviolently, but the dictator was killed
+  ili: i19676
+  members:
+  - nonviolently
+  partOfSpeech: r
+00226219-r:
+  definition:
+  - alternately upward and downward
+  example:
+  - he eyed him up and down
+  ili: i19680
+  members:
+  - up and down
+  partOfSpeech: r
+00227874-r:
+  definition:
+  - without heed or caution
+  ili: i19694
+  members:
+  - unwarily
+  partOfSpeech: r
+00229584-r:
+  definition:
+  - everlastingly; for all time
+  example:
+  - source: Stuart Chase
+    text: rays … streaming perpetually from the sun
+  ili: i19708
+  members:
+  - perpetually
+  partOfSpeech: r
+00230832-r:
+  definition:
+  - in bed
+  ili: i19717
+  members:
+  - abed
+  partOfSpeech: r
+00231477-r:
+  definition:
+  - with agitation or turbulence
+  ili: i19721
+  members:
+  - unquietly
+  partOfSpeech: r
+00231579-r:
+  definition:
+  - without qualification or limitation
+  ili: i19722
+  members:
+  - unqualifiedly
+  partOfSpeech: r
+00231674-r:
+  definition:
+  - in outward appearance
+  example:
+  - outwardly, she appeared composed
+  ili: i19723
+  members:
+  - outwardly
+  partOfSpeech: r
+00231805-r:
+  definition:
+  - with respect to private feelings
+  example:
+  - inwardly, she was raging
+  ili: i19724
+  members:
+  - inwardly
+  - inside
+  partOfSpeech: r
+00231947-r:
+  definition:
+  - with respect to the outside
+  example:
+  - outwardly, the figure is smooth
+  ili: i19725
+  members:
+  - outwardly
+  - externally
+  partOfSpeech: r
+00233351-r:
+  definition:
+  - in accommodation
+  example:
+  - obligingly, he lowered his voice
+  ili: i19735
+  members:
+  - obligingly
+  - accommodatingly
+  partOfSpeech: r
+00235303-r:
+  definition:
+  - motivated by
+  example:
+  - idleness is the trait of being idle out of a reluctance to work
+  ili: i19749
+  members:
+  - out of
+  partOfSpeech: r
+00237300-r:
+  definition:
+  - freely or at will
+  example:
+  - fire away!
+  ili: i19761
+  members:
+  - away
+  partOfSpeech: r
+00237364-r:
+  definition:
+  - in a series; point by point
+  ili: i19762
+  members:
+  - seriatim
+  partOfSpeech: r
+00238273-r:
+  definition:
+  - without losing equilibrium
+  example:
+  - she took all his criticism in stride
+  ili: i19769
+  members:
+  - in stride
+  - in good spirits
+  partOfSpeech: r
+00238490-r:
+  definition:
+  - in a charming manner
+  ili: i19771
+  members:
+  - charmingly
+  partOfSpeech: r
+00239791-r:
+  definition:
+  - (law) deliberately or knowingly
+  domain_topic:
+  - 08458195-n
+  ili: i19780
+  members:
+  - scienter
+  partOfSpeech: r
+00240685-r:
+  definition:
+  - in motion; set in motion
+  example:
+  - the ship got under way
+  ili: i19787
+  members:
+  - under way
+  partOfSpeech: r
+00240942-r:
+  definition:
+  - with modesty; in a modest manner
+  example:
+  - the dissertation was entitled, modestly, ‘Remarks about a play by Shakespeare’
+  ili: i19789
+  members:
+  - modestly
+  partOfSpeech: r
+00241129-r:
+  definition:
+  - without modesty; in an immodest manner
+  example:
+  - the book was entitled, immodestly, ‘All about Wisdom’
+  ili: i19790
+  members:
+  - immodestly
+  partOfSpeech: r
+00241809-r:
+  definition:
+  - at or in or to the adjacent residence
+  example:
+  - the criminal had been living next door all this time
+  ili: i19794
+  members:
+  - next door
+  - in the adjacent house
+  - in the adjacent apartment
+  partOfSpeech: r
+00242324-r:
+  definition:
+  - in a lawless rebellious manner
+  ili: i19799
+  members:
+  - anarchically
+  partOfSpeech: r
+00243216-r:
+  definition:
+  - lacking determination or decisiveness
+  ili: i19805
+  members:
+  - irresolutely
+  partOfSpeech: r
+00244694-r:
+  definition:
+  - in a commensal manner
+  ili: i19815
+  members:
+  - commensally
+  partOfSpeech: r
+00245268-r:
+  definition:
+  - with respect to structure
+  example:
+  - structurally, the organization is healthy
+  ili: i19819
+  members:
+  - structurally
+  partOfSpeech: r
+00245660-r:
+  definition:
+  - without official approval
+  example:
+  - he had made some money on the side
+  ili: i19822
+  members:
+  - unofficially
+  - on the side
+  partOfSpeech: r
+00245908-r:
+  definition:
+  - happening in a short time or with great speed
+  example:
+  - these solutions cannot be found overnight!
+  ili: i19824
+  members:
+  - overnight
+  partOfSpeech: r
+00246037-r:
+  definition:
+  - without having a choice
+  ili: i19825
+  members:
+  - willy-nilly
+  partOfSpeech: r
+00246625-r:
+  definition:
+  - together
+  example:
+  - hand in hand with hope went fear
+  - doctors and nurses work hand in hand to save lives
+  ili: i19830
+  members:
+  - hand in hand
+  partOfSpeech: r
+00248151-r:
+  definition:
+  - as written or printed
+  example:
+  - this is exactly what the composer had set down on paper
+  ili: i19842
+  members:
+  - on paper
+  - in writing
+  partOfSpeech: r
+00249448-r:
+  definition:
+  - in a contrary disobedient manner
+  ili: i19852
+  members:
+  - perversely
+  - contrarily
+  - contrariwise
+  partOfSpeech: r
+00251028-r:
+  definition:
+  - at some distance
+  example:
+  - keep someone at arm's length
+  ili: i19862
+  members:
+  - at arm's length
+  partOfSpeech: r
+00251347-r:
+  definition:
+  - on a ship, train, plane or other vehicle
+  ili: i19865
+  members:
+  - aboard
+  - on board
+  partOfSpeech: r
+00251727-r:
+  definition:
+  - to a high degree
+  example:
+  - she is all too ready to accept the job
+  ili: i19869
+  members:
+  - all too
+  - only too
+  partOfSpeech: r
+00251953-r:
+  definition:
+  - alongside each other, facing in the same direction
+  ili: i19871
+  members:
+  - abreast
+  partOfSpeech: r
+00252039-r:
+  definition:
+  - by the year; every year (usually with reference to a sum of money paid or received)
+  example:
+  - he earned $100,000 per annum
+  - we issue six volumes per annum
+  ili: i19872
+  members:
+  - per annum
+  - p.a.
+  - per year
+  - each year
+  - annually
+  partOfSpeech: r
+00252267-r:
+  definition:
+  - one every day
+  example:
+  - we'll save 100 man-hours per diem
+  ili: i19873
+  members:
+  - per diem
+  - by the day
+  partOfSpeech: r
+00252456-r:
+  definition:
+  - for one specific case
+  example:
+  - they were appointed ad hoc
+  ili: i19875
+  members:
+  - ad hoc
+  partOfSpeech: r
+00252542-r:
+  definition:
+  - to a sickening extent
+  example:
+  - he played the song ad nauseam
+  ili: i19876
+  members:
+  - ad nauseam
+  partOfSpeech: r
+00252635-r:
+  definition:
+  - in proportion to the estimated value of the goods taxed
+  example:
+  - the goods were taxed ad valorem
+  ili: i19877
+  members:
+  - ad val
+  - ad valorem
+  partOfSpeech: r
+00252994-r:
+  definition:
+  - derived from observed facts
+  ili: i19880
+  members:
+  - a posteriori
+  partOfSpeech: r
+00253080-r:
+  definition:
+  - derived by logic, without observed facts
+  ili: i19881
+  members:
+  - a priori
+  partOfSpeech: r
+00253591-r:
+  definition:
+  - in respect to jurisprudence or the science or philosophy of law
+  ili: i19885
+  members:
+  - jurisprudentially
+  partOfSpeech: r
+00253817-r:
+  definition:
+  - in ordinary language
+  ili: i19887
+  members:
+  - en clair
+  partOfSpeech: r
+00253874-r:
+  definition:
+  - in a casual way at home
+  example:
+  - we'll have dinner en famille
+  ili: i19888
+  members:
+  - en famille
+  partOfSpeech: r
+00253968-r:
+  definition:
+  - by virtue of position
+  example:
+  - the president sat on the committee ex officio
+  ili: i19889
+  members:
+  - ex officio
+  - by right of office
+  partOfSpeech: r
+00254352-r:
+  definition:
+  - so as to involve two sides or parts
+  ili: i19892
+  members:
+  - bilaterally
+  partOfSpeech: r
+00255193-r:
+  definition:
+  - in an overly sweet manner
+  ili: i19898
+  members:
+  - cloyingly
+  partOfSpeech: r
+00255756-r:
+  definition:
+  - in a counterintuitive manner
+  ili: i19902
+  members:
+  - counterintuitively
+  partOfSpeech: r
+00257022-r:
+  definition:
+  - all other things being equal
+  ili: i19913
+  members:
+  - ceteris paribus
+  partOfSpeech: r
+00257456-r:
+  definition:
+  - in the same place (used when citing a reference)
+  ili: i19917
+  members:
+  - ibid.
+  - ib.
+  - ibidem
+  partOfSpeech: r
+00257553-r:
+  definition:
+  - in place of the parents
+  example:
+  - we had to punish this child in loco parentis
+  ili: i19918
+  members:
+  - in loco parentis
+  partOfSpeech: r
+00257669-r:
+  definition:
+  - in the original or natural place or site
+  example:
+  - carcinoma in situ
+  - the archeologists left the pottery in place
+  ili: i19919
+  members:
+  - in situ
+  - in place
+  partOfSpeech: r
+00257824-r:
+  definition:
+  - in position
+  members:
+  - in situ
+  partOfSpeech: r
+00257871-r:
+  definition:
+  - among other things
+  example:
+  - the committee recommended, inter alia, that he be promoted
+  ili: i19920
+  members:
+  - inter alia
+  partOfSpeech: r
+00257990-r:
+  definition:
+  - by the fact itself
+  example:
+  - ipso facto, her innocence was established
+  ili: i19921
+  members:
+  - ipso facto
+  partOfSpeech: r
+00258092-r:
+  definition:
+  - (used when listing or enumerating items) also
+  example:
+  - source: Philip Guedalla
+    text: a length of chain, item a hook
+  ili: i19922
+  members:
+  - item
+  partOfSpeech: r
+00258220-r:
+  definition:
+  - plus or minus a small amount
+  example:
+  - it is a mile away, give or take a few hundred yards
+  ili: i19923
+  members:
+  - give or take
+  partOfSpeech: r
+00258344-r:
+  definition:
+  - with the necessary changes having been carried out
+  ili: i19924
+  members:
+  - mutatis mutandis
+  partOfSpeech: r
+00258439-r:
+  definition:
+  - to a degree of excellence
+  example:
+  - he is the honest politician par excellence
+  ili: i19925
+  members:
+  - par excellence
+  partOfSpeech: r
+00258553-r:
+  definition:
+  - used in legal language
+  ili: i19926
+  members:
+  - pari passu
+  - at an equal rate
+  partOfSpeech: r
+00258633-r:
+  definition:
+  - used to refer to cited works
+  ili: i19927
+  members:
+  - passim
+  - throughout
+  partOfSpeech: r
+00258709-r:
+  definition:
+  - for the time being; temporarily
+  example:
+  - source: J.W.Krutch
+    text: accepting pro tem that hypothesis consistent with the facts
+  ili: i19928
+  members:
+  - pro tem
+  - pro tempore
+  partOfSpeech: r
+00258865-r:
+  definition:
+  - without a date fixed (as of an adjournment)
+  ili: i19929
+  members:
+  - sine die
+  partOfSpeech: r
+00258945-r:
+  definition:
+  - in an undertone
+  example:
+  - he uttered a curse sotto voce
+  ili: i19930
+  members:
+  - sotto voce
+  partOfSpeech: r
+00259032-r:
+  definition:
+  - in secret or covertly
+  example:
+  - held a meeting sub rosa to avoid general criticism
+  ili: i19931
+  members:
+  - sub rosa
+  partOfSpeech: r
+00259491-r:
+  definition:
+  - by ordering items listed individually on a menu
+  example:
+  - we ate a la carte
+  ili: i19935
+  members:
+  - a la carte
+  partOfSpeech: r
+00259598-r:
+  definition:
+  - orally
+  example:
+  - I heard it viva voce
+  ili: i19936
+  members:
+  - by word of mouth
+  - viva voce
+  partOfSpeech: r
+00259981-r:
+  definition:
+  - toward the center or interior
+  example:
+  - move the needle further inwards!
+  ili: i19941
+  members:
+  - inward
+  - inwards
+  partOfSpeech: r
+00260109-r:
+  definition:
+  - toward the outside
+  example:
+  - move the needle further outward!
+  ili: i19942
+  members:
+  - outward
+  - outwards
+  partOfSpeech: r
+00260674-r:
+  definition:
+  - at the point of death
+  ili: i19947
+  members:
+  - in extremis
+  partOfSpeech: r
+00260735-r:
+  definition:
+  - the middle or central part or point
+  example:
+  - in the midst of the forest
+  - could he walk out in the midst of his piece?
+  ili: i19948
+  members:
+  - midmost
+  - in the midst
+  partOfSpeech: r
+00261520-r:
+  definition:
+  - by necessity; by force of circumstance
+  ili: i19955
+  members:
+  - perforce
+  partOfSpeech: r
+00261706-r:
+  definition:
+  - at first sight
+  ili: i19957
+  members:
+  - prima facie
+  partOfSpeech: r
+00261963-r:
+  definition:
+  - in a way that agrees in amount, magnitude or degree
+  ili: i19959
+  members:
+  - proportionately
+  - pro rata
+  partOfSpeech: r
+00262266-r:
+  definition:
+  - free from harm or penalty
+  example:
+  - he went scot-free
+  ili: i19962
+  members:
+  - scot free
+  - scot-free
+  partOfSpeech: r
+00262350-r:
+  definition:
+  - toward the sky
+  example:
+  - look skywards!
+  ili: i19963
+  members:
+  - skyward
+  - skywards
+  partOfSpeech: r
+00262429-r:
+  definition:
+  - in a specified area or place
+  example:
+  - you shouldn't be up here
+  ili: i19964
+  members:
+  - up here
+  - over here
+  partOfSpeech: r
+00264204-r:
+  definition:
+  - below cost
+  example:
+  - sold the car at a loss
+  ili: i19977
+  members:
+  - at a loss
+  partOfSpeech: r
+00264611-r:
+  definition:
+  - far away from home or one's usual surroundings
+  example:
+  - source: R.A.Hall
+    text: looking afield for new lands to conquer
+  ili: i19980
+  members:
+  - afield
+  - abroad
+  partOfSpeech: r
+00265906-r:
+  definition:
+  - in an unfruitful manner
+  ili: i19988
+  members:
+  - abortively
+  partOfSpeech: r
+00267010-r:
+  definition:
+  - in an anterior direction
+  ili: i19996
+  members:
+  - anteriorly
+  partOfSpeech: r
+00267823-r:
+  definition:
+  - with a feeling of shame
+  ili: i20001
+  members:
+  - ashamedly
+  partOfSpeech: r
+00268077-r:
+  definition:
+  - in an unassertive manner
+  example:
+  - unassertively, she always follows her husband's suggestions
+  ili: i20003
+  members:
+  - unassertively
+  partOfSpeech: r
+00270919-r:
+  definition:
+  - involving a great bloodshed
+  ili: i20023
+  members:
+  - bloodily
+  partOfSpeech: r
+00271723-r:
+  definition:
+  - in mentally perceptive and responsive way
+  example:
+  - she got through the day alertly, despite being on drugs
+  ili: i20030
+  members:
+  - alertly
+  partOfSpeech: r
+00272901-r:
+  definition:
+  - in an ungrateful manner
+  ili: i20038
+  members:
+  - ungratefully
+  - unappreciatively
+  partOfSpeech: r
+00273866-r:
+  definition:
+  - with perseverance
+  ili: i20045
+  members:
+  - perseveringly
+  partOfSpeech: r
+00273943-r:
+  definition:
+  - with persistence
+  ili: i20046
+  members:
+  - persistently
+  partOfSpeech: r
+00274669-r:
+  definition:
+  - at or near or toward the middle
+  ili: i20052
+  members:
+  - amidship
+  partOfSpeech: r
+00274935-r:
+  definition:
+  - wildly; without self-control
+  example:
+  - when the restaurant caught fire the patrons ran amuck, blocking the exit
+  ili: i20054
+  members:
+  - amok
+  - amuck
+  partOfSpeech: r
+00275080-r:
+  definition:
+  - with antithesis; in an antithetical manner
+  ili: i20055
+  members:
+  - antithetically
+  partOfSpeech: r
+00275591-r:
+  definition:
+  - in an arch manner; with playful slyness or roguishness
+  ili: i20059
+  members:
+  - archly
+  partOfSpeech: r
+00276392-r:
+  definition:
+  - over or across in a slanting direction
+  ili: i20065
+  members:
+  - aslant
+  partOfSpeech: r
+00276557-r:
+  definition:
+  - in the sleep of death
+  ili: i20067
+  members:
+  - asleep
+  partOfSpeech: r
+00277506-r:
+  definition:
+  - with the legs stretched far apart
+  ili: i20073
+  members:
+  - astride
+  partOfSpeech: r
+00277575-r:
+  definition:
+  - at right angles to the center line of a ship
+  ili: i20074
+  members:
+  - athwart
+  partOfSpeech: r
+00277655-r:
+  definition:
+  - on, to, or at the top
+  ili: i20075
+  members:
+  - atop
+  partOfSpeech: r
+00277821-r:
+  definition:
+  - in a greedy manner
+  ili: i20077
+  members:
+  - avariciously
+  - covetously
+  - greedily
+  partOfSpeech: r
+00278639-r:
+  definition:
+  - in a bald manner
+  example:
+  - this book is, to put it baldly, an uneven work.
+  ili: i20082
+  members:
+  - baldly
+  partOfSpeech: r
+00279618-r:
+  definition:
+  - in a bawdy manner
+  ili: i20090
+  members:
+  - bawdily
+  partOfSpeech: r
+00281297-r:
+  definition:
+  - in a bountiful manner
+  ili: i20102
+  members:
+  - bountifully
+  - bounteously
+  - plentifully
+  - plenteously
+  partOfSpeech: r
+00282316-r:
+  definition:
+  - very happily
+  example:
+  - we were floating on air at the news
+  ili: i20109
+  members:
+  - on air
+  partOfSpeech: r
+00283793-r:
+  definition:
+  - with great caution; warily
+  ili: i20119
+  members:
+  - charily
+  partOfSpeech: r
+00285441-r:
+  definition:
+  - in a chatty manner
+  example:
+  - ‘when I was a girl,’ she said chattily, ‘I used to ride a bicycle’
+  ili: i20128
+  members:
+  - chattily
+  - volubly
+  partOfSpeech: r
+00285748-r:
+  definition:
+  - in a brash cheeky manner
+  example:
+  - brashly, she asked for a rebate
+  ili: i20130
+  members:
+  - cheekily
+  - nervily
+  - brashly
+  partOfSpeech: r
+00286242-r:
+  definition:
+  - in a circular manner
+  ili: i20133
+  members:
+  - circularly
+  partOfSpeech: r
+00286319-r:
+  definition:
+  - in a clannish manner
+  example:
+  - these four friends always act clannishly, and don't let us participate in their
+    activities
+  ili: i20134
+  members:
+  - clannishly
+  - cliquishly
+  partOfSpeech: r
+00289064-r:
+  definition:
+  - with compatibility
+  ili: i20152
+  members:
+  - compatibly
+  partOfSpeech: r
+00289157-r:
+  definition:
+  - without compatibility
+  ili: i20153
+  members:
+  - incompatibly
+  partOfSpeech: r
+00289765-r:
+  definition:
+  - in an all-inclusive manner
+  ili: i20157
+  members:
+  - comprehensively
+  partOfSpeech: r
+00289871-r:
+  definition:
+  - in a limited way
+  ili: i20158
+  members:
+  - noncomprehensively
+  partOfSpeech: r
+00290270-r:
+  definition:
+  - with regard to computation
+  example:
+  - computationally, this is a tricky problem
+  ili: i20160
+  members:
+  - computationally
+  partOfSpeech: r
+00290403-r:
+  definition:
+  - (archaic as adverb) in a manner characteristic of a brother
+  exemplifies:
+  - 07087487-n
+  ili: i20161
+  members:
+  - brotherly
+  partOfSpeech: r
+00290519-r:
+  definition:
+  - in favor of a proposition, opinion, etc.
+  ili: i20162
+  members:
+  - pro
+  partOfSpeech: r
+00290736-r:
+  definition:
+  - with conceit; in a conceited manner
+  example:
+  - he always acts so conceitedly!
+  ili: i20164
+  members:
+  - conceitedly
+  - self-conceitedly
+  partOfSpeech: r
+00291450-r:
+  definition:
+  - summed up briefly
+  example:
+  - gave the facts in a nutshell
+  - just tell me the story in a nutshell
+  - explained the situation in a nutshell
+  ili: i20168
+  members:
+  - in a nutshell
+  partOfSpeech: r
+00292076-r:
+  definition:
+  - by cytophotometric means
+  ili: i20172
+  members:
+  - cytophotometrically
+  partOfSpeech: r
+00292166-r:
+  definition:
+  - by means of cytoplasm
+  ili: i20173
+  members:
+  - cytoplasmically
+  partOfSpeech: r
+00292590-r:
+  definition:
+  - with distinction
+  example:
+  - he graduated cum laude
+  ili: i20176
+  members:
+  - cum laude
+  partOfSpeech: r
+00292682-r:
+  definition:
+  - with high honor
+  example:
+  - he graduated magna cum laude
+  ili: i20177
+  members:
+  - magna cum laude
+  partOfSpeech: r
+00292791-r:
+  definition:
+  - with highest honor
+  example:
+  - he graduated summa cum laude
+  ili: i20178
+  members:
+  - summa cum laude
+  partOfSpeech: r
+00293663-r:
+  definition:
+  - in a sequential manner
+  example:
+  - we numbered the papers consecutively
+  ili: i20184
+  members:
+  - consecutive
+  - sequentially
+  partOfSpeech: r
+00294485-r:
+  definition:
+  - crossing one another in opposite directions
+  ili: i20190
+  members:
+  - crisscross
+  partOfSpeech: r
+00294643-r:
+  definition:
+  - in a counteractive manner
+  ili: i20192
+  members:
+  - counteractively
+  partOfSpeech: r
+00296016-r:
+  definition:
+  - having the result that
+  ili: i20200
+  members:
+  - consequentially
+  partOfSpeech: r
+00296096-r:
+  definition:
+  - lacking consequence
+  example:
+  - ‘You're so beautifully dressed,’ she said and added quite inconsequentially, ‘Can
+    you stay the night?’
+  ili: i20201
+  members:
+  - inconsequentially
+  - inconsequently
+  partOfSpeech: r
+00296490-r:
+  definition:
+  - during the same period of time
+  example:
+  - contemporaneously, or possibly a little later, there developed a great Sumerian
+    civilisation
+  ili: i20203
+  members:
+  - contemporaneously
+  partOfSpeech: r
+00296680-r:
+  definition:
+  - in a contrasting manner
+  example:
+  - contrastingly, both the rooms leading off it gave an immediate impression of being
+    disgraced
+  ili: i20204
+  members:
+  - contrastingly
+  partOfSpeech: r
+00297139-r:
+  definition:
+  - not easy to believe
+  example:
+  - incredibly, she survived the crash
+  ili: i20206
+  members:
+  - incredibly
+  - improbably
+  - implausibly
+  - unbelievably
+  partOfSpeech: r
+00298279-r:
+  definition:
+  - in a cryptographic manner
+  ili: i20211
+  members:
+  - cryptographically
+  partOfSpeech: r
+00298819-r:
+  definition:
+  - in a damnable manner
+  example:
+  - kindly Arthur — so damnably, politely, endlessly persistent!
+  ili: i20214
+  members:
+  - damned
+  - damnably
+  - cursedly
+  partOfSpeech: r
+00299814-r:
+  definition:
+  - without finality; inconclusively
+  example:
+  - 'the battle ended indecisively: neither side had clearly won but neither side
+    admitted defeat'
+  ili: i20220
+  members:
+  - indecisively
+  partOfSpeech: r
+00300588-r:
+  definition:
+  - with delight
+  example:
+  - delightedly, she accepted the invitation
+  ili: i20225
+  members:
+  - delightedly
+  partOfSpeech: r
+00303026-r:
+  definition:
+  - in an unmerited manner
+  example:
+  - the team chalked up another victory, the last one quite undeservedly, in my opinion
+  ili: i20239
+  members:
+  - undeservedly
+  partOfSpeech: r
+00304163-r:
+  definition:
+  - not involving any controversy
+  ili: i20246
+  members:
+  - uncontroversially
+  partOfSpeech: r
+00305019-r:
+  definition:
+  - in a manner or to a degree deserving blame or censure
+  ili: i20252
+  members:
+  - reprehensibly
+  - culpably
+  partOfSpeech: r
+00305811-r:
+  definition:
+  - in an adventurous manner
+  example:
+  - daringly, he set out on a camping trip in East Africa
+  ili: i20257
+  members:
+  - daringly
+  partOfSpeech: r
+00306284-r:
+  definition:
+  - as if dead
+  ili: i20261
+  members:
+  - deadly
+  - lifelessly
+  partOfSpeech: r
+00306539-r:
+  definition:
+  - without decorousness
+  ili: i20263
+  members:
+  - indecorously
+  - unbecomingly
+  partOfSpeech: r
+00310160-r:
+  definition:
+  - in grief-stricken loneliness; without comforting circumstances or prospects
+  ili: i20286
+  members:
+  - desolately
+  - disconsolately
+  partOfSpeech: r
+00310504-r:
+  definition:
+  - in a diffident manner
+  example:
+  - ‘Oh, well,’ he shrugged diffidently, ‘I like the work.’
+  ili: i20288
+  members:
+  - diffidently
+  partOfSpeech: r
+00311268-r:
+  definition:
+  - in a detrimental manner
+  ili: i20293
+  members:
+  - detrimentally
+  - harmfully
+  - noxiously
+  partOfSpeech: r
+00315374-r:
+  definition:
+  - with disgust
+  example:
+  - disgustedly, she averted her eyes when they brought in the mutilated body of the
+    horse
+  ili: i20316
+  members:
+  - disgustedly
+  partOfSpeech: r
+00316228-r:
+  definition:
+  - (used as intensives reflecting the speaker's attitude) it is sincerely the case
+    that
+  example:
+  - honestly, I don't believe it
+  - candidly, I think she doesn't have a conscience
+  - frankly, my dear, I don't give a damn
+  exemplifies:
+  - 06332047-n
+  ili: i20320
+  members:
+  - honestly
+  - candidly
+  - frankly
+  partOfSpeech: r
+00316988-r:
+  definition:
+  - in a disingenuous manner
+  example:
+  - disingenuously, he asked leading questions about his opponent's work
+  ili: i20324
+  members:
+  - disingenuously
+  - artfully
+  partOfSpeech: r
+00320223-r:
+  definition:
+  - in a disputatious manner
+  ili: i20341
+  members:
+  - disputatiously
+  - argumentatively
+  partOfSpeech: r
+00320472-r:
+  definition:
+  - in a disreputable manner
+  ili: i20343
+  members:
+  - disreputably
+  partOfSpeech: r
+00320573-r:
+  definition:
+  - in a reputable manner
+  ili: i20344
+  members:
+  - reputably
+  partOfSpeech: r
+00321028-r:
+  definition:
+  - from or at a distance
+  example:
+  - dimly, distantly, voices sounded in the stillness
+  ili: i20347
+  members:
+  - distantly
+  partOfSpeech: r
+00321630-r:
+  definition:
+  - as individuals or as separate units (not collectively)
+  example:
+  - taken distributively, their rights are imperceptible
+  ili: i20351
+  members:
+  - distributively
+  partOfSpeech: r
+00322327-r:
+  definition:
+  - as a matter of doctrine
+  ili: i20355
+  members:
+  - doctrinally
+  partOfSpeech: r
+00322917-r:
+  definition:
+  - with respect to the internal affairs of a government
+  example:
+  - domestically, the president proposes a more moderate economic policy
+  ili: i20359
+  members:
+  - domestically
+  partOfSpeech: r
+00323386-r:
+  definition:
+  - at a faster speed
+  example:
+  - now let's play the piece again double-quick
+  ili: i20363
+  members:
+  - double time
+  - double quick
+  partOfSpeech: r
+00323816-r:
+  definition:
+  - toward the bottom of a hill
+  example:
+  - running downhill, he gained a lot of speed
+  ili: i20366
+  members:
+  - downhill
+  partOfSpeech: r
+00325863-r:
+  definition:
+  - in a westward direction
+  example:
+  - source: Daniel Defoe
+    text: we began to steer away westerly
+  ili: i20382
+  members:
+  - westerly
+  partOfSpeech: r
+00328163-r:
+  definition:
+  - in an elementary manner
+  ili: i20395
+  members:
+  - elementarily
+  partOfSpeech: r
+00329149-r:
+  definition:
+  - without elegance
+  ili: i20402
+  members:
+  - inelegantly
+  partOfSpeech: r
+00332587-r:
+  definition:
+  - in a level and regular way
+  ili: i20425
+  members:
+  - evenly
+  partOfSpeech: r
+00332854-r:
+  definition:
+  - in an uneven and irregular way
+  ili: i20428
+  members:
+  - unevenly
+  partOfSpeech: r
+00335532-r:
+  definition:
+  - in an expedient manner
+  ili: i20440
+  members:
+  - expediently
+  - inadvisably
+  partOfSpeech: r
+00335662-r:
+  definition:
+  - in an inexpedient manner
+  ili: i20441
+  members:
+  - inexpediently
+  partOfSpeech: r
+00337069-r:
+  definition:
+  - in a wasteful manner
+  example:
+  - the United States, up to the 1920s, used fuel lavishly, mainly because it was
+    so cheap
+  ili: i20451
+  members:
+  - extravagantly
+  - lavishly
+  partOfSpeech: r
+00337430-r:
+  definition:
+  - in a faddish manner
+  ili: i20453
+  members:
+  - faddishly
+  - faddily
+  partOfSpeech: r
+00340428-r:
+  definition:
+  - in a halting and feeble manner
+  example:
+  - reform, in fact, is, rather feebly, on the win
+  ili: i20471
+  members:
+  - feebly
+  partOfSpeech: r
+00340873-r:
+  definition:
+  - without compassionate feelings
+  example:
+  - unfeelingly, she required her maid to work on Christmas Day
+  ili: i20474
+  members:
+  - unfeelingly
+  partOfSpeech: r
+00341590-r:
+  definition:
+  - in the fifth place
+  example:
+  - fifthly, we must adhere to the rules set by the local government
+  ili: i20478
+  members:
+  - fifthly
+  partOfSpeech: r
+00341997-r:
+  definition:
+  - by first class conveyance; with first class accommodations
+  example:
+  - we always travel first class
+  ili: i20481
+  members:
+  - first class
+  partOfSpeech: r
+00344853-r:
+  definition:
+  - without forgiveness; in an unforgiving manner
+  example:
+  - unforgivingly, he insisted that she pay her debt to the last penny
+  ili: i20503
+  members:
+  - unforgivingly
+  partOfSpeech: r
+00345456-r:
+  definition:
+  - used as a direction in music; to be played relatively softly
+  ili: i20507
+  members:
+  - piano
+  - softly
+  partOfSpeech: r
+00345595-r:
+  definition:
+  - used as a direction in music; to be played relatively loudly
+  ili: i20508
+  members:
+  - forte
+  - loudly
+  partOfSpeech: r
+00345734-r:
+  definition:
+  - a direction in music; to be played very softly
+  ili: i20509
+  members:
+  - pianissimo
+  - very softly
+  partOfSpeech: r
+00345869-r:
+  definition:
+  - a direction in music; to be played very loudly
+  ili: i20510
+  members:
+  - fortissimo
+  - very loudly
+  partOfSpeech: r
+00346567-r:
+  definition:
+  - in the fourth place
+  example:
+  - fourthly, you must pay the rent on the first of the month
+  ili: i20515
+  members:
+  - fourthly
+  - fourth
+  partOfSpeech: r
+00346866-r:
+  definition:
+  - in a brotherly manner
+  ili: i20517
+  members:
+  - fraternally
+  partOfSpeech: r
+00347253-r:
+  definition:
+  - in a frugal manner
+  example:
+  - in villages, the new pipeline marks the end of water as a precious liquid, to
+    be dispensed frugally, weighed out drop by drop
+  ili: i20520
+  members:
+  - frugally
+  partOfSpeech: r
+00347981-r:
+  definition:
+  - in a fretful manner
+  example:
+  - fretfully, the baby tossed in his crib
+  ili: i20524
+  members:
+  - fretfully
+  partOfSpeech: r
+00349656-r:
+  definition:
+  - in a disrespectful jeering manner
+  ili: i20536
+  members:
+  - jeeringly
+  - mockingly
+  - gibingly
+  partOfSpeech: r
+00350388-r:
+  definition:
+  - (musical direction) in the manner of a glissando (with a rapidly executed series
+    of notes)
+  domain_topic:
+  - 07034009-n
+  example:
+  - this should be played glissando, please
+  ili: i20541
+  members:
+  - glissando
+  partOfSpeech: r
+00351651-r:
+  definition:
+  - in a gluttonous manner
+  example:
+  - this man eats gluttonously!
+  ili: i20550
+  members:
+  - gluttonously
+  partOfSpeech: r
+00351874-r:
+  definition:
+  - in a good-natured manner
+  ili: i20552
+  members:
+  - good-naturedly
+  partOfSpeech: r
+00352726-r:
+  definition:
+  - in a gregarious manner
+  ili: i20558
+  members:
+  - gregariously
+  - sociably
+  partOfSpeech: r
+00353252-r:
+  definition:
+  - in an uncertain groping manner
+  ili: i20561
+  members:
+  - gropingly
+  partOfSpeech: r
+00354517-r:
+  definition:
+  - every thirty minutes, every half hour
+  ili: i20570
+  members:
+  - half-hourly
+  partOfSpeech: r
+00354612-r:
+  definition:
+  - every half year, every six months
+  ili: i20571
+  members:
+  - half-yearly
+  partOfSpeech: r
+00356040-r:
+  definition:
+  - in a hateful manner
+  ili: i20580
+  members:
+  - hatefully
+  partOfSpeech: r
+00356577-r:
+  definition:
+  - in an unadvised manner
+  ili: i20585
+  members:
+  - unadvisedly
+  partOfSpeech: r
+00356657-r:
+  definition:
+  - in a reckless manner
+  ili: i20586
+  members:
+  - recklessly
+  partOfSpeech: r
+00357947-r:
+  definition:
+  - in the preceding part of the current text
+  ili: i20595
+  members:
+  - hereinbefore
+  partOfSpeech: r
+00358208-r:
+  definition:
+  - immediately after this
+  example:
+  - hereupon, the passengers stumbled aboard
+  ili: i20598
+  members:
+  - hereupon
+  partOfSpeech: r
+00359316-r:
+  definition:
+  - in a high-minded manner
+  example:
+  - he talks high-mindedly, but we don't know whether he acts according to his principles
+  ili: i20607
+  members:
+  - high-mindedly
+  partOfSpeech: r
+00359488-r:
+  definition:
+  - in a curious and questioning manner
+  example:
+  - they turned their heads questioningly, as if awaiting further instructions
+  ili: i20608
+  members:
+  - questioningly
+  - wonderingly
+  partOfSpeech: r
+00360781-r:
+  definition:
+  - every hour; by the hour
+  example:
+  - daily, hourly, I grew stronger
+  ili: i20617
+  members:
+  - hourly
+  partOfSpeech: r
+00363133-r:
+  definition:
+  - with respect to ideology
+  example:
+  - ideologically, we do not see eye to eye
+  ili: i20633
+  members:
+  - ideologically
+  partOfSpeech: r
+00363577-r:
+  definition:
+  - in an idle manner
+  example:
+  - this is what I always imagined myself doing in the south of France, sitting idly,
+    drinking coffee, watching the people
+  ili: i20636
+  members:
+  - idly
+  - lazily
+  partOfSpeech: r
+00365014-r:
+  definition:
+  - in a manner acceptable to common custom
+  example:
+  - you cannot do this legitimately!
+  ili: i20644
+  members:
+  - legitimately
+  - lawfully
+  - licitly
+  partOfSpeech: r
+00365540-r:
+  definition:
+  - according to logical reasoning
+  example:
+  - logically, you should now do the same to him
+  ili: i20647
+  members:
+  - logically
+  partOfSpeech: r
+00366906-r:
+  definition:
+  - showing remorse
+  ili: i20656
+  members:
+  - penitently
+  - penitentially
+  - repentantly
+  partOfSpeech: r
+00367080-r:
+  definition:
+  - in an imperative and commanding manner
+  ili: i20657
+  members:
+  - imperatively
+  - peremptorily
+  partOfSpeech: r
+00368189-r:
+  definition:
+  - as yourself
+  example:
+  - speaking personally, I would not want to go
+  ili: i20664
+  members:
+  - personally
+  partOfSpeech: r
+00369664-r:
+  definition:
+  - in an important way or to an important degree
+  example:
+  - more importantly, Weber held that the manifold meaning attached to the event by
+    the social scientist could alter his definition of the concrete event itself
+  ili: i20673
+  members:
+  - importantly
+  - significantly
+  partOfSpeech: r
+00370459-r:
+  definition:
+  - just as it should be
+  example:
+  - ‘Precisely, my lord,’ he said
+  ili: i20677
+  members:
+  - precisely
+  - exactly
+  - on the nose
+  - on the dot
+  - on the button
+  partOfSpeech: r
+00370928-r:
+  definition:
+  - in a provident manner
+  example:
+  - providently, he had saved up some money for emergencies
+  ili: i20680
+  members:
+  - providently
+  partOfSpeech: r
+00371348-r:
+  definition:
+  - in an imprudent manner
+  example:
+  - imprudently, he downed tools and ran home to make his wife happy
+  ili: i20682
+  members:
+  - imprudently
+  partOfSpeech: r
+00373140-r:
+  definition:
+  - in an incriminating manner
+  ili: i20693
+  members:
+  - incriminatingly
+  partOfSpeech: r
+00374285-r:
+  definition:
+  - in an indignant manner
+  example:
+  - Miss Burney protested indignantly, her long thin nose turning pink with mortification
+    at this irreverent piece of mimicry
+  ili: i20700
+  members:
+  - indignantly
+  partOfSpeech: r
+00375875-r:
+  definition:
+  - exerting influence
+  ili: i20708
+  members:
+  - influentially
+  partOfSpeech: r
+00375953-r:
+  definition:
+  - in an informative manner
+  ili: i20709
+  members:
+  - informatively
+  - instructively
+  partOfSpeech: r
+00380634-r:
+  definition:
+  - very sincerely
+  example:
+  - he spoke from the heart
+  ili: i20735
+  members:
+  - from the heart
+  partOfSpeech: r
+00380718-r:
+  definition:
+  - in an insinuating manner
+  example:
+  - the art book has art to sell, insinuatingly, and for a purpose, like the American
+    muse, which has in fact a tradition to sell, and one which doesn't exist, in painting
+  ili: i20736
+  members:
+  - insinuatingly
+  partOfSpeech: r
+00381063-r:
+  definition:
+  - to such an extent or degree; so
+  ili: i20738
+  members:
+  - insomuch
+  partOfSpeech: r
+00381386-r:
+  definition:
+  - not substantially; lacking substantial expression or fullness
+  ili: i20741
+  members:
+  - insubstantially
+  - impalpably
+  partOfSpeech: r
+00381934-r:
+  definition:
+  - between departments
+  example:
+  - this memo was circulated interdepartmentally
+  ili: i20745
+  members:
+  - interdepartmental
+  partOfSpeech: r
+00382423-r:
+  definition:
+  - in a questioning format
+  ili: i20749
+  members:
+  - interrogatively
+  partOfSpeech: r
+00382827-r:
+  definition:
+  - in an intolerant manner
+  ili: i20752
+  members:
+  - intolerantly
+  partOfSpeech: r
+00383087-r:
+  definition:
+  - in an intransitive manner
+  example:
+  - you can use the verb ‘drink’ intransitively, without a direct object
+  ili: i20754
+  members:
+  - intransitively
+  partOfSpeech: r
+00383775-r:
+  definition:
+  - in a manner arousing resentment
+  ili: i20758
+  members:
+  - invidiously
+  partOfSpeech: r
+00383864-r:
+  definition:
+  - in an invincible manner
+  example:
+  - invincibly, the troops moved forward
+  ili: i20759
+  members:
+  - invincibly
+  partOfSpeech: r
+00384453-r:
+  definition:
+  - contrary to plan or expectation
+  example:
+  - ironically, he ended up losing money under his own plan
+  ili: i20764
+  members:
+  - ironically
+  partOfSpeech: r
+00384582-r:
+  definition:
+  - in an irrelevant manner
+  example:
+  - suddenly and irrelevantly, she asked him for money
+  ili: i20765
+  members:
+  - irrelevantly
+  partOfSpeech: r
+00386220-r:
+  definition:
+  - with humor
+  example:
+  - they tried to deal with this painful subject jocularly
+  ili: i20776
+  members:
+  - jocosely
+  - jocular
+  partOfSpeech: r
+00387120-r:
+  definition:
+  - in a very humorous manner
+  ili: i20782
+  members:
+  - killingly
+  - sidesplittingly
+  partOfSpeech: r
+00387726-r:
+  definition:
+  - toward land
+  example:
+  - landward, miles of rough grass marshes melt into low uplands
+  ili: i20786
+  members:
+  - landward
+  - landwards
+  partOfSpeech: r
+00388297-r:
+  definition:
+  - at a distance, wide of something (as of a mark)
+  ili: i20791
+  members:
+  - large
+  partOfSpeech: r
+00388378-r:
+  definition:
+  - in a lascivious manner
+  ili: i20792
+  members:
+  - lasciviously
+  - salaciously
+  partOfSpeech: r
+00389359-r:
+  definition:
+  - armed and prepared for fighting
+  ili: i20797
+  members:
+  - under arms
+  partOfSpeech: r
+00389887-r:
+  definition:
+  - connecting the notes; in music
+  example:
+  - play this legato, please
+  ili: i20801
+  members:
+  - legato
+  partOfSpeech: r
+00389998-r:
+  definition:
+  - separating the notes; in music
+  example:
+  - play this staccato, please
+  ili: i20802
+  members:
+  - staccato
+  partOfSpeech: r
+00390398-r:
+  definition:
+  - in music
+  example:
+  - Play this lento, please
+  ili: i20805
+  members:
+  - lento
+  - slowly
+  partOfSpeech: r
+00392720-r:
+  definition:
+  - without qualities thought to befit a man
+  ili: i20819
+  members:
+  - unmanfully
+  - unmanly
+  partOfSpeech: r
+00392962-r:
+  definition:
+  - in a light-handed manner
+  ili: i20821
+  members:
+  - light-handedly
+  partOfSpeech: r
+00393380-r:
+  definition:
+  - with regard to or concerning limnology
+  ili: i20824
+  members:
+  - limnologically
+  partOfSpeech: r
+00393707-r:
+  definition:
+  - by descent through the female line
+  ili: i20827
+  members:
+  - matrilineally
+  partOfSpeech: r
+00393801-r:
+  definition:
+  - by descent through the male line
+  ili: i20828
+  members:
+  - patrilineally
+  partOfSpeech: r
+00393893-r:
+  definition:
+  - in a slow, leisurely or prolonged way
+  example:
+  - source: Rossetti
+    text: her voice was swift, yet ever the last words fell lingeringly
+  ili: i20829
+  members:
+  - lingeringly
+  - protractedly
+  partOfSpeech: r
+00394265-r:
+  definition:
+  - in a livid manner
+  ili: i20832
+  members:
+  - lividly
+  partOfSpeech: r
+00394594-r:
+  definition:
+  - for more time
+  example:
+  - can I stay bit longer?
+  ili: i20835
+  members:
+  - longer
+  partOfSpeech: r
+00394779-r:
+  definition:
+  - in a chatty loquacious manner
+  example:
+  - ‘When I was young,’ she continued loquaciously, ‘I used to do all sorts of naughty
+    things’
+  ili: i20837
+  members:
+  - loquaciously
+  - garrulously
+  - talkatively
+  - talkily
+  partOfSpeech: r
+00396055-r:
+  definition:
+  - in a magnanimous manner
+  example:
+  - magnanimously, he forgave all those who had harmed him
+  ili: i20845
+  members:
+  - magnanimously
+  partOfSpeech: r
+00396753-r:
+  definition:
+  - in a malignant manner, as of a tumor that spreads
+  ili: i20850
+  members:
+  - malignantly
+  partOfSpeech: r
+00396860-r:
+  definition:
+  - in a malign and evil manner
+  ili: i20851
+  members:
+  - malignly
+  partOfSpeech: r
+00396942-r:
+  definition:
+  - in a managerial manner
+  ili: i20852
+  members:
+  - managerially
+  partOfSpeech: r
+00397023-r:
+  definition:
+  - in a mangy manner
+  ili: i20853
+  members:
+  - mangily
+  partOfSpeech: r
+00397239-r:
+  definition:
+  - in an artfully manipulative manner
+  ili: i20855
+  members:
+  - manipulatively
+  partOfSpeech: r
+00399834-r:
+  definition:
+  - in a meanspirited manner
+  ili: i20871
+  members:
+  - meanspiritedly
+  partOfSpeech: r
+00400548-r:
+  definition:
+  - in a meditative manner
+  example:
+  - round and round, while meditatively, as a cow chewing the cud, he let his eyes
+    rest on the flat water ahead of him
+  ili: i20876
+  members:
+  - meditatively
+  partOfSpeech: r
+00400747-r:
+  definition:
+  - in a mellow manner
+  ili: i20877
+  members:
+  - mellowly
+  - mellow
+  partOfSpeech: r
+00401612-r:
+  definition:
+  - in an unmemorable manner
+  ili: i20883
+  members:
+  - unmemorably
+  partOfSpeech: r
+00401884-r:
+  definition:
+  - in a mendacious and untruthful manner
+  example:
+  - I told him, quite untruthfully, that I had just returned from leave
+  ili: i20885
+  members:
+  - mendaciously
+  - untruthfully
+  partOfSpeech: r
+00402308-r:
+  definition:
+  - in a menial manner
+  ili: i20887
+  members:
+  - menially
+  partOfSpeech: r
+00402908-r:
+  definition:
+  - in a messy, untidy manner
+  example:
+  - Rossi spat very deliberately, and very messily, upon Durieux's party card
+  ili: i20891
+  members:
+  - messily
+  - untidily
+  partOfSpeech: r
+00403375-r:
+  definition:
+  - with regard to meter
+  example:
+  - metrically, these poems are matched
+  ili: i20894
+  members:
+  - metrically
+  partOfSpeech: r
+00403940-r:
+  definition:
+  - at or near or toward the center of a ship
+  example:
+  - in the late 19th century, engines were placed in front, amidships, and at the
+    rear
+  ili: i20898
+  members:
+  - amidships
+  - amidship
+  - midships
+  partOfSpeech: r
+00404127-r:
+  definition:
+  - in the middle of the week
+  ili: i20899
+  members:
+  - midweek
+  partOfSpeech: r
+00404674-r:
+  definition:
+  - in a miraculous manner
+  example:
+  - my hand grasped the gun that was, miraculously, lying on the ground beside my
+    finger tips
+  ili: i20903
+  members:
+  - miraculously
+  partOfSpeech: r
+00405159-r:
+  definition:
+  - in a momentous way
+  ili: i20907
+  members:
+  - momentously
+  partOfSpeech: r
+00407778-r:
+  definition:
+  - (often followed by ‘for’) in exchange or in reciprocation
+  example:
+  - gave up our seats on the plane and in return received several hundred dollars
+    and seats on the next plane out
+  - we get many benefits in return for our taxes
+  ili: i20925
+  members:
+  - in return
+  - reciprocally
+  partOfSpeech: r
+00408067-r:
+  definition:
+  - in a naive manner
+  example:
+  - he believed, naively, that she would leave him her money
+  ili: i20926
+  members:
+  - naively
+  partOfSpeech: r
+00408548-r:
+  definition:
+  - in a narrow-minded manner
+  example:
+  - narrow-mindedly, the authorities closed down the cafe where teenagers used to
+    hang out
+  ili: i20929
+  members:
+  - narrow-mindedly
+  - small-mindedly
+  partOfSpeech: r
+00409589-r:
+  definition:
+  - not this merely but also; not only so but
+  example:
+  - each of us is peculiar, nay, in a sense unique
+  ili: i20935
+  members:
+  - nay
+  partOfSpeech: r
+00410542-r:
+  definition:
+  - even or close in a race or competition or comparison
+  example:
+  - the horses ran neck and neck
+  - he won nip and tuck
+  ili: i20941
+  members:
+  - neck and neck
+  - head-to-head
+  - nip and tuck
+  partOfSpeech: r
+00410919-r:
+  definition:
+  - in a neglectful manner
+  ili: i20943
+  members:
+  - neglectfully
+  partOfSpeech: r
+00411507-r:
+  definition:
+  - at no time hereafter
+  example:
+  - source: E.A. Poe
+    text: Quoth the raven, nevermore!
+  ili: i20948
+  members:
+  - nevermore
+  - never again
+  partOfSpeech: r
+00411953-r:
+  definition:
+  - very close
+  example:
+  - without my reading glasses I can hardly see things close up
+  - even firing at close range he missed
+  ili: i20950
+  members:
+  - close up
+  - at close range
+  partOfSpeech: r
+00412955-r:
+  definition:
+  - with regard to nutrition
+  example:
+  - nutritionally, her new diet is suicide
+  ili: i20958
+  members:
+  - nutritionally
+  partOfSpeech: r
+00413571-r:
+  definition:
+  - to, toward, or in the northeast
+  ili: i20962
+  members:
+  - northeast
+  - north-east
+  - nor'-east
+  partOfSpeech: r
+00413665-r:
+  definition:
+  - to, toward, or in the northwest
+  ili: i20963
+  members:
+  - northwest
+  - north-west
+  - nor'-west
+  partOfSpeech: r
+00413759-r:
+  definition:
+  - to, toward, or in the north-northeast
+  ili: i20964
+  members:
+  - north-northeast
+  - nor'-nor'-east
+  partOfSpeech: r
+00413857-r:
+  definition:
+  - to, toward, or in the north-northwest
+  ili: i20965
+  members:
+  - north-northwest
+  - nor'-nor'-west
+  partOfSpeech: r
+00414506-r:
+  definition:
+  - in an observant manner
+  ili: i20970
+  members:
+  - observantly
+  - observingly
+  partOfSpeech: r
+00414618-r:
+  definition:
+  - in manner that attracts attention
+  example:
+  - obstreperously, he demanded to get service
+  ili: i20971
+  members:
+  - obstreperously
+  - loudly
+  - clamorously
+  partOfSpeech: r
+00414799-r:
+  definition:
+  - in an obtrusive manner
+  ili: i20972
+  members:
+  - obtrusively
+  partOfSpeech: r
+00415483-r:
+  definition:
+  - illegally in advance of the ball or puck
+  ili: i20976
+  members:
+  - offside
+  partOfSpeech: r
+00415559-r:
+  definition:
+  - in an onerous manner
+  ili: i20977
+  members:
+  - onerously
+  partOfSpeech: r
+00416070-r:
+  definition:
+  - in an optimal and most desirable way
+  ili: i20981
+  members:
+  - optimally
+  partOfSpeech: r
+00416968-r:
+  definition:
+  - with regard to organization
+  example:
+  - organizationally, the conference was a disaster!
+  ili: i20987
+  members:
+  - organizationally
+  partOfSpeech: r
+00417110-r:
+  definition:
+  - by means of osmosis
+  ili: i20988
+  members:
+  - osmotically
+  partOfSpeech: r
+00417692-r:
+  definition:
+  - in an overbearing manner
+  ili: i20992
+  members:
+  - overbearingly
+  partOfSpeech: r
+00418673-r:
+  definition:
+  - in a palatable way
+  ili: i21000
+  members:
+  - palatably
+  partOfSpeech: r
+00419209-r:
+  definition:
+  - in a parental manner
+  ili: i21004
+  members:
+  - parentally
+  partOfSpeech: r
+00419794-r:
+  definition:
+  - in spots
+  ili: i21009
+  members:
+  - patchily
+  partOfSpeech: r
+00420302-r:
+  definition:
+  - in a patriotic manner
+  example:
+  - patriotically, he buys only U.S.-made products
+  ili: i21013
+  members:
+  - patriotically
+  partOfSpeech: r
+00420895-r:
+  definition:
+  - in a pedantic manner
+  example:
+  - these interpretations are called ‘schemas’ or, more pedantically, ‘schemata’
+  ili: i21016
+  members:
+  - pedantically
+  partOfSpeech: r
+00421054-r:
+  definition:
+  - in a peevish manner
+  ili: i21017
+  members:
+  - peevishly
+  - querulously
+  - fractiously
+  partOfSpeech: r
+00421705-r:
+  definition:
+  - in a perceptive manner
+  ili: i21022
+  members:
+  - perceptively
+  partOfSpeech: r
+00422171-r:
+  definition:
+  - in a perky manner
+  example:
+  - stuck perkily, like a bustle on a woman's skirt
+  ili: i21026
+  members:
+  - perkily
+  partOfSpeech: r
+00423235-r:
+  definition:
+  - in a pervasive manner
+  ili: i21033
+  members:
+  - pervasively
+  partOfSpeech: r
+00423314-r:
+  definition:
+  - in a petty way
+  ili: i21034
+  members:
+  - pettily
+  partOfSpeech: r
+00423382-r:
+  definition:
+  - with regard to pharmacology
+  example:
+  - pharmacologically, this plant could have important applications
+  ili: i21035
+  members:
+  - pharmacologically
+  partOfSpeech: r
+00423660-r:
+  definition:
+  - in a philanthropic manner
+  ili: i21037
+  members:
+  - philanthropically
+  partOfSpeech: r
+00424530-r:
+  definition:
+  - in a piggish manner
+  example:
+  - piggishly, he took two pieces of cake
+  ili: i21043
+  members:
+  - piggishly
+  partOfSpeech: r
+00425289-r:
+  definition:
+  - with a light plucking staccato sound
+  domain_topic:
+  - 07034009-n
+  ili: i21049
+  members:
+  - pizzicato
+  partOfSpeech: r
+00426773-r:
+  definition:
+  - in a piteous manner
+  ili: i21060
+  members:
+  - piteously
+  partOfSpeech: r
+00428672-r:
+  definition:
+  - in a very malevolent manner
+  ili: i21074
+  members:
+  - poisonously
+  - venomously
+  partOfSpeech: r
+00428968-r:
+  definition:
+  - conforming to the direction of a plumb line
+  ili: i21076
+  members:
+  - plumb
+  partOfSpeech: r
+00429384-r:
+  definition:
+  - like the Pope; in a popish manner
+  ili: i21080
+  members:
+  - popishly
+  partOfSpeech: r
+00429472-r:
+  definition:
+  - in a portentous manner
+  example:
+  - portentously, the engines began to roll
+  ili: i21081
+  members:
+  - portentously
+  partOfSpeech: r
+00430084-r:
+  definition:
+  - with a pout or in a pouting manner
+  ili: i21085
+  members:
+  - poutingly
+  partOfSpeech: r
+00430404-r:
+  definition:
+  - in a powerless manner
+  ili: i21087
+  members:
+  - powerlessly
+  partOfSpeech: r
+00430483-r:
+  definition:
+  - in a practicable manner; so as to be feasible
+  ili: i21088
+  members:
+  - practicably
+  - feasibly
+  partOfSpeech: r
+00431708-r:
+  definition:
+  - in a predictable manner or to a predictable degree
+  example:
+  - predictably, he did not like the news
+  ili: i21096
+  members:
+  - predictably
+  partOfSpeech: r
+00432340-r:
+  definition:
+  - in a carnal manner
+  ili: i21100
+  members:
+  - carnally
+  partOfSpeech: r
+00432599-r:
+  definition:
+  - in a pressing manner
+  ili: i21102
+  members:
+  - pressingly
+  partOfSpeech: r
+00433834-r:
+  definition:
+  - with reference to the origin or beginning
+  ili: i21111
+  members:
+  - primitively
+  - originally
+  - in the beginning
+  partOfSpeech: r
+00434111-r:
+  definition:
+  - in such a way as to pose a problem
+  ili: i21113
+  members:
+  - problematically
+  partOfSpeech: r
+00435013-r:
+  definition:
+  - without gain or profit
+  ili: i21120
+  members:
+  - profitlessly
+  - unprofitably
+  - gainlessly
+  partOfSpeech: r
+00436397-r:
+  definition:
+  - in a prudish manner
+  example:
+  - she acts prudishly, but I wonder whether she is really all that chaste
+  ili: i21130
+  members:
+  - prudishly
+  - puritanically
+  partOfSpeech: r
+00436580-r:
+  definition:
+  - in a prurient manner
+  ili: i21131
+  members:
+  - pruriently
+  partOfSpeech: r
+00437154-r:
+  definition:
+  - in a pugnacious manner
+  ili: i21135
+  members:
+  - pugnaciously
+  partOfSpeech: r
+00437696-r:
+  definition:
+  - in a puny manner
+  ili: i21139
+  members:
+  - punily
+  partOfSpeech: r
+00437765-r:
+  definition:
+  - in a punishing manner
+  ili: i21140
+  members:
+  - punishingly
+  partOfSpeech: r
+00437844-r:
+  definition:
+  - in a way intended to punish
+  ili: i21141
+  members:
+  - punitively
+  - punitorily
+  - penally
+  partOfSpeech: r
+00441286-r:
+  definition:
+  - in a rapacious manner
+  ili: i21164
+  members:
+  - rapaciously
+  partOfSpeech: r
+00441740-r:
+  definition:
+  - in the manner of someone delivering a rebuke
+  ili: i21168
+  members:
+  - rebukingly
+  partOfSpeech: r
+00441823-r:
+  definition:
+  - in a receptive manner
+  ili: i21169
+  members:
+  - receptively
+  partOfSpeech: r
+00442416-r:
+  definition:
+  - with relevance
+  ili: i21174
+  members:
+  - relevantly
+  partOfSpeech: r
+00443542-r:
+  definition:
+  - with reserve; in a reserved manner
+  ili: i21182
+  members:
+  - reservedly
+  partOfSpeech: r
+00443633-r:
+  definition:
+  - with resignation and acceptance; in a resigned manner
+  example:
+  - resignedly, I telegraphed back that it was all right with me if he insisted
+  ili: i21183
+  members:
+  - resignedly
+  partOfSpeech: r
+00443804-r:
+  definition:
+  - with mature or developed appearance
+  ili: i21184
+  members:
+  - ripely
+  partOfSpeech: r
+00444028-r:
+  definition:
+  - in a resourceful manner
+  ili: i21186
+  members:
+  - resourcefully
+  partOfSpeech: r
+00444777-r:
+  definition:
+  - in a retentive manner
+  ili: i21192
+  members:
+  - retentively
+  partOfSpeech: r
+00444990-r:
+  definition:
+  - in a manner contemplative of past events
+  example:
+  - retrospectively, he seems like a great artist
+  ili: i21194
+  members:
+  - retrospectively
+  partOfSpeech: r
+00445539-r:
+  definition:
+  - in an opposite way; so as to be reversed
+  ili: i21197
+  members:
+  - reversely
+  partOfSpeech: r
+00445743-r:
+  definition:
+  - positively
+  example:
+  - source: Charles Dickens
+    text: a regular right-down bad 'un
+  ili: i21199
+  members:
+  - right-down
+  partOfSpeech: r
+00449404-r:
+  definition:
+  - in the direction of the coast
+  ili: i21226
+  members:
+  - coastward
+  partOfSpeech: r
+00449663-r:
+  definition:
+  - by second class conveyance
+  example:
+  - we traveled second class
+  ili: i21229
+  members:
+  - second class
+  partOfSpeech: r
+00449758-r:
+  definition:
+  - in a secretive manner; with a preference for secrecy
+  example:
+  - the teacher raised a hand to him, slightly and secretively, because he was her
+    favorite
+  ili: i21230
+  members:
+  - secretively
+  partOfSpeech: r
+00449959-r:
+  definition:
+  - in a sedate manner
+  ili: i21231
+  members:
+  - sedately
+  - calmly
+  partOfSpeech: r
+00450666-r:
+  definition:
+  - in a self-evident manner
+  ili: i21236
+  members:
+  - self-evidently
+  partOfSpeech: r
+00451658-r:
+  definition:
+  - in an unsentimental manner
+  example:
+  - unsentimentally, she threw out her dead son's toys
+  ili: i21243
+  members:
+  - unsentimentally
+  partOfSpeech: r
+00452400-r:
+  definition:
+  - in the seventh place
+  example:
+  - seventhly, you have no right to cancel the lease in mid-year
+  ili: i21248
+  members:
+  - seventhly
+  partOfSpeech: r
+00453331-r:
+  definition:
+  - in a shallow manner
+  ili: i21255
+  members:
+  - shallowly
+  partOfSpeech: r
+00453406-r:
+  definition:
+  - in a shambolic manner
+  ili: i21256
+  members:
+  - shambolically
+  partOfSpeech: r
+00454019-r:
+  definition:
+  - straight up or down without a break
+  ili: i21261
+  members:
+  - sheer
+  - perpendicularly
+  partOfSpeech: r
+00455322-r:
+  definition:
+  - with a shudder
+  example:
+  - shudderingly, she acknowledged to herself that she dared not face what lay before
+    her
+  ili: i21271
+  members:
+  - shudderingly
+  partOfSpeech: r
+00455853-r:
+  definition:
+  - with the side toward someone or something
+  example:
+  - source: Nathaniel Hawthorne
+    text: seated sidelong to the window
+  ili: i21275
+  members:
+  - sidelong
+  partOfSpeech: r
+00457002-r:
+  definition:
+  - with a lack of courage and determination
+  example:
+  - simperingly, the accused begged for mercy
+  ili: i21284
+  members:
+  - pusillanimously
+  - simperingly
+  partOfSpeech: r
+00457279-r:
+  definition:
+  - in a single-minded manner
+  ili: i21286
+  members:
+  - single-mindedly
+  partOfSpeech: r
+00457801-r:
+  definition:
+  - in the sixth place
+  example:
+  - sixthly, we cannot afford a vacation
+  ili: i21289
+  members:
+  - sixthly
+  partOfSpeech: r
+00459088-r:
+  definition:
+  - in a false and slanderous and defamatory manner; with slander or calumny
+  ili: i21297
+  members:
+  - slanderously
+  - calumniously
+  partOfSpeech: r
+00459370-r:
+  definition:
+  - with a slant
+  ili: i21299
+  members:
+  - slantingly
+  - slopingly
+  partOfSpeech: r
+00459469-r:
+  definition:
+  - at a slant; moving or directed in a slantwise position or direction
+  ili: i21300
+  members:
+  - slantwise
+  - slantways
+  partOfSpeech: r
+00459726-r:
+  definition:
+  - with heedless speed
+  example:
+  - yachts ran slap-bang into the convoy at 15 knots an hour
+  ili: i21302
+  members:
+  - slam-bang
+  partOfSpeech: r
+00460752-r:
+  definition:
+  - in a smooth and diplomatic manner
+  example:
+  - ‘And now,’ he said smoothly, ‘we will continue the conversation’
+  ili: i21310
+  members:
+  - smoothly
+  partOfSpeech: r
+00461491-r:
+  definition:
+  - without smile; in an unsmiling manner
+  example:
+  - unsmilingly, he greeted his in-laws
+  ili: i21316
+  members:
+  - unsmilingly
+  partOfSpeech: r
+00461819-r:
+  definition:
+  - in a smutty manner
+  ili: i21318
+  members:
+  - smuttily
+  - vulgarly
+  partOfSpeech: r
+00462637-r:
+  definition:
+  - with sobs
+  example:
+  - sobbingly, the teenager admitted killing the baby
+  ili: i21323
+  members:
+  - sobbingly
+  partOfSpeech: r
+00462737-r:
+  definition:
+  - in a sociable manner
+  example:
+  - sociably, the new neighbors invited everyone on the block for coffee
+  ili: i21324
+  members:
+  - sociably
+  partOfSpeech: r
+00463804-r:
+  definition:
+  - in a sordid or squalid way
+  ili: i21332
+  members:
+  - sordidly
+  - squalidly
+  partOfSpeech: r
+00464053-r:
+  definition:
+  - in a sorrowful manner
+  ili: i21334
+  members:
+  - sorrowfully
+  partOfSpeech: r
+00464132-r:
+  definition:
+  - all at the same time
+  example:
+  - Let's say ‘Yes!’ all at once
+  ili: i21335
+  members:
+  - all together
+  - all at once
+  partOfSpeech: r
+00464239-r:
+  definition:
+  - in a sottish manner
+  ili: i21336
+  members:
+  - sottishly
+  partOfSpeech: r
+00464314-r:
+  definition:
+  - to, toward, or in the southeast
+  ili: i21337
+  members:
+  - southeast
+  - south-east
+  - sou'-east
+  partOfSpeech: r
+00464408-r:
+  definition:
+  - to, toward, or in the southwest
+  ili: i21338
+  members:
+  - southwest
+  - south-west
+  - sou'west
+  partOfSpeech: r
+00464501-r:
+  definition:
+  - to, toward, or in the south southeast
+  ili: i21339
+  members:
+  - south-southeast
+  - sou'-sou'-east
+  partOfSpeech: r
+00464599-r:
+  definition:
+  - to, toward, or in the south southwest
+  ili: i21340
+  members:
+  - south-southwest
+  - sou'-sou'-west
+  partOfSpeech: r
+00465693-r:
+  definition:
+  - in a specious manner
+  ili: i21350
+  members:
+  - speciously
+  partOfSpeech: r
+00466176-r:
+  definition:
+  - so as to be sporting; in a sporting manner
+  ili: i21354
+  members:
+  - sportingly
+  partOfSpeech: r
+00466293-r:
+  definition:
+  - in an unsportsmanlike manner
+  ili: i21355
+  members:
+  - unsportingly
+  partOfSpeech: r
+00467231-r:
+  definition:
+  - in a standoffish manner
+  example:
+  - standoffishly, he declined the invitation to the office party
+  ili: i21362
+  members:
+  - standoffishly
+  partOfSpeech: r
+00468284-r:
+  definition:
+  - in a stereotypical manner
+  ili: i21371
+  members:
+  - stereotypically
+  partOfSpeech: r
+00469954-r:
+  definition:
+  - in the following part of a given matter, as in a document or speech
+  ili: i21384
+  members:
+  - thereinafter
+  partOfSpeech: r
+00470364-r:
+  definition:
+  - with that or this or it
+  example:
+  - source: The Bible, Philippians 4:11
+    text: I have learned that whatever state I am, therewith to be content
+  ili: i21389
+  members:
+  - therewith
+  partOfSpeech: r
+00470504-r:
+  definition:
+  - together with all that; besides
+  example:
+  - source: Shakespeare
+    text: thy slanders I forgive; and therewithal remit thy other forfeits
+  ili: i21390
+  members:
+  - therewithal
+  partOfSpeech: r
+00472665-r:
+  definition:
+  - without romance; in an unromantic manner
+  example:
+  - we got married, rather unromantically, in a dingy office in the town hall
+  ili: i21406
+  members:
+  - unromantically
+  partOfSpeech: r
+00473095-r:
+  definition:
+  - in a superfluous manner
+  example:
+  - superfluously, he added his silly comments to the discussion
+  ili: i21409
+  members:
+  - superfluously
+  partOfSpeech: r
+00473242-r:
+  definition:
+  - to a superlative degree
+  ili: i21410
+  members:
+  - superlatively
+  partOfSpeech: r
+00474199-r:
+  definition:
+  - in the manner of one who is surprised
+  ili: i21416
+  members:
+  - surprisedly
+  partOfSpeech: r
+00478108-r:
+  definition:
+  - (in enumerating something, such as topics or points of discussion) in the tenth
+    place
+  ili: i21441
+  members:
+  - tenthly
+  partOfSpeech: r
+00478378-r:
+  definition:
+  - in a theological manner
+  example:
+  - he dealt with the problem of evil theologically, not philosophically
+  ili: i21443
+  members:
+  - theologically
+  partOfSpeech: r
+00478938-r:
+  definition:
+  - according to tradition; in a traditional manner
+  example:
+  - traditionally, we eat fried foods on Hanukah
+  ili: i21447
+  members:
+  - traditionally
+  partOfSpeech: r
+00481122-r:
+  definition:
+  - in a timorous and trepid manner
+  ili: i21463
+  members:
+  - timorously
+  - trepidly
+  partOfSpeech: r
+00481406-r:
+  definition:
+  - the next day, the day after, following the present day
+  ili: i21466
+  members:
+  - tomorrow
+  partOfSpeech: r
+00481921-r:
+  definition:
+  - with twists and turns
+  ili: i21470
+  members:
+  - tortuously
+  partOfSpeech: r
+00482210-r:
+  definition:
+  - in a transcendental way or to a transcendental extent
+  ili: i21473
+  members:
+  - transcendentally
+  partOfSpeech: r
+00482524-r:
+  definition:
+  - as a transitional step or in a transitional manner
+  ili: i21475
+  members:
+  - transitionally
+  partOfSpeech: r
+00482635-r:
+  definition:
+  - for a very brief time
+  ili: i21476
+  members:
+  - transitorily
+  partOfSpeech: r
+00484611-r:
+  definition:
+  - in a typographic way
+  ili: i21491
+  members:
+  - typographically
+  partOfSpeech: r
+00484693-r:
+  definition:
+  - beyond the scope or in excess of legal power or authority
+  ili: i21492
+  members:
+  - ultra vires
+  partOfSpeech: r
+00486768-r:
+  definition:
+  - in an unchivalrous and ungallant manner
+  example:
+  - unchivalrously, the husbands who had to provide such innocent indulgences eventually
+    began to count the costs
+  ili: i21505
+  members:
+  - unchivalrously
+  partOfSpeech: r
+00487120-r:
+  definition:
+  - in an uncompromising manner
+  ili: i21507
+  members:
+  - uncompromisingly
+  partOfSpeech: r
+00487462-r:
+  definition:
+  - in an unusual manner
+  ili: i21510
+  members:
+  - unwontedly
+  partOfSpeech: r
+00487818-r:
+  definition:
+  - in an uncouth manner
+  example:
+  - uncouthly, he told stories that made everybody at the table wince
+  ili: i21513
+  members:
+  - uncouthly
+  partOfSpeech: r
+00487963-r:
+  definition:
+  - in an unctuous manner
+  ili: i21514
+  members:
+  - unctuously
+  - smarmily
+  - fulsomely
+  partOfSpeech: r
+00489336-r:
+  definition:
+  - slyly and secretly
+  example:
+  - source: John Donne
+    text: Mean revenge, committed underhand
+  - source: C.G.Bowers
+    text: oldline aristocratic diplomats underhandedly undermined the attempt … to
+      align Germany with the Western democracies
+  ili: i21527
+  members:
+  - underhandedly
+  - underhand
+  partOfSpeech: r
+00490485-r:
+  definition:
+  - to an unimaginable extent
+  ili: i21534
+  members:
+  - unimaginably
+  - unthinkably
+  partOfSpeech: r
+00490777-r:
+  definition:
+  - in an unnatural way
+  example:
+  - his other arm lay across his chest, unnaturally, as if placed there deliberately,
+    for a purpose
+  ili: i21536
+  members:
+  - unnaturally
+  partOfSpeech: r
+00491086-r:
+  definition:
+  - with precedent
+  ili: i21538
+  members:
+  - precedentedly
+  partOfSpeech: r
+00491178-r:
+  definition:
+  - in an unprecedented manner
+  ili: i21539
+  members:
+  - unprecedentedly
+  partOfSpeech: r
+00491393-r:
+  definition:
+  - in an unrestrained manner
+  ili: i21541
+  members:
+  - unrestrainedly
+  partOfSpeech: r
+00491623-r:
+  definition:
+  - in an unstinting manner
+  ili: i21543
+  members:
+  - unstintingly
+  partOfSpeech: r
+00492424-r:
+  definition:
+  - in an unworthy manner
+  ili: i21548
+  members:
+  - unworthily
+  partOfSpeech: r
+00492996-r:
+  definition:
+  - in an upright position
+  ili: i21554
+  members:
+  - uprightly
+  partOfSpeech: r
+00494018-r:
+  definition:
+  - in a vacuous manner
+  ili: i21562
+  members:
+  - vacuously
+  partOfSpeech: r
+00495238-r:
+  definition:
+  - in a watchful manner
+  ili: i21571
+  members:
+  - vigilantly
+  - watchfully
+  partOfSpeech: r
+00495612-r:
+  definition:
+  - lively, in music
+  example:
+  - play this section vivace!
+  ili: i21574
+  members:
+  - vivace
+  partOfSpeech: r
+00496172-r:
+  definition:
+  - in a vulnerable manner
+  ili: i21579
+  members:
+  - vulnerably
+  partOfSpeech: r
+00496251-r:
+  definition:
+  - in a waggish manner
+  ili: i21580
+  members:
+  - waggishly
+  partOfSpeech: r
+00496653-r:
+  definition:
+  - with riches
+  ili: i21584
+  members:
+  - wealthily
+  partOfSpeech: r
+00497507-r:
+  definition:
+  - from what place, source, or cause
+  ili: i21591
+  members:
+  - whence
+  partOfSpeech: r
+00497575-r:
+  definition:
+  - where in the world; location, singular, elective existential pronoun
+  ili: i21592
+  members:
+  - wherever
+  - wheresoever
+  partOfSpeech: r
+00498580-r:
+  definition:
+  - in a wistful manner
+  example:
+  - his sister would have looked beautiful in that dress, he thought wistfully, just
+    like an angel
+  ili: i21601
+  members:
+  - wistfully
+  partOfSpeech: r
+00498998-r:
+  definition:
+  - in the manner of a wolf
+  ili: i21604
+  members:
+  - wolfishly
+  partOfSpeech: r
+00499077-r:
+  definition:
+  - in a manner to cause worry
+  ili: i21605
+  members:
+  - worryingly
+  partOfSpeech: r
+00499327-r:
+  definition:
+  - in a worthy manner; with worthiness
+  ili: i21607
+  members:
+  - worthily
+  partOfSpeech: r
+00499417-r:
+  definition:
+  - in a worthless manner
+  ili: i21608
+  members:
+  - worthlessly
+  partOfSpeech: r
+00499758-r:
+  definition:
+  - not only so, but
+  example:
+  - I therein do rejoice, yea, and will rejoice
+  ili: i21611
+  members:
+  - yea
+  - yeah
+  partOfSpeech: r
+00500380-r:
+  definition:
+  - with ice cream on top or on the side
+  example:
+  - we served the apple pie a la mode
+  ili: i21616
+  members:
+  - a la mode
+  partOfSpeech: r
+00500491-r:
+  definition:
+  - in the space between decks, on a ship
+  ili: i21617
+  members:
+  - between decks
+  - '''tween decks'
+  partOfSpeech: r
+00501131-r:
+  definition:
+  - in a bonny manner
+  ili: i21622
+  members:
+  - bonnily
+  partOfSpeech: r
+00501646-r:
+  definition:
+  - in a clammy manner
+  ili: i21627
+  members:
+  - clammily
+  partOfSpeech: r
+00501719-r:
+  definition:
+  - in a conjugal manner
+  ili: i21628
+  members:
+  - conjugally
+  - connubial
+  partOfSpeech: r
+00501826-r:
+  definition:
+  - in a constrained manner
+  ili: i21629
+  members:
+  - constrainedly
+  partOfSpeech: r
+00502131-r:
+  definition:
+  - in a coordinated manner
+  ili: i21632
+  members:
+  - coordinately
+  partOfSpeech: r
+00502213-r:
+  definition:
+  - in a corrupt manner
+  ili: i21633
+  members:
+  - corruptly
+  - corruptedly
+  partOfSpeech: r
+00502424-r:
+  definition:
+  - in a dingy manner
+  ili: i21635
+  members:
+  - dingily
+  - grubbily
+  - grungily
+  partOfSpeech: r
+00502553-r:
+  definition:
+  - in a rambling manner
+  ili: i21636
+  members:
+  - discursively
+  - ramblingly
+  partOfSpeech: r
+00502645-r:
+  definition:
+  - in a dissolute way
+  ili: i21637
+  members:
+  - profligately
+  - dissolutely
+  partOfSpeech: r
+00502957-r:
+  definition:
+  - in an imminent manner
+  ili: i21640
+  members:
+  - imminently
+  partOfSpeech: r
+00503035-r:
+  definition:
+  - in an integral manner
+  ili: i21641
+  members:
+  - integrally
+  partOfSpeech: r
+00503113-r:
+  definition:
+  - in a martial manner
+  ili: i21642
+  members:
+  - martially
+  partOfSpeech: r
+00503188-r:
+  definition:
+  - in a rugged manner
+  ili: i21643
+  members:
+  - ruggedly
+  partOfSpeech: r
+00503261-r:
+  definition:
+  - in a shrewish manner
+  ili: i21644
+  members:
+  - shrewishly
+  partOfSpeech: r
+00503338-r:
+  definition:
+  - with regard to fundamentals although not concerning details
+  example:
+  - in principle, we agree
+  ili: i21645
+  members:
+  - in principle
+  - in theory
+  - in essence
+  partOfSpeech: r
+00503489-r:
+  definition:
+  - per person; for each person; of each person
+  example:
+  - we are spending $5,000 per capita annually for education in this district
+  ili: i21646
+  members:
+  - per capita
+  partOfSpeech: r
+00505869-r:
+  definition:
+  - of joint or shared interest
+  example:
+  - we have several things in common
+  - when an audience is responding to a play they are identifying what they have in
+    common with the human beings on stage
+  ili: i21664
+  members:
+  - in common
+  partOfSpeech: r
+00506091-r:
+  definition:
+  - in joint use or possession
+  example:
+  - mites are arachnids, but they have a lot in common with insects
+  - property held in common
+  members:
+  - in common
+  partOfSpeech: r
+00506249-r:
+  definition:
+  - in the same way as; like
+  example:
+  - in common with families in general, one parent families have been getting smaller
+  members:
+  - in common with
+  partOfSpeech: r
+00506948-r:
+  definition:
+  - from a source of previously owned goods
+  example:
+  - I prefer to buy second hand
+  ili: i21669
+  members:
+  - second hand
+  partOfSpeech: r
+00507076-r:
+  definition:
+  - referring to a quantity
+  example:
+  - the amount was paid in full
+  ili: i21670
+  members:
+  - in full
+  - fully
+  partOfSpeech: r
+00507466-r:
+  definition:
+  - flying through the air
+  example:
+  - we saw the ducks in flight
+  ili: i21673
+  members:
+  - in flight
+  - on the wing
+  partOfSpeech: r
+00507906-r:
+  definition:
+  - with reason or justice
+  ili: i21677
+  members:
+  - by rights
+  partOfSpeech: r
+00507966-r:
+  definition:
+  - toward the posterior end of the body
+  ili: i21678
+  members:
+  - caudally
+  - caudal
+  partOfSpeech: r
+00508298-r:
+  definition:
+  - in succession
+  example:
+  - the prisoners came out one by one
+  ili: i21681
+  members:
+  - one by one
+  - one at a time
+  partOfSpeech: r
+00508403-r:
+  definition:
+  - following one another in quick succession
+  members:
+  - one after another
+  - one after the other
+  partOfSpeech: r
+00508749-r:
+  definition:
+  - displaying a red color
+  example:
+  - source: Adria Langley
+    text: the forge belched redly at the sky
+  ili: i21684
+  members:
+  - redly
+  partOfSpeech: r
+00510352-r:
+  definition:
+  - in the recent past; only a short time ago
+  example:
+  - I was not born yesterday!
+  ili: i21697
+  members:
+  - yesterday
+  partOfSpeech: r
+00510788-r:
+  definition:
+  - used with question words to convey surprise
+  example:
+  - what on earth are you doing?
+  ili: i21701
+  members:
+  - on earth
+  partOfSpeech: r
+00511820-r:
+  definition:
+  - from one place or situation to another
+  example:
+  - we were driven from pillar to post
+  ili: i21709
+  members:
+  - from pillar to post
+  - hither and thither
+  partOfSpeech: r
+00512638-r:
+  definition:
+  - no longer visible
+  example:
+  - the ship disappeared behind the horizon and passed out of sight
+  ili: i21715
+  members:
+  - out of sight
+  - out of view
+  partOfSpeech: r
+00512777-r:
+  definition:
+  - in a setting where one is or feels inappropriate or incongruous
+  example:
+  - he felt out of place in the lingerie shop
+  ili: i21716
+  members:
+  - out of place
+  partOfSpeech: r
+00512926-r:
+  definition:
+  - like a baby
+  example:
+  - he cradled it, baby-wise, in his arms
+  ili: i21717
+  members:
+  - baby-wise
+  - baby-like
+  partOfSpeech: r
+00513162-r:
+  definition:
+  - happening at the same time
+  ili: i21719
+  members:
+  - coincidentally
+  - coincidently
+  partOfSpeech: r
+00513385-r:
+  definition:
+  - in a manner dependent on context
+  ili: i21721
+  members:
+  - contextually
+  partOfSpeech: r
+00513476-r:
+  definition:
+  - dependent on a department
+  ili: i21722
+  members:
+  - departmentally
+  partOfSpeech: r
+00513562-r:
+  definition:
+  - in a polygonal manner
+  ili: i21723
+  members:
+  - polygonally
+  partOfSpeech: r
+00513641-r:
+  definition:
+  - in a regimental manner or by regiments
+  ili: i21724
+  members:
+  - regimentally
+  partOfSpeech: r
+00513738-r:
+  definition:
+  - used as a residence
+  ili: i21725
+  members:
+  - residentially
+  partOfSpeech: r
+00513817-r:
+  definition:
+  - in a manner that is schismatic
+  ili: i21726
+  members:
+  - schismatically
+  partOfSpeech: r
+00513908-r:
+  definition:
+  - in an unreasoning visceral manner
+  ili: i21727
+  members:
+  - viscerally
+  - unreasoningly
+  partOfSpeech: r
+00514358-r:
+  definition:
+  - in a nebulous and indefinite manner
+  ili: i21731
+  members:
+  - nebulously
+  partOfSpeech: r
+00514619-r:
+  definition:
+  - in a northwestward direction
+  ili: i21733
+  members:
+  - northwestward
+  - northwestwardly
+  partOfSpeech: r
+00514912-r:
+  definition:
+  - in a southwestward direction
+  ili: i21735
+  members:
+  - southwestward
+  - southwestwardly
+  partOfSpeech: r
+00515036-r:
+  definition:
+  - in an abaxial manner
+  ili: i21736
+  members:
+  - abaxially
+  partOfSpeech: r
+00515130-r:
+  definition:
+  - in an adaxial manner
+  ili: i21737
+  members:
+  - adaxially
+  partOfSpeech: r
+00515224-r:
+  definition:
+  - as an adjective; in an adjectival manner
+  ili: i21738
+  members:
+  - adjectivally
+  partOfSpeech: r
+00515323-r:
+  definition:
+  - in an affirmative manner
+  ili: i21739
+  members:
+  - affirmatively
+  partOfSpeech: r
+00515631-r:
+  definition:
+  - in a complex manner
+  ili: i21742
+  members:
+  - complexly
+  partOfSpeech: r
+00515706-r:
+  definition:
+  - in a cursive manner
+  ili: i21743
+  members:
+  - cursively
+  partOfSpeech: r
+00515781-r:
+  definition:
+  - gently and sweetly
+  domain_topic:
+  - 07034009-n
+  ili: i21744
+  members:
+  - dolce
+  partOfSpeech: r
+00515852-r:
+  definition:
+  - in a dragging manner
+  ili: i21745
+  members:
+  - draggingly
+  partOfSpeech: r
+00515929-r:
+  definition:
+  - not symmetrically with respect to the center
+  ili: i21746
+  members:
+  - eccentrically
+  partOfSpeech: r
+00516033-r:
+  definition:
+  - in an eccentric or bizarre manner
+  ili: i21747
+  members:
+  - eccentrically
+  partOfSpeech: r
+00516126-r:
+  definition:
+  - in an endogenous manner
+  ili: i21748
+  members:
+  - endogenously
+  partOfSpeech: r
+00516208-r:
+  definition:
+  - in an erotic manner
+  ili: i21749
+  members:
+  - erotically
+  partOfSpeech: r
+00516284-r:
+  definition:
+  - by means of hypnotism
+  ili: i21750
+  members:
+  - hypnotically
+  partOfSpeech: r
+00516364-r:
+  definition:
+  - from the point of view of immunology
+  ili: i21751
+  members:
+  - immunologically
+  partOfSpeech: r
+00516462-r:
+  definition:
+  - in an artificial environment outside the living organism
+  example:
+  - an egg fertilized in vitro
+  ili: i21752
+  members:
+  - in vitro
+  - ex vivo
+  partOfSpeech: r
+00516613-r:
+  definition:
+  - in an irreparable manner or to an irreparable degree
+  ili: i21753
+  members:
+  - irreparably
+  partOfSpeech: r
+00516723-r:
+  definition:
+  - in an irritating manner
+  ili: i21754
+  members:
+  - irritatingly
+  partOfSpeech: r
+00516805-r:
+  definition:
+  - as ordered by a court
+  ili: i21755
+  members:
+  - judicially
+  partOfSpeech: r
+00517008-r:
+  definition:
+  - within range of a movie or television camera
+  example:
+  - the senator didn't realize that he was speaking on camera
+  ili: i21757
+  members:
+  - on camera
+  partOfSpeech: r
+00517151-r:
+  definition:
+  - as a preposition
+  ili: i21758
+  members:
+  - prepositionally
+  partOfSpeech: r
+00517229-r:
+  definition:
+  - in a presidential manner
+  ili: i21759
+  members:
+  - presidentially
+  partOfSpeech: r
+00517422-r:
+  definition:
+  - in a recurrent manner
+  ili: i21761
+  members:
+  - recurrently
+  partOfSpeech: r
+00517605-r:
+  definition:
+  - in a sinuous manner
+  ili: i21763
+  members:
+  - sinuously
+  partOfSpeech: r
+00517680-r:
+  definition:
+  - in a sinusoidal manner
+  ili: i21764
+  members:
+  - sinusoidally
+  partOfSpeech: r
+00517761-r:
+  definition:
+  - towards outer space
+  ili: i21765
+  members:
+  - spaceward
+  - spacewards
+  partOfSpeech: r
+00518214-r:
+  definition:
+  - (of drugs or muscles) in a synergistic or interactive manner
+  ili: i21769
+  members:
+  - synergistically
+  partOfSpeech: r
+00518336-r:
+  definition:
+  - (of group) in a synergistic or cooperative manner
+  ili: i21770
+  members:
+  - synergistically
+  partOfSpeech: r
+00518683-r:
+  definition:
+  - from the point of view of topology
+  ili: i21773
+  members:
+  - topologically
+  partOfSpeech: r
+00518777-r:
+  definition:
+  - in an ulterior manner
+  ili: i21774
+  members:
+  - ulteriorly
+  partOfSpeech: r
+00518855-r:
+  definition:
+  - in a vexatious manner
+  ili: i21775
+  members:
+  - vexatiously
+  partOfSpeech: r
+00519421-r:
+  definition:
+  - in an incorrigible manner
+  members:
+  - incorrigibly
+  partOfSpeech: r
+00519523-r:
+  definition:
+  - in the manner of an animal with rabies
+  members:
+  - rabidly
+  partOfSpeech: r
+00519615-r:
+  definition:
+  - in an extreme or fanatical manner
+  members:
+  - rabidly
+  partOfSpeech: r
+00519720-r:
+  definition:
+  - in an extremely arrogant or conceited manner
+  members:
+  - insufferably
+  partOfSpeech: r
+00520033-r:
+  definition:
+  - in a voluminous manner
+  members:
+  - voluminously
+  partOfSpeech: r
+81276284-r:
+  definition:
+  - through a computer or a computer network
+  example:
+  - source: UD_English-GUM Corpus
+    text: People were encouraged to submit their designs online at www.flag.govt.nz
+      and suggest what the flag should mean on www.standfor.co.nz.
+  - source: UD_English-GUM Corpus
+    text: Images of the boy wearing a NASA T-shirt and handcuffed by the police were
+      quickly posted and reposted online.
+  - source: UD_English-GUM Corpus
+    text: They should be available at your local home improvement store or online.
+  members:
+  - online
+  partOfSpeech: r
+90003183-r:
+  definition:
+  - reacting to a stupid but cute action
+  members:
+  - derp
+  partOfSpeech: r
+  source: Colloquial WordNet
+91000331-r:
+  also:
+  - 00193186-r
+  definition:
+  - In other words, as a result
+  members:
+  - so yeah
+  partOfSpeech: r
+  source: Colloquial WordNet
+91001531-r:
+  also:
+  - 00471848-r
+  definition:
+  - regarding the tone
+  members:
+  - tonally
+  partOfSpeech: r
+  source: Colloquial WordNet

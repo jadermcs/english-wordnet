@@ -1,0 +1,699 @@
+00005724-r:
+  definition:
+  - as can be shown by argument
+  example:
+  - she is arguably the best
+  ili: i18181
+  members:
+  - arguably
+  partOfSpeech: r
+00010428-r:
+  definition:
+  - used in polite request
+  example:
+  - please pay attention
+  ili: i18204
+  members:
+  - please
+  partOfSpeech: r
+00026794-r:
+  definition:
+  - for some unspecified reason
+  example:
+  - It doesn't seem fair somehow
+  - he had me dead to rights but somehow I got away with it
+  ili: i18294
+  members:
+  - somehow
+  partOfSpeech: r
+00038035-r:
+  definition:
+  - in truth (often tends to intensify)
+  example:
+  - they said the car would break down and indeed it did
+  - it is very cold indeed
+  - was indeed grateful
+  - indeed, the rain may still come
+  - he did so do it!
+  ili: i18359
+  members:
+  - indeed
+  - so
+  partOfSpeech: r
+00039161-r:
+  definition:
+  - in a manner at variance with what is natural or normal
+  example:
+  - The early Church not unnaturally adopted the position that failure to see the
+    messianic character of his work was really caused by the people's own blindness
+  ili: i18367
+  members:
+  - unnaturally
+  partOfSpeech: r
+00039452-r:
+  definition:
+  - without doubt or question
+  example:
+  - they were clearly lost
+  - history has clearly shown the folly of that policy
+  ili: i18368
+  members:
+  - clearly
+  partOfSpeech: r
+00039730-r:
+  definition:
+  - unmistakably (‘plain’ is often used informally for ‘plainly’)
+  example:
+  - the answer is obviously wrong
+  - she was in bed and evidently in great pain
+  - he was manifestly too important to leave off the guest list
+  - it is all patently nonsense
+  - she has apparently been living here for some time
+  - I thought he owned the property, but apparently not
+  - You are plainly wrong
+  - he is plain stubborn
+  exemplifies:
+  - 07089193-n
+  ili: i18370
+  members:
+  - obviously
+  - evidently
+  - manifestly
+  - patently
+  - apparently
+  - plainly
+  - plain
+  partOfSpeech: r
+00040353-r:
+  definition:
+  - from appearances alone
+  example:
+  - irrigation often produces bumper crops from apparently desert land
+  - the child is seemingly healthy but the doctor is concerned
+  - source: Thomas Hardy
+    text: had been ostensibly frank as to his purpose while really concealing it
+  - on the face of it the problem seems minor
+  ili: i18371
+  members:
+  - apparently
+  - seemingly
+  - ostensibly
+  - on the face of it
+  partOfSpeech: r
+00042664-r:
+  definition:
+  - by good fortune
+  example:
+  - fortunately the weather was good
+  ili: i18386
+  members:
+  - fortunately
+  - fortuitously
+  - luckily
+  - as luck would have it
+  partOfSpeech: r
+00042894-r:
+  definition:
+  - in an unexpectedly lucky way
+  example:
+  - happily he was not injured
+  ili: i18387
+  members:
+  - happily
+  partOfSpeech: r
+00043024-r:
+  definition:
+  - in an unfortunate way
+  example:
+  - sadly he died before he could see his grandchild
+  ili: i18388
+  members:
+  - sadly
+  - unhappily
+  partOfSpeech: r
+00043179-r:
+  definition:
+  - by bad luck
+  example:
+  - unfortunately it rained all day
+  - alas, I cannot stay
+  ili: i18389
+  members:
+  - unfortunately
+  - unluckily
+  - regrettably
+  - alas
+  partOfSpeech: r
+00043413-r:
+  definition:
+  - (used to introduce a logical conclusion) from that fact or reason or as a result
+  example:
+  - therefore X must be true
+  - the eggs were fresh and hence satisfactory
+  - we were young and thence optimistic
+  - it is late and thus we must go
+  - the witness is biased and so cannot be trusted
+  ili: i18390
+  members:
+  - therefore
+  - hence
+  - thence
+  - thus
+  - so
+  partOfSpeech: r
+00079373-r:
+  definition:
+  - without doubt; certainly
+  example:
+  - it's undoubtedly very beautiful
+  ili: i18615
+  members:
+  - undoubtedly
+  - doubtless
+  - doubtlessly
+  partOfSpeech: r
+00099509-r:
+  definition:
+  - to the degree or extent that
+  example:
+  - insofar as it can be ascertained, the horse lung is comparable to that of man
+  - so far as it is reasonably practical he should practice restraint
+  ili: i18758
+  members:
+  - insofar
+  - in so far
+  - so far
+  - to that extent
+  - to that degree
+  - in so far as
+  partOfSpeech: r
+00103536-r:
+  definition:
+  - in the third place
+  example:
+  - third we must consider unemployment
+  ili: i18784
+  members:
+  - third
+  - thirdly
+  partOfSpeech: r
+00113314-r:
+  definition:
+  - in such a manner as could not be otherwise
+  example:
+  - it is necessarily so
+  - we must needs be objective
+  ili: i18852
+  members:
+  - inevitably
+  - necessarily
+  - of necessity
+  - needs
+  partOfSpeech: r
+00116461-r:
+  definition:
+  - more readily or willingly
+  example:
+  - clean it well, preferably with warm water
+  - I'd rather be in Philadelphia
+  - I'd sooner die than give up
+  ili: i18873
+  members:
+  - preferably
+  - sooner
+  - rather
+  partOfSpeech: r
+00132870-r:
+  definition:
+  - as a person
+  example:
+  - he is personally repulsive
+  ili: i19004
+  members:
+  - personally
+  partOfSpeech: r
+00139421-r:
+  definition:
+  - with considerable certainty; without much doubt
+  example:
+  - He is probably out of the country
+  - in all likelihood we are headed for war
+  ili: i19060
+  members:
+  - probably
+  - likely
+  - in all likelihood
+  - in all probability
+  - belike
+  partOfSpeech: r
+00145758-r:
+  definition:
+  - definitely or positively (‘sure’ is sometimes used informally for ‘surely’)
+  example:
+  - the results are surely encouraging
+  - she certainly is a hard worker
+  - it's going to be a good day for sure
+  - they are coming, for certain
+  - they thought he had been killed sure enough
+  - he'll win sure as shooting
+  - they sure smell good
+  - sure he'll come
+  exemplifies:
+  - 07089193-n
+  ili: i19112
+  members:
+  - surely
+  - certainly
+  - sure
+  - for sure
+  - for certain
+  - sure enough
+  - sure as shooting
+  partOfSpeech: r
+00146264-r:
+  definition:
+  - in a surprising manner
+  example:
+  - he was surprisingly friendly
+  ili: i19113
+  members:
+  - surprisingly
+  partOfSpeech: r
+00150196-r:
+  definition:
+  - used to imply that one would expect the fact to be the opposite of that stated;
+    surprisingly
+  example:
+  - you may actually be doing the right thing by walking out
+  - she actually spoke Latin
+  - they thought they made the rules but in reality they were only puppets
+  - people who seem stand-offish are in reality often simply nervous
+  ili: i19141
+  members:
+  - actually
+  - in reality
+  partOfSpeech: r
+00150802-r:
+  definition:
+  - as a sentence modifier to add slight emphasis; as a modifier to add slight emphasis
+  example:
+  - actually, we all help clear up after a meal
+  - actually, I haven't seen the film
+  - I'm not all that surprised actually
+  - she hasn't proved to be too satisfactory, actually
+  ili: i19143
+  members:
+  - actually
+  partOfSpeech: r
+00155440-r:
+  definition:
+  - according to what has been alleged
+  example:
+  - he was on trial for allegedly murdering his wife
+  ili: i19181
+  members:
+  - allegedly
+  partOfSpeech: r
+00184950-r:
+  definition:
+  - in a gratifying manner
+  example:
+  - the performance was at a gratifyingly high level
+  ili: i19395
+  members:
+  - gratifyingly
+  - satisfyingly
+  partOfSpeech: r
+00189569-r:
+  definition:
+  - it would be sensible
+  example:
+  - you'd best stay at home
+  ili: i19430
+  members:
+  - best
+  partOfSpeech: r
+00190790-r:
+  definition:
+  - with pretense or intention to deceive
+  example:
+  - is only professedly poor
+  ili: i19440
+  members:
+  - professedly
+  partOfSpeech: r
+00195469-r:
+  definition:
+  - within the realm of possibility
+  example:
+  - the weather may conceivably change
+  ili: i19475
+  members:
+  - conceivably
+  partOfSpeech: r
+00201311-r:
+  definition:
+  - let us be thankful that
+  example:
+  - thankfully he didn't come to the party
+  ili: i19518
+  members:
+  - thankfully
+  partOfSpeech: r
+00201575-r:
+  definition:
+  - it is hoped
+  example:
+  - hopefully the weather will be fine on Sunday
+  ili: i19520
+  members:
+  - hopefully
+  partOfSpeech: r
+00202356-r:
+  definition:
+  - according to reports or other information
+  example:
+  - she was reportedly his mistress for many years
+  ili: i19525
+  members:
+  - reportedly
+  partOfSpeech: r
+00206702-r:
+  definition:
+  - with honesty
+  example:
+  - he was rightly considered the greatest singer of his time
+  ili: i19556
+  members:
+  - rightly
+  - justly
+  - justifiedly
+  partOfSpeech: r
+00209884-r:
+  definition:
+  - by necessity
+  example:
+  - the situation slid inescapably toward disaster
+  ili: i19579
+  members:
+  - inescapably
+  - ineluctably
+  - inevitably
+  - unavoidably
+  partOfSpeech: r
+00213360-r:
+  definition:
+  - without possibility of mistake
+  example:
+  - this watercolor is unmistakably a synthesis of nature
+  ili: i19603
+  members:
+  - unmistakably
+  partOfSpeech: r
+00218914-r:
+  definition:
+  - in an auspicious manner
+  example:
+  - he started his new job auspiciously on his birthday
+  ili: i19637
+  members:
+  - auspiciously
+  - propitiously
+  partOfSpeech: r
+00220366-r:
+  definition:
+  - in an admirable manner
+  example:
+  - the children's responses were admirably normal
+  ili: i19646
+  members:
+  - admirably
+  - laudably
+  - praiseworthily
+  - commendable
+  partOfSpeech: r
+00224480-r:
+  definition:
+  - by right
+  example:
+  - baseball rightfully is the nation's pastime
+  ili: i19671
+  members:
+  - rightfully
+  - truly
+  partOfSpeech: r
+00240401-r:
+  definition:
+  - with good reason
+  example:
+  - he is justifiably bitter
+  ili: i19785
+  members:
+  - justifiably
+  partOfSpeech: r
+00257094-r:
+  definition:
+  - (formal) by means of this
+  example:
+  - I hereby declare you man and wife
+  exemplifies:
+  - 01206545-n
+  ili: i19914
+  members:
+  - hereby
+  - herewith
+  partOfSpeech: r
+00268242-r:
+  definition:
+  - without a doubt
+  example:
+  - the grammar schools were assuredly not intended for the gentry alone
+  ili: i20004
+  members:
+  - assuredly
+  partOfSpeech: r
+00277958-r:
+  definition:
+  - by open declaration
+  example:
+  - their policy has been avowedly Marxist
+  - Susan Smith was professedly guilty of the murders
+  ili: i20078
+  members:
+  - avowedly
+  - professedly
+  partOfSpeech: r
+00301501-r:
+  definition:
+  - by chance
+  example:
+  - perhaps she will call tomorrow
+  - we may possibly run into them at the concert
+  - it may peradventure be thought that there never was such a time
+  ili: i20231
+  members:
+  - possibly
+  - perchance
+  - perhaps
+  - maybe
+  - mayhap
+  - peradventure
+  partOfSpeech: r
+00302867-r:
+  definition:
+  - as deserved
+  example:
+  - he chalked up two goals which deservedly gave Bolton their second victory of the
+    season
+  ili: i20238
+  members:
+  - deservedly
+  partOfSpeech: r
+00309952-r:
+  definition:
+  - in an obvious and provable manner
+  example:
+  - his documentary sources are demonstrably wrong
+  ili: i20285
+  members:
+  - demonstrably
+  - provably
+  - incontrovertibly
+  partOfSpeech: r
+00334820-r:
+  definition:
+  - in an excusable manner or to an excusable degree
+  example:
+  - he was excusably late
+  ili: i20437
+  members:
+  - excusably
+  - forgivably
+  - pardonably
+  partOfSpeech: r
+00338513-r:
+  definition:
+  - in a manner or to an extent that is well known
+  example:
+  - in his famously anecdotal style
+  ili: i20458
+  members:
+  - famously
+  partOfSpeech: r
+00372716-r:
+  definition:
+  - in a manner tending to attract attention
+  example:
+  - there have been plenty of general declarations about willingness to meet and talk,
+    but conspicuously no mention of time and place
+  ili: i20691
+  members:
+  - conspicuously
+  partOfSpeech: r
+00410115-r:
+  definition:
+  - in an essential manner
+  example:
+  - such expenses are necessarily incurred
+  ili: i20938
+  members:
+  - necessarily
+  - needfully
+  partOfSpeech: r
+00410285-r:
+  definition:
+  - as a highly likely consequence
+  example:
+  - we are necessarily bound for federalism in Europe
+  ili: i20939
+  members:
+  - necessarily
+  partOfSpeech: r
+00412791-r:
+  definition:
+  - to a notorious degree
+  example:
+  - European emigres, who notoriously used to repair to the British Museum to write
+    seditious pamphlets
+  ili: i20957
+  members:
+  - notoriously
+  partOfSpeech: r
+00421914-r:
+  definition:
+  - through chance
+  example:
+  - To sleep, perchance to dream …
+  exemplifies:
+  - 07087487-n
+  ili: i21024
+  members:
+  - perchance
+  - by chance
+  partOfSpeech: r
+00426224-r:
+  definition:
+  - with regret (used in polite formulas)
+  example:
+  - I must regretfully decline your kind invitation
+  ili: i21056
+  members:
+  - regretfully
+  partOfSpeech: r
+00436106-r:
+  definition:
+  - in a fortunately providential manner
+  example:
+  - providentially the weather remained good
+  ili: i21128
+  members:
+  - providentially
+  partOfSpeech: r
+00439469-r:
+  definition:
+  - without question
+  example:
+  - Fred Winter is unquestionably the jockey to follow
+  - they hired unimpeachably first-rate faculty members
+  ili: i21152
+  members:
+  - unquestionably
+  - unimpeachably
+  partOfSpeech: r
+00442014-r:
+  definition:
+  - in a pleasantly novel manner
+  example:
+  - she was refreshingly free from shyness
+  ili: i21171
+  members:
+  - refreshingly
+  partOfSpeech: r
+00443214-r:
+  definition:
+  - by repute; according to general belief
+  example:
+  - fish with reputedly poisonous flesh
+  ili: i21180
+  members:
+  - reputedly
+  partOfSpeech: r
+00454221-r:
+  definition:
+  - so as to shock the feelings
+  example:
+  - One day, she lost her temper, completely, suddenly and, even to herself, shockingly
+  - Suddenly, shockingly, the clergyman's son was a desperado.
+  ili: i21263
+  members:
+  - shockingly
+  partOfSpeech: r
+00484790-r:
+  definition:
+  - in an unaccountable manner
+  example:
+  - in the book, a tycoon unaccountably becomes the hero's friend
+  ili: i21493
+  members:
+  - unaccountably
+  partOfSpeech: r
+00485173-r:
+  definition:
+  - in an unarguable and undisputed manner
+  example:
+  - you write as if this fact, whilst inarguably forever condemning me to the ranks
+    of Bohemianism, nevertheless earned for me the right of entry into any company
+  ili: i21495
+  members:
+  - unarguably
+  - undisputedly
+  - inarguably
+  partOfSpeech: r
+00486260-r:
+  definition:
+  - without someone's knowledge
+  example:
+  - unbeknownst to me, she made all the arrangements
+  ili: i21501
+  members:
+  - unbeknown
+  - unbeknownst
+  partOfSpeech: r
+00488100-r:
+  definition:
+  - to an undeniable degree or in an undeniable manner
+  example:
+  - she is undeniably the most gifted student in the class
+  ili: i21515
+  members:
+  - undeniably
+  partOfSpeech: r
+00511417-r:
+  definition:
+  - in an aggravating fashion
+  example:
+  - his hair was caught aggravatingly in the branches of the tree
+  ili: i21706
+  members:
+  - aggravatingly
+  partOfSpeech: r

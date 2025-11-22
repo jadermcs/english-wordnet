@@ -1,0 +1,340 @@
+00005103-r:
+  definition:
+  - and nothing more
+  example:
+  - I was merely asking
+  - it is simply a matter of time
+  - just a scratch
+  - he was only a child
+  - hopes that last but a moment
+  ili: i18177
+  members:
+  - merely
+  - simply
+  - just
+  - only
+  - but
+  partOfSpeech: r
+00011376-r:
+  definition:
+  - in the final outcome
+  example:
+  - These news will only make you more upset
+  ili: i18209
+  members:
+  - only
+  partOfSpeech: r
+00011473-r:
+  definition:
+  - as recently as
+  example:
+  - I spoke to him only an hour ago
+  ili: i18210
+  members:
+  - only
+  partOfSpeech: r
+00017907-r:
+  definition:
+  - used as an intensive especially to indicate something unexpected
+  example:
+  - even an idiot knows that
+  - declined even to consider the idea
+  - I don't have even a dollar!
+  ili: i18242
+  members:
+  - even
+  partOfSpeech: r
+00018101-r:
+  definition:
+  - to a greater degree or extent; used with comparisons
+  example:
+  - looked sick and felt even worse
+  - an even (or still) more interesting problem
+  - still another problem must be solved
+  - a yet sadder tale
+  ili: i18243
+  members:
+  - even
+  - yet
+  - still
+  partOfSpeech: r
+00018505-r:
+  definition:
+  - in spite of; notwithstanding
+  example:
+  - even when he is sick, he works
+  - even with his head start she caught up with him
+  ili: i18245
+  members:
+  - even
+  partOfSpeech: r
+00018651-r:
+  definition:
+  - to the full extent
+  example:
+  - loyal even unto death
+  ili: i18246
+  members:
+  - even
+  partOfSpeech: r
+00024432-r:
+  definition:
+  - negation of a word or group of words
+  example:
+  - he does not speak French
+  - she is not going
+  - they are not friends
+  - not many
+  - not much
+  - not at all
+  ili: i18280
+  members:
+  - not
+  - non
+  partOfSpeech: r
+00025252-r:
+  definition:
+  - after a negative statement used as an intensive meaning something like ‘likewise’
+    or ‘also’
+  example:
+  - he isn't stupid, but he isn't exactly a genius either
+  - I don't know either
+  - if you don't order dessert I won't either
+  ili: i18286
+  members:
+  - either
+  partOfSpeech: r
+00030839-r:
+  definition:
+  - in addition or furthermore
+  example:
+  - if we further suppose
+  - stated further that he would not cooperate with them
+  - they are definitely coming; further, they should be here already
+  ili: i18312
+  members:
+  - further
+  partOfSpeech: r
+00042168-r:
+  definition:
+  - in distinction from others
+  example:
+  - a program specifically for teenagers
+  - he is interested specifically in poisonous snakes
+  ili: i18383
+  members:
+  - specifically
+  partOfSpeech: r
+00046442-r:
+  definition:
+  - in other respects or ways
+  example:
+  - he is otherwise normal
+  - the funds are not otherwise available
+  - an otherwise hopeless situation
+  ili: i18408
+  members:
+  - otherwise
+  partOfSpeech: r
+00046607-r:
+  definition:
+  - in addition, by way of addition; furthermore
+  example:
+  - he serves additionally as the CEO
+  ili: i18409
+  members:
+  - additionally
+  - to boot
+  partOfSpeech: r
+00048072-r:
+  definition:
+  - in addition
+  example:
+  - he has a Mercedes, too
+  ili: i18418
+  members:
+  - besides
+  - too
+  - also
+  - likewise
+  - as well
+  partOfSpeech: r
+00064168-r:
+  definition:
+  - with everything included or counted
+  example:
+  - altogether he earns close to a million dollars
+  ili: i18521
+  members:
+  - altogether
+  - all told
+  - in all
+  partOfSpeech: r
+00068977-r:
+  definition:
+  - in accompaniment or as a companion
+  example:
+  - his little sister came along to the movies
+  - I brought my camera along
+  - working along with his father
+  ili: i18552
+  members:
+  - along
+  partOfSpeech: r
+00069153-r:
+  definition:
+  - in addition (usually followed by ‘with’)
+  example:
+  - we sent them food and some clothing went along in the package
+  - along with the package came a bill
+  - consider the advantages along with the disadvantages
+  ili: i18553
+  members:
+  - along
+  partOfSpeech: r
+00070072-r:
+  definition:
+  - equally
+  example:
+  - parents and teachers alike demanded reforms
+  ili: i18559
+  members:
+  - alike
+  - likewise
+  partOfSpeech: r
+00074163-r:
+  definition:
+  - for the most part
+  example:
+  - he is mainly interested in butterflies
+  ili: i18582
+  members:
+  - chiefly
+  - principally
+  - primarily
+  - mainly
+  - in the main
+  partOfSpeech: r
+00084573-r:
+  definition:
+  - to a distinctly greater extent or degree than is common
+  example:
+  - he was particularly fussy about spelling
+  - a particularly gruesome attack
+  - under peculiarly tragic circumstances
+  - an especially (or specially) cautious approach to the danger
+  ili: i18654
+  members:
+  - particularly
+  - peculiarly
+  - especially
+  - specially
+  partOfSpeech: r
+00085862-r:
+  definition:
+  - with specific intentions; for the express purpose
+  example:
+  - she needs the money expressly for her patients
+  ili: i18662
+  members:
+  - expressly
+  partOfSpeech: r
+00139220-r:
+  definition:
+  - of primary import
+  example:
+  - this is primarily a question of economics
+  - it was in the first place a local matter
+  ili: i19059
+  members:
+  - primarily
+  - in the first place
+  partOfSpeech: r
+00140076-r:
+  definition:
+  - especially; in particular
+  example:
+  - notably in the social sciences, the professors teach too much
+  ili: i19065
+  members:
+  - notably
+  partOfSpeech: r
+00148308-r:
+  definition:
+  - in the same way; also
+  example:
+  - I was offended and so was he
+  - worked hard and so did she
+  ili: i19128
+  members:
+  - so
+  partOfSpeech: r
+00159432-r:
+  definition:
+  - indicating exactness or preciseness
+  example:
+  - he was doing precisely (or exactly) what she had told him to do
+  - it was just as he said — the jewel was gone
+  - it has just enough salt
+  - source: Thomas Carlyle
+    text: Properly speaking, all true work is religion.
+  ili: i19211
+  members:
+  - precisely
+  - exactly
+  - just
+  - properly
+  partOfSpeech: r
+00176976-r:
+  definition:
+  - so as to be unique
+  example:
+  - he could determine uniquely the properties of the compound
+  ili: i19338
+  members:
+  - uniquely
+  - unambiguously
+  partOfSpeech: r
+00180598-r:
+  definition:
+  - restricted to something
+  example:
+  - we talked strictly business
+  ili: i19364
+  members:
+  - strictly
+  - purely
+  partOfSpeech: r
+00241635-r:
+  definition:
+  - to or from every one of two or more (considered individually)
+  example:
+  - they received $10 each
+  ili: i19793
+  members:
+  - each
+  - to each one
+  - for each one
+  - from each one
+  - apiece
+  partOfSpeech: r
+00250244-r:
+  definition:
+  - specifically or especially distinguished from others
+  example:
+  - loves Bach, particularly his partitas
+  - recommended one book in particular
+  - trace major population movements for the Pueblo groups in particular
+  ili: i19857
+  members:
+  - particularly
+  - in particular
+  partOfSpeech: r
+00301750-r:
+  definition:
+  - possibly (indicating a slight chance of something being true)
+  example:
+  - it might just happen
+  members:
+  - just
+  partOfSpeech: r
