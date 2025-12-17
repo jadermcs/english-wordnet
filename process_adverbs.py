@@ -192,7 +192,7 @@ def write_groups(
         out_path = os.path.join(out_dir, filename)
         if os.path.exists(out_path) and not overwrite:
             print(
-                f"Skipping existing file {out_path} (use --write to overwrite)",
+                f"Skipping existing file {out_path} (use --overwrite to overwrite)",
                 file=sys.stderr,
             )
             continue
@@ -308,7 +308,7 @@ def main(argv: List[str] | None = None) -> int:
     groups, unmapped, csv_only = group_synsets(yaml_data, csv_map)
     print_summary(yaml_data, groups, unmapped, csv_only, sample_size=args.sample)
 
-    if not args.write:
+    if not args.write and not args.overwrite:
         print(
             "\nDry-run complete. No files written. Re-run with --write to produce output files."
         )
