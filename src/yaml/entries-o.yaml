@@ -81,7 +81,7 @@ O.K.:
       synset: 06700446-n
   r:
     sense:
-    - id: 'o.k.%4:45:00::'
+    - id: 'o.k.%4:02:00::'
       synset: 00015933-r
   v:
     sense:
@@ -145,7 +145,7 @@ OK:
       synset: 06700446-n
   r:
     sense:
-    - id: 'ok%4:53:00::'
+    - id: 'ok%4:02:00::'
       synset: 00053542-r
 OLED:
   n:
@@ -4359,7 +4359,7 @@ o'clock:
     - value: əˈklɑk
       variety: US
     sense:
-    - id: 'o''clock%4:49:00::'
+    - id: 'o''clock%4:02:00::'
       synset: 00198594-r
 o'er:
   r:
@@ -4370,7 +4370,7 @@ o'er:
       variety: GB
     - value: o(ː)ɹ
     sense:
-    - id: 'o''er%4:49:00::'
+    - id: 'o''er%4:02:00::'
       synset: 00228075-r
 o.d.:
   v:
@@ -4627,7 +4627,7 @@ obdurate:
 obdurately:
   r:
     sense:
-    - id: 'obdurately%4:46:00::'
+    - id: 'obdurately%4:02:00::'
       pertainym:
       - obdurate%5:00:00:unregenerate:00
       synset: 00200274-r
@@ -4708,8 +4708,8 @@ obediently:
   r:
     sense:
     - antonym:
-      - 'disobediently%4:45:00::'
-      id: 'obediently%4:45:00::'
+      - 'disobediently%4:02:00::'
+      id: 'obediently%4:02:00::'
       pertainym:
       - 'obedient%3:00:00::'
       synset: 00318413-r
@@ -5090,7 +5090,7 @@ objectionableness:
 objectionably:
   r:
     sense:
-    - id: 'objectionably%4:45:00::'
+    - id: 'objectionably%4:02:00::'
       pertainym:
       - objectionable%5:00:00:offensive:01
       synset: 00308302-r
@@ -5148,8 +5148,8 @@ objectively:
       variety: US
     sense:
     - antonym:
-      - 'subjectively%4:52:00::'
-      id: 'objectively%4:45:00::'
+      - 'subjectively%4:02:00::'
+      id: 'objectively%4:02:00::'
       pertainym:
       - 'objective%3:00:00::'
       synset: 00413955-r
@@ -5367,12 +5367,12 @@ obligatorily:
   r:
     sense:
     - antonym:
-      - 'optionally%4:45:00::'
-      id: 'obligatorily%4:45:01::'
+      - 'optionally%4:02:00::'
+      id: 'obligatorily%4:02:01::'
       pertainym:
       - 'obligatory%3:00:00::'
       synset: 00416660-r
-    - id: 'obligatorily%4:45:00::'
+    - id: 'obligatorily%4:02:00::'
       pertainym:
       - 'obligatory%3:00:00::'
       synset: 00289970-r
@@ -5457,7 +5457,7 @@ obliging:
 obligingly:
   r:
     sense:
-    - id: 'obligingly%4:46:00::'
+    - id: 'obligingly%4:02:00::'
       pertainym:
       - obliging%5:00:00:accommodating:00
       synset: 00233351-r
@@ -5539,9 +5539,9 @@ oblique-angled:
 obliquely:
   r:
     sense:
-    - id: 'obliquely%4:45:02::'
+    - id: 'obliquely%4:02:02::'
       synset: 00455713-r
-    - id: 'obliquely%4:45:00::'
+    - id: 'obliquely%4:02:00::'
       pertainym:
       - 'oblique%3:00:00::'
       synset: 00276140-r
@@ -5747,7 +5747,7 @@ obnoxious:
 obnoxiously:
   r:
     sense:
-    - id: 'obnoxiously%4:45:00::'
+    - id: 'obnoxiously%4:02:00::'
       pertainym:
       - obnoxious%5:00:00:offensive:01
       synset: 00308302-r
@@ -5846,9 +5846,9 @@ obscene:
 obscenely:
   r:
     sense:
-    - id: 'obscenely%4:51:01::'
+    - id: 'obscenely%4:02:01::'
       synset: 00414231-r
-    - id: 'obscenely%4:45:00::'
+    - id: 'obscenely%4:02:00::'
       pertainym:
       - obscene%5:00:00:indecent:00
       synset: 00390651-r
@@ -5946,7 +5946,7 @@ obscure:
 obscurely:
   r:
     sense:
-    - id: 'obscurely%4:45:00::'
+    - id: 'obscurely%4:02:00::'
       pertainym:
       - obscure%5:00:00:incomprehensible:00
       synset: 00248563-r
@@ -6003,7 +6003,7 @@ obsequious:
 obsequiously:
   r:
     sense:
-    - id: 'obsequiously%4:45:00::'
+    - id: 'obsequiously%4:02:00::'
       pertainym:
       - obsequious%5:00:00:servile:00
       synset: 00414319-r
@@ -6036,7 +6036,7 @@ observable:
 observably:
   r:
     sense:
-    - id: 'observably%4:51:00::'
+    - id: 'observably%4:02:00::'
       pertainym:
       - observable%5:00:00:noticeable:00
       synset: 00367464-r
@@ -6093,7 +6093,7 @@ observant:
 observantly:
   r:
     sense:
-    - id: 'observantly%4:45:00::'
+    - id: 'observantly%4:02:00::'
       pertainym:
       - observant%5:00:00:perceptive:00
       synset: 00414506-r
@@ -6368,7 +6368,7 @@ observing:
 observingly:
   r:
     sense:
-    - id: 'observingly%4:45:00::'
+    - id: 'observingly%4:02:00::'
       pertainym:
       - observing%5:00:00:perceptive:00
       synset: 00414506-r
@@ -6435,7 +6435,7 @@ obsessional:
 obsessionally:
   r:
     sense:
-    - id: 'obsessionally%4:45:00::'
+    - id: 'obsessionally%4:02:00::'
       pertainym:
       - obsessional%5:00:00:neurotic:00
       synset: 00245067-r
@@ -6490,7 +6490,7 @@ obsessive-compulsive personality:
 obsessively:
   r:
     sense:
-    - id: 'obsessively%4:45:00::'
+    - id: 'obsessively%4:02:00::'
       pertainym:
       - obsessive%5:00:00:neurotic:00
       synset: 00245067-r
@@ -6694,7 +6694,7 @@ obstinately:
     - value: ˈɒbstɪnətli
       variety: GB
     sense:
-    - id: 'obstinately%4:46:00::'
+    - id: 'obstinately%4:02:00::'
       pertainym:
       - obstinate%5:00:00:unregenerate:00
       synset: 00200274-r
@@ -6740,7 +6740,7 @@ obstreperous:
 obstreperously:
   r:
     sense:
-    - id: 'obstreperously%4:45:00::'
+    - id: 'obstreperously%4:02:00::'
       pertainym:
       - obstreperous%5:00:00:defiant:00
       synset: 00414618-r
@@ -6869,7 +6869,7 @@ obstructive shock:
 obstructively:
   r:
     sense:
-    - id: 'obstructively%4:45:00::'
+    - id: 'obstructively%4:02:00::'
       pertainym:
       - obstructive%5:00:00:preventive:00
       synset: 00415297-r
@@ -6978,8 +6978,8 @@ obtrusively:
   r:
     sense:
     - antonym:
-      - 'unobtrusively%4:45:00::'
-      id: 'obtrusively%4:45:00::'
+      - 'unobtrusively%4:02:00::'
+      id: 'obtrusively%4:02:00::'
       pertainym:
       - obtrusive%5:00:00:noticeable:00
       synset: 00414799-r
@@ -7076,7 +7076,7 @@ obtuse-angled triangle:
 obtusely:
   r:
     sense:
-    - id: 'obtusely%4:45:00::'
+    - id: 'obtusely%4:02:00::'
       pertainym:
       - obtuse%5:00:00:stupid:00
       synset: 00324708-r
@@ -7168,7 +7168,7 @@ obviously:
     - value: ˈɒ(b).vɪəs.li
       variety: GB
     sense:
-    - id: 'obviously%4:51:00::'
+    - id: 'obviously%4:02:00::'
       pertainym:
       - 'obvious%3:00:00::'
       synset: 00039730-r
@@ -7254,7 +7254,7 @@ occasionally:
     pronunciation:
     - value: əˈkeɪʒənəli
     sense:
-    - id: 'occasionally%4:48:00::'
+    - id: 'occasionally%4:02:00::'
       pertainym:
       - occasional%5:00:00:infrequent:00
       synset: 00021667-r
@@ -8540,11 +8540,11 @@ oddly:
     - value: ˈɒdli
       variety: GB
     sense:
-    - id: 'oddly%4:45:00::'
+    - id: 'oddly%4:02:00::'
       pertainym:
       - odd%5:00:00:strange:00
       synset: 00035878-r
-    - id: 'oddly%4:45:01::'
+    - id: 'oddly%4:02:01::'
       pertainym:
       - odd%5:00:00:strange:00
       synset: 00439274-r
@@ -8624,7 +8624,7 @@ odious:
 odiously:
   r:
     sense:
-    - id: 'odiously%4:45:01::'
+    - id: 'odiously%4:02:01::'
       pertainym:
       - odious%5:00:00:hateful:00
       synset: 00311025-r
@@ -8993,7 +8993,7 @@ oeuvre:
 of a sudden:
   r:
     sense:
-    - id: 'of_a_sudden%4:45:01::'
+    - id: 'of_a_sudden%4:02:01::'
       synset: 81484980-r
 of age:
   a:
@@ -9004,14 +9004,14 @@ of age:
 of all time:
   r:
     sense:
-    - id: 'of_all_time%4:49:00::'
+    - id: 'of_all_time%4:02:00::'
       synset: 00147423-r
 of course:
   r:
     pronunciation:
     - value: əv ˈkɔː(ɹ)s
     sense:
-    - id: 'of_course%4:51:00::'
+    - id: 'of_course%4:02:00::'
       synset: 00039019-r
 of import:
   a:
@@ -9021,12 +9021,12 @@ of import:
 of late:
   r:
     sense:
-    - id: 'of_late%4:49:00::'
+    - id: 'of_late%4:02:00::'
       synset: 00108184-r
 of necessity:
   r:
     sense:
-    - id: 'of_necessity%4:51:00::'
+    - id: 'of_necessity%4:02:00::'
       synset: 00113314-r
 of sound mind:
   a:
@@ -9077,11 +9077,11 @@ of unsound mind:
     - value: ɔf
       variety: US
     sense:
-    - id: 'off%4:50:03::'
+    - id: 'off%4:02:03::'
       synset: 00234667-r
-    - id: 'off%4:50:00::'
+    - id: 'off%4:02:00::'
       synset: 00236984-r
-    - id: 'off%4:50:04::'
+    - id: 'off%4:02:04::'
       synset: 00194904-r
   v:
     pronunciation:
@@ -9097,7 +9097,7 @@ of unsound mind:
 off and on:
   r:
     sense:
-    - id: 'off_and_on%4:48:00::'
+    - id: 'off_and_on%4:02:00::'
       synset: 00170405-r
 off fleek:
   a:
@@ -9129,7 +9129,7 @@ off one's guard:
 off the beaten path:
   r:
     sense:
-    - id: 'off_the_beaten_path%4:50:00::'
+    - id: 'off_the_beaten_path%4:02:00::'
       synset: 00041802-r
 off the beaten track:
   a:
@@ -9139,12 +9139,12 @@ off the beaten track:
       synset: 00446237-s
   r:
     sense:
-    - id: 'off_the_beaten_track%4:50:00::'
+    - id: 'off_the_beaten_track%4:02:00::'
       synset: 00041802-r
 off the cuff:
   r:
     sense:
-    - id: 'off_the_cuff%4:45:00::'
+    - id: 'off_the_cuff%4:02:00::'
       synset: 00170506-r
 off the hook:
   a:
@@ -9155,7 +9155,7 @@ off the hook:
 off the record:
   r:
     sense:
-    - id: 'off_the_record%4:45:00::'
+    - id: 'off_the_record%4:02:00::'
       synset: 00170754-r
 off year:
   n:
@@ -9237,7 +9237,7 @@ off-guard:
 off-hand:
   r:
     sense:
-    - id: 'off-hand%4:45:00::'
+    - id: 'off-hand%4:02:00::'
       synset: 00260899-r
 off-key:
   a:
@@ -9316,7 +9316,7 @@ off-street:
 off-the-clock:
   r:
     sense:
-    - id: 'off-the-clock%4:49:00::'
+    - id: 'off-the-clock%4:02:00::'
       synset: 00261310-r
 off-the-cuff:
   a:
@@ -9586,18 +9586,18 @@ offensively:
   r:
     sense:
     - antonym:
-      - 'inoffensively%4:45:00::'
-      id: 'offensively%4:51:02::'
+      - 'inoffensively%4:02:00::'
+      id: 'offensively%4:02:02::'
       pertainym:
       - 'offensive%3:00:01::'
       synset: 00308726-r
-    - id: 'offensively%4:45:01::'
+    - id: 'offensively%4:02:01::'
       pertainym:
       - 'offensive%3:00:02::'
       synset: 00308302-r
     - antonym:
-      - 'defensively%4:45:00::'
-      id: 'offensively%4:45:00::'
+      - 'defensively%4:02:00::'
+      id: 'offensively%4:02:00::'
       pertainym:
       - 'offensive%3:00:03::'
       synset: 00308075-r
@@ -9815,9 +9815,9 @@ offhand:
     - value: ˌɔfˈhænd
       variety: US
     sense:
-    - id: 'offhand%4:45:01::'
+    - id: 'offhand%4:02:01::'
       synset: 00265088-r
-    - id: 'offhand%4:45:00::'
+    - id: 'offhand%4:02:00::'
       synset: 00264858-r
 offhanded:
   a:
@@ -9834,9 +9834,9 @@ offhanded:
       synset: 00314114-s
   r:
     sense:
-    - id: 'offhanded%4:45:01::'
+    - id: 'offhanded%4:02:01::'
       synset: 00265088-r
-    - id: 'offhanded%4:45:00::'
+    - id: 'offhanded%4:02:00::'
       synset: 00264858-r
 offhandedly:
   r:
@@ -9844,11 +9844,11 @@ offhandedly:
     - value: ˌɑfˈhændədli
       variety: US
     sense:
-    - id: 'offhandedly%4:45:01::'
+    - id: 'offhandedly%4:02:01::'
       pertainym:
       - offhanded%5:00:00:unprepared:00
       synset: 00265088-r
-    - id: 'offhandedly%4:45:00::'
+    - id: 'offhandedly%4:02:00::'
       pertainym:
       - offhanded%5:00:00:careless:00
       synset: 00264858-r
@@ -10062,12 +10062,12 @@ officially:
     - value: əˈfɪʃəli
     sense:
     - antonym:
-      - 'unofficially%4:45:00::'
-      id: 'officially%4:52:00::'
+      - 'unofficially%4:02:00::'
+      id: 'officially%4:02:00::'
       pertainym:
       - official%5:00:00:regular:00
       synset: 00115217-r
-    - id: 'officially%4:45:01::'
+    - id: 'officially%4:02:01::'
       pertainym:
       - 'official%3:00:00::'
       synset: 00188003-r
@@ -10140,7 +10140,7 @@ officious:
 officiously:
   r:
     sense:
-    - id: 'officiously%4:45:00::'
+    - id: 'officiously%4:02:00::'
       pertainym:
       - officious%5:00:00:intrusive:01
       synset: 00415132-r
@@ -10313,8 +10313,8 @@ offshore:
     - value: ɒfˈʃɔː(ɹ)
     sense:
     - antonym:
-      - 'onshore%4:50:00::'
-      id: 'offshore%4:50:00::'
+      - 'onshore%4:02:00::'
+      id: 'offshore%4:02:00::'
       synset: 00141083-r
 offshore rig:
   n:
@@ -10340,7 +10340,7 @@ offside:
     pronunciation:
     - value: ɒfˈsaɪd
     sense:
-    - id: 'offside%4:50:00::'
+    - id: 'offside%4:02:00::'
       synset: 00415483-r
 offsides:
   a:
@@ -10377,10 +10377,10 @@ offstage:
   r:
     sense:
     - antonym:
-      - 'onstage%4:50:00::'
-      id: 'offstage%4:50:00::'
+      - 'onstage%4:02:00::'
+      id: 'offstage%4:02:00::'
       synset: 00261085-r
-    - id: 'offstage%4:50:01::'
+    - id: 'offstage%4:02:01::'
       synset: 00261005-r
 oft:
   r:
@@ -10389,7 +10389,7 @@ oft:
       variety: US
     - value: ɑft
     sense:
-    - id: 'oft%4:48:00::'
+    - id: 'oft%4:02:00::'
       synset: 00035445-r
 often:
   r:
@@ -10400,17 +10400,17 @@ often:
       variety: US
     sense:
     - antonym:
-      - 'rarely%4:48:00::'
-      id: 'often%4:48:00::'
+      - 'rarely%4:02:00::'
+      id: 'often%4:02:00::'
       synset: 00035445-r
-    - id: 'often%4:51:01::'
+    - id: 'often%4:02:01::'
       synset: 00059951-r
-    - id: 'often%4:48:02::'
+    - id: 'often%4:02:02::'
       synset: 00060085-r
 oftener:
   r:
     sense:
-    - id: 'oftener%4:48:00::'
+    - id: 'oftener%4:02:00::'
       synset: 00035642-r
 oftenness:
   n:
@@ -10425,12 +10425,12 @@ oftentimes:
     - value: ˈɔf.ənˌtaɪmz
       variety: US
     sense:
-    - id: 'oftentimes%4:48:00::'
+    - id: 'oftentimes%4:02:00::'
       synset: 00035445-r
 ofttimes:
   r:
     sense:
-    - id: 'ofttimes%4:48:00::'
+    - id: 'ofttimes%4:02:00::'
       synset: 00035445-r
 ogdoad:
   n:
@@ -11093,7 +11093,7 @@ okay:
     - value: ˌoʊˈkeɪ
       variety: US
     sense:
-    - id: 'okay%4:45:00::'
+    - id: 'okay%4:02:00::'
       synset: 00015933-r
   v:
     pronunciation:
@@ -12291,7 +12291,7 @@ ominous:
 ominously:
   r:
     sense:
-    - id: 'ominously%4:45:00::'
+    - id: 'ominously%4:02:00::'
       pertainym:
       - ominous%5:00:00:alarming:00
       synset: 00239150-r
@@ -12580,81 +12580,81 @@ omphalus:
       synset: 01656183-a
   r:
     sense:
-    - id: 'on%4:50:00::'
+    - id: 'on%4:02:00::'
       synset: 00068768-r
-    - id: 'on%4:49:01::'
+    - id: 'on%4:02:01::'
       synset: 00069746-r
-    - id: 'on%4:50:02::'
+    - id: 'on%4:02:02::'
       synset: 00069872-r
 on a higher floor:
   r:
     sense:
-    - id: 'on_a_higher_floor%4:50:00::'
+    - id: 'on_a_higher_floor%4:02:00::'
       synset: 00095095-r
 on a lower floor:
   r:
     sense:
-    - id: 'on_a_lower_floor%4:50:00::'
+    - id: 'on_a_lower_floor%4:02:00::'
       synset: 00094946-r
 on a regular basis:
   r:
     sense:
-    - id: 'on_a_regular_basis%4:48:00::'
+    - id: 'on_a_regular_basis%4:02:00::'
       synset: 00333223-r
 on air:
   r:
     sense:
-    - id: 'on_air%4:50:00::'
+    - id: 'on_air%4:02:00::'
       synset: 00282316-r
 on all fours:
   r:
     sense:
-    - id: 'on_all_fours%4:50:00::'
+    - id: 'on_all_fours%4:02:00::'
       synset: 00170857-r
 on an individual basis:
   r:
     sense:
-    - id: 'on_an_individual_basis%4:53:00::'
+    - id: 'on_an_individual_basis%4:02:00::'
       synset: 00208995-r
 on an irregular basis:
   r:
     sense:
-    - id: 'on_an_irregular_basis%4:48:00::'
+    - id: 'on_an_irregular_basis%4:02:00::'
       synset: 00333384-r
 on and off:
   r:
     sense:
-    - id: 'on_and_off%4:48:00::'
+    - id: 'on_and_off%4:02:00::'
       synset: 00170405-r
 on approval:
   r:
     sense:
-    - id: 'on_approval%4:45:00::'
+    - id: 'on_approval%4:02:00::'
       synset: 00171080-r
 on average:
   r:
     sense:
-    - id: 'on_average%4:48:00::'
+    - id: 'on_average%4:02:00::'
       synset: 00170970-r
 on board:
   r:
     sense:
-    - id: 'on_board%4:50:00::'
+    - id: 'on_board%4:02:00::'
       synset: 00251347-r
 on camera:
   r:
     sense:
-    - id: 'on_camera%4:50:00::'
+    - id: 'on_camera%4:02:00::'
       synset: 00517008-r
 on earth:
   r:
     sense:
-    - id: 'on_earth%4:53:00::'
+    - id: 'on_earth%4:02:00::'
       synset: 00510788-r
 on faith:
   r:
     sense:
-    - id: 'on_faith%4:45:00::'
+    - id: 'on_faith%4:02:00::'
       synset: 00171192-r
 on fire:
   a:
@@ -12683,22 +12683,22 @@ on hand:
 on it:
   r:
     sense:
-    - id: 'on_it%4:50:00::'
+    - id: 'on_it%4:02:00::'
       synset: 00470165-r
 on occasion:
   r:
     sense:
-    - id: 'on_occasion%4:48:00::'
+    - id: 'on_occasion%4:02:00::'
       synset: 00021667-r
 on one hand:
   r:
     sense:
-    - id: 'on_one_hand%4:54:00::'
+    - id: 'on_one_hand%4:02:00::'
       synset: 00120682-r
 on one's coattails:
   r:
     sense:
-    - id: 'on_one''s_coattails%4:49:00::'
+    - id: 'on_one''s_coattails%4:02:00::'
       synset: 00120252-r
 on one's guard:
   a:
@@ -12709,19 +12709,19 @@ on one's guard:
 on paper:
   r:
     sense:
-    - id: 'on_paper%4:50:01::'
+    - id: 'on_paper%4:02:01::'
       synset: 00248151-r
-    - id: 'on_paper%4:52:02::'
+    - id: 'on_paper%4:02:02::'
       synset: 00171356-r
 on purpose:
   r:
     sense:
-    - id: 'on_purpose%4:45:00::'
+    - id: 'on_purpose%4:02:00::'
       synset: 00062868-r
 on request:
   r:
     sense:
-    - id: 'on_request%4:45:00::'
+    - id: 'on_request%4:02:00::'
       synset: 00160970-r
 on tap:
   a:
@@ -12735,22 +12735,22 @@ on tap:
 on that:
   r:
     sense:
-    - id: 'on_that%4:50:00::'
+    - id: 'on_that%4:02:00::'
       synset: 00470165-r
 on the Q.T.:
   r:
     sense:
-    - id: 'on_the_q.t.%4:45:00::'
+    - id: 'on_the_q.t.%4:02:00::'
       synset: 00167727-r
 on the QT:
   r:
     sense:
-    - id: 'on_the_qt%4:45:00::'
+    - id: 'on_the_qt%4:02:00::'
       synset: 00167727-r
 on the average:
   r:
     sense:
-    - id: 'on_the_average%4:48:00::'
+    - id: 'on_the_average%4:02:00::'
       synset: 00170970-r
 on the button:
   a:
@@ -12759,27 +12759,27 @@ on the button:
       synset: 01844833-s
   r:
     sense:
-    - id: 'on_the_button%4:51:00::'
+    - id: 'on_the_button%4:02:00::'
       synset: 00370459-r
 on the coattails:
   r:
     sense:
-    - id: 'on_the_coattails%4:49:00::'
+    - id: 'on_the_coattails%4:02:00::'
       synset: 00120252-r
 on the contrary:
   r:
     sense:
-    - id: 'on_the_contrary%4:54:02::'
+    - id: 'on_the_contrary%4:02:02::'
       synset: 00171723-r
 on the dot:
   r:
     sense:
-    - id: 'on_the_dot%4:51:00::'
+    - id: 'on_the_dot%4:02:00::'
       synset: 00370459-r
 on the face of it:
   r:
     sense:
-    - id: 'on_the_face_of_it%4:51:00::'
+    - id: 'on_the_face_of_it%4:02:00::'
       synset: 00040353-r
 on the fence:
   a:
@@ -12790,9 +12790,9 @@ on the fence:
 on the fly:
   r:
     sense:
-    - id: 'on_the_fly%4:45:01::'
+    - id: 'on_the_fly%4:02:01::'
       synset: 00172037-r
-    - id: 'on_the_fly%4:45:00::'
+    - id: 'on_the_fly%4:02:00::'
       synset: 00171925-r
 on the go:
   a:
@@ -12825,7 +12825,7 @@ on the nose:
       synset: 01844833-s
   r:
     sense:
-    - id: 'on_the_nose%4:51:00::'
+    - id: 'on_the_nose%4:02:00::'
       synset: 00370459-r
 on the offensive:
   a:
@@ -12837,15 +12837,15 @@ on the one hand:
   r:
     sense:
     - antonym:
-      - 'on_the_other_hand%4:54:00::'
-      id: 'on_the_one_hand%4:54:00::'
+      - 'on_the_other_hand%4:02:00::'
+      id: 'on_the_one_hand%4:02:00::'
       synset: 00120682-r
 on the other hand:
   r:
     sense:
     - antonym:
-      - 'on_the_one_hand%4:54:00::'
-      id: 'on_the_other_hand%4:54:00::'
+      - 'on_the_one_hand%4:02:00::'
+      id: 'on_the_other_hand%4:02:00::'
       synset: 00120473-r
 on the qui vive:
   n:
@@ -12860,26 +12860,26 @@ on the road:
 on the side:
   r:
     sense:
-    - id: 'on_the_side%4:53:00::'
+    - id: 'on_the_side%4:02:00::'
       synset: 00245660-r
 on the sly:
   r:
     sense:
-    - id: 'on_the_sly%4:45:01::'
+    - id: 'on_the_sly%4:02:01::'
       synset: 00106857-r
 on the spot:
   r:
     sense:
-    - id: 'on_the_spot%4:49:00::'
+    - id: 'on_the_spot%4:02:00::'
       synset: 00172124-r
-    - id: 'on_the_spot%4:50:02::'
+    - id: 'on_the_spot%4:02:02::'
       synset: 00172436-r
-    - id: 'on_the_spot%4:50:01::'
+    - id: 'on_the_spot%4:02:01::'
       synset: 00172276-r
 on the spur of the moment:
   r:
     sense:
-    - id: 'on_the_spur_of_the_moment%4:45:01::'
+    - id: 'on_the_spur_of_the_moment%4:02:01::'
       synset: 81484980-r
 on the table:
   a:
@@ -12889,17 +12889,17 @@ on the table:
 on the way:
   r:
     sense:
-    - id: 'on_the_way%4:50:00::'
+    - id: 'on_the_way%4:02:00::'
       synset: 00172731-r
 on the whole:
   r:
     sense:
-    - id: 'on_the_whole%4:53:00::'
+    - id: 'on_the_whole%4:02:00::'
       synset: 00152813-r
 on the wing:
   r:
     sense:
-    - id: 'on_the_wing%4:50:00::'
+    - id: 'on_the_wing%4:02:00::'
       synset: 00507466-r
 on time:
   a:
@@ -12910,7 +12910,7 @@ on time:
       synset: 00138462-s
   r:
     sense:
-    - id: 'on_time%4:49:00::'
+    - id: 'on_time%4:02:00::'
       synset: 00172866-r
 on tour:
   n:
@@ -13044,31 +13044,31 @@ once:
     pronunciation:
     - value: wʌn(t)s
     sense:
-    - id: 'once%4:49:00::'
+    - id: 'once%4:02:00::'
       synset: 00119765-r
-    - id: 'once%4:49:02::'
+    - id: 'once%4:02:02::'
       synset: 00182828-r
-    - id: 'once%4:49:01::'
+    - id: 'once%4:02:01::'
       synset: 00119861-r
 once again:
   r:
     sense:
-    - id: 'once_again%4:48:00::'
+    - id: 'once_again%4:02:00::'
       synset: 00040777-r
 once and for all:
   r:
     sense:
-    - id: 'once_and_for_all%4:45:00::'
+    - id: 'once_and_for_all%4:02:00::'
       synset: 00093535-r
 once in a while:
   r:
     sense:
-    - id: 'once_in_a_while%4:48:00::'
+    - id: 'once_in_a_while%4:02:00::'
       synset: 00021667-r
 once more:
   r:
     sense:
-    - id: 'once_more%4:48:00::'
+    - id: 'once_more%4:02:00::'
       synset: 00040777-r
 once-over:
   n:
@@ -13200,12 +13200,12 @@ one C:
 one after another:
   r:
     sense:
-    - id: 'one_after_another%4:45:00::'
+    - id: 'one_after_another%4:02:00::'
       synset: 00508403-r
 one after the other:
   r:
     sense:
-    - id: 'one_after_the_other%4:45:00::'
+    - id: 'one_after_the_other%4:02:00::'
       synset: 00508403-r
 one and only:
   a:
@@ -13216,16 +13216,16 @@ one and only:
 one at a time:
   r:
     sense:
-    - id: 'one_at_a_time%4:45:00::'
+    - id: 'one_at_a_time%4:02:00::'
       synset: 00508298-r
 one by one:
   r:
     sense:
-    - id: 'one_by_one%4:45:02::'
+    - id: 'one_by_one%4:02:02::'
       synset: 00508298-r
-    - id: 'one_by_one%4:45:00::'
+    - id: 'one_by_one%4:02:00::'
       synset: 00157510-r
-    - id: 'one_by_one%4:53:01::'
+    - id: 'one_by_one%4:02:01::'
       synset: 00208995-r
 one dollar bill:
   n:
@@ -13381,7 +13381,7 @@ one thousand thousand:
 one time:
   r:
     sense:
-    - id: 'one_time%4:49:00::'
+    - id: 'one_time%4:02:00::'
       synset: 00119765-r
 one-act play:
   n:
@@ -13576,7 +13576,7 @@ one-on-one:
       synset: 00496243-s
   r:
     sense:
-    - id: 'one-on-one%4:45:00::'
+    - id: 'one-on-one%4:02:00::'
       synset: 00044989-r
 one-party:
   a:
@@ -13639,7 +13639,7 @@ one-sided:
 one-sidedly:
   r:
     sense:
-    - id: 'one-sidedly%4:45:00::'
+    - id: 'one-sidedly%4:02:00::'
       synset: 00254597-r
 one-sixteenth:
   n:
@@ -13836,7 +13836,7 @@ onerous:
 onerously:
   r:
     sense:
-    - id: 'onerously%4:51:00::'
+    - id: 'onerously%4:02:00::'
       pertainym:
       - onerous%5:00:00:heavy:02
       synset: 00415559-r
@@ -13967,7 +13967,7 @@ online:
       synset: 00671159-s
   r:
     sense:
-    - id: 'online%4:50:03::'
+    - id: 'online%4:02:03::'
       synset: 81276284-r
 onlooker:
   n:
@@ -13994,22 +13994,22 @@ only:
     - value: ˈoʊn.li
       variety: US
     sense:
-    - id: 'only%4:53:02::'
+    - id: 'only%4:02:02::'
       synset: 00005103-r
-    - id: 'only%4:51:01::'
+    - id: 'only%4:02:01::'
       synset: 00009062-r
-    - id: 'only%4:53:00::'
+    - id: 'only%4:02:00::'
       synset: 00011221-r
-    - id: 'only%4:53:04::'
+    - id: 'only%4:02:04::'
       synset: 00011376-r
-    - id: 'only%4:54:06::'
+    - id: 'only%4:02:06::'
       synset: 00028715-r
-    - id: 'only%4:53:05::'
+    - id: 'only%4:02:05::'
       synset: 00011473-r
 only too:
   r:
     sense:
-    - id: 'only_too%4:51:00::'
+    - id: 'only_too%4:02:00::'
       synset: 00251727-r
 onomancer:
   n:
@@ -14144,8 +14144,8 @@ onshore:
   r:
     sense:
     - antonym:
-      - 'offshore%4:50:00::'
-      id: 'onshore%4:50:00::'
+      - 'offshore%4:02:00::'
+      id: 'onshore%4:02:00::'
       synset: 00141202-r
 onside:
   a:
@@ -14175,8 +14175,8 @@ onstage:
   r:
     sense:
     - antonym:
-      - 'offstage%4:50:00::'
-      id: 'onstage%4:50:00::'
+      - 'offstage%4:02:00::'
+      id: 'onstage%4:02:00::'
       synset: 00261207-r
 onto function:
   n:
@@ -14248,11 +14248,11 @@ onward:
     - value: ˈɑnwɚd
       variety: US
     sense:
-    - id: 'onward%4:49:00::'
+    - id: 'onward%4:02:00::'
       synset: 00104546-r
     - exemplifies:
       - 'american_english%1:10:00::'
-      id: 'onward%4:50:01::'
+      id: 'onward%4:02:01::'
       synset: 00067665-r
 onward motion:
   n:
@@ -14264,7 +14264,7 @@ onwards:
     sense:
     - exemplifies:
       - 'british_english%1:10:01::'
-      id: 'onwards%4:50:00::'
+      id: 'onwards%4:02:00::'
       synset: 00067665-r
 onycholysis:
   n:
@@ -14676,7 +14676,7 @@ opaque gem:
 opaquely:
   r:
     sense:
-    - id: 'opaquely%4:45:00::'
+    - id: 'opaquely%4:02:00::'
       pertainym:
       - opaque%5:00:00:incomprehensible:00
       synset: 00415635-r
@@ -15347,7 +15347,7 @@ openly:
     - value: ˈoʊpənli
       variety: US
     sense:
-    - id: 'openly%4:45:00::'
+    - id: 'openly%4:02:00::'
       pertainym:
       - 'open%3:00:02::'
       synset: 00053932-r
@@ -15811,7 +15811,7 @@ operationalist:
 operationally:
   r:
     sense:
-    - id: 'operationally%4:52:00::'
+    - id: 'operationally%4:02:00::'
       pertainym:
       - operational%5:00:00:operative:00
       synset: 00415752-r
@@ -15867,7 +15867,7 @@ operative field:
 operatively:
   r:
     sense:
-    - id: 'operatively%4:45:00::'
+    - id: 'operatively%4:02:00::'
       pertainym:
       - operative%5:00:00:significant:00
       synset: 00138072-r
@@ -16269,8 +16269,8 @@ opportunely:
       variety: US
     sense:
     - antonym:
-      - 'inopportunely%4:45:00::'
-      id: 'opportunely%4:49:00::'
+      - 'inopportunely%4:02:00::'
+      id: 'opportunely%4:02:00::'
       pertainym:
       - 'opportune%3:00:00::'
       synset: 00378096-r
@@ -16489,7 +16489,7 @@ opposite:
     - value: ˈɑp(ə)sɪt
       variety: US
     sense:
-    - id: 'opposite%4:50:00::'
+    - id: 'opposite%4:02:00::'
       synset: 00045286-r
 opposite number:
   n:
@@ -16504,7 +16504,7 @@ opposite word:
 oppositely:
   r:
     sense:
-    - id: 'oppositely%4:45:00::'
+    - id: 'oppositely%4:02:00::'
       pertainym:
       - opposite%5:00:01:other:00
       synset: 00171643-r
@@ -16616,7 +16616,7 @@ oppressive:
 oppressively:
   r:
     sense:
-    - id: 'oppressively%4:51:00::'
+    - id: 'oppressively%4:02:00::'
       pertainym:
       - oppressive%5:00:00:heavy:02
       synset: 00415941-r
@@ -17004,7 +17004,7 @@ optical telescope:
 optically:
   r:
     sense:
-    - id: 'optically%4:52:00::'
+    - id: 'optically%4:02:00::'
       pertainym:
       - 'optical%3:01:01::'
       synset: 00133851-r
@@ -17037,7 +17037,7 @@ optimal:
 optimally:
   r:
     sense:
-    - id: 'optimally%4:45:00::'
+    - id: 'optimally%4:02:00::'
       pertainym:
       - optimal%5:00:00:best:00
       synset: 00416070-r
@@ -17149,8 +17149,8 @@ optimistically:
   r:
     sense:
     - antonym:
-      - 'pessimistically%4:45:00::'
-      id: 'optimistically%4:46:00::'
+      - 'pessimistically%4:02:00::'
+      id: 'optimistically%4:02:00::'
       pertainym:
       - 'optimistic%3:00:00::'
       synset: 00416162-r
@@ -17260,8 +17260,8 @@ optionally:
   r:
     sense:
     - antonym:
-      - 'obligatorily%4:45:01::'
-      id: 'optionally%4:45:00::'
+      - 'obligatorily%4:02:01::'
+      id: 'optionally%4:02:00::'
       pertainym:
       - 'optional%3:00:00::'
       synset: 00416529-r
@@ -17303,7 +17303,7 @@ opulent:
 opulently:
   r:
     sense:
-    - id: 'opulently%4:45:00::'
+    - id: 'opulently%4:02:00::'
       pertainym:
       - opulent%5:00:00:rich:03
       synset: 00416794-r
@@ -17317,12 +17317,12 @@ opus:
 or else:
   r:
     sense:
-    - id: 'or_else%4:54:01::'
+    - id: 'or_else%4:02:01::'
       synset: 00063710-r
 or so:
   r:
     sense:
-    - id: 'or_so%4:49:00::'
+    - id: 'or_so%4:02:00::'
       synset: 00007414-r
 orach:
   n:
@@ -17383,8 +17383,8 @@ orad:
   r:
     sense:
     - antonym:
-      - 'aborad%4:50:00::'
-      id: 'orad%4:50:00::'
+      - 'aborad%4:02:00::'
+      id: 'orad%4:02:00::'
       pertainym:
       - 'oral%3:00:00::'
       synset: 00174207-r
@@ -17528,11 +17528,11 @@ orally:
     pronunciation:
     - value: ˈɔːɹəli
     sense:
-    - id: 'orally%4:45:01::'
+    - id: 'orally%4:02:01::'
       pertainym:
       - 'oral%3:01:00::'
       synset: 00157777-r
-    - id: 'orally%4:45:00::'
+    - id: 'orally%4:02:00::'
       pertainym:
       - oral%5:00:00:spoken:00
       synset: 00157619-r
@@ -20419,7 +20419,7 @@ ordinarily:
     - value: ɔɹdɪˈnɛɹɪli
       variety: US
     sense:
-    - id: 'ordinarily%4:48:00::'
+    - id: 'ordinarily%4:02:00::'
       pertainym:
       - 'ordinary%3:00:00::'
       synset: 00107608-r
@@ -20794,17 +20794,17 @@ organic structure:
 organically:
   r:
     sense:
-    - id: 'organically%4:45:01::'
+    - id: 'organically%4:02:01::'
       pertainym:
       - organic%5:00:00:essential:00
       synset: 00114489-r
     - antonym:
-      - 'inorganically%4:45:02::'
-      id: 'organically%4:45:00::'
+      - 'inorganically%4:02:02::'
+      id: 'organically%4:02:00::'
       pertainym:
       - 'organic%3:00:01::'
       synset: 00114218-r
-    - id: 'organically%4:45:02::'
+    - id: 'organically%4:02:02::'
       pertainym:
       - 'organic%3:00:02::'
       synset: 00114629-r
@@ -21165,7 +21165,7 @@ organizational:
 organizationally:
   r:
     sense:
-    - id: 'organizationally%4:52:00::'
+    - id: 'organizationally%4:02:00::'
       pertainym:
       - 'organizational%3:01:00::'
       synset: 00416968-r
@@ -21774,13 +21774,13 @@ originally:
     pronunciation:
     - value: əˈɹɪdʒɪnəli
     sense:
-    - id: 'originally%4:49:00::'
+    - id: 'originally%4:02:00::'
       pertainym:
       - 'original%3:00:00::'
       synset: 00155858-r
-    - id: 'originally%4:49:01::'
+    - id: 'originally%4:02:01::'
       synset: 00433834-r
-    - id: 'originally%4:49:02::'
+    - id: 'originally%4:02:02::'
       synset: 00168316-r
 originate:
   v:
@@ -22012,7 +22012,7 @@ ornamentalist:
 ornamentally:
   r:
     sense:
-    - id: 'ornamentally%4:45:00::'
+    - id: 'ornamentally%4:02:00::'
       pertainym:
       - ornamental%5:00:00:nonfunctional:00
       synset: 00208808-r
@@ -22042,7 +22042,7 @@ ornate:
 ornately:
   r:
     sense:
-    - id: 'ornately%4:45:00::'
+    - id: 'ornately%4:02:00::'
       synset: 00208905-r
 ornateness:
   n:
@@ -23107,7 +23107,7 @@ osmotic pressure:
 osmotically:
   r:
     sense:
-    - id: 'osmotically%4:45:00::'
+    - id: 'osmotically%4:02:00::'
       pertainym:
       - 'osmotic%3:01:00::'
       synset: 00417110-r
@@ -23303,7 +23303,7 @@ ostensibly:
     - value: ɑːˈstɛn.sə.bli
       variety: US
     sense:
-    - id: 'ostensibly%4:51:00::'
+    - id: 'ostensibly%4:02:00::'
       pertainym:
       - ostensible%5:00:00:counterfeit:00
       synset: 00040353-r
@@ -23378,7 +23378,7 @@ ostentatious:
 ostentatiously:
   r:
     sense:
-    - id: 'ostentatiously%4:45:00::'
+    - id: 'ostentatiously%4:02:00::'
       pertainym:
       - 'ostentatious%3:00:00::'
       synset: 00417187-r
@@ -23745,9 +23745,9 @@ otherwise:
     - value: ˈʌ.ðɚˌwaɪz
       variety: US
     sense:
-    - id: 'otherwise%4:53:01::'
+    - id: 'otherwise%4:02:01::'
       synset: 00046442-r
-    - id: 'otherwise%4:45:03::'
+    - id: 'otherwise%4:02:03::'
       synset: 00114003-r
 otherworld:
   n:
@@ -24110,11 +24110,11 @@ out:
     pronunciation:
     - value: aʊt
     sense:
-    - id: 'out%4:50:02::'
+    - id: 'out%4:02:02::'
       synset: 00234593-r
-    - id: 'out%4:50:04::'
+    - id: 'out%4:02:04::'
       synset: 00235144-r
-    - id: 'out%4:50:03::'
+    - id: 'out%4:02:03::'
       synset: 00235026-r
   v:
     pronunciation:
@@ -24137,12 +24137,12 @@ out:
 out and away:
   r:
     sense:
-    - id: 'out_and_away%4:51:00::'
+    - id: 'out_and_away%4:02:00::'
       synset: 00047594-r
 out front:
   r:
     sense:
-    - id: 'out_front%4:50:00::'
+    - id: 'out_front%4:02:00::'
       synset: 00067913-r
 out in:
   v:
@@ -24154,12 +24154,12 @@ out in:
 out loud:
   r:
     sense:
-    - id: 'out_loud%4:45:00::'
+    - id: 'out_loud%4:02:00::'
       synset: 00070171-r
 out of:
   r:
     sense:
-    - id: 'out_of%4:45:00::'
+    - id: 'out_of%4:02:00::'
       synset: 00235303-r
 out of bounds:
   n:
@@ -24169,7 +24169,7 @@ out of bounds:
 out of doors:
   r:
     sense:
-    - id: 'out_of_doors%4:50:00::'
+    - id: 'out_of_doors%4:02:00::'
       synset: 00111402-r
 out of fashion:
   a:
@@ -24186,8 +24186,8 @@ out of hand:
   r:
     sense:
     - antonym:
-      - 'in_hand%4:50:00::'
-      id: 'out_of_hand%4:45:00::'
+      - 'in_hand%4:02:00::'
+      id: 'out_of_hand%4:02:00::'
       synset: 00149480-r
 out of it:
   a:
@@ -24207,7 +24207,7 @@ out of keeping:
 out of nothing:
   r:
     sense:
-    - id: 'out_of_nothing%4:50:00::'
+    - id: 'out_of_nothing%4:02:00::'
       synset: 00172975-r
 out of place:
   a:
@@ -24216,7 +24216,7 @@ out of place:
       synset: 00140050-s
   r:
     sense:
-    - id: 'out_of_place%4:46:00::'
+    - id: 'out_of_place%4:02:00::'
       synset: 00512777-r
 out of play:
   a:
@@ -24248,9 +24248,9 @@ out of sight:
       synset: 02527874-s
   r:
     sense:
-    - id: 'out_of_sight%4:50:01::'
+    - id: 'out_of_sight%4:02:01::'
       synset: 00512638-r
-    - id: 'out_of_sight%4:45:00::'
+    - id: 'out_of_sight%4:02:00::'
       synset: 00253718-r
 out of stock:
   a:
@@ -24266,7 +24266,7 @@ out of the blue:
       synset: 00934006-s
   r:
     sense:
-    - id: 'out_of_the_blue%4:45:00::'
+    - id: 'out_of_the_blue%4:02:00::'
       synset: 00041131-r
 out of the ordinary:
   a:
@@ -24293,20 +24293,20 @@ out of the way:
       synset: 00446237-s
   r:
     sense:
-    - id: 'out_of_the_way%4:46:05::'
+    - id: 'out_of_the_way%4:02:05::'
       synset: 00041684-r
-    - id: 'out_of_the_way%4:50:04::'
+    - id: 'out_of_the_way%4:02:04::'
       synset: 00041626-r
-    - id: 'out_of_the_way%4:50:03::'
+    - id: 'out_of_the_way%4:02:03::'
       synset: 00041525-r
-    - id: 'out_of_the_way%4:50:02::'
+    - id: 'out_of_the_way%4:02:02::'
       synset: 00041426-r
-    - id: 'out_of_the_way%4:50:00::'
+    - id: 'out_of_the_way%4:02:00::'
       synset: 00041294-r
 out of thin air:
   r:
     sense:
-    - id: 'out_of_thin_air%4:50:00::'
+    - id: 'out_of_thin_air%4:02:00::'
       synset: 00172975-r
 out of this world:
   a:
@@ -24321,14 +24321,14 @@ out of true:
 out of view:
   r:
     sense:
-    - id: 'out_of_view%4:50:00::'
+    - id: 'out_of_view%4:02:00::'
       synset: 00512638-r
 out of wedlock:
   r:
     sense:
-    - id: 'out_of_wedlock%4:45:00::'
+    - id: 'out_of_wedlock%4:02:00::'
       synset: 00364446-r
-    - id: 'out_of_wedlock%4:45:01::'
+    - id: 'out_of_wedlock%4:02:01::'
       synset: 00173105-r
 out of whack:
   a:
@@ -24794,8 +24794,8 @@ outdoors:
     - value: aʊtˈdɔː(ɹ)z
     sense:
     - antonym:
-      - 'indoors%4:50:00::'
-      id: 'outdoors%4:50:00::'
+      - 'indoors%4:02:00::'
+      id: 'outdoors%4:02:00::'
       synset: 00111402-r
 outdoorsman:
   n:
@@ -25192,7 +25192,7 @@ outlandish:
 outlandishly:
   r:
     sense:
-    - id: 'outlandishly%4:45:00::'
+    - id: 'outlandishly%4:02:00::'
       pertainym:
       - outlandish%5:00:00:unconventional:01
       synset: 00417406-r
@@ -25694,11 +25694,11 @@ outrageous:
 outrageously:
   r:
     sense:
-    - id: 'outrageously%4:45:01::'
+    - id: 'outrageously%4:02:01::'
       pertainym:
       - outrageous%5:00:00:offensive:01
       synset: 00118415-r
-    - id: 'outrageously%4:51:00::'
+    - id: 'outrageously%4:02:00::'
       pertainym:
       - outrageous%5:00:00:immoderate:00
       synset: 00118279-r
@@ -25789,13 +25789,13 @@ outright:
     pronunciation:
     - value: aʊtˈɹaɪt
     sense:
-    - id: 'outright%4:45:01::'
+    - id: 'outright%4:02:01::'
       synset: 00098281-r
-    - id: 'outright%4:45:00::'
+    - id: 'outright%4:02:00::'
       synset: 00098170-r
-    - id: 'outright%4:51:02::'
+    - id: 'outright%4:02:02::'
       synset: 00033808-r
-    - id: 'outright%4:51:03::'
+    - id: 'outright%4:02:03::'
       synset: 00098072-r
 outrival:
   v:
@@ -25948,12 +25948,12 @@ outside:
     - value: ˈaʊtsaɪd
     sense:
     - antonym:
-      - 'inside%4:50:00::'
-      id: 'outside%4:50:00::'
+      - 'inside%4:02:00::'
+      id: 'outside%4:02:00::'
       synset: 00111402-r
     - antonym:
-      - 'inside%4:50:01::'
-      id: 'outside%4:50:01::'
+      - 'inside%4:02:01::'
+      id: 'outside%4:02:01::'
       synset: 00111662-r
 outside caliper:
   n:
@@ -25978,7 +25978,7 @@ outside loop:
 outside marriage:
   r:
     sense:
-    - id: 'outside_marriage%4:45:00::'
+    - id: 'outside_marriage%4:02:00::'
       synset: 00173105-r
 outside mirror:
   n:
@@ -26089,7 +26089,7 @@ outspoken:
 outspokenly:
   r:
     sense:
-    - id: 'outspokenly%4:45:00::'
+    - id: 'outspokenly%4:02:00::'
       pertainym:
       - outspoken%5:00:00:direct:02
       synset: 00417543-r
@@ -26120,7 +26120,7 @@ outstanding:
 outstandingly:
   r:
     sense:
-    - id: 'outstandingly%4:51:00::'
+    - id: 'outstandingly%4:02:00::'
       pertainym:
       - outstanding%5:00:00:superior:02
       synset: 00509586-r
@@ -26237,8 +26237,8 @@ outward:
       variety: GB
     sense:
     - antonym:
-      - 'inward%4:50:00::'
-      id: 'outward%4:50:00::'
+      - 'inward%4:02:00::'
+      id: 'outward%4:02:00::'
       synset: 00260109-r
 outward-bound:
   a:
@@ -26263,11 +26263,11 @@ outwardly:
     - value: ˈaʊtwɚdli
       variety: US
     sense:
-    - id: 'outwardly%4:50:01::'
+    - id: 'outwardly%4:02:01::'
       synset: 00231947-r
     - antonym:
-      - 'inwardly%4:45:00::'
-      id: 'outwardly%4:45:00::'
+      - 'inwardly%4:02:00::'
+      id: 'outwardly%4:02:00::'
       pertainym:
       - 'outward%3:00:00::'
       synset: 00231674-r
@@ -26305,7 +26305,7 @@ outwards:
     - value: ˈæotwɘdz
       variety: NZ
     sense:
-    - id: 'outwards%4:50:00::'
+    - id: 'outwards%4:02:00::'
       synset: 00260109-r
 outwear:
   v:
@@ -26564,35 +26564,35 @@ over:
       synset: 15283505-n
   r:
     sense:
-    - id: 'over%4:50:01::'
+    - id: 'over%4:02:01::'
       synset: 00228167-r
-    - id: 'over%4:50:02::'
+    - id: 'over%4:02:02::'
       synset: 00228294-r
-    - id: 'over%4:49:00::'
+    - id: 'over%4:02:00::'
       synset: 00228075-r
-    - id: 'over%4:50:04::'
+    - id: 'over%4:02:04::'
       synset: 00228375-r
-    - id: 'over%4:50:05::'
+    - id: 'over%4:02:05::'
       synset: 00199469-r
 over again:
   r:
     sense:
-    - id: 'over_again%4:48:00::'
+    - id: 'over_again%4:02:00::'
       synset: 00040777-r
 over and over:
   r:
     sense:
-    - id: 'over_and_over%4:48:00::'
+    - id: 'over_and_over%4:02:00::'
       synset: 00178467-r
 over and over again:
   r:
     sense:
-    - id: 'over_and_over_again%4:48:00::'
+    - id: 'over_and_over_again%4:02:00::'
       synset: 00178467-r
 over here:
   r:
     sense:
-    - id: 'over_here%4:50:00::'
+    - id: 'over_here%4:02:00::'
       synset: 00262429-r
 over the counter security:
   n:
@@ -26906,7 +26906,7 @@ overbearing:
 overbearingly:
   r:
     sense:
-    - id: 'overbearingly%4:45:00::'
+    - id: 'overbearingly%4:02:00::'
       pertainym:
       - overbearing%5:00:00:domineering:00
       synset: 00417692-r
@@ -26971,9 +26971,9 @@ overboard:
     pronunciation:
     - value: ˈəʊvə(ɹ)ˌbɔː(ɹ)d
     sense:
-    - id: 'overboard%4:45:01::'
+    - id: 'overboard%4:02:01::'
       synset: 00509248-r
-    - id: 'overboard%4:50:00::'
+    - id: 'overboard%4:02:00::'
       synset: 00174563-r
 overboil:
   v:
@@ -28122,9 +28122,9 @@ overhead:
       synset: 00570511-n
   r:
     sense:
-    - id: 'overhead%4:50:01::'
+    - id: 'overhead%4:02:01::'
       synset: 00251120-r
-    - id: 'overhead%4:50:00::'
+    - id: 'overhead%4:02:00::'
       synset: 00250926-r
 overhead press:
   n:
@@ -28377,7 +28377,7 @@ overlayer:
 overleaf:
   r:
     sense:
-    - id: 'overleaf%4:50:00::'
+    - id: 'overleaf%4:02:00::'
       synset: 00417776-r
 overleap:
   v:
@@ -28540,7 +28540,7 @@ overlordship:
 overly:
   r:
     sense:
-    - id: 'overly%4:51:00::'
+    - id: 'overly%4:02:00::'
       synset: 00047930-r
 overlying:
   a:
@@ -28580,7 +28580,7 @@ overmuch:
       synset: 05126667-n
   r:
     sense:
-    - id: 'overmuch%4:51:00::'
+    - id: 'overmuch%4:02:00::'
       synset: 00417873-r
 overmuchness:
   n:
@@ -28605,9 +28605,9 @@ overnight:
     pronunciation:
     - value: əʊvə(ɹ)ˈnaɪt
     sense:
-    - id: 'overnight%4:49:00::'
+    - id: 'overnight%4:02:00::'
       synset: 00245801-r
-    - id: 'overnight%4:49:01::'
+    - id: 'overnight%4:02:01::'
       synset: 00245908-r
 overnight bag:
   n:
@@ -28727,7 +28727,7 @@ overpowering:
 overpoweringly:
   r:
     sense:
-    - id: 'overpoweringly%4:51:00::'
+    - id: 'overpoweringly%4:02:00::'
       pertainym:
       - overpowering%5:00:00:irresistible:00
       synset: 00241415-r
@@ -29080,7 +29080,7 @@ oversea:
     pronunciation:
     - value: əʊvə(ɹ)siː
     sense:
-    - id: 'oversea%4:50:00::'
+    - id: 'oversea%4:02:00::'
       synset: 00417994-r
 overseas:
   a:
@@ -29101,9 +29101,9 @@ overseas:
     - value: ˌoʊvɚˈsiːz
       variety: US
     sense:
-    - id: 'overseas%4:50:00::'
+    - id: 'overseas%4:02:00::'
       synset: 00417994-r
-    - id: 'overseas%4:50:01::'
+    - id: 'overseas%4:02:01::'
       synset: 00183162-r
 overseas cap:
   n:
@@ -29256,7 +29256,7 @@ overshot:
 overside:
   r:
     sense:
-    - id: 'overside%4:50:00::'
+    - id: 'overside%4:02:00::'
       synset: 00418101-r
 oversight:
   n:
@@ -29687,7 +29687,7 @@ overtime:
     - value: ˈoʊvɚˌtaɪm
       variety: US
     sense:
-    - id: 'overtime%4:49:00::'
+    - id: 'overtime%4:02:00::'
       synset: 00261426-r
 overtime period:
   n:
@@ -29706,8 +29706,8 @@ overtly:
   r:
     sense:
     - antonym:
-      - 'covertly%4:45:00::'
-      id: 'overtly%4:45:00::'
+      - 'covertly%4:02:00::'
+      id: 'overtly%4:02:00::'
       pertainym:
       - 'overt%3:00:00::'
       synset: 00078824-r
@@ -29984,7 +29984,7 @@ overwhelming:
 overwhelmingly:
   r:
     sense:
-    - id: 'overwhelmingly%4:51:00::'
+    - id: 'overwhelmingly%4:02:00::'
       pertainym:
       - overwhelming%5:00:00:irresistible:00
       synset: 00241415-r
@@ -30323,7 +30323,7 @@ owlish:
 owlishly:
   r:
     sense:
-    - id: 'owlishly%4:45:00::'
+    - id: 'owlishly%4:02:00::'
       pertainym:
       - owlish%5:00:00:wise:00
       synset: 00418207-r

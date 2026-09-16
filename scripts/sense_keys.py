@@ -49,15 +49,6 @@ lex_filenums = {
     "verb.stative": 42,
     "verb.weather": 43,
     "adj.ppl": 44,
-    "adv.manner": 45,
-    "adv.subject_oriented": 46,
-    "adv.frequency": 48,
-    "adv.temporal": 49,
-    "adv.spatial": 50,
-    "adv.degree": 51,
-    "adv.domain": 52,
-    "adv.focus": 53,
-    "adv.contrast": 54,
     "contrib.colloq": 50,
     "contrib.plwn": 51}
 

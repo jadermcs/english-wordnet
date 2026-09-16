@@ -22,6 +22,18 @@ Example:
 Sentence: "Stupidly, he walked into traffic."
 Paraphrase: "It was stupid of him to walk into traffic."
 
+## Speaker-Oriented (adverb.speaker_oriented)
+
+Expresses the speaker's stance, evaluation, or attitude toward the proposition or the act of speaking.
+he believed her story hook, line, and sinker
+Paraphrase Test: Can it be paraphrased as "I [believe / say / judge] that…" or "It is [unfortunate / fortunate / evident] that…"?
+
+Examples:
+	•	"Presumably, he missed the deadline." → "I presume that he missed the deadline."
+	•	"Unfortunately, the project failed." → "It is unfortunate that the project failed."
+	•	"Frankly, I disagree." → "I say this frankly."
+
+
 ## Frequency (adverb.frequency)
 
 Describes how often the event occurs.

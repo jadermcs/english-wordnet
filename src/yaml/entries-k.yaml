@@ -5495,7 +5495,7 @@ keenly:
     pronunciation:
     - value: ˈkiːnli
     sense:
-    - id: 'keenly%4:51:00::'
+    - id: 'keenly%4:02:00::'
       pertainym:
       - keen%5:00:00:perceptive:00
       synset: 00386914-r
@@ -8164,7 +8164,7 @@ killing zone:
 killingly:
   r:
     sense:
-    - id: 'killingly%4:51:00::'
+    - id: 'killingly%4:02:00::'
       pertainym:
       - killing%5:00:00:humorous:00
       synset: 00387120-r
@@ -8435,7 +8435,7 @@ kinaesthetic:
 kinaesthetically:
   r:
     sense:
-    - id: 'kinaesthetically%4:45:00::'
+    - id: 'kinaesthetically%4:02:00::'
       synset: 00199662-r
 kinanesthesia:
   n:
@@ -8474,7 +8474,7 @@ kind:
 kind of:
   r:
     sense:
-    - id: 'kind_of%4:51:00::'
+    - id: 'kind_of%4:02:00::'
       synset: 00018764-r
 kind-hearted:
   a:
@@ -8491,7 +8491,7 @@ kinda:
     pronunciation:
     - value: ˈkɪndə
     sense:
-    - id: 'kinda%4:51:00::'
+    - id: 'kinda%4:02:00::'
       synset: 00018764-r
 kindergarten:
   n:
@@ -8596,8 +8596,8 @@ kindly:
   r:
     sense:
     - antonym:
-      - 'unkindly%4:45:00::'
-      id: 'kindly%4:45:00::'
+      - 'unkindly%4:02:00::'
+      id: 'kindly%4:02:00::'
       pertainym:
       - 'kind%3:00:00::'
       synset: 00004775-r
@@ -8713,7 +8713,7 @@ kinesthetic:
 kinesthetically:
   r:
     sense:
-    - id: 'kinesthetically%4:45:00::'
+    - id: 'kinesthetically%4:02:00::'
       pertainym:
       - 'kinesthetic%3:01:00::'
       synset: 00199662-r
@@ -10013,7 +10013,7 @@ knavish:
 knavishly:
   r:
     sense:
-    - id: 'knavishly%4:46:00::'
+    - id: 'knavishly%4:02:00::'
       pertainym:
       - knavish%5:00:00:artful:00
       synset: 00295240-r
@@ -10107,7 +10107,7 @@ knee-deep:
       synset: 00695449-s
   r:
     sense:
-    - id: 'knee-deep%4:50:00::'
+    - id: 'knee-deep%4:02:00::'
       synset: 00260228-r
 knee-hi:
   n:
@@ -10121,7 +10121,7 @@ knee-high:
       synset: 03628140-n
   r:
     sense:
-    - id: 'knee-high%4:50:00::'
+    - id: 'knee-high%4:02:00::'
       synset: 00260228-r
 knee-jerk reflex:
   n:
@@ -11345,8 +11345,8 @@ knowingly:
   r:
     sense:
     - antonym:
-      - 'unknowingly%4:45:00::'
-      id: 'knowingly%4:45:00::'
+      - 'unknowingly%4:02:00::'
+      id: 'knowingly%4:02:00::'
       pertainym:
       - knowing%5:00:00:intended:00
       synset: 00239363-r

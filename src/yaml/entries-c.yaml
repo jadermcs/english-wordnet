@@ -161,12 +161,12 @@ C. trachomatis:
 C.E.:
   r:
     sense:
-    - id: 'c.e.%4:49:00::'
+    - id: 'c.e.%4:02:00::'
       synset: 00002029-r
 C.O.D.:
   r:
     sense:
-    - id: 'c.o.d.%4:45:00::'
+    - id: 'c.o.d.%4:02:00::'
       synset: 00255418-r
 C.P.U.:
   n:
@@ -346,7 +346,7 @@ CDC:
 CE:
   r:
     sense:
-    - id: 'ce%4:49:00::'
+    - id: 'ce%4:02:00::'
       synset: 00002029-r
 CEO:
   n:
@@ -501,7 +501,7 @@ COBOL:
 COD:
   r:
     sense:
-    - id: 'cod%4:45:00::'
+    - id: 'cod%4:02:00::'
       synset: 00255418-r
 COMINT:
   n:
@@ -14490,7 +14490,7 @@ Commodore Vanderbilt:
 Common Era:
   r:
     sense:
-    - id: 'common_era%4:49:00::'
+    - id: 'common_era%4:02:00::'
       synset: 00002029-r
 Common Market:
   n:
@@ -21309,7 +21309,7 @@ cagey:
 cagily:
   r:
     sense:
-    - id: 'cagily%4:45:00::'
+    - id: 'cagily%4:02:00::'
       pertainym:
       - cagy%5:00:00:cautious:00
       synset: 00282667-r
@@ -21468,7 +21468,7 @@ cajolery:
 cajolingly:
   r:
     sense:
-    - id: 'cajolingly%4:45:00::'
+    - id: 'cajolingly%4:02:00::'
       synset: 00287580-r
 cake:
   n:
@@ -22187,7 +22187,7 @@ calculating machine:
 calculatingly:
   r:
     sense:
-    - id: 'calculatingly%4:45:00::'
+    - id: 'calculatingly%4:02:00::'
       pertainym:
       - calculating%5:00:00:hard:02
       synset: 00508512-r
@@ -23724,7 +23724,7 @@ calloused:
 callously:
   r:
     sense:
-    - id: 'callously%4:46:00::'
+    - id: 'callously%4:02:00::'
       pertainym:
       - callous%5:00:00:insensitive:02
       synset: 00240256-r
@@ -23892,11 +23892,11 @@ calmly:
     - value: ˈkɑː(ɹ)m.li
       variety: GB
     sense:
-    - id: 'calmly%4:45:00::'
+    - id: 'calmly%4:02:00::'
       pertainym:
       - calm%5:00:00:composed:00
       synset: 00188268-r
-    - id: 'calmly%4:45:01::'
+    - id: 'calmly%4:02:01::'
       synset: 00449959-r
 calmness:
   n:
@@ -24089,7 +24089,7 @@ calumnious:
 calumniously:
   r:
     sense:
-    - id: 'calumniously%4:45:00::'
+    - id: 'calumniously%4:02:00::'
       pertainym:
       - calumnious%5:00:00:harmful:00
       synset: 00459088-r
@@ -25722,7 +25722,7 @@ candidly:
     pronunciation:
     - value: ˈkændɪdli
     sense:
-    - id: 'candidly%4:45:00::'
+    - id: 'candidly%4:02:00::'
       pertainym:
       - candid%5:00:00:direct:02
       synset: 00316228-r
@@ -26464,7 +26464,7 @@ cannikin:
 cannily:
   r:
     sense:
-    - id: 'cannily%4:45:00::'
+    - id: 'cannily%4:02:00::'
       pertainym:
       - canny%5:00:00:smart:00
       synset: 00432154-r
@@ -26832,7 +26832,7 @@ canonical hour:
 canonically:
   r:
     sense:
-    - id: 'canonically%4:52:00::'
+    - id: 'canonically%4:02:00::'
       pertainym:
       - 'canonical%3:01:00::'
       synset: 00515407-r
@@ -27092,7 +27092,7 @@ cantankerous:
 cantankerously:
   r:
     sense:
-    - id: 'cantankerously%4:45:00::'
+    - id: 'cantankerously%4:02:00::'
       pertainym:
       - cantankerous%5:00:00:ill-natured:00
       synset: 00282813-r
@@ -27603,7 +27603,7 @@ cap shroud:
 cap-a-pie:
   r:
     sense:
-    - id: 'cap-a-pie%4:51:00::'
+    - id: 'cap-a-pie%4:02:00::'
       synset: 00253175-r
 capability:
   n:
@@ -27676,7 +27676,7 @@ capableness:
 capably:
   r:
     sense:
-    - id: 'capably%4:45:00::'
+    - id: 'capably%4:02:00::'
       pertainym:
       - 'capable%3:00:00::'
       synset: 00186658-r
@@ -29596,11 +29596,11 @@ capricious:
 capriciously:
   r:
     sense:
-    - id: 'capriciously%4:51:01::'
+    - id: 'capriciously%4:02:01::'
       pertainym:
       - capricious%5:00:00:unpredictable:00
       synset: 00283116-r
-    - id: 'capriciously%4:45:00::'
+    - id: 'capriciously%4:02:00::'
       pertainym:
       - capricious%5:00:00:arbitrary:00
       synset: 00282921-r
@@ -29963,7 +29963,7 @@ captious:
 captiously:
   r:
     sense:
-    - id: 'captiously%4:45:00::'
+    - id: 'captiously%4:02:00::'
       pertainym:
       - captious%5:00:00:critical:01
       synset: 00283263-r
@@ -30006,7 +30006,7 @@ captivating:
 captivatingly:
   r:
     sense:
-    - id: 'captivatingly%4:51:00::'
+    - id: 'captivatingly%4:02:00::'
       pertainym:
       - captivating%5:00:00:attractive:01
       synset: 00280264-r
@@ -32309,13 +32309,13 @@ carefully:
     - value: ˈkɛɹfəli
       variety: US
     sense:
-    - id: 'carefully%4:45:00::'
+    - id: 'carefully%4:02:00::'
       pertainym:
       - 'careful%3:00:00::'
       synset: 00154701-r
     - antonym:
-      - 'carelessly%4:45:00::'
-      id: 'carefully%4:45:02::'
+      - 'carelessly%4:02:00::'
+      id: 'carefully%4:02:02::'
       pertainym:
       - 'careful%3:00:00::'
       synset: 00283532-r
@@ -32373,17 +32373,17 @@ carelessly:
     - value: ˈkɛələsli
       variety: GB
     sense:
-    - id: 'carelessly%4:45:02::'
+    - id: 'carelessly%4:02:02::'
       pertainym:
       - 'careless%3:00:00::'
       synset: 00165349-r
     - antonym:
-      - 'carefully%4:45:02::'
-      id: 'carelessly%4:45:00::'
+      - 'carefully%4:02:02::'
+      id: 'carelessly%4:02:00::'
       pertainym:
       - 'careless%3:00:00::'
       synset: 00283873-r
-    - id: 'carelessly%4:45:01::'
+    - id: 'carelessly%4:02:01::'
       synset: 00222610-r
 carelessness:
   n:
@@ -32924,7 +32924,7 @@ carnallite:
 carnally:
   r:
     sense:
-    - id: 'carnally%4:45:00::'
+    - id: 'carnally%4:02:00::'
       pertainym:
       - carnal%5:00:00:physical:00
       synset: 00432340-r
@@ -35667,7 +35667,7 @@ cash machine:
 cash on delivery:
   r:
     sense:
-    - id: 'cash_on_delivery%4:45:00::'
+    - id: 'cash_on_delivery%4:02:00::'
       synset: 00255418-r
 cash out:
   v:
@@ -36654,11 +36654,11 @@ casually:
     - value: ˈkæʒ(j)ʊəli
       variety: GB
     sense:
-    - id: 'casually%4:45:01::'
+    - id: 'casually%4:02:01::'
       pertainym:
       - casual%5:00:02:unplanned:00
       synset: 00265324-r
-    - id: 'casually%4:45:00::'
+    - id: 'casually%4:02:00::'
       pertainym:
       - casual%5:00:00:unconcerned:00
       synset: 00244545-r
@@ -37389,7 +37389,7 @@ catalytic cracker:
 catalytically:
   r:
     sense:
-    - id: 'catalytically%4:45:00::'
+    - id: 'catalytically%4:02:00::'
       pertainym:
       - 'catalytic%3:01:00::'
       synset: 00077611-r
@@ -37692,7 +37692,7 @@ catastrophic illness:
 catastrophically:
   r:
     sense:
-    - id: 'catastrophically%4:51:00::'
+    - id: 'catastrophically%4:02:00::'
       pertainym:
       - catastrophic%5:00:02:harmful:00
       synset: 00133731-r
@@ -38465,7 +38465,7 @@ categorically:
     - value: ˈkæt.ə.ɡɒ.ɹɪk.li
       variety: GB
     sense:
-    - id: 'categorically%4:45:00::'
+    - id: 'categorically%4:02:00::'
       pertainym:
       - categorical%5:00:00:unqualified:02
       synset: 00087676-r
@@ -39404,7 +39404,7 @@ caudal:
       synset: 00132935-s
   r:
     sense:
-    - id: 'caudal%4:50:00::'
+    - id: 'caudal%4:02:00::'
       pertainym:
       - caudal%5:00:00:posterior:00
       synset: 00507966-r
@@ -39441,7 +39441,7 @@ caudal vertebra:
 caudally:
   r:
     sense:
-    - id: 'caudally%4:50:00::'
+    - id: 'caudally%4:02:00::'
       pertainym:
       - caudal%5:00:00:posterior:00
       synset: 00507966-r
@@ -39628,7 +39628,7 @@ causality:
 causally:
   r:
     sense:
-    - id: 'causally%4:52:00::'
+    - id: 'causally%4:02:00::'
       pertainym:
       - causal%5:00:00:causative:00
       synset: 00508084-r
@@ -39849,7 +39849,7 @@ caustic soda:
 caustically:
   r:
     sense:
-    - id: 'caustically%4:45:00::'
+    - id: 'caustically%4:02:00::'
       pertainym:
       - caustic%5:00:00:unpleasant:00
       synset: 00283379-r
@@ -40023,12 +40023,12 @@ cautiously:
     - value: ˈkɔːʃəsli
     sense:
     - antonym:
-      - 'incautiously%4:45:00::'
-      id: 'cautiously%4:45:00::'
+      - 'incautiously%4:02:00::'
+      id: 'cautiously%4:02:00::'
       pertainym:
       - 'cautious%3:00:00::'
       synset: 00283532-r
-    - id: 'cautiously%4:45:02::'
+    - id: 'cautiously%4:02:02::'
       synset: 00293817-r
 cautiousness:
   n:
@@ -40065,7 +40065,7 @@ cavalier hat:
 cavalierly:
   r:
     sense:
-    - id: 'cavalierly%4:45:00::'
+    - id: 'cavalierly%4:02:00::'
       pertainym:
       - cavalier%5:00:00:domineering:00
       synset: 00284129-r
@@ -40531,7 +40531,7 @@ ceaseless:
 ceaselessly:
   r:
     sense:
-    - id: 'ceaselessly%4:45:00::'
+    - id: 'ceaselessly%4:02:00::'
       pertainym:
       - ceaseless%5:00:00:continuous:01
       synset: 00284287-r
@@ -41939,7 +41939,7 @@ centennial:
 centennially:
   r:
     sense:
-    - id: 'centennially%4:48:00::'
+    - id: 'centennially%4:02:00::'
       pertainym:
       - 'centennial%3:01:00::'
       synset: 00284883-r
@@ -42638,8 +42638,8 @@ centrally:
       variety: GB
     sense:
     - antonym:
-      - 'peripherally%4:51:00::'
-      id: 'centrally%4:50:00::'
+      - 'peripherally%4:02:00::'
+      id: 'centrally%4:02:00::'
       pertainym:
       - 'central%3:00:01::'
       synset: 00115657-r
@@ -43611,11 +43611,11 @@ cerebral vein:
 cerebrally:
   r:
     sense:
-    - id: 'cerebrally%4:45:01::'
+    - id: 'cerebrally%4:02:01::'
       pertainym:
       - 'cerebral%3:00:00::'
       synset: 00134223-r
-    - id: 'cerebrally%4:50:00::'
+    - id: 'cerebrally%4:02:00::'
       pertainym:
       - 'cerebral%3:01:00::'
       synset: 00134131-r
@@ -43740,9 +43740,9 @@ ceremonial occasion:
 ceremonially:
   r:
     sense:
-    - id: 'ceremonially%4:45:01::'
+    - id: 'ceremonially%4:02:01::'
       synset: 00222446-r
-    - id: 'ceremonially%4:45:00::'
+    - id: 'ceremonially%4:02:00::'
       pertainym:
       - ceremonial%5:00:00:formal:01
       synset: 00222149-r
@@ -43763,8 +43763,8 @@ ceremoniously:
   r:
     sense:
     - antonym:
-      - 'unceremoniously%4:45:00::'
-      id: 'ceremoniously%4:45:00::'
+      - 'unceremoniously%4:02:00::'
+      id: 'ceremoniously%4:02:00::'
       pertainym:
       - ceremonious%5:00:00:formal:01
       synset: 00222446-r
@@ -43931,7 +43931,7 @@ certainly:
     - value: ˈsɜːtn̩li
       variety: GB
     sense:
-    - id: 'certainly%4:51:00::'
+    - id: 'certainly%4:02:00::'
       pertainym:
       - 'certain%3:00:01::'
       synset: 00145758-r
@@ -44511,7 +44511,7 @@ ceteris paribus:
     pronunciation:
     - value: ˈsɛtəɹɪs ˈpæɹɪbəs
     sense:
-    - id: 'ceteris_paribus%4:53:00::'
+    - id: 'ceteris_paribus%4:02:00::'
       synset: 00257022-r
 cetrimide:
   n:
@@ -44531,12 +44531,12 @@ ceylonite:
 cf:
   r:
     sense:
-    - id: 'cf%4:54:00::'
+    - id: 'cf%4:02:00::'
       synset: 00193074-r
 cf.:
   r:
     sense:
-    - id: 'cf.%4:54:00::'
+    - id: 'cf.%4:02:00::'
       synset: 00193074-r
 cgs:
   n:
@@ -47032,11 +47032,11 @@ chaotic attractor:
 chaotically:
   r:
     sense:
-    - id: 'chaotically%4:45:01::'
+    - id: 'chaotically%4:02:01::'
       pertainym:
       - chaotic%5:00:00:wild:02
       synset: 00285172-r
-    - id: 'chaotically%4:45:00::'
+    - id: 'chaotically%4:02:00::'
       pertainym:
       - chaotic%5:00:00:disorganized:00
       synset: 00285042-r
@@ -47541,8 +47541,8 @@ characteristically:
   r:
     sense:
     - antonym:
-      - 'uncharacteristically%4:46:00::'
-      id: 'characteristically%4:46:00::'
+      - 'uncharacteristically%4:02:00::'
+      id: 'characteristically%4:02:00::'
       pertainym:
       - 'characteristic%3:00:00::'
       synset: 00249046-r
@@ -48158,7 +48158,7 @@ chargewoman:
 charily:
   r:
     sense:
-    - id: 'charily%4:45:00::'
+    - id: 'charily%4:02:00::'
       pertainym:
       - chary%5:00:00:cautious:00
       synset: 00283793-r
@@ -48295,7 +48295,7 @@ charitableness:
 charitably:
   r:
     sense:
-    - id: 'charitably%4:45:00::'
+    - id: 'charitably%4:02:00::'
       pertainym:
       - 'charitable%3:00:00::'
       synset: 00207026-r
@@ -48519,7 +48519,7 @@ charming:
 charmingly:
   r:
     sense:
-    - id: 'charmingly%4:45:00::'
+    - id: 'charmingly%4:02:00::'
       pertainym:
       - charming%5:00:00:pleasing:00
       synset: 00238490-r
@@ -48880,7 +48880,7 @@ chaste:
 chastely:
   r:
     sense:
-    - id: 'chastely%4:45:00::'
+    - id: 'chastely%4:02:00::'
       pertainym:
       - 'chaste%3:00:00::'
       synset: 00285302-r
@@ -49170,7 +49170,7 @@ chattering:
 chattily:
   r:
     sense:
-    - id: 'chattily%4:45:00::'
+    - id: 'chattily%4:02:00::'
       pertainym:
       - chatty%5:00:00:voluble:00
       synset: 00285441-r
@@ -49384,17 +49384,17 @@ cheaply:
     pronunciation:
     - value: ˈtʃiːpli
     sense:
-    - id: 'cheaply%4:45:02::'
+    - id: 'cheaply%4:02:02::'
       pertainym:
       - cheap%5:00:00:stingy:00
       synset: 00468873-r
     - antonym:
-      - 'expensively%4:45:00::'
-      id: 'cheaply%4:45:01::'
+      - 'expensively%4:02:00::'
+      id: 'cheaply%4:02:01::'
       pertainym:
       - 'cheap%3:00:00::'
       synset: 00335934-r
-    - id: 'cheaply%4:45:00::'
+    - id: 'cheaply%4:02:00::'
       pertainym:
       - 'cheap%3:00:00::'
       synset: 00285612-r
@@ -50196,7 +50196,7 @@ cheek:
 cheek by jowl:
   r:
     sense:
-    - id: 'cheek_by_jowl%4:50:00::'
+    - id: 'cheek_by_jowl%4:02:00::'
       synset: 00164679-r
 cheek muscle:
   n:
@@ -50216,7 +50216,7 @@ cheekbone:
 cheekily:
   r:
     sense:
-    - id: 'cheekily%4:46:00::'
+    - id: 'cheekily%4:02:00::'
       pertainym:
       - cheeky%5:00:00:forward:02
       synset: 00285748-r
@@ -50383,8 +50383,8 @@ cheerfully:
       variety: GB
     sense:
     - antonym:
-      - 'cheerlessly%4:45:00::'
-      id: 'cheerfully%4:45:00::'
+      - 'cheerlessly%4:02:00::'
+      id: 'cheerfully%4:02:00::'
       pertainym:
       - upbeat%5:00:00:optimistic:00
       synset: 00232365-r
@@ -50411,7 +50411,7 @@ cheerfulness:
 cheerily:
   r:
     sense:
-    - id: 'cheerily%4:45:00::'
+    - id: 'cheerily%4:02:00::'
       pertainym:
       - cheery%5:00:00:cheerful:00
       synset: 00220805-r
@@ -50480,8 +50480,8 @@ cheerlessly:
   r:
     sense:
     - antonym:
-      - 'cheerfully%4:45:00::'
-      id: 'cheerlessly%4:45:00::'
+      - 'cheerfully%4:02:00::'
+      id: 'cheerlessly%4:02:00::'
       synset: 00232493-r
 cheerlessness:
   n:
@@ -51083,11 +51083,11 @@ chemical weapon:
 chemically:
   r:
     sense:
-    - id: 'chemically%4:45:01::'
+    - id: 'chemically%4:02:01::'
       pertainym:
       - 'chemical%3:01:01::'
       synset: 00130005-r
-    - id: 'chemically%4:52:00::'
+    - id: 'chemically%4:02:00::'
       pertainym:
       - 'chemical%3:01:00::'
       synset: 00129866-r
@@ -52678,7 +52678,7 @@ chiefly:
     - value: ˈtʃiːf.li
       variety: GB
     sense:
-    - id: 'chiefly%4:53:00::'
+    - id: 'chiefly%4:02:00::'
       pertainym:
       - chief%5:00:02:important:00
       synset: 00074163-r
@@ -52962,7 +52962,7 @@ childish:
 childishly:
   r:
     sense:
-    - id: 'childishly%4:45:00::'
+    - id: 'childishly%4:02:00::'
       pertainym:
       - childish%5:00:00:immature:02
       synset: 00197085-r
@@ -53735,7 +53735,7 @@ chintz:
 chintzily:
   r:
     sense:
-    - id: 'chintzily%4:45:00::'
+    - id: 'chintzily%4:02:00::'
       pertainym:
       - chintzy%5:00:00:stingy:00
       synset: 00468873-r
@@ -54098,7 +54098,7 @@ chirp:
 chirpily:
   r:
     sense:
-    - id: 'chirpily%4:45:00::'
+    - id: 'chirpily%4:02:00::'
       pertainym:
       - buoyant%5:00:00:cheerful:00
       synset: 00282160-r
@@ -54388,8 +54388,8 @@ chivalrously:
   r:
     sense:
     - antonym:
-      - 'unchivalrously%4:46:00::'
-      id: 'chivalrously%4:45:00::'
+      - 'unchivalrously%4:02:00::'
+      id: 'chivalrously%4:02:00::'
       pertainym:
       - chivalrous%5:00:00:courteous:00
       synset: 00285918-r
@@ -54913,7 +54913,7 @@ chock:
       synset: 03027561-n
   r:
     sense:
-    - id: 'chock%4:51:00::'
+    - id: 'chock%4:02:00::'
       synset: 00255089-r
   v:
     sense:
@@ -54945,7 +54945,7 @@ chock up:
 chock-a-block:
   r:
     sense:
-    - id: 'chock-a-block%4:51:00::'
+    - id: 'chock-a-block%4:02:00::'
       synset: 00255089-r
 chock-full:
   a:
@@ -55943,7 +55943,7 @@ chop up:
 chop-chop:
   r:
     sense:
-    - id: 'chop-chop%4:45:00::'
+    - id: 'chop-chop%4:02:00::'
       synset: 00086161-r
 chop-suey greens:
   n:
@@ -56117,7 +56117,7 @@ chorale prelude:
 chorally:
   r:
     sense:
-    - id: 'chorally%4:45:00::'
+    - id: 'chorally%4:02:00::'
       pertainym:
       - 'choral%3:01:01::'
       synset: 00136808-r
@@ -56774,7 +56774,7 @@ chromatic vision:
 chromatically:
   r:
     sense:
-    - id: 'chromatically%4:52:00::'
+    - id: 'chromatically%4:02:00::'
       pertainym:
       - 'chromatic%3:00:00::'
       synset: 00064899-r
@@ -56854,7 +56854,7 @@ chromatographical:
 chromatographically:
   r:
     sense:
-    - id: 'chromatographically%4:45:00::'
+    - id: 'chromatographically%4:02:00::'
       pertainym:
       - 'chromatographic%3:01:00::'
       synset: 00138269-r
@@ -57143,11 +57143,11 @@ chronic wasting disease:
 chronically:
   r:
     sense:
-    - id: 'chronically%4:49:01::'
+    - id: 'chronically%4:02:01::'
       synset: 00142067-r
     - antonym:
-      - 'acutely%4:51:00::'
-      id: 'chronically%4:49:00::'
+      - 'acutely%4:02:00::'
+      id: 'chronically%4:02:00::'
       pertainym:
       - 'chronic%3:00:00::'
       synset: 00141918-r
@@ -57231,7 +57231,7 @@ chronological succession:
 chronologically:
   r:
     sense:
-    - id: 'chronologically%4:52:00::'
+    - id: 'chronologically%4:02:00::'
       pertainym:
       - 'chronological%3:01:00::'
       synset: 00065002-r
@@ -57957,7 +57957,7 @@ churlish:
 churlishly:
   r:
     sense:
-    - id: 'churlishly%4:45:00::'
+    - id: 'churlishly%4:02:00::'
       pertainym:
       - churlish%5:00:00:ungracious:00
       synset: 00286085-r
@@ -59338,7 +59338,7 @@ circularize:
 circularly:
   r:
     sense:
-    - id: 'circularly%4:45:00::'
+    - id: 'circularly%4:02:00::'
       pertainym:
       - circular%5:00:00:cyclic:01
       synset: 00286242-r
@@ -59746,7 +59746,7 @@ circumspection:
 circumspectly:
   r:
     sense:
-    - id: 'circumspectly%4:45:00::'
+    - id: 'circumspectly%4:02:00::'
       pertainym:
       - circumspect%5:00:00:prudent:00
       synset: 00282667-r
@@ -59801,15 +59801,15 @@ circumstantially:
     - value: ˈsɜːɹ.kəmˌstæn.ʃə.lɪi
       variety: GB
     sense:
-    - id: 'circumstantially%4:45:03::'
+    - id: 'circumstantially%4:02:03::'
       synset: 00501538-r
-    - id: 'circumstantially%4:45:00::'
+    - id: 'circumstantially%4:02:00::'
       synset: 00501406-r
-    - id: 'circumstantially%4:45:02::'
+    - id: 'circumstantially%4:02:02::'
       pertainym:
       - circumstantial%5:00:00:specific:00
       synset: 00404465-r
-    - id: 'circumstantially%4:45:01::'
+    - id: 'circumstantially%4:02:01::'
       synset: 00040959-r
 circumstantiate:
   v:
@@ -61077,8 +61077,8 @@ civilly:
   r:
     sense:
     - antonym:
-      - 'uncivilly%4:45:00::'
-      id: 'civilly%4:45:00::'
+      - 'uncivilly%4:02:00::'
+      id: 'civilly%4:02:00::'
       pertainym:
       - 'civil%3:00:00::'
       synset: 00339616-r
@@ -61483,7 +61483,7 @@ clamber:
 clammily:
   r:
     sense:
-    - id: 'clammily%4:45:00::'
+    - id: 'clammily%4:02:00::'
       pertainym:
       - clammy%5:00:00:wet:01
       synset: 00501646-r
@@ -61593,7 +61593,7 @@ clamorous:
 clamorously:
   r:
     sense:
-    - id: 'clamorously%4:45:00::'
+    - id: 'clamorously%4:02:00::'
       pertainym:
       - clamorous%5:00:00:noisy:00
       synset: 00414618-r
@@ -61898,7 +61898,7 @@ clannish:
 clannishly:
   r:
     sense:
-    - id: 'clannishly%4:45:00::'
+    - id: 'clannishly%4:02:00::'
       pertainym:
       - clannish%5:00:00:private:00
       synset: 00286319-r
@@ -63271,7 +63271,7 @@ classicalism:
 classically:
   r:
     sense:
-    - id: 'classically%4:45:00::'
+    - id: 'classically%4:02:00::'
       pertainym:
       - 'classical%3:00:00::'
       synset: 00248413-r
@@ -64032,9 +64032,9 @@ clean:
     - value: kleːn
       variety: IE
     sense:
-    - id: 'clean%4:51:04::'
+    - id: 'clean%4:02:04::'
       synset: 00009835-r
-    - id: 'clean%4:45:00::'
+    - id: 'clean%4:02:00::'
       synset: 00286521-r
   v:
     pronunciation:
@@ -64344,11 +64344,11 @@ cleanly:
     pronunciation:
     - value: ˈkliːnli
     sense:
-    - id: 'cleanly%4:45:00::'
+    - id: 'cleanly%4:02:00::'
       pertainym:
       - clean%5:00:00:adroit:00
       synset: 00232612-r
-    - id: 'cleanly%4:45:02::'
+    - id: 'cleanly%4:02:02::'
       pertainym:
       - 'clean%3:00:01::'
       synset: 00286876-r
@@ -64559,9 +64559,9 @@ clear:
     - value: klɪɹ
       variety: US
     sense:
-    - id: 'clear%4:51:03::'
+    - id: 'clear%4:02:03::'
       synset: 00287169-r
-    - id: 'clear%4:45:01::'
+    - id: 'clear%4:02:01::'
       synset: 00287002-r
   v:
     pronunciation:
@@ -64939,17 +64939,17 @@ clearly:
     - value: ˈklɪəli
       variety: GB
     sense:
-    - id: 'clearly%4:51:00::'
+    - id: 'clearly%4:02:00::'
       pertainym:
       - 'clear%3:00:00::'
       synset: 00039452-r
-    - id: 'clearly%4:45:01::'
+    - id: 'clearly%4:02:01::'
       pertainym:
       - 'clear%3:00:00::'
       synset: 00203770-r
-    - id: 'clearly%4:51:02::'
+    - id: 'clearly%4:02:02::'
       synset: 00183387-r
-    - id: 'clearly%4:45:03::'
+    - id: 'clearly%4:02:03::'
       pertainym:
       - clear%5:00:00:distinct:00
       synset: 00287002-r
@@ -65494,7 +65494,7 @@ cleverly:
     - value: ˈklɛvəli
       variety: GB
     sense:
-    - id: 'cleverly%4:45:00::'
+    - id: 'cleverly%4:02:00::'
       pertainym:
       - clever%5:00:00:smart:00
       synset: 00188967-r
@@ -65843,7 +65843,7 @@ climatically:
     pronunciation:
     - value: klaɪˈmætɪkli
     sense:
-    - id: 'climatically%4:52:00::'
+    - id: 'climatically%4:02:00::'
       pertainym:
       - 'climatic%3:01:00::'
       synset: 00287341-r
@@ -66409,7 +66409,7 @@ clinical trial:
 clinically:
   r:
     sense:
-    - id: 'clinically%4:52:00::'
+    - id: 'clinically%4:02:00::'
       pertainym:
       - 'clinical%3:01:00::'
       synset: 00065121-r
@@ -66733,7 +66733,7 @@ cliquishly:
     - value: ˈkliːk.ɪʃ.li
       variety: GB
     sense:
-    - id: 'cliquishly%4:45:00::'
+    - id: 'cliquishly%4:02:00::'
       pertainym:
       - cliquish%5:00:00:private:00
       synset: 00286319-r
@@ -67075,8 +67075,8 @@ clockwise:
     - value: ˈklɒkwaɪz
     sense:
     - antonym:
-      - 'counterclockwise%4:50:00::'
-      id: 'clockwise%4:50:00::'
+      - 'counterclockwise%4:02:00::'
+      id: 'clockwise%4:02:00::'
       pertainym:
       - 'clockwise%3:00:00::'
       synset: 00255849-r
@@ -67532,9 +67532,9 @@ close:
       synset: 00211646-n
   r:
     sense:
-    - id: 'close%4:49:01::'
+    - id: 'close%4:02:01::'
       synset: 00411619-r
-    - id: 'close%4:45:02::'
+    - id: 'close%4:02:02::'
       synset: 00507682-r
   v:
     pronunciation:
@@ -67797,12 +67797,12 @@ close supporting fire:
 close to:
   r:
     sense:
-    - id: 'close_to%4:49:00::'
+    - id: 'close_to%4:02:00::'
       synset: 00007414-r
 close to the wind:
   r:
     sense:
-    - id: 'close_to_the_wind%4:45:00::'
+    - id: 'close_to_the_wind%4:02:00::'
       synset: 00161487-r
 close together:
   a:
@@ -67813,7 +67813,7 @@ close together:
 close up:
   r:
     sense:
-    - id: 'close_up%4:50:00::'
+    - id: 'close_up%4:02:00::'
       synset: 00411953-r
   v:
     pronunciation:
@@ -68110,15 +68110,15 @@ closely:
     pronunciation:
     - value: ˈkləʊsliː
     sense:
-    - id: 'closely%4:45:00::'
+    - id: 'closely%4:02:00::'
       pertainym:
       - 'close%3:00:01::'
       synset: 00161639-r
-    - id: 'closely%4:45:02::'
+    - id: 'closely%4:02:02::'
       pertainym:
       - close%5:00:00:careful:00
       synset: 00507682-r
-    - id: 'closely%4:51:01::'
+    - id: 'closely%4:02:01::'
       pertainym:
       - 'close%3:00:02::'
       synset: 00161858-r
@@ -68190,12 +68190,12 @@ closer:
       synset: 09949715-n
   r:
     sense:
-    - id: 'closer%4:50:00::'
+    - id: 'closer%4:02:00::'
       synset: 00409712-r
 closest:
   r:
     sense:
-    - id: 'closest%4:51:00::'
+    - id: 'closest%4:02:00::'
       synset: 00409931-r
 closet:
   n:
@@ -69185,7 +69185,7 @@ cloying:
 cloyingly:
   r:
     sense:
-    - id: 'cloyingly%4:51:00::'
+    - id: 'cloyingly%4:02:00::'
       pertainym:
       - cloying%5:00:00:sweet:02
       synset: 00255193-r
@@ -69555,7 +69555,7 @@ clumping:
 clumsily:
   r:
     sense:
-    - id: 'clumsily%4:45:00::'
+    - id: 'clumsily%4:02:00::'
       pertainym:
       - clumsy%5:00:00:awkward:00
       synset: 00191871-r
@@ -70819,8 +70819,8 @@ coarsely:
   r:
     sense:
     - antonym:
-      - 'finely%4:51:02::'
-      id: 'coarsely%4:51:00::'
+      - 'finely%4:02:02::'
+      id: 'coarsely%4:02:00::'
       pertainym:
       - 'coarse%3:00:00::'
       synset: 00192221-r
@@ -71034,7 +71034,7 @@ coastline:
 coastward:
   r:
     sense:
-    - id: 'coastward%4:50:00::'
+    - id: 'coastward%4:02:00::'
       synset: 00449404-r
 coastwise:
   a:
@@ -71043,7 +71043,7 @@ coastwise:
       synset: 00465195-s
   r:
     sense:
-    - id: 'coastwise%4:50:00::'
+    - id: 'coastwise%4:02:00::'
       synset: 00287481-r
 coat:
   n:
@@ -71325,7 +71325,7 @@ coaxing:
 coaxingly:
   r:
     sense:
-    - id: 'coaxingly%4:45:00::'
+    - id: 'coaxingly%4:02:00::'
       synset: 00287580-r
 cob:
   n:
@@ -73607,7 +73607,7 @@ cognitively:
     - value: ˈkɒɡ.nə.tɪv.li
       variety: GB
     sense:
-    - id: 'cognitively%4:52:00::'
+    - id: 'cognitively%4:02:00::'
       pertainym:
       - 'cognitive%3:01:00::'
       synset: 00515525-r
@@ -73831,8 +73831,8 @@ coherently:
   r:
     sense:
     - antonym:
-      - 'incoherently%4:45:00::'
-      id: 'coherently%4:45:00::'
+      - 'incoherently%4:02:00::'
+      id: 'coherently%4:02:00::'
       pertainym:
       - coherent%5:00:00:rational:00
       synset: 00287686-r
@@ -74309,7 +74309,7 @@ coincidentally:
     - exemplifies:
       - 'british_spelling%1:10:01::'
       - 'australian_spelling%1:10:01::'
-      id: 'coincidentally%4:49:00::'
+      id: 'coincidentally%4:02:00::'
       pertainym:
       - coincidental%5:00:00:synchronous:00
       synset: 00513162-r
@@ -74318,7 +74318,7 @@ coincidently:
     sense:
     - exemplifies:
       - 'american_spelling%1:10:01::'
-      id: 'coincidently%4:49:00::'
+      id: 'coincidently%4:02:00::'
       pertainym:
       - coincident%5:00:00:synchronous:00
       synset: 00513162-r
@@ -74708,7 +74708,7 @@ cold-blooded:
 cold-bloodedly:
   r:
     sense:
-    - id: 'cold-bloodedly%4:45:00::'
+    - id: 'cold-bloodedly%4:02:00::'
       pertainym:
       - cold-blooded%5:00:00:inhumane:00
       synset: 00344222-r
@@ -74782,7 +74782,7 @@ coldly:
     - value: ˈkoʊldli
       variety: US
     sense:
-    - id: 'coldly%4:45:00::'
+    - id: 'coldly%4:02:00::'
       pertainym:
       - 'cold%3:00:02::'
       synset: 00166097-r
@@ -75379,7 +75379,7 @@ collect:
     pronunciation:
     - value: kəˈlɛkt
     sense:
-    - id: 'collect%4:45:00::'
+    - id: 'collect%4:02:00::'
       synset: 00255274-r
   v:
     pronunciation:
@@ -75462,7 +75462,7 @@ collected:
 collectedly:
   r:
     sense:
-    - id: 'collectedly%4:45:00::'
+    - id: 'collectedly%4:02:00::'
       pertainym:
       - collected%5:00:00:composed:00
       synset: 00288204-r
@@ -75569,7 +75569,7 @@ collective security:
 collectively:
   r:
     sense:
-    - id: 'collectively%4:45:00::'
+    - id: 'collectively%4:02:00::'
       pertainym:
       - 'collective%3:00:00::'
       synset: 00117989-r
@@ -76117,7 +76117,7 @@ colloidal suspension:
 colloidally:
   r:
     sense:
-    - id: 'colloidally%4:45:00::'
+    - id: 'colloidally%4:02:00::'
       pertainym:
       - 'colloidal%3:01:00::'
       synset: 00288389-r
@@ -76141,7 +76141,7 @@ colloquialism:
 colloquially:
   r:
     sense:
-    - id: 'colloquially%4:52:00::'
+    - id: 'colloquially%4:02:00::'
       pertainym:
       - colloquial%5:00:01:informal:02
       synset: 00287982-r
@@ -78136,7 +78136,7 @@ combative:
 combatively:
   r:
     sense:
-    - id: 'combatively%4:45:00::'
+    - id: 'combatively%4:02:00::'
       pertainym:
       - combative%5:00:00:aggressive:00
       synset: 00288522-r
@@ -78940,7 +78940,7 @@ come forward:
 come hell or high water:
   r:
     sense:
-    - id: 'come_hell_or_high_water%4:54:00::'
+    - id: 'come_hell_or_high_water%4:02:00::'
       synset: 00157956-r
 come home:
   v:
@@ -79761,17 +79761,17 @@ comfortably:
     - value: ˈkʌmf(ə)təbli
       variety: GB
     sense:
-    - id: 'comfortably%4:45:00::'
+    - id: 'comfortably%4:02:00::'
       pertainym:
       - 'comfortable%3:00:01::'
       synset: 00156018-r
     - antonym:
-      - 'uncomfortably%4:45:00::'
-      id: 'comfortably%4:45:02::'
+      - 'uncomfortably%4:02:00::'
+      id: 'comfortably%4:02:02::'
       pertainym:
       - 'comfortable%3:00:00::'
       synset: 00156153-r
-    - id: 'comfortably%4:45:01::'
+    - id: 'comfortably%4:02:01::'
       pertainym:
       - comfortable%5:00:00:rich:00
       synset: 00014088-r
@@ -79819,7 +79819,7 @@ comforting:
 comfortingly:
   r:
     sense:
-    - id: 'comfortingly%4:45:00::'
+    - id: 'comfortingly%4:02:00::'
       pertainym:
       - comforting%5:00:00:reassuring:00
       synset: 00288714-r
@@ -79928,7 +79928,7 @@ comicality:
 comically:
   r:
     sense:
-    - id: 'comically%4:45:00::'
+    - id: 'comically%4:02:00::'
       pertainym:
       - comical%5:00:00:humorous:00
       synset: 00081725-r
@@ -80526,7 +80526,7 @@ commendable:
       synset: 02595965-s
   r:
     sense:
-    - id: 'commendable%4:46:00::'
+    - id: 'commendable%4:02:00::'
       pertainym:
       - commendable%5:00:00:worthy:00
       synset: 00220366-r
@@ -80573,7 +80573,7 @@ commensalism:
 commensally:
   r:
     sense:
-    - id: 'commensally%4:45:00::'
+    - id: 'commensally%4:02:00::'
       pertainym:
       - 'commensal%3:01:00::'
       synset: 00244694-r
@@ -80940,7 +80940,7 @@ commercialized:
 commercially:
   r:
     sense:
-    - id: 'commercially%4:52:00::'
+    - id: 'commercially%4:02:00::'
       pertainym:
       - 'commercial%3:00:00::'
       synset: 00077763-r
@@ -82676,7 +82676,7 @@ commonly:
     - value: ˈkɒmənli
       variety: GB
     sense:
-    - id: 'commonly%4:48:00::'
+    - id: 'commonly%4:02:00::'
       pertainym:
       - 'common%3:00:01::'
       synset: 00107608-r
@@ -82888,7 +82888,7 @@ communalize:
 communally:
   r:
     sense:
-    - id: 'communally%4:45:00::'
+    - id: 'communally%4:02:00::'
       pertainym:
       - communal%5:00:00:common:02
       synset: 00164137-r
@@ -83740,15 +83740,15 @@ compaction:
 compactly:
   r:
     sense:
-    - id: 'compactly%4:45:02::'
+    - id: 'compactly%4:02:02::'
       pertainym:
       - 'compact%3:00:00::'
       synset: 00301256-r
-    - id: 'compactly%4:45:01::'
+    - id: 'compactly%4:02:01::'
       pertainym:
       - compact%5:00:00:concise:00
       synset: 00291622-r
-    - id: 'compactly%4:45:00::'
+    - id: 'compactly%4:02:00::'
       pertainym:
       - 'compact%3:00:00::'
       synset: 00288916-r
@@ -83955,8 +83955,8 @@ comparably:
       variety: US
     sense:
     - antonym:
-      - 'incomparably%4:51:00::'
-      id: 'comparably%4:51:00::'
+      - 'incomparably%4:02:00::'
+      id: 'comparably%4:02:00::'
       pertainym:
       - 'comparable%3:00:00::'
       synset: 00372393-r
@@ -84025,7 +84025,7 @@ comparatively:
     - value: kəmˈpæɹ.ə.tɪvli
       variety: GB
     sense:
-    - id: 'comparatively%4:51:00::'
+    - id: 'comparatively%4:02:00::'
       pertainym:
       - 'comparative%3:00:00::'
       synset: 00162033-r
@@ -84390,7 +84390,7 @@ compassionate leave:
 compassionately:
   r:
     sense:
-    - id: 'compassionately%4:45:00::'
+    - id: 'compassionately%4:02:00::'
       pertainym:
       - 'compassionate%3:00:00::'
       synset: 00240008-r
@@ -84443,8 +84443,8 @@ compatibly:
   r:
     sense:
     - antonym:
-      - 'incompatibly%4:45:00::'
-      id: 'compatibly%4:45:00::'
+      - 'incompatibly%4:02:00::'
+      id: 'compatibly%4:02:00::'
       pertainym:
       - 'compatible%3:00:01::'
       synset: 00289064-r
@@ -84738,8 +84738,8 @@ competently:
   r:
     sense:
     - antonym:
-      - 'incompetently%4:45:00::'
-      id: 'competently%4:45:00::'
+      - 'incompetently%4:02:00::'
+      id: 'competently%4:02:00::'
       pertainym:
       - 'competent%3:00:00::'
       synset: 00186658-r
@@ -84787,8 +84787,8 @@ competitively:
     - value: kəmˈpɛtɪtɪvli
     sense:
     - antonym:
-      - 'noncompetitively%4:45:00::'
-      id: 'competitively%4:45:00::'
+      - 'noncompetitively%4:02:00::'
+      id: 'competitively%4:02:00::'
       pertainym:
       - 'competitive%3:00:00::'
       synset: 00244773-r
@@ -84943,7 +84943,7 @@ complacent:
 complacently:
   r:
     sense:
-    - id: 'complacently%4:46:00::'
+    - id: 'complacently%4:02:00::'
       pertainym:
       - complacent%5:00:00:contented:00
       synset: 00289255-r
@@ -85003,8 +85003,8 @@ complainingly:
   r:
     sense:
     - antonym:
-      - 'uncomplainingly%4:45:00::'
-      id: 'complainingly%4:45:00::'
+      - 'uncomplainingly%4:02:00::'
+      id: 'complainingly%4:02:00::'
       pertainym:
       - 'complaining%3:00:00::'
       synset: 00289622-r
@@ -85285,11 +85285,11 @@ completely:
     pronunciation:
     - value: kəmˈpliːtli
     sense:
-    - id: 'completely%4:51:04::'
+    - id: 'completely%4:02:04::'
       pertainym:
       - 'complete%3:00:00::'
       synset: 00008423-r
-    - id: 'completely%4:51:03::'
+    - id: 'completely%4:02:03::'
       pertainym:
       - 'complete%3:00:00::'
       synset: 00158747-r
@@ -85492,7 +85492,7 @@ complexity:
 complexly:
   r:
     sense:
-    - id: 'complexly%4:45:00::'
+    - id: 'complexly%4:02:00::'
       pertainym:
       - 'complex%3:00:00::'
       synset: 00515631-r
@@ -85878,7 +85878,7 @@ composed:
 composedly:
   r:
     sense:
-    - id: 'composedly%4:45:00::'
+    - id: 'composedly%4:02:00::'
       pertainym:
       - 'composed%3:00:00::'
       synset: 00288204-r
@@ -86389,8 +86389,8 @@ comprehensively:
   r:
     sense:
     - antonym:
-      - 'noncomprehensively%4:45:00::'
-      id: 'comprehensively%4:45:00::'
+      - 'noncomprehensively%4:02:00::'
+      id: 'comprehensively%4:02:00::'
       pertainym:
       - 'comprehensive%3:00:00::'
       synset: 00289765-r
@@ -86720,7 +86720,7 @@ compulsive:
 compulsively:
   r:
     sense:
-    - id: 'compulsively%4:45:00::'
+    - id: 'compulsively%4:02:00::'
       pertainym:
       - compulsive%5:00:00:neurotic:00
       synset: 00245067-r
@@ -86741,7 +86741,7 @@ compulsivity:
 compulsorily:
   r:
     sense:
-    - id: 'compulsorily%4:45:00::'
+    - id: 'compulsorily%4:02:00::'
       pertainym:
       - compulsory%5:00:00:obligatory:00
       synset: 00289970-r
@@ -86806,7 +86806,7 @@ computational linguistics:
 computationally:
   r:
     sense:
-    - id: 'computationally%4:52:00::'
+    - id: 'computationally%4:02:00::'
       pertainym:
       - 'computational%3:01:00::'
       synset: 00290270-r
@@ -87308,8 +87308,8 @@ con:
   r:
     sense:
     - antonym:
-      - 'pro%4:45:00::'
-      id: 'con%4:54:00::'
+      - 'pro%4:02:00::'
+      id: 'con%4:02:00::'
       synset: 00290609-r
   v:
     form:
@@ -87343,7 +87343,7 @@ con brio:
       synset: 02287272-s
   r:
     sense:
-    - id: 'con_brio%4:45:00::'
+    - id: 'con_brio%4:02:00::'
       pertainym:
       - con_brio%5:00:00:spirited:00
       synset: 00020362-r
@@ -87445,8 +87445,8 @@ concavely:
   r:
     sense:
     - antonym:
-      - 'convexly%4:45:00::'
-      id: 'concavely%4:45:00::'
+      - 'convexly%4:02:00::'
+      id: 'concavely%4:02:00::'
       pertainym:
       - 'concave%3:00:00::'
       synset: 00502021-r
@@ -87632,7 +87632,7 @@ conceited:
 conceitedly:
   r:
     sense:
-    - id: 'conceitedly%4:45:00::'
+    - id: 'conceitedly%4:02:00::'
       pertainym:
       - conceited%5:00:00:proud:00
       synset: 00290736-r
@@ -87668,7 +87668,7 @@ conceivableness:
 conceivably:
   r:
     sense:
-    - id: 'conceivably%4:51:00::'
+    - id: 'conceivably%4:02:00::'
       pertainym:
       - conceivable%5:00:00:thinkable:00
       synset: 00195469-r
@@ -88152,7 +88152,7 @@ conceptualize:
 conceptually:
   r:
     sense:
-    - id: 'conceptually%4:52:00::'
+    - id: 'conceptually%4:02:00::'
       pertainym:
       - conceptual%5:00:00:abstract:00
       synset: 00290900-r
@@ -88230,7 +88230,7 @@ concerned:
 concernedly:
   r:
     sense:
-    - id: 'concernedly%4:45:00::'
+    - id: 'concernedly%4:02:00::'
       synset: 00291062-r
 concert:
   n:
@@ -88590,7 +88590,7 @@ concise:
 concisely:
   r:
     sense:
-    - id: 'concisely%4:45:00::'
+    - id: 'concisely%4:02:00::'
       pertainym:
       - 'concise%3:00:00::'
       synset: 00291174-r
@@ -88724,8 +88724,8 @@ conclusively:
   r:
     sense:
     - antonym:
-      - 'inconclusively%4:45:00::'
-      id: 'conclusively%4:45:00::'
+      - 'inconclusively%4:02:00::'
+      id: 'conclusively%4:02:00::'
       pertainym:
       - 'conclusive%3:00:00::'
       synset: 00093535-r
@@ -89033,8 +89033,8 @@ concretely:
   r:
     sense:
     - antonym:
-      - 'abstractly%4:45:00::'
-      id: 'concretely%4:52:00::'
+      - 'abstractly%4:02:00::'
+      id: 'concretely%4:02:00::'
       pertainym:
       - 'concrete%3:00:00::'
       synset: 00199241-r
@@ -89223,7 +89223,7 @@ concurrent operation:
 concurrently:
   r:
     sense:
-    - id: 'concurrently%4:49:00::'
+    - id: 'concurrently%4:02:00::'
       pertainym:
       - concurrent%5:00:00:synchronous:00
       synset: 00121107-r
@@ -89616,7 +89616,7 @@ condescendingly:
     pronunciation:
     - value: kɒn.dɪˈsen.dɪŋ.li
     sense:
-    - id: 'condescendingly%4:45:00::'
+    - id: 'condescendingly%4:02:00::'
       pertainym:
       - condescending%5:00:00:superior:01
       synset: 00293447-r
@@ -89814,8 +89814,8 @@ conditionally:
   r:
     sense:
     - antonym:
-      - 'unconditionally%4:45:02::'
-      id: 'conditionally%4:45:00::'
+      - 'unconditionally%4:02:02::'
+      id: 'conditionally%4:02:00::'
       synset: 00293998-r
 conditioned:
   a:
@@ -90804,7 +90804,7 @@ confess:
 confessedly:
   r:
     sense:
-    - id: 'confessedly%4:54:00::'
+    - id: 'confessedly%4:02:00::'
       synset: 00185770-r
 confession:
   n:
@@ -91024,7 +91024,7 @@ confidentiality:
 confidentially:
   r:
     sense:
-    - id: 'confidentially%4:45:01::'
+    - id: 'confidentially%4:02:01::'
       pertainym:
       - confidential%5:00:02:private:00
       synset: 00170623-r
@@ -91036,7 +91036,7 @@ confidently:
     - value: ˈkɒnfɪdəntli
       variety: GB
     sense:
-    - id: 'confidently%4:45:00::'
+    - id: 'confidently%4:02:00::'
       pertainym:
       - 'confident%3:00:00::'
       synset: 00214025-r
@@ -91050,7 +91050,7 @@ confiding:
 confidingly:
   r:
     sense:
-    - id: 'confidingly%4:45:00::'
+    - id: 'confidingly%4:02:00::'
       pertainym:
       - confiding%5:00:00:trustful:00
       synset: 00321961-r
@@ -91579,7 +91579,7 @@ conformable:
 conformably:
   r:
     sense:
-    - id: 'conformably%4:45:00::'
+    - id: 'conformably%4:02:00::'
       pertainym:
       - conformable%5:00:00:obedient:00
       synset: 00023852-r
@@ -91704,7 +91704,7 @@ confounded:
 confoundedly:
   r:
     sense:
-    - id: 'confoundedly%4:45:00::'
+    - id: 'confoundedly%4:02:00::'
       pertainym:
       - confounded%5:00:00:perplexed:00
       synset: 00422436-r
@@ -91891,7 +91891,7 @@ confusedly:
     - value: kənˈfjuzɪdli
       variety: US
     sense:
-    - id: 'confusedly%4:45:00::'
+    - id: 'confusedly%4:02:00::'
       pertainym:
       - confused%5:00:00:incoherent:00
       synset: 00295603-r
@@ -91916,7 +91916,7 @@ confusing:
 confusingly:
   r:
     sense:
-    - id: 'confusingly%4:51:00::'
+    - id: 'confusingly%4:02:00::'
       pertainym:
       - confusing%5:00:00:unclear:00
       synset: 00210536-r
@@ -92181,7 +92181,7 @@ congeniality:
 congenially:
   r:
     sense:
-    - id: 'congenially%4:45:00::'
+    - id: 'congenially%4:02:00::'
       pertainym:
       - 'congenial%3:00:00::'
       synset: 00303712-r
@@ -92858,7 +92858,7 @@ conical projection:
 conically:
   r:
     sense:
-    - id: 'conically%4:45:00::'
+    - id: 'conically%4:02:00::'
       pertainym:
       - 'conical%3:01:00::'
       synset: 00291841-r
@@ -92915,7 +92915,7 @@ conjectural:
 conjecturally:
   r:
     sense:
-    - id: 'conjecturally%4:45:00::'
+    - id: 'conjecturally%4:02:00::'
       pertainym:
       - conjectural%5:00:00:theoretical:00
       synset: 00020474-r
@@ -92996,7 +92996,7 @@ conjoint:
 conjointly:
   r:
     sense:
-    - id: 'conjointly%4:45:00::'
+    - id: 'conjointly%4:02:00::'
       pertainym:
       - conjoint%5:00:00:joint:00
       synset: 00117989-r
@@ -93035,7 +93035,7 @@ conjugal visitation right:
 conjugally:
   r:
     sense:
-    - id: 'conjugally%4:45:00::'
+    - id: 'conjugally%4:02:00::'
       pertainym:
       - 'conjugal%3:01:00::'
       synset: 00501719-r
@@ -93862,7 +93862,7 @@ connubial:
       synset: 02883370-a
   r:
     sense:
-    - id: 'connubial%4:45:00::'
+    - id: 'connubial%4:02:00::'
       pertainym:
       - 'connubial%3:01:00::'
       synset: 00501719-r
@@ -94064,7 +94064,7 @@ conscientious objector:
 conscientiously:
   r:
     sense:
-    - id: 'conscientiously%4:48:00::'
+    - id: 'conscientiously%4:02:00::'
       pertainym:
       - conscientious%5:00:00:careful:00
       synset: 00180072-r
@@ -94120,8 +94120,8 @@ consciously:
   r:
     sense:
     - antonym:
-      - 'unconsciously%4:45:00::'
-      id: 'consciously%4:45:00::'
+      - 'unconsciously%4:02:00::'
+      id: 'consciously%4:02:00::'
       pertainym:
       - 'conscious%3:00:00::'
       synset: 00244122-r
@@ -94281,7 +94281,7 @@ consecutive:
       synset: 00599155-s
   r:
     sense:
-    - id: 'consecutive%4:45:00::'
+    - id: 'consecutive%4:02:00::'
       pertainym:
       - consecutive%5:00:00:ordered:00
       synset: 00293663-r
@@ -94293,7 +94293,7 @@ consecutive operation:
 consecutively:
   r:
     sense:
-    - id: 'consecutively%4:49:00::'
+    - id: 'consecutively%4:02:00::'
       pertainym:
       - consecutive%5:00:00:continuous:01
       synset: 00020597-r
@@ -94403,8 +94403,8 @@ consequentially:
   r:
     sense:
     - antonym:
-      - 'inconsequentially%4:45:00::'
-      id: 'consequentially%4:54:00::'
+      - 'inconsequentially%4:02:00::'
+      id: 'consequentially%4:02:00::'
       synset: 00296016-r
 consequently:
   r:
@@ -94414,11 +94414,11 @@ consequently:
     - value: ˈkɑːnsɪˌkwɛntli
       variety: US
     sense:
-    - id: 'consequently%4:54:00::'
+    - id: 'consequently%4:02:00::'
       pertainym:
       - consequent%5:00:00:subsequent:00
       synset: 00063395-r
-    - id: 'consequently%4:54:01::'
+    - id: 'consequently%4:02:01::'
       pertainym:
       - consequent%5:00:00:subsequent:00
       synset: 00295773-r
@@ -94532,7 +94532,7 @@ conservative:
 conservatively:
   r:
     sense:
-    - id: 'conservatively%4:45:00::'
+    - id: 'conservatively%4:02:00::'
       synset: 00293817-r
 conservativism:
   n:
@@ -94741,7 +94741,7 @@ considerably:
     pronunciation:
     - value: kənˈsɪdəɹəbli
     sense:
-    - id: 'considerably%4:51:01::'
+    - id: 'considerably%4:02:01::'
       pertainym:
       - 'considerable%3:00:00::'
       synset: 00014747-r
@@ -94760,8 +94760,8 @@ considerately:
   r:
     sense:
     - antonym:
-      - 'inconsiderately%4:46:00::'
-      id: 'considerately%4:46:00::'
+      - 'inconsiderately%4:02:00::'
+      id: 'considerately%4:02:00::'
       pertainym:
       - 'considerate%3:00:00::'
       synset: 00184261-r
@@ -94971,8 +94971,8 @@ consistently:
   r:
     sense:
     - antonym:
-      - 'inconsistently%4:45:00::'
-      id: 'consistently%4:45:00::'
+      - 'inconsistently%4:02:00::'
+      id: 'consistently%4:02:00::'
       pertainym:
       - 'consistent%3:00:00::'
       synset: 00121358-r
@@ -95172,7 +95172,7 @@ consolingly:
     - value: ˈkɒnˌsəʊl.ɪŋ.lɪi
       variety: GB
     sense:
-    - id: 'consolingly%4:45:00::'
+    - id: 'consolingly%4:02:00::'
       pertainym:
       - consoling%5:00:00:reassuring:00
       synset: 00288714-r
@@ -95361,12 +95361,12 @@ conspicuously:
   r:
     sense:
     - antonym:
-      - 'inconspicuously%4:45:00::'
-      id: 'conspicuously%4:45:00::'
+      - 'inconspicuously%4:02:00::'
+      id: 'conspicuously%4:02:00::'
       pertainym:
       - conspicuous%5:00:00:unconcealed:00
       synset: 00372716-r
-    - id: 'conspicuously%4:45:01::'
+    - id: 'conspicuously%4:02:01::'
       pertainym:
       - 'conspicuous%3:00:00::'
       synset: 00209717-r
@@ -95586,11 +95586,11 @@ constantly:
     - value: ˈkɑnstəntli
       variety: US
     sense:
-    - id: 'constantly%4:48:03::'
+    - id: 'constantly%4:02:03::'
       pertainym:
       - constant%5:00:00:invariable:00
       synset: 00020931-r
-    - id: 'constantly%4:48:01::'
+    - id: 'constantly%4:02:01::'
       pertainym:
       - constant%5:00:00:continuous:01
       synset: 00020735-r
@@ -95910,8 +95910,8 @@ constitutionally:
       variety: GB
     sense:
     - antonym:
-      - 'unconstitutionally%4:45:00::'
-      id: 'constitutionally%4:52:00::'
+      - 'unconstitutionally%4:02:00::'
+      id: 'constitutionally%4:02:00::'
       pertainym:
       - 'constitutional%3:00:00::'
       synset: 00123008-r
@@ -95951,7 +95951,7 @@ constrained:
 constrainedly:
   r:
     sense:
-    - id: 'constrainedly%4:45:00::'
+    - id: 'constrainedly%4:02:00::'
       pertainym:
       - constrained%5:00:00:affected:01
       synset: 00501826-r
@@ -96221,7 +96221,7 @@ constructive-metabolic:
 constructively:
   r:
     sense:
-    - id: 'constructively%4:45:00::'
+    - id: 'constructively%4:02:00::'
       pertainym:
       - 'constructive%3:00:00::'
       synset: 00296320-r
@@ -96900,7 +96900,7 @@ contagious disease:
 contagiously:
   r:
     sense:
-    - id: 'contagiously%4:45:00::'
+    - id: 'contagiously%4:02:00::'
       pertainym:
       - contagious%5:00:02:infectious:00
       synset: 00303849-r
@@ -97268,7 +97268,7 @@ contemporaneously:
     - value: kənˌtɛmpəˈɹeɪni.əsli
       variety: US
     sense:
-    - id: 'contemporaneously%4:49:00::'
+    - id: 'contemporaneously%4:02:00::'
       pertainym:
       - contemporaneous%5:00:01:synchronous:00
       synset: 00296490-r
@@ -97399,7 +97399,7 @@ contemptible:
 contemptibly:
   r:
     sense:
-    - id: 'contemptibly%4:46:00::'
+    - id: 'contemptibly%4:02:00::'
       pertainym:
       - 'contemptible%3:00:00::'
       synset: 00080795-r
@@ -97426,7 +97426,7 @@ contemptuously:
     - value: kənˈtɛmp.tʃu.əs.li
       variety: US
     sense:
-    - id: 'contemptuously%4:45:00::'
+    - id: 'contemptuously%4:02:00::'
       pertainym:
       - contemptuous%5:00:00:disrespectful:00
       synset: 00080884-r
@@ -97584,7 +97584,7 @@ contented:
 contentedly:
   r:
     sense:
-    - id: 'contentedly%4:45:00::'
+    - id: 'contentedly%4:02:00::'
       pertainym:
       - 'contented%3:00:00::'
       synset: 00239896-r
@@ -97806,7 +97806,7 @@ contextualism:
 contextually:
   r:
     sense:
-    - id: 'contextually%4:52:00::'
+    - id: 'contextually%4:02:00::'
       pertainym:
       - 'contextual%3:01:00::'
       synset: 00513385-r
@@ -98052,7 +98052,7 @@ continually:
     pronunciation:
     - value: kənˈtɪnjuəli
     sense:
-    - id: 'continually%4:48:01::'
+    - id: 'continually%4:02:01::'
       pertainym:
       - 'continual%3:00:00::'
       synset: 00089419-r
@@ -98337,11 +98337,11 @@ continuously:
     pronunciation:
     - value: kənˈtɪnjuəsli
     sense:
-    - id: 'continuously%4:45:00::'
+    - id: 'continuously%4:02:00::'
       pertainym:
       - 'continuous%3:00:02::'
       synset: 00193263-r
-    - id: 'continuously%4:45:01::'
+    - id: 'continuously%4:02:01::'
       pertainym:
       - 'continuous%3:00:01::'
       synset: 00284287-r
@@ -98838,7 +98838,7 @@ contractual:
 contractually:
   r:
     sense:
-    - id: 'contractually%4:52:00::'
+    - id: 'contractually%4:02:00::'
       pertainym:
       - 'contractual%3:01:00::'
       synset: 00081118-r
@@ -98921,7 +98921,7 @@ contradiction in terms:
 contradictorily:
   r:
     sense:
-    - id: 'contradictorily%4:45:00::'
+    - id: 'contradictorily%4:02:00::'
       pertainym:
       - contradictory%5:00:00:unsupportive:00
       synset: 00142180-r
@@ -99093,11 +99093,11 @@ contrariety:
 contrarily:
   r:
     sense:
-    - id: 'contrarily%4:54:02::'
+    - id: 'contrarily%4:02:02::'
       pertainym:
       - contrary%5:00:00:disobedient:00
       synset: 00249448-r
-    - id: 'contrarily%4:54:00::'
+    - id: 'contrarily%4:02:00::'
       pertainym:
       - contrary%5:00:00:different:00
       synset: 00171723-r
@@ -99118,11 +99118,11 @@ contrarious:
 contrariwise:
   r:
     sense:
-    - id: 'contrariwise%4:54:03::'
+    - id: 'contrariwise%4:02:03::'
       synset: 00249448-r
-    - id: 'contrariwise%4:54:01::'
+    - id: 'contrariwise%4:02:01::'
       synset: 00179172-r
-    - id: 'contrariwise%4:54:00::'
+    - id: 'contrariwise%4:02:00::'
       synset: 00171723-r
 contrary:
   a:
@@ -99243,7 +99243,7 @@ contrasting:
 contrastingly:
   r:
     sense:
-    - id: 'contrastingly%4:54:00::'
+    - id: 'contrastingly%4:02:00::'
       pertainym:
       - contrasting%5:00:00:different:00
       synset: 00296680-r
@@ -99446,7 +99446,7 @@ contrite:
 contritely:
   r:
     sense:
-    - id: 'contritely%4:45:00::'
+    - id: 'contritely%4:02:00::'
       pertainym:
       - contrite%5:00:00:penitent:00
       synset: 00219478-r
@@ -99853,8 +99853,8 @@ controversially:
   r:
     sense:
     - antonym:
-      - 'uncontroversially%4:45:00::'
-      id: 'controversially%4:45:00::'
+      - 'uncontroversially%4:02:00::'
+      id: 'controversially%4:02:00::'
       pertainym:
       - 'controversial%3:00:00::'
       synset: 00303994-r
@@ -99898,7 +99898,7 @@ contumacious:
 contumaciously:
   r:
     sense:
-    - id: 'contumaciously%4:45:00::'
+    - id: 'contumaciously%4:02:00::'
       pertainym:
       - contumacious%5:00:00:insubordinate:00
       synset: 00200090-r
@@ -99931,7 +99931,7 @@ contumelious:
 contumeliously:
   r:
     sense:
-    - id: 'contumeliously%4:45:00::'
+    - id: 'contumeliously%4:02:00::'
       pertainym:
       - contumelious%5:00:00:disrespectful:00
       synset: 00080884-r
@@ -100164,8 +100164,8 @@ conveniently:
   r:
     sense:
     - antonym:
-      - 'inconveniently%4:51:00::'
-      id: 'conveniently%4:45:00::'
+      - 'inconveniently%4:02:00::'
+      id: 'conveniently%4:02:00::'
       pertainym:
       - 'convenient%3:00:00::'
       synset: 00198807-r
@@ -100357,8 +100357,8 @@ conventionally:
     - value: kənˈvɛnʃənəli
     sense:
     - antonym:
-      - 'unconventionally%4:45:00::'
-      id: 'conventionally%4:45:00::'
+      - 'unconventionally%4:02:00::'
+      id: 'conventionally%4:02:00::'
       pertainym:
       - 'conventional%3:00:00::'
       synset: 00023933-r
@@ -100603,7 +100603,7 @@ conversationalist:
 conversationally:
   r:
     sense:
-    - id: 'conversationally%4:52:00::'
+    - id: 'conversationally%4:02:00::'
       pertainym:
       - conversational%5:00:00:informal:02
       synset: 00287982-r
@@ -100656,7 +100656,7 @@ conversely:
     - value: kənˈvɝsli
       variety: US
     sense:
-    - id: 'conversely%4:54:00::'
+    - id: 'conversely%4:02:00::'
       pertainym:
       - converse%5:00:00:antonymous:00
       synset: 00078316-r
@@ -100950,8 +100950,8 @@ convexly:
   r:
     sense:
     - antonym:
-      - 'concavely%4:45:00::'
-      id: 'convexly%4:45:00::'
+      - 'concavely%4:02:00::'
+      id: 'convexly%4:02:00::'
       pertainym:
       - 'convex%3:00:00::'
       synset: 00501909-r
@@ -101248,8 +101248,8 @@ convincingly:
   r:
     sense:
     - antonym:
-      - 'unconvincingly%4:45:00::'
-      id: 'convincingly%4:45:00::'
+      - 'unconvincingly%4:02:00::'
+      id: 'convincingly%4:02:00::'
       pertainym:
       - 'convincing%3:00:00::'
       synset: 00194221-r
@@ -101279,7 +101279,7 @@ conviviality:
 convivially:
   r:
     sense:
-    - id: 'convivially%4:45:00::'
+    - id: 'convivially%4:02:00::'
       pertainym:
       - convivial%5:00:00:sociable:00
       synset: 00304274-r
@@ -101519,7 +101519,7 @@ convulsive:
 convulsively:
   r:
     sense:
-    - id: 'convulsively%4:45:00::'
+    - id: 'convulsively%4:02:00::'
       pertainym:
       - convulsive%5:00:00:unsteady:00
       synset: 00199961-r
@@ -102072,7 +102072,7 @@ coolly:
     pronunciation:
     - value: ˈkuːli
     sense:
-    - id: 'coolly%4:45:00::'
+    - id: 'coolly%4:02:00::'
       pertainym:
       - cool%5:00:00:composed:00
       synset: 00296859-r
@@ -102259,7 +102259,7 @@ cooperative:
 cooperatively:
   r:
     sense:
-    - id: 'cooperatively%4:45:00::'
+    - id: 'cooperatively%4:02:00::'
       pertainym:
       - 'cooperative%3:00:00::'
       synset: 00164539-r
@@ -102406,7 +102406,7 @@ coordinated universal time:
 coordinately:
   r:
     sense:
-    - id: 'coordinately%4:45:00::'
+    - id: 'coordinately%4:02:00::'
       pertainym:
       - coordinate%5:00:00:equal:00
       synset: 00502131-r
@@ -102673,7 +102673,7 @@ copious:
 copiously:
   r:
     sense:
-    - id: 'copiously%4:51:00::'
+    - id: 'copiously%4:02:00::'
       pertainym:
       - copious%5:00:02:abundant:00
       synset: 00215852-r
@@ -103310,7 +103310,7 @@ coquettish:
 coquettishly:
   r:
     sense:
-    - id: 'coquettishly%4:45:00::'
+    - id: 'coquettishly%4:02:00::'
       pertainym:
       - coquettish%5:00:00:sexy:00
       synset: 00304406-r
@@ -103710,7 +103710,7 @@ cordially:
     - value: ˈkɔːdɪəli
       variety: GB
     sense:
-    - id: 'cordially%4:45:00::'
+    - id: 'cordially%4:02:00::'
       pertainym:
       - cordial%5:00:00:warm:02
       synset: 00221335-r
@@ -105670,8 +105670,8 @@ correctly:
     - value: kəˈɹɛk(t)li
     sense:
     - antonym:
-      - 'incorrectly%4:45:01::'
-      id: 'correctly%4:45:01::'
+      - 'incorrectly%4:02:01::'
+      id: 'correctly%4:02:01::'
       synset: 00205350-r
 correctness:
   n:
@@ -105953,7 +105953,7 @@ corresponding:
 correspondingly:
   r:
     sense:
-    - id: 'correspondingly%4:45:00::'
+    - id: 'correspondingly%4:02:00::'
       synset: 00188740-r
 corrida:
   n:
@@ -106289,7 +106289,7 @@ corrupted:
 corruptedly:
   r:
     sense:
-    - id: 'corruptedly%4:45:00::'
+    - id: 'corruptedly%4:02:00::'
       synset: 00502213-r
 corruptibility:
   n:
@@ -106347,7 +106347,7 @@ corruptive:
 corruptly:
   r:
     sense:
-    - id: 'corruptly%4:45:00::'
+    - id: 'corruptly%4:02:00::'
       pertainym:
       - 'corrupt%3:00:00::'
       synset: 00502213-r
@@ -106489,7 +106489,7 @@ cortical region:
 cortically:
   r:
     sense:
-    - id: 'cortically%4:50:00::'
+    - id: 'cortically%4:02:00::'
       pertainym:
       - 'cortical%3:01:00::'
       synset: 00094168-r
@@ -106831,7 +106831,7 @@ cosigner:
 cosily:
   r:
     sense:
-    - id: 'cosily%4:45:00::'
+    - id: 'cosily%4:02:00::'
       synset: 00188632-r
 cosine:
   n:
@@ -106899,7 +106899,7 @@ cosmetic surgery:
 cosmetically:
   r:
     sense:
-    - id: 'cosmetically%4:45:00::'
+    - id: 'cosmetically%4:02:00::'
       pertainym:
       - cosmetic%5:00:00:aesthetic:00
       synset: 00078453-r
@@ -107685,7 +107685,7 @@ coterminous:
 coterminously:
   r:
     sense:
-    - id: 'coterminously%4:45:00::'
+    - id: 'coterminously%4:02:00::'
       pertainym:
       - coterminous%5:00:00:commensurate:00
       synset: 00021131-r
@@ -108619,7 +108619,7 @@ counter:
       synset: 00136324-n
   r:
     sense:
-    - id: 'counter%4:54:00::'
+    - id: 'counter%4:02:00::'
       synset: 00294567-r
   v:
     sense:
@@ -108717,7 +108717,7 @@ counteractive:
 counteractively:
   r:
     sense:
-    - id: 'counteractively%4:45:00::'
+    - id: 'counteractively%4:02:00::'
       pertainym:
       - counteractive%5:00:00:active:07
       synset: 00294643-r
@@ -108897,8 +108897,8 @@ counterclockwise:
   r:
     sense:
     - antonym:
-      - 'clockwise%4:50:00::'
-      id: 'counterclockwise%4:50:00::'
+      - 'clockwise%4:02:00::'
+      id: 'counterclockwise%4:02:00::'
       pertainym:
       - 'counterclockwise%3:00:00::'
       synset: 00255539-r
@@ -109056,7 +109056,7 @@ counterintuitive:
 counterintuitively:
   r:
     sense:
-    - id: 'counterintuitively%4:45:00::'
+    - id: 'counterintuitively%4:02:00::'
       pertainym:
       - counterintuitive%5:00:00:unreasonable:00
       synset: 00255756-r
@@ -109980,7 +109980,7 @@ courageous:
 courageously:
   r:
     sense:
-    - id: 'courageously%4:46:00::'
+    - id: 'courageously%4:02:00::'
       pertainym:
       - 'courageous%3:00:04::'
       synset: 00174412-r
@@ -110067,7 +110067,7 @@ course:
       synset: 03124441-n
   r:
     sense:
-    - id: 'course%4:51:00::'
+    - id: 'course%4:02:00::'
       synset: 00039019-r
   v:
     sense:
@@ -110374,8 +110374,8 @@ courteously:
   r:
     sense:
     - antonym:
-      - 'discourteously%4:45:00::'
-      id: 'courteously%4:45:00::'
+      - 'discourteously%4:02:00::'
+      id: 'courteously%4:02:00::'
       pertainym:
       - courteous%5:00:00:polite:00
       synset: 00219959-r
@@ -111127,8 +111127,8 @@ covertly:
   r:
     sense:
     - antonym:
-      - 'overtly%4:45:00::'
-      id: 'covertly%4:45:00::'
+      - 'overtly%4:02:00::'
+      id: 'covertly%4:02:00::'
       pertainym:
       - 'covert%3:00:00::'
       synset: 00078711-r
@@ -111173,11 +111173,11 @@ covetous:
 covetously:
   r:
     sense:
-    - id: 'covetously%4:45:01::'
+    - id: 'covetously%4:02:01::'
       pertainym:
       - covetous%5:00:00:desirous:00
       synset: 00304549-r
-    - id: 'covetously%4:45:00::'
+    - id: 'covetously%4:02:00::'
       pertainym:
       - covetous%5:00:00:acquisitive:00
       synset: 00277821-r
@@ -111739,7 +111739,7 @@ coyly:
     pronunciation:
     - value: ˈkɔɪli
     sense:
-    - id: 'coyly%4:45:00::'
+    - id: 'coyly%4:02:00::'
       pertainym:
       - coy%5:00:00:modest:01
       synset: 00293230-r
@@ -111829,7 +111829,7 @@ cozenage:
 cozily:
   r:
     sense:
-    - id: 'cozily%4:45:00::'
+    - id: 'cozily%4:02:00::'
       pertainym:
       - cozy%5:00:00:comfortable:00
       synset: 00188632-r
@@ -112606,7 +112606,7 @@ crafter:
 craftily:
   r:
     sense:
-    - id: 'craftily%4:46:00::'
+    - id: 'craftily%4:02:00::'
       pertainym:
       - crafty%5:00:00:artful:00
       synset: 00295240-r
@@ -113952,7 +113952,7 @@ crazed:
 crazily:
   r:
     sense:
-    - id: 'crazily%4:45:00::'
+    - id: 'crazily%4:02:00::'
       pertainym:
       - crazy%5:00:00:insane:00
       synset: 00081240-r
@@ -114060,7 +114060,7 @@ creak:
 creakily:
   r:
     sense:
-    - id: 'creakily%4:45:00::'
+    - id: 'creakily%4:02:00::'
       pertainym:
       - creaky%5:00:00:noisy:00
       synset: 00304748-r
@@ -114076,7 +114076,7 @@ creaking:
 creakingly:
   r:
     sense:
-    - id: 'creakingly%4:45:00::'
+    - id: 'creakingly%4:02:00::'
       synset: 00304748-r
 creaky:
   a:
@@ -114624,7 +114624,7 @@ creatively:
     - value: kɹiˈeɪtɪvli
       variety: US
     sense:
-    - id: 'creatively%4:45:00::'
+    - id: 'creatively%4:02:00::'
       pertainym:
       - 'creative%3:00:00::'
       synset: 00177625-r
@@ -114805,8 +114805,8 @@ credibly:
   r:
     sense:
     - antonym:
-      - 'incredibly%4:51:00::'
-      id: 'credibly%4:45:00::'
+      - 'incredibly%4:02:00::'
+      id: 'credibly%4:02:00::'
       pertainym:
       - 'credible%3:00:00::'
       synset: 00297385-r
@@ -114984,7 +114984,7 @@ creditable:
 creditably:
   r:
     sense:
-    - id: 'creditably%4:51:00::'
+    - id: 'creditably%4:02:00::'
       pertainym:
       - creditable%5:00:00:worthy:00
       synset: 00444277-r
@@ -115065,8 +115065,8 @@ credulously:
   r:
     sense:
     - antonym:
-      - 'incredulously%4:45:00::'
-      id: 'credulously%4:45:00::'
+      - 'incredulously%4:02:00::'
+      id: 'credulously%4:02:00::'
       pertainym:
       - 'credulous%3:00:00::'
       synset: 00297912-r
@@ -116582,11 +116582,11 @@ criminalize:
 criminally:
   r:
     sense:
-    - id: 'criminally%4:51:01::'
+    - id: 'criminally%4:02:01::'
       pertainym:
       - criminal%5:00:00:wrong:01
       synset: 00293079-r
-    - id: 'criminally%4:45:00::'
+    - id: 'criminally%4:02:00::'
       pertainym:
       - criminal%5:00:00:guilty:00
       synset: 00292903-r
@@ -117061,7 +117061,7 @@ crisply:
     pronunciation:
     - value: ˈkɹɪspli
     sense:
-    - id: 'crisply%4:51:00::'
+    - id: 'crisply%4:02:00::'
       pertainym:
       - crisp%5:00:00:distinct:00
       synset: 00212949-r
@@ -117108,7 +117108,7 @@ crisscross:
       synset: 04688744-n
   r:
     sense:
-    - id: 'crisscross%4:45:00::'
+    - id: 'crisscross%4:02:00::'
       synset: 00294485-r
   v:
     sense:
@@ -117334,8 +117334,8 @@ critically:
     - value: ˈkɹɪtɪkəli
     sense:
     - antonym:
-      - 'uncritically%4:45:00::'
-      id: 'critically%4:45:00::'
+      - 'uncritically%4:02:00::'
+      id: 'critically%4:02:00::'
       pertainym:
       - 'critical%3:00:02::'
       synset: 00186264-r
@@ -117858,7 +117858,7 @@ crooked-stemmed aster:
 crookedly:
   r:
     sense:
-    - id: 'crookedly%4:45:00::'
+    - id: 'crookedly%4:02:00::'
       pertainym:
       - 'crooked%3:00:01::'
       synset: 00242413-r
@@ -118371,9 +118371,9 @@ cross-classification:
 cross-country:
   r:
     sense:
-    - id: 'cross-country%4:50:01::'
+    - id: 'cross-country%4:02:01::'
       synset: 00294857-r
-    - id: 'cross-country%4:50:00::'
+    - id: 'cross-country%4:02:00::'
       synset: 00294730-r
 cross-country jumping:
   n:
@@ -118574,7 +118574,7 @@ cross-leaved heath:
 cross-legged:
   r:
     sense:
-    - id: 'cross-legged%4:45:00::'
+    - id: 'cross-legged%4:02:00::'
       synset: 00293335-r
 cross-linguistic:
   a:
@@ -118586,7 +118586,7 @@ cross-linguistic:
 cross-linguistically:
   r:
     sense:
-    - id: 'cross-linguistically%4:45:00::'
+    - id: 'cross-linguistically%4:02:00::'
       pertainym:
       - 'cross-linguistic%3:01:00::'
       synset: 00132066-r
@@ -119001,7 +119001,7 @@ crossjack:
 crossly:
   r:
     sense:
-    - id: 'crossly%4:45:00::'
+    - id: 'crossly%4:02:00::'
       pertainym:
       - cross%5:00:00:ill-natured:00
       synset: 00294964-r
@@ -119085,7 +119085,7 @@ crosstown:
       synset: 00655916-s
   r:
     sense:
-    - id: 'crosstown%4:50:00::'
+    - id: 'crosstown%4:02:00::'
       pertainym:
       - crosstown%5:00:00:crossed:01
       synset: 00295138-r
@@ -119102,7 +119102,7 @@ crossway:
 crossways:
   r:
     sense:
-    - id: 'crossways%4:50:00::'
+    - id: 'crossways%4:02:00::'
       synset: 00274275-r
 crosswind:
   n:
@@ -119123,9 +119123,9 @@ crosswise:
       synset: 01235790-s
   r:
     sense:
-    - id: 'crosswise%4:45:01::'
+    - id: 'crosswise%4:02:01::'
       synset: 00294391-r
-    - id: 'crosswise%4:50:00::'
+    - id: 'crosswise%4:02:00::'
       synset: 00274275-r
 crossword:
   n:
@@ -119822,7 +119822,7 @@ cruciality:
 crucially:
   r:
     sense:
-    - id: 'crucially%4:51:00::'
+    - id: 'crucially%4:02:00::'
       pertainym:
       - 'crucial%3:00:00::'
       synset: 00294248-r
@@ -120015,11 +120015,11 @@ crudely:
     pronunciation:
     - value: ˈkɹuːdli
     sense:
-    - id: 'crudely%4:45:00::'
+    - id: 'crudely%4:02:00::'
       pertainym:
       - 'crude%3:00:02::'
       synset: 00162722-r
-    - id: 'crudely%4:45:01::'
+    - id: 'crudely%4:02:01::'
       pertainym:
       - crude%5:00:01:unskilled:00
       synset: 00275957-r
@@ -120082,9 +120082,9 @@ cruelly:
     pronunciation:
     - value: ˈkɹuːəli
     sense:
-    - id: 'cruelly%4:51:00::'
+    - id: 'cruelly%4:02:00::'
       synset: 00234156-r
-    - id: 'cruelly%4:45:01::'
+    - id: 'cruelly%4:02:01::'
       pertainym:
       - cruel%5:00:01:inhumane:00
       synset: 00234230-r
@@ -120640,7 +120640,7 @@ crushing:
 crushingly:
   r:
     sense:
-    - id: 'crushingly%4:51:00::'
+    - id: 'crushingly%4:02:00::'
       pertainym:
       - crushing%5:00:00:destructive:00
       synset: 00304906-r
@@ -121121,7 +121121,7 @@ cryptical:
 cryptically:
   r:
     sense:
-    - id: 'cryptically%4:45:00::'
+    - id: 'cryptically%4:02:00::'
       pertainym:
       - cryptic%5:00:00:inexplicable:00
       synset: 00298090-r
@@ -121224,7 +121224,7 @@ cryptographical:
 cryptographically:
   r:
     sense:
-    - id: 'cryptographically%4:45:00::'
+    - id: 'cryptographically%4:02:00::'
       pertainym:
       - 'cryptographic%3:01:00::'
       synset: 00298279-r
@@ -122765,7 +122765,7 @@ culpableness:
 culpably:
   r:
     sense:
-    - id: 'culpably%4:45:00::'
+    - id: 'culpably%4:02:00::'
       pertainym:
       - culpable%5:00:00:guilty:00
       synset: 00305019-r
@@ -123051,7 +123051,7 @@ cultural studies:
 culturally:
   r:
     sense:
-    - id: 'culturally%4:52:00::'
+    - id: 'culturally%4:02:00::'
       pertainym:
       - 'cultural%3:01:00::'
       synset: 00136606-r
@@ -123159,7 +123159,7 @@ cum laude:
       synset: 02596509-s
   r:
     sense:
-    - id: 'cum_laude%4:45:00::'
+    - id: 'cum_laude%4:02:00::'
       pertainym:
       - cum_laude%5:00:00:worthy:00
       synset: 00292590-r
@@ -123303,7 +123303,7 @@ cumulative vote:
 cumulatively:
   r:
     sense:
-    - id: 'cumulatively%4:45:00::'
+    - id: 'cumulatively%4:02:00::'
       pertainym:
       - cumulative%5:00:00:additive:00
       synset: 00292397-r
@@ -123457,11 +123457,11 @@ cunning:
 cunningly:
   r:
     sense:
-    - id: 'cunningly%4:45:01::'
+    - id: 'cunningly%4:02:01::'
       pertainym:
       - cunning%5:00:00:attractive:01
       synset: 00298368-r
-    - id: 'cunningly%4:46:00::'
+    - id: 'cunningly%4:02:00::'
       pertainym:
       - cunning%5:00:00:artful:00
       synset: 00295240-r
@@ -124169,11 +124169,11 @@ curiously:
     - value: ˈkjʊəɹi.əsli
       variety: GB
     sense:
-    - id: 'curiously%4:45:01::'
+    - id: 'curiously%4:02:01::'
       pertainym:
       - curious%5:00:00:strange:00
       synset: 00035878-r
-    - id: 'curiously%4:45:00::'
+    - id: 'curiously%4:02:00::'
       pertainym:
       - 'curious%3:00:00::'
       synset: 00082231-r
@@ -124582,7 +124582,7 @@ currently:
     - value: ˈkʌɹəntli
       variety: GB
     sense:
-    - id: 'currently%4:49:00::'
+    - id: 'currently%4:02:00::'
       pertainym:
       - 'current%3:00:00::'
       synset: 00048806-r
@@ -124645,7 +124645,7 @@ currish:
 currishly:
   r:
     sense:
-    - id: 'currishly%4:45:01::'
+    - id: 'currishly%4:02:01::'
       pertainym:
       - currish%5:00:00:ignoble:01
       synset: 00305161-r
@@ -124824,7 +124824,7 @@ cursed with:
 cursedly:
   r:
     sense:
-    - id: 'cursedly%4:51:00::'
+    - id: 'cursedly%4:02:00::'
       pertainym:
       - 'cursed%3:00:00::'
       synset: 00298819-r
@@ -124855,7 +124855,7 @@ cursive script:
 cursively:
   r:
     sense:
-    - id: 'cursively%4:45:00::'
+    - id: 'cursively%4:02:00::'
       pertainym:
       - cursive%5:00:00:written:00
       synset: 00515706-r
@@ -124879,7 +124879,7 @@ cursorial:
 cursorily:
   r:
     sense:
-    - id: 'cursorily%4:45:00::'
+    - id: 'cursorily%4:02:00::'
       pertainym:
       - cursory%5:00:00:careless:00
       synset: 00292249-r
@@ -125053,7 +125053,7 @@ curtilage:
 curtly:
   r:
     sense:
-    - id: 'curtly%4:45:00::'
+    - id: 'curtly%4:02:00::'
       pertainym:
       - curt%5:00:00:discourteous:00
       synset: 00298575-r
@@ -125129,7 +125129,7 @@ curvaceous:
 curvaceously:
   r:
     sense:
-    - id: 'curvaceously%4:45:00::'
+    - id: 'curvaceously%4:02:00::'
       pertainym:
       - curvaceous%5:00:00:shapely:00
       synset: 00239005-r
@@ -125549,7 +125549,7 @@ cussed:
 cussedly:
   r:
     sense:
-    - id: 'cussedly%4:46:00::'
+    - id: 'cussedly%4:02:00::'
       pertainym:
       - cussed%5:00:00:unregenerate:00
       synset: 00200274-r
@@ -125705,7 +125705,7 @@ custom-make:
 customarily:
   r:
     sense:
-    - id: 'customarily%4:52:00::'
+    - id: 'customarily%4:02:00::'
       pertainym:
       - customary%5:00:00:usual:00
       synset: 00212370-r
@@ -126634,7 +126634,7 @@ cute:
 cutely:
   r:
     sense:
-    - id: 'cutely%4:45:00::'
+    - id: 'cutely%4:02:00::'
       pertainym:
       - cute%5:00:00:attractive:01
       synset: 00298368-r
@@ -126919,7 +126919,7 @@ cutting-edge:
 cuttingly:
   r:
     sense:
-    - id: 'cuttingly%4:45:00::'
+    - id: 'cuttingly%4:02:00::'
       pertainym:
       - cutting%5:00:00:unkind:00
       synset: 00371950-r
@@ -128028,7 +128028,7 @@ cynically:
     - value: ˈsɪn.ɪk.(ə.)li
       variety: GB
     sense:
-    - id: 'cynically%4:45:00::'
+    - id: 'cynically%4:02:00::'
       pertainym:
       - cynical%5:00:00:distrustful:00
       synset: 00291936-r
@@ -128594,7 +128594,7 @@ cytophotometric:
 cytophotometrically:
   r:
     sense:
-    - id: 'cytophotometrically%4:45:00::'
+    - id: 'cytophotometrically%4:02:00::'
       pertainym:
       - 'cytophotometric%3:01:00::'
       synset: 00292076-r
@@ -128641,7 +128641,7 @@ cytoplasmic:
 cytoplasmically:
   r:
     sense:
-    - id: 'cytoplasmically%4:50:00::'
+    - id: 'cytoplasmically%4:02:00::'
       pertainym:
       - 'cytoplasmic%3:01:00::'
       synset: 00292166-r

@@ -15412,7 +15412,7 @@ macroscopical:
 macroscopically:
   r:
     sense:
-    - id: 'macroscopically%4:45:00::'
+    - id: 'macroscopically%4:02:00::'
       pertainym:
       - macroscopical%5:00:00:large:00
       synset: 00111881-r
@@ -15725,15 +15725,15 @@ madly:
     pronunciation:
     - value: ˈmædli
     sense:
-    - id: 'madly%4:45:02::'
+    - id: 'madly%4:02:02::'
       pertainym:
       - mad%5:00:00:wild:02
       synset: 00505462-r
-    - id: 'madly%4:45:01::'
+    - id: 'madly%4:02:01::'
       pertainym:
       - mad%5:00:00:insane:00
       synset: 00081240-r
-    - id: 'madly%4:51:00::'
+    - id: 'madly%4:02:00::'
       synset: 00047177-r
 madman:
   n:
@@ -16106,7 +16106,7 @@ magically:
     - value: ˈmædʒɪkli
       variety: US
     sense:
-    - id: 'magically%4:45:00::'
+    - id: 'magically%4:02:00::'
       pertainym:
       - magical%5:00:00:supernatural:00
       synset: 00130565-r
@@ -16147,9 +16147,9 @@ magisterial:
 magisterially:
   r:
     sense:
-    - id: 'magisterially%4:45:01::'
+    - id: 'magisterially%4:02:01::'
       synset: 00312823-r
-    - id: 'magisterially%4:45:00::'
+    - id: 'magisterially%4:02:00::'
       pertainym:
       - magisterial%5:00:00:dignified:00
       synset: 00242842-r
@@ -16198,7 +16198,7 @@ magna cum laude:
       synset: 02597049-s
   r:
     sense:
-    - id: 'magna_cum_laude%4:45:00::'
+    - id: 'magna_cum_laude%4:02:00::'
       pertainym:
       - magna_cum_laude%5:00:00:worthy:00
       synset: 00292682-r
@@ -16228,7 +16228,7 @@ magnanimous:
 magnanimously:
   r:
     sense:
-    - id: 'magnanimously%4:46:00::'
+    - id: 'magnanimously%4:02:00::'
       pertainym:
       - magnanimous%5:00:00:noble:01
       synset: 00396055-r
@@ -16598,11 +16598,11 @@ magnetic variation:
 magnetically:
   r:
     sense:
-    - id: 'magnetically%4:45:01::'
+    - id: 'magnetically%4:02:01::'
       pertainym:
       - 'magnetic%3:01:00::'
       synset: 00508629-r
-    - id: 'magnetically%4:45:00::'
+    - id: 'magnetically%4:02:00::'
       pertainym:
       - magnetic%5:00:00:attractive:01
       synset: 00090371-r
@@ -16867,11 +16867,11 @@ magnificent:
 magnificently:
   r:
     sense:
-    - id: 'magnificently%4:45:00::'
+    - id: 'magnificently%4:02:00::'
       pertainym:
       - magnificent%5:00:00:impressive:00
       synset: 00183802-r
-    - id: 'magnificently%4:45:01::'
+    - id: 'magnificently%4:02:01::'
       pertainym:
       - magnificent%5:00:00:impressive:00
       synset: 00351959-r
@@ -16982,7 +16982,7 @@ magniloquent:
 magniloquently:
   r:
     sense:
-    - id: 'magniloquently%4:45:00::'
+    - id: 'magniloquently%4:02:00::'
       pertainym:
       - magniloquent%5:00:00:rhetorical:00
       synset: 00396196-r
@@ -17797,7 +17797,7 @@ mainly:
     - value: ˈmeɪnli
       variety: GB
     sense:
-    - id: 'mainly%4:53:00::'
+    - id: 'mainly%4:02:00::'
       synset: 00074163-r
 mainmast:
   n:
@@ -18040,7 +18040,7 @@ majestic:
 majestically:
   r:
     sense:
-    - id: 'majestically%4:45:00::'
+    - id: 'majestically%4:02:00::'
       pertainym:
       - majestic%5:00:00:impressive:00
       synset: 00396366-r
@@ -19364,8 +19364,8 @@ maladroitly:
   r:
     sense:
     - antonym:
-      - 'adroitly%4:45:00::'
-      id: 'maladroitly%4:45:00::'
+      - 'adroitly%4:02:00::'
+      id: 'maladroitly%4:02:00::'
       pertainym:
       - 'maladroit%3:00:00::'
       synset: 00056738-r
@@ -19438,7 +19438,7 @@ malapropos:
       synset: 00139890-a
   r:
     sense:
-    - id: 'malapropos%4:45:00::'
+    - id: 'malapropos%4:02:00::'
       synset: 00377896-r
 malar:
   n:
@@ -19875,8 +19875,8 @@ malevolently:
   r:
     sense:
     - antonym:
-      - 'benevolently%4:45:00::'
-      id: 'malevolently%4:45:00::'
+      - 'benevolently%4:02:00::'
+      id: 'malevolently%4:02:00::'
       pertainym:
       - malevolent%5:00:00:malicious:00
       synset: 00396626-r
@@ -19985,7 +19985,7 @@ malicious mischief:
 maliciously:
   r:
     sense:
-    - id: 'maliciously%4:45:00::'
+    - id: 'maliciously%4:02:00::'
       pertainym:
       - 'malicious%3:00:00::'
       synset: 00202504-r
@@ -20117,7 +20117,7 @@ malignant tumor:
 malignantly:
   r:
     sense:
-    - id: 'malignantly%4:45:00::'
+    - id: 'malignantly%4:02:00::'
       pertainym:
       - 'malignant%3:00:02::'
       synset: 00396753-r
@@ -20142,7 +20142,7 @@ malignity:
 malignly:
   r:
     sense:
-    - id: 'malignly%4:45:00::'
+    - id: 'malignly%4:02:00::'
       pertainym:
       - malign%5:00:00:maleficent:00
       synset: 00396860-r
@@ -21123,7 +21123,7 @@ man-to-man:
       synset: 00496243-s
   r:
     sense:
-    - id: 'man-to-man%4:45:00::'
+    - id: 'man-to-man%4:02:00::'
       synset: 00059287-r
 manacle:
   n:
@@ -21249,8 +21249,8 @@ manageably:
   r:
     sense:
     - antonym:
-      - 'unmanageably%4:51:00::'
-      id: 'manageably%4:51:00::'
+      - 'unmanageably%4:02:00::'
+      id: 'manageably%4:02:00::'
       pertainym:
       - 'manageable%3:00:00::'
       synset: 00392194-r
@@ -21335,7 +21335,7 @@ managerial economics:
 managerially:
   r:
     sense:
-    - id: 'managerially%4:52:00::'
+    - id: 'managerially%4:02:00::'
       pertainym:
       - 'managerial%3:01:00::'
       synset: 00396942-r
@@ -21508,7 +21508,7 @@ mandator:
 mandatorily:
   r:
     sense:
-    - id: 'mandatorily%4:45:00::'
+    - id: 'mandatorily%4:02:00::'
       pertainym:
       - mandatory%5:00:00:obligatory:00
       synset: 00289970-r
@@ -21795,8 +21795,8 @@ manfully:
   r:
     sense:
     - antonym:
-      - 'unmanfully%4:46:00::'
-      id: 'manfully%4:45:00::'
+      - 'unmanfully%4:02:00::'
+      id: 'manfully%4:02:00::'
       pertainym:
       - 'manful%3:00:00::'
       synset: 00392480-r
@@ -21893,7 +21893,7 @@ mangey:
 mangily:
   r:
     sense:
-    - id: 'mangily%4:45:00::'
+    - id: 'mangily%4:02:00::'
       pertainym:
       - mangy%5:00:00:worn:00
       synset: 00397023-r
@@ -22141,7 +22141,7 @@ maniacal:
 maniacally:
   r:
     sense:
-    - id: 'maniacally%4:45:00::'
+    - id: 'maniacally%4:02:00::'
       pertainym:
       - maniacal%5:00:00:insane:00
       synset: 00397094-r
@@ -22322,7 +22322,7 @@ manifestly:
     pronunciation:
     - value: ˈmæn.ɪ.fɛst.li
     sense:
-    - id: 'manifestly%4:51:00::'
+    - id: 'manifestly%4:02:00::'
       pertainym:
       - manifest%5:00:00:obvious:00
       synset: 00039730-r
@@ -22540,7 +22540,7 @@ manipulative electronic deception:
 manipulatively:
   r:
     sense:
-    - id: 'manipulatively%4:45:00::'
+    - id: 'manipulatively%4:02:00::'
       pertainym:
       - manipulative%5:00:00:artful:00
       synset: 00397239-r
@@ -22626,7 +22626,7 @@ manly:
       synset: 01486984-s
   r:
     sense:
-    - id: 'manly%4:45:00::'
+    - id: 'manly%4:02:00::'
       synset: 00392480-r
 manna:
   n:
@@ -23276,7 +23276,7 @@ manual of arms:
 manually:
   r:
     sense:
-    - id: 'manually%4:45:00::'
+    - id: 'manually%4:02:00::'
       pertainym:
       - 'manual%3:01:00::'
       synset: 00125586-r
@@ -24586,7 +24586,7 @@ marginally:
     - value: ˈmɑːdʒɪnəli
       variety: GB
     sense:
-    - id: 'marginally%4:51:00::'
+    - id: 'marginally%4:02:00::'
       pertainym:
       - marginal%5:00:00:minimal:00
       synset: 00090488-r
@@ -25209,7 +25209,7 @@ markedly:
     - value: ˈmɑːkɪdli
       variety: GB
     sense:
-    - id: 'markedly%4:51:00::'
+    - id: 'markedly%4:02:00::'
       pertainym:
       - marked%5:00:00:noticeable:00
       synset: 00162493-r
@@ -26419,7 +26419,7 @@ martial music:
 martially:
   r:
     sense:
-    - id: 'martially%4:45:00::'
+    - id: 'martially%4:02:00::'
       pertainym:
       - martial%5:00:00:military:02
       synset: 00503113-r
@@ -26646,7 +26646,7 @@ marvellously:
     - value: ˈmɑɹvələsli
       variety: US
     sense:
-    - id: 'marvellously%4:51:00::'
+    - id: 'marvellously%4:02:00::'
       pertainym:
       - marvelous%5:00:00:extraordinary:00
       synset: 00184576-r
@@ -26667,7 +26667,7 @@ marvelous:
 marvelously:
   r:
     sense:
-    - id: 'marvelously%4:51:00::'
+    - id: 'marvelously%4:02:00::'
       synset: 00184576-r
 marzipan:
   n:
@@ -27090,7 +27090,7 @@ masochistic:
 masochistically:
   r:
     sense:
-    - id: 'masochistically%4:46:00::'
+    - id: 'masochistically%4:02:00::'
       pertainym:
       - 'masochistic%3:00:00::'
       synset: 00397334-r
@@ -27607,7 +27607,7 @@ massive:
 massively:
   r:
     sense:
-    - id: 'massively%4:51:00::'
+    - id: 'massively%4:02:00::'
       pertainym:
       - massive%5:00:00:large:00
       synset: 00397478-r
@@ -27836,7 +27836,7 @@ masterfully:
     - value: ˈmæstɚfʊli
       variety: CA
     sense:
-    - id: 'masterfully%4:45:01::'
+    - id: 'masterfully%4:02:01::'
       pertainym:
       - masterful%5:00:00:skilled:00
       synset: 00397648-r
@@ -28760,7 +28760,7 @@ materialistic:
 materialistically:
   r:
     sense:
-    - id: 'materialistically%4:45:00::'
+    - id: 'materialistically%4:02:00::'
       pertainym:
       - materialistic%5:00:00:worldly:00
       synset: 00397820-r
@@ -28824,11 +28824,11 @@ materialize:
 materially:
   r:
     sense:
-    - id: 'materially%4:51:00::'
+    - id: 'materially%4:02:00::'
       pertainym:
       - material%5:00:00:physical:00
       synset: 00137680-r
-    - id: 'materially%4:51:01::'
+    - id: 'materially%4:02:01::'
       pertainym:
       - 'material%3:00:02::'
       synset: 00137821-r
@@ -28907,7 +28907,7 @@ maternalistic:
 maternally:
   r:
     sense:
-    - id: 'maternally%4:45:00::'
+    - id: 'maternally%4:02:00::'
       pertainym:
       - 'maternal%3:00:00::'
       synset: 00397959-r
@@ -29067,7 +29067,7 @@ mathematical symbol:
 mathematically:
   r:
     sense:
-    - id: 'mathematically%4:52:00::'
+    - id: 'mathematically%4:02:00::'
       pertainym:
       - 'mathematical%3:01:00::'
       synset: 00065229-r
@@ -29281,7 +29281,7 @@ matrilineality:
 matrilineally:
   r:
     sense:
-    - id: 'matrilineally%4:45:00::'
+    - id: 'matrilineally%4:02:00::'
       pertainym:
       - matrilineal%5:00:00:lineal:00
       synset: 00393707-r
@@ -29763,8 +29763,8 @@ maturely:
   r:
     sense:
     - antonym:
-      - 'immaturely%4:45:00::'
-      id: 'maturely%4:45:00::'
+      - 'immaturely%4:02:00::'
+      id: 'maturely%4:02:00::'
       pertainym:
       - 'mature%3:00:02::'
       synset: 00385805-r
@@ -30090,7 +30090,7 @@ mawkish:
 mawkishly:
   r:
     sense:
-    - id: 'mawkishly%4:45:00::'
+    - id: 'mawkishly%4:02:00::'
       pertainym:
       - mawkish%5:00:00:emotional:00
       synset: 00398104-r
@@ -30238,8 +30238,8 @@ maximally:
   r:
     sense:
     - antonym:
-      - 'minimally%4:51:00::'
-      id: 'maximally%4:51:00::'
+      - 'minimally%4:02:00::'
+      id: 'maximally%4:02:00::'
       pertainym:
       - 'maximal%3:00:00::'
       synset: 00398267-r
@@ -30413,7 +30413,7 @@ maybe:
     pronunciation:
     - value: ˈmeɪbi
     sense:
-    - id: 'maybe%4:51:00::'
+    - id: 'maybe%4:02:00::'
       synset: 00301501-r
 mayday:
   n:
@@ -30445,7 +30445,7 @@ mayhap:
     pronunciation:
     - value: ˈmeɪhæp
     sense:
-    - id: 'mayhap%4:51:00::'
+    - id: 'mayhap%4:02:00::'
       synset: 00301501-r
 mayhaw:
   n:
@@ -30792,9 +30792,9 @@ meagerly:
   r:
     sense:
     - antonym:
-      - 'amply%4:51:01::'
-      - 'amply%4:51:00::'
-      id: 'meagerly%4:51:00::'
+      - 'amply%4:02:01::'
+      - 'amply%4:02:00::'
+      id: 'meagerly%4:02:00::'
       pertainym:
       - 'meager%3:00:00::'
       synset: 00398603-r
@@ -30819,7 +30819,7 @@ meagre:
 meagrely:
   r:
     sense:
-    - id: 'meagrely%4:51:00::'
+    - id: 'meagrely%4:02:00::'
       synset: 00398603-r
 meagreness:
   n:
@@ -31081,7 +31081,7 @@ meandering:
 meanderingly:
   r:
     sense:
-    - id: 'meanderingly%4:45:00::'
+    - id: 'meanderingly%4:02:00::'
       pertainym:
       - meandering%5:00:00:indirect:00
       synset: 00399101-r
@@ -31122,7 +31122,7 @@ meaningful:
 meaningfully:
   r:
     sense:
-    - id: 'meaningfully%4:45:00::'
+    - id: 'meaningfully%4:02:00::'
       pertainym:
       - 'meaningful%3:00:00::'
       synset: 00399231-r
@@ -31163,19 +31163,19 @@ meanly:
     - value: ˈmiːnli
       variety: GB
     sense:
-    - id: 'meanly%4:45:04::'
+    - id: 'meanly%4:02:04::'
       pertainym:
       - mean%5:00:00:nasty:00
       synset: 00408963-r
-    - id: 'meanly%4:45:02::'
+    - id: 'meanly%4:02:02::'
       pertainym:
       - mean%5:00:00:ignoble:01
       synset: 00399624-r
-    - id: 'meanly%4:45:01::'
+    - id: 'meanly%4:02:01::'
       pertainym:
       - mean%5:00:01:stingy:00
       synset: 00399514-r
-    - id: 'meanly%4:45:00::'
+    - id: 'meanly%4:02:00::'
       pertainym:
       - mean%5:00:01:stingy:00
       synset: 00399370-r
@@ -31224,7 +31224,7 @@ meanspirited:
 meanspiritedly:
   r:
     sense:
-    - id: 'meanspiritedly%4:45:00::'
+    - id: 'meanspiritedly%4:02:00::'
       pertainym:
       - meanspirited%5:00:00:ignoble:01
       synset: 00399834-r
@@ -31239,7 +31239,7 @@ meantime:
     pronunciation:
     - value: ˈmiːntaɪm
     sense:
-    - id: 'meantime%4:49:00::'
+    - id: 'meantime%4:02:00::'
       synset: 00065346-r
 meanwhile:
   n:
@@ -31252,9 +31252,9 @@ meanwhile:
     pronunciation:
     - value: ˈmiːnwaɪl
     sense:
-    - id: 'meanwhile%4:49:01::'
+    - id: 'meanwhile%4:02:01::'
       synset: 00065584-r
-    - id: 'meanwhile%4:49:00::'
+    - id: 'meanwhile%4:02:00::'
       synset: 00065346-r
 meany:
   n:
@@ -31310,8 +31310,8 @@ measurably:
   r:
     sense:
     - antonym:
-      - 'immeasurably%4:51:00::'
-      id: 'measurably%4:51:00::'
+      - 'immeasurably%4:02:00::'
+      id: 'measurably%4:02:00::'
       pertainym:
       - 'measurable%3:00:00::'
       synset: 00400108-r
@@ -31469,7 +31469,7 @@ measured rhythm:
 measuredly:
   r:
     sense:
-    - id: 'measuredly%4:45:00::'
+    - id: 'measuredly%4:02:00::'
       pertainym:
       - measured%5:00:00:unhurried:00
       synset: 00509856-r
@@ -31869,11 +31869,11 @@ mechanically:
     pronunciation:
     - value: məˈkænɪkli
     sense:
-    - id: 'mechanically%4:45:01::'
+    - id: 'mechanically%4:02:01::'
       pertainym:
       - 'mechanical%3:01:00::'
       synset: 00114936-r
-    - id: 'mechanically%4:45:00::'
+    - id: 'mechanically%4:02:00::'
       pertainym:
       - 'mechanical%3:00:00::'
       synset: 00114811-r
@@ -32002,7 +32002,7 @@ mechanistic:
 mechanistically:
   r:
     sense:
-    - id: 'mechanistically%4:45:00::'
+    - id: 'mechanistically%4:02:00::'
       synset: 00400243-r
 mechanization:
   n:
@@ -32306,7 +32306,7 @@ medially:
     pronunciation:
     - value: ˈmiː.di.əl.i
     sense:
-    - id: 'medially%4:50:00::'
+    - id: 'medially%4:02:00::'
       pertainym:
       - medial%5:00:00:central:01
       synset: 00400432-r
@@ -32690,7 +32690,7 @@ medical woman:
 medically:
   r:
     sense:
-    - id: 'medically%4:52:00::'
+    - id: 'medically%4:02:00::'
       pertainym:
       - 'medical%3:01:00::'
       synset: 00125676-r
@@ -32785,7 +32785,7 @@ medicinal leech:
 medicinally:
   r:
     sense:
-    - id: 'medicinally%4:52:00::'
+    - id: 'medicinally%4:02:00::'
       pertainym:
       - medicinal%5:00:00:healthful:00
       synset: 00125817-r
@@ -33015,7 +33015,7 @@ meditative:
 meditatively:
   r:
     sense:
-    - id: 'meditatively%4:45:00::'
+    - id: 'meditatively%4:02:00::'
       pertainym:
       - meditative%5:00:00:thoughtful:00
       synset: 00400548-r
@@ -33299,11 +33299,11 @@ meekly:
     pronunciation:
     - value: miːk.li
     sense:
-    - id: 'meekly%4:45:02::'
+    - id: 'meekly%4:02:02::'
       pertainym:
       - meek%5:00:00:submissive:00
       synset: 00111157-r
-    - id: 'meekly%4:45:00::'
+    - id: 'meekly%4:02:00::'
       pertainym:
       - meek%5:00:00:humble:00
       synset: 00111029-r
@@ -34311,7 +34311,7 @@ mellow:
       synset: 00802795-s
   r:
     sense:
-    - id: 'mellow%4:45:00::'
+    - id: 'mellow%4:02:00::'
       synset: 00400747-r
   v:
     pronunciation:
@@ -34366,12 +34366,12 @@ mellowing:
 mellowingly:
   r:
     sense:
-    - id: 'mellowingly%4:45:00::'
+    - id: 'mellowingly%4:02:00::'
       synset: 00510142-r
 mellowly:
   r:
     sense:
-    - id: 'mellowly%4:45:00::'
+    - id: 'mellowly%4:02:00::'
       pertainym:
       - mellow%5:00:00:soft:02
       - mellow%5:00:00:relaxed:00
@@ -34428,7 +34428,7 @@ melodic theme:
 melodically:
   r:
     sense:
-    - id: 'melodically%4:52:00::'
+    - id: 'melodically%4:02:00::'
       pertainym:
       - 'melodic%3:01:00::'
       synset: 00135423-r
@@ -34455,8 +34455,8 @@ melodiously:
   r:
     sense:
     - antonym:
-      - 'unmelodiously%4:45:00::'
-      id: 'melodiously%4:45:00::'
+      - 'unmelodiously%4:02:00::'
+      id: 'melodiously%4:02:00::'
       pertainym:
       - 'melodious%3:00:00::'
       synset: 00400865-r
@@ -34513,11 +34513,11 @@ melodramatic:
 melodramatically:
   r:
     sense:
-    - id: 'melodramatically%4:45:01::'
+    - id: 'melodramatically%4:02:01::'
       pertainym:
       - melodramatic%5:00:01:theatrical:00
       synset: 00401299-r
-    - id: 'melodramatically%4:45:00::'
+    - id: 'melodramatically%4:02:00::'
       pertainym:
       - melodramatic%5:00:02:dramatic:00
       synset: 00401152-r
@@ -34943,8 +34943,8 @@ memorably:
   r:
     sense:
     - antonym:
-      - 'unmemorably%4:45:00::'
-      id: 'memorably%4:45:00::'
+      - 'unmemorably%4:02:00::'
+      id: 'memorably%4:02:00::'
       pertainym:
       - memorable%5:00:02:unforgettable:00
       synset: 00401443-r
@@ -35295,7 +35295,7 @@ menacing:
 menacingly:
   r:
     sense:
-    - id: 'menacingly%4:45:00::'
+    - id: 'menacingly%4:02:00::'
       pertainym:
       - menacing%5:00:00:alarming:00
       synset: 00401712-r
@@ -35388,7 +35388,7 @@ mendaciously:
     pronunciation:
     - value: mɛnˈdeɪʃəsli
     sense:
-    - id: 'mendaciously%4:45:00::'
+    - id: 'mendaciously%4:02:00::'
       pertainym:
       - mendacious%5:00:00:untruthful:00
       synset: 00401884-r
@@ -35500,7 +35500,7 @@ menial:
 menially:
   r:
     sense:
-    - id: 'menially%4:45:00::'
+    - id: 'menially%4:02:00::'
       pertainym:
       - menial%5:00:00:unskilled:00
       synset: 00402308-r
@@ -36074,7 +36074,7 @@ mentally:
     pronunciation:
     - value: ˈmɛntəli
     sense:
-    - id: 'mentally%4:45:00::'
+    - id: 'mentally%4:02:00::'
       pertainym:
       - 'mental%3:00:00::'
       synset: 00230340-r
@@ -36611,7 +36611,7 @@ merciful:
 mercifully:
   r:
     sense:
-    - id: 'mercifully%4:45:01::'
+    - id: 'mercifully%4:02:01::'
       pertainym:
       - 'merciful%3:00:00::'
       synset: 00194576-r
@@ -36650,7 +36650,7 @@ merciless:
 mercilessly:
   r:
     sense:
-    - id: 'mercilessly%4:45:00::'
+    - id: 'mercilessly%4:02:00::'
       pertainym:
       - 'merciless%3:00:00::'
       synset: 00402381-r
@@ -36838,7 +36838,7 @@ merely:
     - value: ˈmɪɹli
       variety: US
     sense:
-    - id: 'merely%4:53:00::'
+    - id: 'merely%4:02:00::'
       pertainym:
       - mere%5:00:00:plain:01
       synset: 00005103-r
@@ -36867,7 +36867,7 @@ meretricious:
 meretriciously:
   r:
     sense:
-    - id: 'meretriciously%4:45:00::'
+    - id: 'meretriciously%4:02:00::'
       pertainym:
       - meretricious%5:00:00:tasteless:02
       synset: 00402632-r
@@ -37162,7 +37162,7 @@ meritorious:
 meritoriously:
   r:
     sense:
-    - id: 'meritoriously%4:45:00::'
+    - id: 'meritoriously%4:02:00::'
       pertainym:
       - meritorious%5:00:00:worthy:00
       synset: 00402786-r
@@ -37240,7 +37240,7 @@ merrily:
     pronunciation:
     - value: ˈmɛɹɪli
     sense:
-    - id: 'merrily%4:45:00::'
+    - id: 'merrily%4:02:00::'
       pertainym:
       - merry%5:00:01:joyous:00
       synset: 00050835-r
@@ -38015,7 +38015,7 @@ messianic:
 messily:
   r:
     sense:
-    - id: 'messily%4:45:00::'
+    - id: 'messily%4:02:00::'
       pertainym:
       - messy%5:00:00:untidy:00
       synset: 00402908-r
@@ -38133,7 +38133,7 @@ metabolic rate:
 metabolically:
   r:
     sense:
-    - id: 'metabolically%4:52:00::'
+    - id: 'metabolically%4:02:00::'
       pertainym:
       - 'metabolic%3:01:00::'
       synset: 00115099-r
@@ -38758,7 +38758,7 @@ metaphorical:
 metaphorically:
   r:
     sense:
-    - id: 'metaphorically%4:45:00::'
+    - id: 'metaphorically%4:02:00::'
       pertainym:
       - metaphorical%5:00:00:figurative:00
       synset: 00135883-r
@@ -38785,7 +38785,7 @@ metaphysical:
 metaphysically:
   r:
     sense:
-    - id: 'metaphysically%4:52:00::'
+    - id: 'metaphysically%4:02:00::'
       pertainym:
       - 'metaphysical%3:01:00::'
       synset: 00135229-r
@@ -39122,7 +39122,7 @@ meteorological satellite:
 meteorologically:
   r:
     sense:
-    - id: 'meteorologically%4:52:00::'
+    - id: 'meteorologically%4:02:00::'
       pertainym:
       - 'meteorologic%3:01:00::'
       synset: 00135104-r
@@ -39420,7 +39420,7 @@ methodical:
 methodically:
   r:
     sense:
-    - id: 'methodically%4:45:00::'
+    - id: 'methodically%4:02:00::'
       pertainym:
       - methodical%5:00:00:organized:01
       synset: 00175370-r
@@ -39449,7 +39449,7 @@ methodological analysis:
 methodologically:
   r:
     sense:
-    - id: 'methodologically%4:45:00::'
+    - id: 'methodologically%4:02:00::'
       pertainym:
       - 'methodological%3:01:00::'
       synset: 00403255-r
@@ -39657,7 +39657,7 @@ meticulous:
 meticulously:
   r:
     sense:
-    - id: 'meticulously%4:45:00::'
+    - id: 'meticulously%4:02:00::'
       pertainym:
       - meticulous%5:00:00:precise:00
       synset: 00195747-r
@@ -39706,7 +39706,7 @@ metonymical:
 metonymically:
   r:
     sense:
-    - id: 'metonymically%4:45:00::'
+    - id: 'metonymically%4:02:00::'
       pertainym:
       - metonymic%5:00:00:figurative:00
       synset: 00135342-r
@@ -39895,7 +39895,7 @@ metrical unit:
 metrically:
   r:
     sense:
-    - id: 'metrically%4:52:00::'
+    - id: 'metrically%4:02:00::'
       pertainym:
       - metrical%5:00:00:rhythmical:00
       synset: 00403375-r
@@ -41039,11 +41039,11 @@ microscopical:
 microscopically:
   r:
     sense:
-    - id: 'microscopically%4:45:00::'
+    - id: 'microscopically%4:02:00::'
       pertainym:
       - 'microscopical%3:01:00::'
       synset: 00078935-r
-    - id: 'microscopically%4:45:01::'
+    - id: 'microscopically%4:02:01::'
       pertainym:
       - microscopic%5:00:00:precise:00
       synset: 00079171-r
@@ -41708,7 +41708,7 @@ middling:
     - value: ˈmɪd(ə)lɪŋ
       variety: US
     sense:
-    - id: 'middling%4:51:00::'
+    - id: 'middling%4:02:00::'
       synset: 00036138-r
 middy:
   n:
@@ -41794,7 +41794,7 @@ midmost:
       synset: 00332065-s
   r:
     sense:
-    - id: 'midmost%4:50:00::'
+    - id: 'midmost%4:02:00::'
       synset: 00260735-r
 midnight:
   n:
@@ -41851,7 +41851,7 @@ midshipman:
 midships:
   r:
     sense:
-    - id: 'midships%4:50:00::'
+    - id: 'midships%4:02:00::'
       synset: 00403940-r
 midshipwoman:
   n:
@@ -41934,7 +41934,7 @@ midway:
     pronunciation:
     - value: mɪdweɪ
     sense:
-    - id: 'midway%4:50:00::'
+    - id: 'midway%4:02:00::'
       synset: 00256895-r
 midweek:
   n:
@@ -41945,7 +41945,7 @@ midweek:
       synset: 15161294-n
   r:
     sense:
-    - id: 'midweek%4:49:00::'
+    - id: 'midweek%4:02:00::'
       synset: 00404127-r
 midweekly:
   a:
@@ -42073,9 +42073,9 @@ mightily:
     - value: ˈmaɪtɪli
       variety: GB
     sense:
-    - id: 'mightily%4:51:01::'
+    - id: 'mightily%4:02:01::'
       synset: 00091627-r
-    - id: 'mightily%4:51:00::'
+    - id: 'mightily%4:02:00::'
       synset: 00032793-r
 mightiness:
   n:
@@ -42107,7 +42107,7 @@ mighty:
     - value: ˈmaɪti
       variety: US
     sense:
-    - id: 'mighty%4:51:00::'
+    - id: 'mighty%4:02:00::'
       synset: 00032793-r
 mignonette:
   n:
@@ -42428,11 +42428,11 @@ mildly:
     pronunciation:
     - value: ˈmaɪldli
     sense:
-    - id: 'mildly%4:51:00::'
+    - id: 'mildly%4:02:00::'
       pertainym:
       - 'mild%3:00:00::'
       synset: 00033949-r
-    - id: 'mildly%4:45:02::'
+    - id: 'mildly%4:02:02::'
       pertainym:
       - 'mild%3:00:00::'
       synset: 00504939-r
@@ -42632,7 +42632,7 @@ militant:
 militarily:
   r:
     sense:
-    - id: 'militarily%4:52:00::'
+    - id: 'militarily%4:02:00::'
       pertainym:
       - 'military%3:01:00::'
       synset: 00111759-r
@@ -43921,7 +43921,7 @@ millionairess:
 millionfold:
   r:
     sense:
-    - id: 'millionfold%4:51:00::'
+    - id: 'millionfold%4:02:00::'
       synset: 00346455-r
 millionth:
   a:
@@ -44367,7 +44367,7 @@ mincing machine:
 mincingly:
   r:
     sense:
-    - id: 'mincingly%4:45:00::'
+    - id: 'mincingly%4:02:00::'
       pertainym:
       - mincing%5:00:00:refined:01
       synset: 00404188-r
@@ -44557,8 +44557,8 @@ mindfully:
   r:
     sense:
     - antonym:
-      - 'unmindfully%4:45:00::'
-      id: 'mindfully%4:45:00::'
+      - 'unmindfully%4:02:00::'
+      id: 'mindfully%4:02:00::'
       pertainym:
       - 'mindful%3:00:00::'
       synset: 00154814-r
@@ -44597,11 +44597,11 @@ mindless:
 mindlessly:
   r:
     sense:
-    - id: 'mindlessly%4:45:01::'
+    - id: 'mindlessly%4:02:01::'
       pertainym:
       - mindless%5:00:00:nonintellectual:00
       synset: 00403803-r
-    - id: 'mindlessly%4:45:00::'
+    - id: 'mindlessly%4:02:00::'
       pertainym:
       - mindless%5:00:00:unreasonable:00
       synset: 00403618-r
@@ -45216,8 +45216,8 @@ minimally:
   r:
     sense:
     - antonym:
-      - 'maximally%4:51:00::'
-      id: 'minimally%4:51:00::'
+      - 'maximally%4:02:00::'
+      id: 'minimally%4:02:00::'
       pertainym:
       - 'minimal%3:00:00::'
       synset: 00398433-r
@@ -45513,7 +45513,7 @@ ministerial:
 ministerially:
   r:
     sense:
-    - id: 'ministerially%4:45:00::'
+    - id: 'ministerially%4:02:00::'
       pertainym:
       - 'ministerial%3:01:02::'
       synset: 00404305-r
@@ -46138,7 +46138,7 @@ minute steak:
 minutely:
   r:
     sense:
-    - id: 'minutely%4:45:00::'
+    - id: 'minutely%4:02:00::'
       pertainym:
       - minute%5:00:00:small:00
       synset: 00404465-r
@@ -46288,7 +46288,7 @@ miraculous food:
 miraculously:
   r:
     sense:
-    - id: 'miraculously%4:45:00::'
+    - id: 'miraculously%4:02:00::'
       pertainym:
       - miraculous%5:00:00:supernatural:00
       synset: 00404674-r
@@ -46486,7 +46486,7 @@ mirthful:
 mirthfully:
   r:
     sense:
-    - id: 'mirthfully%4:45:00::'
+    - id: 'mirthfully%4:02:00::'
       pertainym:
       - mirthful%5:00:00:joyous:00
       synset: 00050835-r
@@ -46990,7 +46990,7 @@ mischievous:
 mischievously:
   r:
     sense:
-    - id: 'mischievously%4:45:00::'
+    - id: 'mischievously%4:02:00::'
       synset: 00017140-r
 mischievousness:
   n:
@@ -47344,7 +47344,7 @@ miserableness:
 miserably:
   r:
     sense:
-    - id: 'miserably%4:45:00::'
+    - id: 'miserably%4:02:00::'
       pertainym:
       - miserable%5:00:00:uncomfortable:00
       synset: 00404848-r
@@ -47714,7 +47714,7 @@ misleading:
 misleadingly:
   r:
     sense:
-    - id: 'misleadingly%4:45:00::'
+    - id: 'misleadingly%4:02:00::'
       pertainym:
       - misleading%5:00:00:dishonest:00
       synset: 00082498-r
@@ -48578,7 +48578,7 @@ mistakenly:
     pronunciation:
     - value: mɪˈsteɪ.kən.li
     sense:
-    - id: 'mistakenly%4:46:00::'
+    - id: 'mistakenly%4:02:00::'
       pertainym:
       - mistaken%5:00:00:incorrect:00
       synset: 00196934-r
@@ -48597,11 +48597,11 @@ mistflower:
 mistily:
   r:
     sense:
-    - id: 'mistily%4:45:00::'
+    - id: 'mistily%4:02:00::'
       pertainym:
       - misty%5:00:00:cloudy:00
       synset: 00404962-r
-    - id: 'mistily%4:51:01::'
+    - id: 'mistily%4:02:01::'
       synset: 00234331-r
 mistime:
   v:
@@ -48782,7 +48782,7 @@ mistrustful:
 mistrustfully:
   r:
     sense:
-    - id: 'mistrustfully%4:45:00::'
+    - id: 'mistrustfully%4:02:00::'
       pertainym:
       - mistrustful%5:00:00:distrustful:00
       synset: 00321801-r
@@ -50229,11 +50229,11 @@ mockingbird:
 mockingly:
   r:
     sense:
-    - id: 'mockingly%4:45:01::'
+    - id: 'mockingly%4:02:01::'
       pertainym:
       - mocking%5:00:00:disrespectful:00
       synset: 00349656-r
-    - id: 'mockingly%4:45:00::'
+    - id: 'mockingly%4:02:00::'
       pertainym:
       - mocking%5:00:00:disrespectful:00
       synset: 00302540-r
@@ -50696,14 +50696,14 @@ moderately:
   r:
     sense:
     - antonym:
-      - 'immoderately%4:51:02::'
-      id: 'moderately%4:51:00::'
+      - 'immoderately%4:02:02::'
+      id: 'moderately%4:02:00::'
       pertainym:
       - 'moderate%3:00:00::'
       synset: 00036138-r
     - antonym:
-      - 'immoderately%4:45:00::'
-      id: 'moderately%4:51:01::'
+      - 'immoderately%4:02:00::'
+      id: 'moderately%4:02:01::'
       pertainym:
       - 'moderate%3:00:00::'
       synset: 00216535-r
@@ -51071,8 +51071,8 @@ modestly:
   r:
     sense:
     - antonym:
-      - 'immodestly%4:45:00::'
-      id: 'modestly%4:45:00::'
+      - 'immodestly%4:02:00::'
+      id: 'modestly%4:02:00::'
       pertainym:
       - 'modest%3:00:02::'
       synset: 00240942-r
@@ -51277,7 +51277,7 @@ modish:
 modishly:
   r:
     sense:
-    - id: 'modishly%4:45:00::'
+    - id: 'modishly%4:02:00::'
       pertainym:
       - modish%5:00:00:fashionable:00
       synset: 00007257-r
@@ -51591,7 +51591,7 @@ moistening:
 moistly:
   r:
     sense:
-    - id: 'moistly%4:45:00::'
+    - id: 'moistly%4:02:00::'
       pertainym:
       - moist%5:00:00:wet:01
       synset: 00298995-r
@@ -52396,7 +52396,7 @@ molting:
 molto:
   r:
     sense:
-    - id: 'molto%4:51:00::'
+    - id: 'molto%4:02:00::'
       synset: 00405085-r
 molucca balm:
   n:
@@ -52511,9 +52511,9 @@ momentarily:
     - value: ˈməʊməntɛɹɪlɪi
       variety: GB
     sense:
-    - id: 'momentarily%4:49:02::'
+    - id: 'momentarily%4:02:02::'
       synset: 00093364-r
-    - id: 'momentarily%4:49:00::'
+    - id: 'momentarily%4:02:00::'
       synset: 00034790-r
 momentary:
   a:
@@ -52533,9 +52533,9 @@ momently:
     - value: ˈməʊməntli
       variety: GB
     sense:
-    - id: 'momently%4:49:02::'
+    - id: 'momently%4:02:02::'
       synset: 00093364-r
-    - id: 'momently%4:49:00::'
+    - id: 'momently%4:02:00::'
       synset: 00034790-r
 momentous:
   a:
@@ -52553,7 +52553,7 @@ momentous:
 momentously:
   r:
     sense:
-    - id: 'momentously%4:51:00::'
+    - id: 'momentously%4:02:00::'
       pertainym:
       - momentous%5:00:00:significant:00
       synset: 00405159-r
@@ -52818,8 +52818,8 @@ monaurally:
   r:
     sense:
     - antonym:
-      - 'binaurally%4:45:00::'
-      id: 'monaurally%4:45:00::'
+      - 'binaurally%4:02:00::'
+      id: 'monaurally%4:02:00::'
       pertainym:
       - 'monaural%3:00:00::'
       synset: 00209438-r
@@ -54108,7 +54108,7 @@ monolingual:
 monolingually:
   r:
     sense:
-    - id: 'monolingually%4:45:00::'
+    - id: 'monolingually%4:02:00::'
       pertainym:
       - 'monolingual%3:00:00::'
       synset: 00211063-r
@@ -54552,7 +54552,7 @@ monosyllabic word:
 monosyllabically:
   r:
     sense:
-    - id: 'monosyllabically%4:45:00::'
+    - id: 'monosyllabically%4:02:00::'
       pertainym:
       - monosyllabic%5:00:00:syllabic:00
       synset: 00144980-r
@@ -54658,7 +54658,7 @@ monotonous:
 monotonously:
   r:
     sense:
-    - id: 'monotonously%4:45:00::'
+    - id: 'monotonously%4:02:00::'
       pertainym:
       - monotonous%5:00:00:dull:03
       synset: 00405235-r
@@ -54891,15 +54891,15 @@ monstrous:
 monstrously:
   r:
     sense:
-    - id: 'monstrously%4:51:04::'
+    - id: 'monstrously%4:02:04::'
       pertainym:
       - monstrous%5:00:00:ugly:00
       synset: 00358561-r
-    - id: 'monstrously%4:45:02::'
+    - id: 'monstrously%4:02:02::'
       pertainym:
       - monstrous%5:00:00:evil:00
       synset: 00357543-r
-    - id: 'monstrously%4:51:00::'
+    - id: 'monstrously%4:02:00::'
       pertainym:
       - monstrous%5:00:00:ugly:00
       synset: 00353338-r
@@ -54956,7 +54956,7 @@ month:
 month by month:
   r:
     sense:
-    - id: 'month_by_month%4:49:00::'
+    - id: 'month_by_month%4:02:00::'
       synset: 00179699-r
 month of Sundays:
   n:
@@ -54993,7 +54993,7 @@ monthly:
     pronunciation:
     - value: ˈmʌnθli
     sense:
-    - id: 'monthly%4:48:00::'
+    - id: 'monthly%4:02:00::'
       pertainym:
       - monthly%5:00:00:periodic:00
       synset: 00256458-r
@@ -55145,7 +55145,7 @@ mood:
 moodily:
   r:
     sense:
-    - id: 'moodily%4:45:00::'
+    - id: 'moodily%4:02:00::'
       pertainym:
       - moody%5:00:00:ill-natured:00
       synset: 00405423-r
@@ -55368,7 +55368,7 @@ moong:
 moonily:
   r:
     sense:
-    - id: 'moonily%4:45:00::'
+    - id: 'moonily%4:02:00::'
       pertainym:
       - moony%5:00:00:inattentive:00
       synset: 00324150-r
@@ -56156,11 +56156,11 @@ morally:
     - value: ˈmɒɹəli
       variety: GB
     sense:
-    - id: 'morally%4:52:01::'
+    - id: 'morally%4:02:01::'
       synset: 00135013-r
     - antonym:
-      - 'immorally%4:45:00::'
-      id: 'morally%4:45:00::'
+      - 'immorally%4:02:00::'
+      id: 'morally%4:02:00::'
       synset: 00366273-r
 morals:
   n:
@@ -56246,7 +56246,7 @@ morbidity:
 morbidly:
   r:
     sense:
-    - id: 'morbidly%4:51:00::'
+    - id: 'morbidly%4:02:00::'
       pertainym:
       - morbid%5:00:00:unwholesome:00
       synset: 00405577-r
@@ -56295,7 +56295,7 @@ mordacious:
 mordaciously:
   r:
     sense:
-    - id: 'mordaciously%4:45:00::'
+    - id: 'mordaciously%4:02:00::'
       pertainym:
       - mordacious%5:00:00:sarcastic:00
       synset: 00099778-r
@@ -56341,29 +56341,29 @@ more:
   r:
     sense:
     - antonym:
-      - 'less%4:51:00::'
-      id: 'more%4:51:00::'
+      - 'less%4:02:00::'
+      id: 'more%4:02:00::'
       synset: 00099891-r
     - antonym:
-      - 'less%4:51:01::'
-      id: 'more%4:51:01::'
+      - 'less%4:02:01::'
+      id: 'more%4:02:01::'
       synset: 00100262-r
 more and more:
   r:
     sense:
-    - id: 'more_and_more%4:51:00::'
+    - id: 'more_and_more%4:02:00::'
       synset: 00060392-r
 more often than not:
   r:
     sense:
-    - id: 'more_often_than_not%4:48:00::'
+    - id: 'more_often_than_not%4:02:00::'
       synset: 00156754-r
 more or less:
   r:
     sense:
-    - id: 'more_or_less%4:49:00::'
+    - id: 'more_or_less%4:02:00::'
       synset: 00007414-r
-    - id: 'more_or_less%4:51:01::'
+    - id: 'more_or_less%4:02:01::'
       synset: 00036695-r
 more than:
   a:
@@ -56402,7 +56402,7 @@ moreover:
     - value: mɔːˈɹəʊvə
       variety: GB
     sense:
-    - id: 'moreover%4:54:00::'
+    - id: 'moreover%4:02:00::'
       synset: 00029763-r
 mores:
   n:
@@ -56590,7 +56590,7 @@ morose:
 morosely:
   r:
     sense:
-    - id: 'morosely%4:45:00::'
+    - id: 'morosely%4:02:00::'
       pertainym:
       - morose%5:00:00:ill-natured:00
       synset: 00405717-r
@@ -56724,7 +56724,7 @@ morphological rule:
 morphologically:
   r:
     sense:
-    - id: 'morphologically%4:52:00::'
+    - id: 'morphologically%4:02:00::'
       pertainym:
       - 'morphological%3:01:00::'
       synset: 00405821-r
@@ -56897,7 +56897,7 @@ mortally:
     - value: ˈmɔːtəli
       variety: GB
     sense:
-    - id: 'mortally%4:51:00::'
+    - id: 'mortally%4:02:00::'
       synset: 00405983-r
 mortar:
   n:
@@ -57501,22 +57501,22 @@ most:
   r:
     sense:
     - antonym:
-      - 'least%4:51:00::'
-      id: 'most%4:51:00::'
+      - 'least%4:02:00::'
+      id: 'most%4:02:00::'
       synset: 00112352-r
-    - id: 'most%4:51:02::'
+    - id: 'most%4:02:02::'
       synset: 00073433-r
-    - id: 'most%4:51:01::'
+    - id: 'most%4:02:01::'
       synset: 00032295-r
 most especially:
   r:
     sense:
-    - id: 'most_especially%4:53:00::'
+    - id: 'most_especially%4:02:00::'
       synset: 00151729-r
 most importantly:
   r:
     sense:
-    - id: 'most_importantly%4:53:01::'
+    - id: 'most_importantly%4:02:01::'
       synset: 00151729-r
 most valuable player:
   n:
@@ -57548,11 +57548,11 @@ mostly:
     - value: ˈmoʊstli
       variety: US
     sense:
-    - id: 'mostly%4:51:00::'
+    - id: 'mostly%4:02:00::'
       pertainym:
       - 'most%3:00:01::'
       synset: 00006486-r
-    - id: 'mostly%4:48:03::'
+    - id: 'mostly%4:02:03::'
       synset: 00156754-r
 mot:
   n:
@@ -57900,7 +57900,7 @@ motherly:
       synset: 01739595-s
   r:
     sense:
-    - id: 'motherly%4:45:00::'
+    - id: 'motherly%4:02:00::'
       synset: 00397959-r
 motherwort:
   n:
@@ -58101,7 +58101,7 @@ motionless:
 motionlessly:
   r:
     sense:
-    - id: 'motionlessly%4:45:00::'
+    - id: 'motionlessly%4:02:00::'
       pertainym:
       - motionless%5:00:00:nonmoving:00
       synset: 00406221-r
@@ -59788,7 +59788,7 @@ mournful widow:
 mournfully:
   r:
     sense:
-    - id: 'mournfully%4:45:00::'
+    - id: 'mournfully%4:02:00::'
       pertainym:
       - mournful%5:00:00:sad:00
       synset: 00406532-r
@@ -60945,7 +60945,7 @@ moving-picture show:
 movingly:
   r:
     sense:
-    - id: 'movingly%4:45:00::'
+    - id: 'movingly%4:02:00::'
       pertainym:
       - 'moving%3:00:01::'
       synset: 00036919-r
@@ -61114,18 +61114,18 @@ much:
     pronunciation:
     - value: mʌt͡ʃ
     sense:
-    - id: 'much%4:51:00::'
+    - id: 'much%4:02:00::'
       synset: 00059624-r
-    - id: 'much%4:51:03::'
+    - id: 'much%4:02:03::'
       synset: 00033190-r
-    - id: 'much%4:51:01::'
+    - id: 'much%4:02:01::'
       synset: 00023283-r
-    - id: 'much%4:51:06::'
+    - id: 'much%4:02:06::'
       synset: 00059951-r
 much as:
   r:
     sense:
-    - id: 'much_as%4:51:00::'
+    - id: 'much_as%4:02:00::'
       synset: 00190112-r
 muchness:
   n:
@@ -62254,7 +62254,7 @@ mulish:
 mulishly:
   r:
     sense:
-    - id: 'mulishly%4:46:00::'
+    - id: 'mulishly%4:02:00::'
       pertainym:
       - mulish%5:00:00:stubborn:00
       synset: 00200274-r
@@ -62553,7 +62553,7 @@ multifarious:
 multifariously:
   r:
     sense:
-    - id: 'multifariously%4:45:00::'
+    - id: 'multifariously%4:02:00::'
       pertainym:
       - multifarious%5:00:00:varied:00
       synset: 00052769-r
@@ -62614,8 +62614,8 @@ multilaterally:
   r:
     sense:
     - antonym:
-      - 'unilaterally%4:45:00::'
-      id: 'multilaterally%4:45:00::'
+      - 'unilaterally%4:02:00::'
+      id: 'multilaterally%4:02:00::'
       pertainym:
       - 'multilateral%3:00:00::'
       synset: 00254786-r
@@ -62873,7 +62873,7 @@ multiplicative inverse:
 multiplicatively:
   r:
     sense:
-    - id: 'multiplicatively%4:45:00::'
+    - id: 'multiplicatively%4:02:00::'
       pertainym:
       - multiplicative%5:00:00:increasing:00
       synset: 00084167-r
@@ -62916,8 +62916,8 @@ multiply:
     - value: ˈmʌltɪpli
     sense:
     - antonym:
-      - 'singly%4:45:00::'
-      id: 'multiply%4:48:00::'
+      - 'singly%4:02:00::'
+      id: 'multiply%4:02:00::'
       pertainym:
       - 'multiple%3:00:00::'
       synset: 00084016-r
@@ -63376,11 +63376,11 @@ mundane:
 mundanely:
   r:
     sense:
-    - id: 'mundanely%4:52:01::'
+    - id: 'mundanely%4:02:01::'
       pertainym:
       - mundane%5:00:00:worldly:00
       synset: 00406789-r
-    - id: 'mundanely%4:45:00::'
+    - id: 'mundanely%4:02:00::'
       pertainym:
       - mundane%5:00:00:ordinary:00
       synset: 00406659-r
@@ -63489,7 +63489,7 @@ municipality:
 municipally:
   r:
     sense:
-    - id: 'municipally%4:52:00::'
+    - id: 'municipally%4:02:00::'
       pertainym:
       - 'municipal%3:01:00::'
       synset: 00131004-r
@@ -63512,7 +63512,7 @@ munificent:
 munificently:
   r:
     sense:
-    - id: 'munificently%4:45:00::'
+    - id: 'munificently%4:02:00::'
       pertainym:
       - munificent%5:00:00:generous:01
       synset: 00198104-r
@@ -63741,11 +63741,11 @@ murderous:
 murderously:
   r:
     sense:
-    - id: 'murderously%4:45:01::'
+    - id: 'murderously%4:02:01::'
       pertainym:
       - murderous%5:00:00:bloody:00
       synset: 00406926-r
-    - id: 'murderously%4:45:00::'
+    - id: 'murderously%4:02:00::'
       pertainym:
       - murderous%5:00:00:bloody:00
       synset: 00274737-r
@@ -63813,11 +63813,11 @@ murk:
 murkily:
   r:
     sense:
-    - id: 'murkily%4:45:01::'
+    - id: 'murkily%4:02:01::'
       pertainym:
       - murky%5:00:00:opaque:00
       synset: 00407079-r
-    - id: 'murkily%4:45:00::'
+    - id: 'murkily%4:02:00::'
       synset: 00213262-r
 murkiness:
   n:
@@ -65061,8 +65061,8 @@ musically:
   r:
     sense:
     - antonym:
-      - 'unmusically%4:45:00::'
-      id: 'musically%4:45:01::'
+      - 'unmusically%4:02:00::'
+      id: 'musically%4:02:01::'
       pertainym:
       - 'musical%3:00:01::'
       synset: 00407179-r
@@ -65119,7 +65119,7 @@ musicological:
 musicologically:
   r:
     sense:
-    - id: 'musicologically%4:52:00::'
+    - id: 'musicologically%4:02:00::'
       pertainym:
       - 'musicological%3:01:00::'
       synset: 00134925-r
@@ -65155,7 +65155,7 @@ musing:
 musingly:
   r:
     sense:
-    - id: 'musingly%4:45:00::'
+    - id: 'musingly%4:02:00::'
       pertainym:
       - musing%5:00:00:thoughtful:00
       synset: 00407429-r
@@ -65831,7 +65831,7 @@ mutatis mutandis:
     - value: m(j)uˌtɑtəs m(j)uˈtɑndəs
       variety: US
     sense:
-    - id: 'mutatis_mutandis%4:45:00::'
+    - id: 'mutatis_mutandis%4:02:00::'
       synset: 00258344-r
 mutative:
   a:
@@ -65896,7 +65896,7 @@ muted:
 mutely:
   r:
     sense:
-    - id: 'mutely%4:45:00::'
+    - id: 'mutely%4:02:00::'
       pertainym:
       - mute%5:00:00:inarticulate:00
       synset: 00112833-r
@@ -66240,7 +66240,7 @@ mutually:
     - value: ˈmjuːtʃʊəli
       variety: GB
     sense:
-    - id: 'mutually%4:45:00::'
+    - id: 'mutually%4:02:00::'
       pertainym:
       - 'mutual%3:00:00::'
       synset: 00407555-r
@@ -67249,7 +67249,7 @@ mysterious:
 mysteriously:
   r:
     sense:
-    - id: 'mysteriously%4:45:01::'
+    - id: 'mysteriously%4:02:01::'
       pertainym:
       - mysterious%5:00:00:inexplicable:00
       synset: 00298090-r
@@ -67342,7 +67342,7 @@ mystical:
 mystically:
   r:
     sense:
-    - id: 'mystically%4:45:00::'
+    - id: 'mystically%4:02:00::'
       pertainym:
       - 'mystical%3:01:00::'
       synset: 00134326-r

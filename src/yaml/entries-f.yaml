@@ -5997,7 +5997,7 @@ fabulously:
     pronunciation:
     - value: ˈfæbjʊləsli
     sense:
-    - id: 'fabulously%4:51:00::'
+    - id: 'fabulously%4:02:00::'
       synset: 00032576-r
 facade:
   n:
@@ -6240,11 +6240,11 @@ face time:
 face to face:
   r:
     sense:
-    - id: 'face_to_face%4:45:00::'
+    - id: 'face_to_face%4:02:00::'
       synset: 00044804-r
-    - id: 'face_to_face%4:50:05::'
+    - id: 'face_to_face%4:02:05::'
       synset: 00045286-r
-    - id: 'face_to_face%4:45:02::'
+    - id: 'face_to_face%4:02:02::'
       synset: 00045164-r
 face towel:
   n:
@@ -6317,9 +6317,9 @@ face-to-face:
       synset: 01772487-s
   r:
     sense:
-    - id: 'face-to-face%4:45:02::'
+    - id: 'face-to-face%4:02:02::'
       synset: 00045164-r
-    - id: 'face-to-face%4:50:05::'
+    - id: 'face-to-face%4:02:05::'
       synset: 00045286-r
 faced:
   a:
@@ -6399,7 +6399,7 @@ facetiously:
     pronunciation:
     - value: fəˈsiːʃəsli
     sense:
-    - id: 'facetiously%4:45:00::'
+    - id: 'facetiously%4:02:00::'
       pertainym:
       - facetious%5:00:00:humorous:00
       synset: 00086017-r
@@ -6509,7 +6509,7 @@ facial vein:
 facially:
   r:
     sense:
-    - id: 'facially%4:52:00::'
+    - id: 'facially%4:02:00::'
       pertainym:
       - 'facial%3:01:00::'
       synset: 00136998-r
@@ -7117,7 +7117,7 @@ factuality:
 factually:
   r:
     sense:
-    - id: 'factually%4:52:00::'
+    - id: 'factually%4:02:00::'
       pertainym:
       - factual%5:00:00:real:00
       synset: 00149685-r
@@ -7194,7 +7194,7 @@ fad diet:
 faddily:
   r:
     sense:
-    - id: 'faddily%4:45:00::'
+    - id: 'faddily%4:02:00::'
       pertainym:
       - faddy%5:00:00:fashionable:00
       synset: 00337430-r
@@ -7208,7 +7208,7 @@ faddish:
 faddishly:
   r:
     sense:
-    - id: 'faddishly%4:45:00::'
+    - id: 'faddishly%4:02:00::'
       pertainym:
       - faddish%5:00:00:fashionable:00
       synset: 00337430-r
@@ -7667,7 +7667,7 @@ fain:
       synset: 02576155-s
   r:
     sense:
-    - id: 'fain%4:45:00::'
+    - id: 'fain%4:02:00::'
       synset: 00349906-r
 faineance:
   n:
@@ -7755,7 +7755,7 @@ faintly:
     pronunciation:
     - value: ˈfeɪntli
     sense:
-    - id: 'faintly%4:45:00::'
+    - id: 'faintly%4:02:00::'
       pertainym:
       - faint%5:00:00:perceptible:00
       synset: 00070766-r
@@ -7833,9 +7833,9 @@ fair:
       synset: 01120503-n
   r:
     sense:
-    - id: 'fair%4:45:01::'
+    - id: 'fair%4:02:01::'
       synset: 00286521-r
-    - id: 'fair%4:45:00::'
+    - id: 'fair%4:02:00::'
       synset: 00107446-r
   v:
     sense:
@@ -7989,15 +7989,15 @@ fairly:
     - value: ˈfɛɹ.li
       variety: US
     sense:
-    - id: 'fairly%4:51:02::'
+    - id: 'fairly%4:02:02::'
       synset: 00036138-r
-    - id: 'fairly%4:45:00::'
+    - id: 'fairly%4:02:00::'
       pertainym:
       - 'fair%3:00:03::'
       synset: 00107446-r
     - antonym:
-      - 'unfairly%4:45:00::'
-      id: 'fairly%4:45:03::'
+      - 'unfairly%4:02:00::'
+      id: 'fairly%4:02:03::'
       pertainym:
       - 'fair%3:00:03::'
       synset: 00286521-r
@@ -8223,8 +8223,8 @@ faithfully:
     - value: ˈfeɪθfəli
     sense:
     - antonym:
-      - 'unfaithfully%4:45:00::'
-      id: 'faithfully%4:45:00::'
+      - 'unfaithfully%4:02:00::'
+      id: 'faithfully%4:02:00::'
       pertainym:
       - 'faithful%3:00:00::'
       synset: 00225012-r
@@ -8249,7 +8249,7 @@ faithless:
 faithlessly:
   r:
     sense:
-    - id: 'faithlessly%4:45:00::'
+    - id: 'faithlessly%4:02:00::'
       pertainym:
       - faithless%5:00:00:disloyal:00
       synset: 00337533-r
@@ -9374,7 +9374,7 @@ falls:
     - value: fɔls
       variety: US
     sense:
-    - id: 'false%4:45:00::'
+    - id: 'false%4:02:00::'
       synset: 00337533-r
 false alarm:
   n:
@@ -9758,11 +9758,11 @@ falsehood:
 falsely:
   r:
     sense:
-    - id: 'falsely%4:45:01::'
+    - id: 'falsely%4:02:01::'
       pertainym:
       - false%5:00:00:insincere:00
       synset: 00338017-r
-    - id: 'falsely%4:45:00::'
+    - id: 'falsely%4:02:00::'
       pertainym:
       - false%5:00:00:incorrect:00
       synset: 00337789-r
@@ -10015,7 +10015,7 @@ faltering:
 falteringly:
   r:
     sense:
-    - id: 'falteringly%4:45:00::'
+    - id: 'falteringly%4:02:00::'
       pertainym:
       - faltering%5:00:00:unsteady:00
       synset: 00175718-r
@@ -10219,7 +10219,7 @@ familiarizing:
 familiarly:
   r:
     sense:
-    - id: 'familiarly%4:45:00::'
+    - id: 'familiarly%4:02:00::'
       pertainym:
       - familiar%5:00:00:close:02
       synset: 00338291-r
@@ -16300,11 +16300,11 @@ famous person:
 famously:
   r:
     sense:
-    - id: 'famously%4:45:00::'
+    - id: 'famously%4:02:00::'
       pertainym:
       - famous%5:00:00:known:00
       synset: 00338513-r
-    - id: 'famously%4:45:01::'
+    - id: 'famously%4:02:01::'
       synset: 00183802-r
 famulus:
   n:
@@ -16472,7 +16472,7 @@ fanatical:
 fanatically:
   r:
     sense:
-    - id: 'fanatically%4:45:00::'
+    - id: 'fanatically%4:02:00::'
       pertainym:
       - fanatic%5:00:00:passionate:00
       synset: 00338649-r
@@ -16531,7 +16531,7 @@ fanciful:
 fancifully:
   r:
     sense:
-    - id: 'fancifully%4:45:00::'
+    - id: 'fancifully%4:02:00::'
       pertainym:
       - fanciful%5:00:00:creative:00
       synset: 00338792-r
@@ -16881,7 +16881,7 @@ fantastical:
 fantastically:
   r:
     sense:
-    - id: 'fantastically%4:51:00::'
+    - id: 'fantastically%4:02:00::'
       synset: 00032576-r
 fantasticalness:
   n:
@@ -16999,30 +16999,30 @@ far:
     - value: fɑɹ
       variety: US
     sense:
-    - id: 'far%4:51:02::'
+    - id: 'far%4:02:02::'
       synset: 00101873-r
-    - id: 'far%4:50:00::'
+    - id: 'far%4:02:00::'
       synset: 00101601-r
-    - id: 'far%4:51:04::'
+    - id: 'far%4:02:04::'
       synset: 00102040-r
-    - id: 'far%4:51:01::'
+    - id: 'far%4:02:01::'
       synset: 00101751-r
-    - id: 'far%4:51:05::'
+    - id: 'far%4:02:05::'
       synset: 00102205-r
 far and away:
   r:
     sense:
-    - id: 'far_and_away%4:51:00::'
+    - id: 'far_and_away%4:02:00::'
       synset: 00047594-r
 far and near:
   r:
     sense:
-    - id: 'far_and_near%4:50:00::'
+    - id: 'far_and_near%4:02:00::'
       synset: 00102579-r
 far and wide:
   r:
     sense:
-    - id: 'far_and_wide%4:50:00::'
+    - id: 'far_and_wide%4:02:00::'
       synset: 00102579-r
 far cry:
   n:
@@ -17141,7 +17141,7 @@ farcicality:
 farcically:
   r:
     sense:
-    - id: 'farcically%4:45:00::'
+    - id: 'farcically%4:02:00::'
       pertainym:
       - farcical%5:00:00:humorous:00
       synset: 00338930-r
@@ -17622,9 +17622,9 @@ farther:
     - value: ˈfɑɹðɚ
       variety: US
     sense:
-    - id: 'farther%4:51:02::'
+    - id: 'farther%4:02:02::'
       synset: 00030381-r
-    - id: 'farther%4:50:00::'
+    - id: 'farther%4:02:00::'
       synset: 00030035-r
 farthermost:
   a:
@@ -17648,9 +17648,9 @@ farthest:
     - value: ˈfɑːðɪst
       variety: GB
     sense:
-    - id: 'farthest%4:51:00::'
+    - id: 'farthest%4:02:00::'
       synset: 00031050-r
-    - id: 'farthest%4:51:01::'
+    - id: 'farthest%4:02:01::'
       synset: 00031310-r
 farthing:
   n:
@@ -17790,7 +17790,7 @@ fascinating:
 fascinatingly:
   r:
     sense:
-    - id: 'fascinatingly%4:51:00::'
+    - id: 'fascinatingly%4:02:00::'
       pertainym:
       - fascinating%5:00:00:interesting:00
       synset: 00238879-r
@@ -17964,8 +17964,8 @@ fashionably:
   r:
     sense:
     - antonym:
-      - 'unfashionably%4:45:00::'
-      id: 'fashionably%4:45:00::'
+      - 'unfashionably%4:02:00::'
+      id: 'fashionably%4:02:00::'
       pertainym:
       - 'fashionable%3:00:00::'
       synset: 00339037-r
@@ -18033,9 +18033,9 @@ fast:
       synset: 01071904-n
   r:
     sense:
-    - id: 'fast%4:45:01::'
+    - id: 'fast%4:02:01::'
       synset: 00086488-r
-    - id: 'fast%4:45:02::'
+    - id: 'fast%4:02:02::'
       synset: 00086892-r
   v:
     sense:
@@ -18254,14 +18254,14 @@ fastening:
 faster:
   r:
     sense:
-    - id: 'faster%4:45:01::'
+    - id: 'faster%4:02:01::'
       pertainym:
       - quick%5:00:00:fast:01
       synset: 00087016-r
 fastest:
   r:
     sense:
-    - id: 'fastest%4:51:00::'
+    - id: 'fastest%4:02:00::'
       pertainym:
       - quick%5:00:00:fast:01
       synset: 00087173-r
@@ -18283,11 +18283,11 @@ fastidious:
 fastidiously:
   r:
     sense:
-    - id: 'fastidiously%4:45:01::'
+    - id: 'fastidiously%4:02:01::'
       pertainym:
       - 'fastidious%3:00:00::'
       synset: 00418463-r
-    - id: 'fastidiously%4:45:00::'
+    - id: 'fastidiously%4:02:00::'
       pertainym:
       - 'fastidious%3:00:00::'
       synset: 00339405-r
@@ -18552,7 +18552,7 @@ fatally:
     pronunciation:
     - value: ˈfeɪtəli
     sense:
-    - id: 'fatally%4:51:00::'
+    - id: 'fatally%4:02:00::'
       pertainym:
       - fatal%5:00:00:decisive:00
       synset: 00509110-r
@@ -18614,7 +18614,7 @@ fatefully:
     pronunciation:
     - value: ˈfeɪtfəli
     sense:
-    - id: 'fatefully%4:45:00::'
+    - id: 'fatefully%4:02:00::'
       pertainym:
       - fateful%5:00:00:prophetic:00
       synset: 00339875-r
@@ -19047,7 +19047,7 @@ fatuously:
     - value: ˈfætʃ.u.əs.li
       variety: US
     sense:
-    - id: 'fatuously%4:45:00::'
+    - id: 'fatuously%4:02:00::'
       pertainym:
       - fatuous%5:00:00:stupid:00
       synset: 00203322-r
@@ -19200,7 +19200,7 @@ faultfinding:
 faultily:
   r:
     sense:
-    - id: 'faultily%4:45:00::'
+    - id: 'faultily%4:02:00::'
       pertainym:
       - faulty%5:00:00:inaccurate:00
       synset: 00340016-r
@@ -19225,7 +19225,7 @@ faultless:
 faultlessly:
   r:
     sense:
-    - id: 'faultlessly%4:45:00::'
+    - id: 'faultlessly%4:02:00::'
       pertainym:
       - faultless%5:00:00:perfect:00
       synset: 00340145-r
@@ -19479,8 +19479,8 @@ favorably:
   r:
     sense:
     - antonym:
-      - 'unfavorably%4:45:00::'
-      id: 'favorably%4:45:00::'
+      - 'unfavorably%4:02:00::'
+      id: 'favorably%4:02:00::'
       pertainym:
       - 'favorable%3:00:02::'
       synset: 00232060-r
@@ -19701,7 +19701,7 @@ favourableness:
 favourably:
   r:
     sense:
-    - id: 'favourably%4:45:00::'
+    - id: 'favourably%4:02:00::'
       synset: 00232060-r
 favoured:
   s:
@@ -19999,12 +19999,12 @@ fearfully:
       variety: GB
     sense:
     - antonym:
-      - 'fearlessly%4:45:00::'
-      id: 'fearfully%4:45:00::'
+      - 'fearlessly%4:02:00::'
+      id: 'fearfully%4:02:00::'
       pertainym:
       - fearful%5:00:00:afraid:00
       synset: 00200994-r
-    - id: 'fearfully%4:45:01::'
+    - id: 'fearfully%4:02:01::'
       pertainym:
       - awful%5:00:00:alarming:00
       synset: 00508189-r
@@ -20042,8 +20042,8 @@ fearlessly:
   r:
     sense:
     - antonym:
-      - 'fearfully%4:45:00::'
-      id: 'fearlessly%4:45:00::'
+      - 'fearfully%4:02:00::'
+      id: 'fearlessly%4:02:00::'
       pertainym:
       - 'fearless%3:00:00::'
       synset: 00201116-r
@@ -20074,7 +20074,7 @@ fearsome:
 fearsomely:
   r:
     sense:
-    - id: 'fearsomely%4:45:00::'
+    - id: 'fearsomely%4:02:00::'
       pertainym:
       - fearsome%5:00:00:alarming:00
       synset: 00340283-r
@@ -20109,7 +20109,7 @@ feasibly:
     pronunciation:
     - value: ˈfiːzɪb(ə)li
     sense:
-    - id: 'feasibly%4:45:00::'
+    - id: 'feasibly%4:02:00::'
       pertainym:
       - feasible%5:00:00:possible:00
       synset: 00430483-r
@@ -20600,11 +20600,11 @@ feckless:
 fecklessly:
   r:
     sense:
-    - id: 'fecklessly%4:45:00::'
+    - id: 'fecklessly%4:02:00::'
       pertainym:
       - feckless%5:00:00:incompetent:00
       synset: 00229869-r
-    - id: 'fecklessly%4:45:01::'
+    - id: 'fecklessly%4:02:01::'
       pertainym:
       - feckless%5:00:00:irresponsible:00
       synset: 00165080-r
@@ -20900,7 +20900,7 @@ federalize:
 federally:
   r:
     sense:
-    - id: 'federally%4:52:00::'
+    - id: 'federally%4:02:00::'
       pertainym:
       - 'federal%3:01:02::'
       synset: 00124703-r
@@ -21065,11 +21065,11 @@ feebly:
     pronunciation:
     - value: ˈfiːbli
     sense:
-    - id: 'feebly%4:45:01::'
+    - id: 'feebly%4:02:01::'
       pertainym:
       - feeble%5:00:00:weak:00
       synset: 00340561-r
-    - id: 'feebly%4:45:00::'
+    - id: 'feebly%4:02:00::'
       pertainym:
       - feeble%5:00:02:weak:00
       synset: 00340428-r
@@ -21578,8 +21578,8 @@ feelingly:
   r:
     sense:
     - antonym:
-      - 'unfeelingly%4:46:00::'
-      id: 'feelingly%4:45:00::'
+      - 'unfeelingly%4:02:00::'
+      id: 'feelingly%4:02:00::'
       synset: 00340753-r
 feelings:
   n:
@@ -21594,7 +21594,7 @@ feelings:
 feetfirst:
   r:
     sense:
-    - id: 'feetfirst%4:45:00::'
+    - id: 'feetfirst%4:02:00::'
       synset: 00246764-r
 feign:
   v:
@@ -21748,8 +21748,8 @@ felicitously:
   r:
     sense:
     - antonym:
-      - 'infelicitously%4:45:00::'
-      id: 'felicitously%4:45:00::'
+      - 'infelicitously%4:02:00::'
+      id: 'felicitously%4:02:00::'
       pertainym:
       - 'felicitous%3:00:00::'
       synset: 00341042-r
@@ -23209,7 +23209,7 @@ ferocious:
 ferociously:
   r:
     sense:
-    - id: 'ferociously%4:45:00::'
+    - id: 'ferociously%4:02:00::'
       pertainym:
       - ferocious%5:00:00:violent:00
       synset: 00246861-r
@@ -23701,7 +23701,7 @@ fervently:
     - value: ˈfɜːvəntli
       variety: GB
     sense:
-    - id: 'fervently%4:51:00::'
+    - id: 'fervently%4:02:00::'
       pertainym:
       - fervent%5:00:00:passionate:00
       synset: 00341323-r
@@ -23722,7 +23722,7 @@ fervid:
 fervidly:
   r:
     sense:
-    - id: 'fervidly%4:51:00::'
+    - id: 'fervidly%4:02:00::'
       pertainym:
       - fervid%5:00:00:passionate:00
       synset: 00341323-r
@@ -24379,7 +24379,7 @@ feudalize:
 feudally:
   r:
     sense:
-    - id: 'feudally%4:45:00::'
+    - id: 'feudally%4:02:00::'
       pertainym:
       - 'feudal%3:01:00::'
       synset: 00142621-r
@@ -24484,7 +24484,7 @@ feverishly:
     - value: ˈfi.vɚ.ɪʃ.li
       variety: US
     sense:
-    - id: 'feverishly%4:45:00::'
+    - id: 'feverishly%4:02:00::'
       pertainym:
       - feverish%5:00:00:agitated:00
       synset: 00142519-r
@@ -25266,11 +25266,11 @@ fictitious place:
 fictitiously:
   r:
     sense:
-    - id: 'fictitiously%4:45:01::'
+    - id: 'fictitiously%4:02:01::'
       pertainym:
       - fictitious%5:00:00:counterfeit:00
       synset: 00102917-r
-    - id: 'fictitiously%4:45:00::'
+    - id: 'fictitiously%4:02:00::'
       pertainym:
       - fictitious%5:00:00:unreal:00
       synset: 00102808-r
@@ -26200,7 +26200,7 @@ fiendishly:
     pronunciation:
     - value: ˈfiːndɪʃli
     sense:
-    - id: 'fiendishly%4:51:00::'
+    - id: 'fiendishly%4:02:00::'
       pertainym:
       - fiendish%5:00:00:evil:00
       synset: 00310309-r
@@ -26236,11 +26236,11 @@ fiercely:
     - value: fɪəsli
       variety: GB
     sense:
-    - id: 'fiercely%4:45:00::'
+    - id: 'fiercely%4:02:00::'
       pertainym:
       - fierce%5:00:00:violent:00
       synset: 00246861-r
-    - id: 'fiercely%4:51:01::'
+    - id: 'fiercely%4:02:01::'
       pertainym:
       - fierce%5:00:00:intense:00
       synset: 00247047-r
@@ -26262,7 +26262,7 @@ fieri facias:
 fierily:
   r:
     sense:
-    - id: 'fierily%4:51:00::'
+    - id: 'fierily%4:02:00::'
       pertainym:
       - fiery%5:00:00:passionate:00
       synset: 00341323-r
@@ -26414,7 +26414,7 @@ fifth wheel:
 fifthly:
   r:
     sense:
-    - id: 'fifthly%4:49:00::'
+    - id: 'fifthly%4:02:00::'
       pertainym:
       - fifth%5:00:00:ordinal:00
       synset: 00341590-r
@@ -26818,8 +26818,8 @@ figuratively:
   r:
     sense:
     - antonym:
-      - 'literally%4:45:00::'
-      id: 'figuratively%4:52:00::'
+      - 'literally%4:02:00::'
+      id: 'figuratively%4:02:00::'
       pertainym:
       - 'figurative%3:00:00::'
       synset: 00341730-r
@@ -28315,7 +28315,7 @@ filth:
 filthily:
   r:
     sense:
-    - id: 'filthily%4:45:00::'
+    - id: 'filthily%4:02:00::'
       pertainym:
       - filthy%5:00:00:dirty:01
       synset: 00313770-r
@@ -28714,13 +28714,13 @@ finally:
     - value: ˈfaɪ.nl̩.i
       variety: US
     sense:
-    - id: 'finally%4:49:02::'
+    - id: 'finally%4:02:02::'
       synset: 00048676-r
-    - id: 'finally%4:49:00::'
+    - id: 'finally%4:02:00::'
       pertainym:
       - final%5:00:00:ultimate:00
       synset: 00048441-r
-    - id: 'finally%4:49:03::'
+    - id: 'finally%4:02:03::'
       synset: 00066222-r
 finance:
   n:
@@ -28915,7 +28915,7 @@ financial year:
 financially:
   r:
     sense:
-    - id: 'financially%4:52:00::'
+    - id: 'financially%4:02:00::'
       pertainym:
       - 'financial%3:01:00::'
       synset: 00208454-r
@@ -29261,9 +29261,9 @@ fine:
     - value: faɪn
       variety: US
     sense:
-    - id: 'fine%4:53:00::'
+    - id: 'fine%4:02:00::'
       synset: 00053542-r
-    - id: 'fine%4:45:02::'
+    - id: 'fine%4:02:02::'
       synset: 00103013-r
   v:
     pronunciation:
@@ -29423,16 +29423,16 @@ finely:
       variety: US
     sense:
     - antonym:
-      - 'coarsely%4:51:00::'
-      id: 'finely%4:51:02::'
+      - 'coarsely%4:02:00::'
+      id: 'finely%4:02:02::'
       pertainym:
       - 'fine%3:00:00::'
       synset: 00192349-r
-    - id: 'finely%4:45:01::'
+    - id: 'finely%4:02:01::'
       pertainym:
       - fine%5:00:00:elegant:00
       synset: 00103187-r
-    - id: 'finely%4:45:00::'
+    - id: 'finely%4:02:00::'
       synset: 00103013-r
 fineness:
   n:
@@ -30126,8 +30126,8 @@ finitely:
   r:
     sense:
     - antonym:
-      - 'infinitely%4:51:00::'
-      id: 'finitely%4:51:00::'
+      - 'infinitely%4:02:00::'
+      id: 'finitely%4:02:00::'
       pertainym:
       - 'finite%3:00:00::'
       synset: 00226736-r
@@ -31160,7 +31160,7 @@ firm:
       synset: 08076706-n
   r:
     sense:
-    - id: 'firm%4:51:00::'
+    - id: 'firm%4:02:00::'
       synset: 00051355-r
   v:
     sense:
@@ -31219,13 +31219,13 @@ firmly:
     - value: fɜːmli
       variety: GB
     sense:
-    - id: 'firmly%4:51:02::'
+    - id: 'firmly%4:02:02::'
       pertainym:
       - firm%5:00:00:resolute:00
       synset: 00051355-r
-    - id: 'firmly%4:45:03::'
+    - id: 'firmly%4:02:03::'
       synset: 00226317-r
-    - id: 'firmly%4:45:01::'
+    - id: 'firmly%4:02:01::'
       synset: 00092514-r
 firmness:
   n:
@@ -31296,13 +31296,13 @@ first:
       synset: 03354857-n
   r:
     sense:
-    - id: 'first%4:49:00::'
+    - id: 'first%4:02:00::'
       synset: 00103286-r
-    - id: 'first%4:49:02::'
+    - id: 'first%4:02:02::'
       synset: 00104262-r
-    - id: 'first%4:49:03::'
+    - id: 'first%4:02:03::'
       synset: 00509461-r
-    - id: 'first%4:50:01::'
+    - id: 'first%4:02:01::'
       synset: 00256094-r
 first aid:
   n:
@@ -31312,7 +31312,7 @@ first aid:
 first and last:
   r:
     sense:
-    - id: 'first_and_last%4:53:00::'
+    - id: 'first_and_last%4:02:00::'
       synset: 00159313-r
 first appearance:
   n:
@@ -31369,7 +31369,7 @@ first class:
       synset: 03354738-n
   r:
     sense:
-    - id: 'first_class%4:45:00::'
+    - id: 'first_class%4:02:00::'
       synset: 00341997-r
 first cousin:
   n:
@@ -31486,12 +31486,12 @@ first name:
 first of all:
   r:
     sense:
-    - id: 'first_of_all%4:49:00::'
+    - id: 'first_of_all%4:02:00::'
       synset: 00103286-r
 first off:
   r:
     sense:
-    - id: 'first_off%4:49:00::'
+    - id: 'first_off%4:02:00::'
       synset: 00103286-r
 first offender:
   n:
@@ -31626,7 +31626,7 @@ first-rate:
       synset: 02349970-s
   r:
     sense:
-    - id: 'first-rate%4:51:00::'
+    - id: 'first-rate%4:02:00::'
       synset: 00342247-r
 first-rateness:
   n:
@@ -31670,14 +31670,14 @@ firsthand:
       synset: 01858740-s
   r:
     sense:
-    - id: 'firsthand%4:45:00::'
+    - id: 'firsthand%4:02:00::'
       synset: 00342127-r
 firstly:
   r:
     pronunciation:
     - value: ˈfɜɹstli
     sense:
-    - id: 'firstly%4:49:00::'
+    - id: 'firstly%4:02:00::'
       synset: 00103286-r
 firth:
   n:
@@ -31720,7 +31720,7 @@ fiscal year:
 fiscally:
   r:
     sense:
-    - id: 'fiscally%4:52:00::'
+    - id: 'fiscally%4:02:00::'
       pertainym:
       - 'fiscal%3:01:00::'
       synset: 00132206-r
@@ -32063,7 +32063,7 @@ fishhook:
 fishily:
   r:
     sense:
-    - id: 'fishily%4:45:00::'
+    - id: 'fishily%4:02:00::'
       pertainym:
       - fishy%5:00:00:questionable:00
       synset: 00439139-r
@@ -32610,7 +32610,7 @@ fitful:
 fitfully:
   r:
     sense:
-    - id: 'fitfully%4:45:00::'
+    - id: 'fitfully%4:02:00::'
       pertainym:
       - fitful%5:00:00:sporadic:00
       synset: 00342345-r
@@ -32628,7 +32628,7 @@ fitly:
     - value: ˈfɪtli
       variety: GB
     sense:
-    - id: 'fitly%4:45:00::'
+    - id: 'fitly%4:02:00::'
       pertainym:
       - 'fit%3:00:02::'
       synset: 00140318-r
@@ -32745,7 +32745,7 @@ fitting:
 fittingly:
   r:
     sense:
-    - id: 'fittingly%4:45:00::'
+    - id: 'fittingly%4:02:00::'
       synset: 00140318-r
 fittingness:
   n:
@@ -33230,7 +33230,7 @@ fixedly:
     pronunciation:
     - value: ˈfɪk.sɪd.li
     sense:
-    - id: 'fixedly%4:45:00::'
+    - id: 'fixedly%4:02:00::'
       pertainym:
       - fixed%5:00:00:nonmoving:00
       synset: 00342439-r
@@ -33453,7 +33453,7 @@ flabbergasted:
 flabbily:
   r:
     sense:
-    - id: 'flabbily%4:45:00::'
+    - id: 'flabbily%4:02:00::'
       pertainym:
       - flabby%5:00:00:unfit:01
       synset: 00342537-r
@@ -33799,7 +33799,7 @@ flagrant:
 flagrantly:
   r:
     sense:
-    - id: 'flagrantly%4:45:00::'
+    - id: 'flagrantly%4:02:00::'
       pertainym:
       - flagrant%5:00:00:conspicuous:00
       synset: 00342657-r
@@ -34049,7 +34049,7 @@ flamboyant tree:
 flamboyantly:
   r:
     sense:
-    - id: 'flamboyantly%4:45:00::'
+    - id: 'flamboyantly%4:02:00::'
       pertainym:
       - flamboyant%5:00:00:ostentatious:00
       synset: 00342775-r
@@ -34943,11 +34943,11 @@ flashgun:
 flashily:
   r:
     sense:
-    - id: 'flashily%4:45:01::'
+    - id: 'flashily%4:02:01::'
       pertainym:
       - flashy%5:00:00:tasteless:02
       synset: 00402632-r
-    - id: 'flashily%4:45:00::'
+    - id: 'flashily%4:02:00::'
       pertainym:
       - flashy%5:00:00:colorful:03
       synset: 00342775-r
@@ -35115,9 +35115,9 @@ flat:
       synset: 02729230-n
   r:
     sense:
-    - id: 'flat%4:45:05::'
+    - id: 'flat%4:02:05::'
       synset: 00342951-r
-    - id: 'flat%4:45:00::'
+    - id: 'flat%4:02:00::'
       synset: 00058666-r
 flat arch:
   n:
@@ -35164,9 +35164,9 @@ flat out:
     pronunciation:
     - value: ˌflæt ˈaʊt
     sense:
-    - id: 'flat_out%4:45:00::'
+    - id: 'flat_out%4:02:00::'
       synset: 00280953-r
-    - id: 'flat_out%4:45:01::'
+    - id: 'flat_out%4:02:01::'
       synset: 00086743-r
 flat panel display:
   n:
@@ -35365,7 +35365,7 @@ flatly:
     pronunciation:
     - value: ˈflætli
     sense:
-    - id: 'flatly%4:45:00::'
+    - id: 'flatly%4:02:00::'
       pertainym:
       - flat%5:00:00:unqualified:02
       synset: 00087676-r
@@ -35890,7 +35890,7 @@ flawlessly:
     - value: ˈflɑː.ləs.li
       variety: US
     sense:
-    - id: 'flawlessly%4:45:00::'
+    - id: 'flawlessly%4:02:00::'
       pertainym:
       - flawless%5:00:00:perfect:00
       synset: 00232612-r
@@ -36302,7 +36302,7 @@ fleetingness:
 fleetly:
   r:
     sense:
-    - id: 'fleetly%4:45:00::'
+    - id: 'fleetly%4:02:00::'
       pertainym:
       - fleet%5:00:00:fast:01
       synset: 00053812-r
@@ -36609,8 +36609,8 @@ flexibly:
   r:
     sense:
     - antonym:
-      - 'inflexibly%4:45:00::'
-      id: 'flexibly%4:45:00::'
+      - 'inflexibly%4:02:00::'
+      id: 'flexibly%4:02:00::'
       pertainym:
       - 'flexible%3:00:02::'
       synset: 00343029-r
@@ -37015,7 +37015,7 @@ flimflam:
 flimsily:
   r:
     sense:
-    - id: 'flimsily%4:45:00::'
+    - id: 'flimsily%4:02:00::'
       pertainym:
       - flimsy%5:00:01:weak:00
       synset: 00343326-r
@@ -37377,7 +37377,7 @@ flip-flap:
     pronunciation:
     - value: flɪp.flæp
     sense:
-    - id: 'flip-flap%4:45:00::'
+    - id: 'flip-flap%4:02:00::'
       synset: 00343448-r
 flip-flop:
   n:
@@ -37445,7 +37445,7 @@ flippant:
 flippantly:
   r:
     sense:
-    - id: 'flippantly%4:45:00::'
+    - id: 'flippantly%4:02:00::'
       pertainym:
       - flippant%5:00:00:frivolous:00
       synset: 00343559-r
@@ -37549,7 +37549,7 @@ flirtatious:
 flirtatiously:
   r:
     sense:
-    - id: 'flirtatiously%4:45:00::'
+    - id: 'flirtatiously%4:02:00::'
       pertainym:
       - flirtatious%5:00:00:sexy:00
       synset: 00304406-r
@@ -38401,9 +38401,9 @@ flop:
       synset: 00328336-n
   r:
     sense:
-    - id: 'flop%4:45:00::'
+    - id: 'flop%4:02:00::'
       synset: 00343748-r
-    - id: 'flop%4:45:01::'
+    - id: 'flop%4:02:01::'
       synset: 00058571-r
   v:
     form:
@@ -38576,7 +38576,7 @@ floridity:
 floridly:
   r:
     sense:
-    - id: 'floridly%4:45:00::'
+    - id: 'floridly%4:02:00::'
       pertainym:
       - florid%5:00:00:fancy:00
       synset: 00502754-r
@@ -39612,7 +39612,7 @@ fluent aphasia:
 fluently:
   r:
     sense:
-    - id: 'fluently%4:45:00::'
+    - id: 'fluently%4:02:00::'
       pertainym:
       - fluent%5:00:00:articulate:00
       synset: 00343834-r
@@ -40327,9 +40327,9 @@ flush:
       synset: 00119088-n
   r:
     sense:
-    - id: 'flush%4:45:00::'
+    - id: 'flush%4:02:00::'
       synset: 00087855-r
-    - id: 'flush%4:50:01::'
+    - id: 'flush%4:02:01::'
       synset: 00087937-r
   v:
     sense:
@@ -41701,7 +41701,7 @@ focalize:
 focally:
   r:
     sense:
-    - id: 'focally%4:50:00::'
+    - id: 'focally%4:02:00::'
       pertainym:
       - focal%5:00:00:central:01
       synset: 00094281-r
@@ -43274,7 +43274,7 @@ fondly:
     - value: ˈfɒndli
       variety: GB
     sense:
-    - id: 'fondly%4:45:00::'
+    - id: 'fondly%4:02:00::'
       pertainym:
       - fond%5:00:01:loving:00
       synset: 00230690-r
@@ -43694,8 +43694,8 @@ foolishly:
     - value: ˈfuːlɪʃli
     sense:
     - antonym:
-      - 'wisely%4:46:00::'
-      id: 'foolishly%4:45:00::'
+      - 'wisely%4:02:00::'
+      id: 'foolishly%4:02:00::'
       pertainym:
       - 'foolish%3:00:00::'
       synset: 00203162-r
@@ -44341,107 +44341,107 @@ foppishness:
 for 24 hours:
   r:
     sense:
-    - id: 'for_24_hours%4:49:00::'
+    - id: 'for_24_hours%4:02:00::'
       synset: 00153617-r
 for a bargain price:
   r:
     sense:
-    - id: 'for_a_bargain_price%4:45:00::'
+    - id: 'for_a_bargain_price%4:02:00::'
       synset: 00159774-r
 for a song:
   r:
     sense:
-    - id: 'for_a_song%4:45:00::'
+    - id: 'for_a_song%4:02:00::'
       synset: 00159774-r
 for a while:
   r:
     sense:
-    - id: 'for_a_while%4:49:01::'
+    - id: 'for_a_while%4:02:01::'
       synset: 00145441-r
 for all intents and purposes:
   r:
     sense:
-    - id: 'for_all_intents_and_purposes%4:52:00::'
+    - id: 'for_all_intents_and_purposes%4:02:00::'
       synset: 00060838-r
 for all practical purposes:
   r:
     sense:
-    - id: 'for_all_practical_purposes%4:52:00::'
+    - id: 'for_all_practical_purposes%4:02:00::'
       synset: 00060838-r
 for all the world:
   r:
     sense:
-    - id: 'for_all_the_world%4:53:00::'
+    - id: 'for_all_the_world%4:02:00::'
       synset: 00160572-r
 for any price:
   r:
     sense:
-    - id: 'for_any_price%4:53:00::'
+    - id: 'for_any_price%4:02:00::'
       synset: 00160572-r
 for anything:
   r:
     sense:
-    - id: 'for_anything%4:53:00::'
+    - id: 'for_anything%4:02:00::'
       synset: 00160572-r
 for certain:
   r:
     sense:
-    - id: 'for_certain%4:51:00::'
+    - id: 'for_certain%4:02:00::'
       synset: 00145758-r
 for dear life:
   r:
     sense:
-    - id: 'for_dear_life%4:45:00::'
+    - id: 'for_dear_life%4:02:00::'
       synset: 00159924-r
 for each one:
   r:
     sense:
-    - id: 'for_each_one%4:53:00::'
+    - id: 'for_each_one%4:02:00::'
       synset: 00241635-r
 for example:
   r:
     sense:
-    - id: 'for_example%4:53:00::'
+    - id: 'for_example%4:02:00::'
       synset: 00160239-r
 for free:
   r:
     sense:
-    - id: 'for_free%4:45:00::'
+    - id: 'for_free%4:02:00::'
       synset: 00259685-r
 for fun:
   r:
     sense:
-    - id: 'for_fun%4:45:00::'
+    - id: 'for_fun%4:02:00::'
       synset: 00170122-r
 for good:
   r:
     sense:
-    - id: 'for_good%4:49:00::'
+    - id: 'for_good%4:02:00::'
       synset: 00088404-r
 for good measure:
   r:
     sense:
-    - id: 'for_good_measure%4:53:00::'
+    - id: 'for_good_measure%4:02:00::'
       synset: 00160349-r
 for instance:
   r:
     sense:
-    - id: 'for_instance%4:53:00::'
+    - id: 'for_instance%4:02:00::'
       synset: 00160239-r
 for keeps:
   r:
     sense:
-    - id: 'for_keeps%4:45:00::'
+    - id: 'for_keeps%4:02:00::'
       synset: 00160483-r
 for love or money:
   r:
     sense:
-    - id: 'for_love_or_money%4:53:00::'
+    - id: 'for_love_or_money%4:02:00::'
       synset: 00160572-r
 for one:
   r:
     sense:
-    - id: 'for_one%4:53:00::'
+    - id: 'for_one%4:02:00::'
       synset: 00160743-r
 for sale:
   a:
@@ -44451,7 +44451,7 @@ for sale:
 for short:
   r:
     sense:
-    - id: 'for_short%4:45:00::'
+    - id: 'for_short%4:02:00::'
       synset: 00160889-r
 for sure:
   a:
@@ -44460,32 +44460,32 @@ for sure:
       synset: 01925059-s
   r:
     sense:
-    - id: 'for_sure%4:51:00::'
+    - id: 'for_sure%4:02:00::'
       synset: 00145758-r
 for that matter:
   r:
     sense:
-    - id: 'for_that_matter%4:53:00::'
+    - id: 'for_that_matter%4:02:00::'
       synset: 00101323-r
 for the asking:
   r:
     sense:
-    - id: 'for_the_asking%4:45:00::'
+    - id: 'for_the_asking%4:02:00::'
       synset: 00160970-r
 for the moment:
   r:
     sense:
-    - id: 'for_the_moment%4:49:00::'
+    - id: 'for_the_moment%4:02:00::'
       synset: 00054865-r
 for the most part:
   r:
     sense:
-    - id: 'for_the_most_part%4:51:00::'
+    - id: 'for_the_most_part%4:02:00::'
       synset: 00006486-r
 for the time being:
   r:
     sense:
-    - id: 'for_the_time_being%4:49:02::'
+    - id: 'for_the_time_being%4:02:02::'
       synset: 00054865-r
 forage:
   n:
@@ -44762,7 +44762,7 @@ forbidding:
 forbiddingly:
   r:
     sense:
-    - id: 'forbiddingly%4:45:00::'
+    - id: 'forbiddingly%4:02:00::'
       pertainym:
       - forbidding%5:00:00:unpleasant:00
       synset: 00343937-r
@@ -45084,7 +45084,7 @@ forceful:
 forcefully:
   r:
     sense:
-    - id: 'forcefully%4:45:00::'
+    - id: 'forcefully%4:02:00::'
       pertainym:
       - 'forceful%3:00:00::'
       synset: 00344075-r
@@ -45139,7 +45139,7 @@ forcibly:
     pronunciation:
     - value: ˈfɔːsəbli
     sense:
-    - id: 'forcibly%4:45:00::'
+    - id: 'forcibly%4:02:00::'
       pertainym:
       - forcible%5:00:00:forceful:00
       synset: 00344420-r
@@ -45235,8 +45235,8 @@ fore:
       variety: US
     sense:
     - antonym:
-      - 'aft%4:50:00::'
-      id: 'fore%4:50:00::'
+      - 'aft%4:02:00::'
+      id: 'fore%4:02:00::'
       synset: 00277124-r
 fore carriage:
   n:
@@ -45918,9 +45918,9 @@ foremost:
     - value: ˈfɔː.məʊst
       variety: GB
     sense:
-    - id: 'foremost%4:50:00::'
+    - id: 'foremost%4:02:00::'
       synset: 00256094-r
-    - id: 'foremost%4:49:01::'
+    - id: 'foremost%4:02:01::'
       synset: 00103286-r
 foremother:
   n:
@@ -46408,16 +46408,16 @@ forever:
     - value: fəˈɹɛvɚ
       variety: US
     sense:
-    - id: 'forever%4:49:00::'
+    - id: 'forever%4:02:00::'
       synset: 00088030-r
-    - id: 'forever%4:49:02::'
+    - id: 'forever%4:02:02::'
       synset: 00089564-r
-    - id: 'forever%4:48:03::'
+    - id: 'forever%4:02:03::'
       synset: 00020735-r
 forever and a day:
   r:
     sense:
-    - id: 'forever_and_a_day%4:49:00::'
+    - id: 'forever_and_a_day%4:02:00::'
       synset: 00089564-r
 forevermore:
   r:
@@ -46427,7 +46427,7 @@ forevermore:
     - value: fɔːɹˈɛv.ɚ.mɔːɹ
       variety: US
     sense:
-    - id: 'forevermore%4:49:00::'
+    - id: 'forevermore%4:02:00::'
       synset: 00334320-r
 forewarn:
   v:
@@ -46759,7 +46759,7 @@ forgetful person:
 forgetfully:
   r:
     sense:
-    - id: 'forgetfully%4:45:00::'
+    - id: 'forgetfully%4:02:00::'
       pertainym:
       - 'forgetful%3:00:02::'
       synset: 00344578-r
@@ -46800,8 +46800,8 @@ forgivably:
   r:
     sense:
     - antonym:
-      - 'unforgivably%4:51:00::'
-      id: 'forgivably%4:46:00::'
+      - 'unforgivably%4:02:00::'
+      id: 'forgivably%4:02:00::'
       pertainym:
       - forgivable%5:00:00:pardonable:00
       synset: 00334820-r
@@ -46864,8 +46864,8 @@ forgivingly:
   r:
     sense:
     - antonym:
-      - 'unforgivingly%4:45:00::'
-      id: 'forgivingly%4:45:00::'
+      - 'unforgivingly%4:02:00::'
+      id: 'forgivingly%4:02:00::'
       pertainym:
       - 'forgiving%3:00:00::'
       synset: 00344700-r
@@ -47064,7 +47064,7 @@ forlorn hope:
 forlornly:
   r:
     sense:
-    - id: 'forlornly%4:45:00::'
+    - id: 'forlornly%4:02:00::'
       pertainym:
       - forlorn%5:00:00:hopeless:00
       synset: 00345046-r
@@ -47485,13 +47485,13 @@ formally:
     - value: ˈfɔːməli
       variety: GB
     sense:
-    - id: 'formally%4:45:01::'
+    - id: 'formally%4:02:01::'
       pertainym:
       - formal%5:00:00:official:00
       synset: 00188003-r
     - antonym:
-      - 'informally%4:45:00::'
-      id: 'formally%4:45:00::'
+      - 'informally%4:02:00::'
+      id: 'formally%4:02:00::'
       pertainym:
       - 'formal%3:00:01::'
       synset: 00187878-r
@@ -47669,7 +47669,7 @@ formerly:
     - value: ˈfɔːməli
       variety: GB
     sense:
-    - id: 'formerly%4:49:00::'
+    - id: 'formerly%4:02:00::'
       synset: 00119861-r
 formic:
   a:
@@ -47736,7 +47736,7 @@ formidable:
 formidably:
   r:
     sense:
-    - id: 'formidably%4:51:00::'
+    - id: 'formidably%4:02:00::'
       pertainym:
       - formidable%5:00:00:alarming:00
       synset: 00345178-r
@@ -47752,7 +47752,7 @@ formless:
 formlessly:
   r:
     sense:
-    - id: 'formlessly%4:45:00::'
+    - id: 'formlessly%4:02:00::'
       pertainym:
       - formless%5:00:00:unformed:00
       synset: 00345338-r
@@ -47967,17 +47967,17 @@ fornix:
 forrad:
   r:
     sense:
-    - id: 'forrad%4:50:00::'
+    - id: 'forrad%4:02:00::'
       synset: 00074907-r
 forrader:
   r:
     sense:
-    - id: 'forrader%4:50:00::'
+    - id: 'forrader%4:02:00::'
       synset: 00067665-r
 forrard:
   r:
     sense:
-    - id: 'forrard%4:50:00::'
+    - id: 'forrard%4:02:00::'
       synset: 00074907-r
 forsake:
   v:
@@ -48015,7 +48015,7 @@ forsooth:
     - value: fɔɹˈsuθ
       variety: US
     sense:
-    - id: 'forsooth%4:53:00::'
+    - id: 'forsooth%4:02:00::'
       synset: 00038658-r
 forswear:
   v:
@@ -48141,8 +48141,8 @@ forte:
       variety: US
     sense:
     - antonym:
-      - 'piano%4:45:00::'
-      id: 'forte%4:45:00::'
+      - 'piano%4:02:00::'
+      id: 'forte%4:02:00::'
       pertainym:
       - 'forte%3:00:00::'
       synset: 00345595-r
@@ -48159,11 +48159,11 @@ fortemente:
 forth:
   r:
     sense:
-    - id: 'forth%4:50:00::'
+    - id: 'forth%4:02:00::'
       synset: 00234667-r
-    - id: 'forth%4:49:01::'
+    - id: 'forth%4:02:01::'
       synset: 00104546-r
-    - id: 'forth%4:50:02::'
+    - id: 'forth%4:02:02::'
       synset: 00104448-r
 forthcoming:
   a:
@@ -48200,12 +48200,12 @@ forthright:
     - value: fɔːθˈɹaɪt
       variety: GB
     sense:
-    - id: 'forthright%4:45:00::'
+    - id: 'forthright%4:02:00::'
       synset: 00052128-r
 forthrightly:
   r:
     sense:
-    - id: 'forthrightly%4:45:00::'
+    - id: 'forthrightly%4:02:00::'
       synset: 00052128-r
 forthrightness:
   n:
@@ -48222,7 +48222,7 @@ forthwith:
     - value: fɔɹθˈwɪθ
       variety: US
     sense:
-    - id: 'forthwith%4:49:00::'
+    - id: 'forthwith%4:02:00::'
       synset: 00049277-r
 forties:
   n:
@@ -48362,8 +48362,8 @@ fortissimo:
   r:
     sense:
     - antonym:
-      - 'pianissimo%4:45:00::'
-      id: 'fortissimo%4:45:00::'
+      - 'pianissimo%4:02:00::'
+      id: 'fortissimo%4:02:00::'
       pertainym:
       - fortissimo%5:00:00:forte:00
       synset: 00345869-r
@@ -48396,7 +48396,7 @@ fortnightly:
       synset: 01976103-s
   r:
     sense:
-    - id: 'fortnightly%4:48:00::'
+    - id: 'fortnightly%4:02:00::'
       pertainym:
       - fortnightly%5:00:00:periodic:00
       synset: 00256191-r
@@ -48427,7 +48427,7 @@ fortuitous:
 fortuitously:
   r:
     sense:
-    - id: 'fortuitously%4:45:00::'
+    - id: 'fortuitously%4:02:00::'
       pertainym:
       - fortuitous%5:00:00:fortunate:00
       synset: 00042664-r
@@ -48469,8 +48469,8 @@ fortunately:
       variety: GB
     sense:
     - antonym:
-      - 'unfortunately%4:45:00::'
-      id: 'fortunately%4:45:00::'
+      - 'unfortunately%4:02:00::'
+      id: 'fortunately%4:02:00::'
       pertainym:
       - 'fortunate%3:00:00::'
       synset: 00042664-r
@@ -48679,20 +48679,20 @@ forward:
   r:
     sense:
     - antonym:
-      - 'backward%4:50:03::'
-      id: 'forward%4:50:00::'
+      - 'backward%4:02:03::'
+      id: 'forward%4:02:00::'
       synset: 00074907-r
-    - id: 'forward%4:49:03::'
+    - id: 'forward%4:02:03::'
       synset: 00104546-r
     - antonym:
-      - 'backward%4:49:02::'
-      id: 'forward%4:49:02::'
+      - 'backward%4:02:02::'
+      id: 'forward%4:02:02::'
       synset: 00075708-r
     - exemplifies:
       - 'american_english%1:10:00::'
-      id: 'forward%4:50:01::'
+      id: 'forward%4:02:01::'
       synset: 00067665-r
-    - id: 'forward%4:50:04::'
+    - id: 'forward%4:02:04::'
       synset: 00277124-r
   v:
     sense:
@@ -48767,11 +48767,11 @@ forwardness:
 forwards:
   r:
     sense:
-    - id: 'forwards%4:50:01::'
+    - id: 'forwards%4:02:01::'
       synset: 00074907-r
     - exemplifies:
       - 'british_english%1:10:01::'
-      id: 'forwards%4:50:00::'
+      id: 'forwards%4:02:00::'
       synset: 00067665-r
 foryml:
   n:
@@ -49304,11 +49304,11 @@ fouled:
 foully:
   r:
     sense:
-    - id: 'foully%4:45:01::'
+    - id: 'foully%4:02:01::'
       pertainym:
       - foul%5:00:00:unfair:00
       synset: 00346108-r
-    - id: 'foully%4:45:00::'
+    - id: 'foully%4:02:00::'
       synset: 00346004-r
 foulmart:
   n:
@@ -49591,7 +49591,7 @@ four o'clock:
 four times:
   r:
     sense:
-    - id: 'four_times%4:51:00::'
+    - id: 'four_times%4:02:00::'
       synset: 00346296-r
 four-act play:
   n:
@@ -49822,7 +49822,7 @@ fourfold:
       synset: 02227145-s
   r:
     sense:
-    - id: 'fourfold%4:51:00::'
+    - id: 'fourfold%4:02:00::'
       pertainym:
       - fourfold%5:00:01:multiple:00
       synset: 00346296-r
@@ -49894,9 +49894,9 @@ foursquare:
       synset: 13901273-n
   r:
     sense:
-    - id: 'foursquare%4:45:01::'
+    - id: 'foursquare%4:02:01::'
       synset: 00232973-r
-    - id: 'foursquare%4:45:00::'
+    - id: 'foursquare%4:02:00::'
       synset: 00051555-r
 fourteen:
   a:
@@ -49958,7 +49958,7 @@ fourth:
       synset: 06872724-n
   r:
     sense:
-    - id: 'fourth%4:49:00::'
+    - id: 'fourth%4:02:00::'
       pertainym:
       - fourth%5:00:00:ordinal:00
       synset: 00346567-r
@@ -50010,7 +50010,7 @@ fourth-year:
 fourthly:
   r:
     sense:
-    - id: 'fourthly%4:49:00::'
+    - id: 'fourthly%4:02:00::'
       pertainym:
       - fourth%5:00:00:ordinal:00
       synset: 00346567-r
@@ -50242,7 +50242,7 @@ foxily:
     pronunciation:
     - value: ˈfɒksɪli
     sense:
-    - id: 'foxily%4:46:00::'
+    - id: 'foxily%4:02:00::'
       pertainym:
       - foxy%5:00:00:artful:00
       synset: 00295240-r
@@ -50471,11 +50471,11 @@ fractious:
 fractiously:
   r:
     sense:
-    - id: 'fractiously%4:46:01::'
+    - id: 'fractiously%4:02:01::'
       pertainym:
       - fractious%5:00:00:ill-natured:00
       synset: 00421054-r
-    - id: 'fractiously%4:45:00::'
+    - id: 'fractiously%4:02:00::'
       pertainym:
       - fractious%5:00:00:disobedient:00
       synset: 00346729-r
@@ -51185,7 +51185,7 @@ frankly:
     pronunciation:
     - value: ˈfɹæŋkli
     sense:
-    - id: 'frankly%4:45:00::'
+    - id: 'frankly%4:02:00::'
       pertainym:
       - frank%5:00:00:direct:02
       synset: 00316228-r
@@ -51214,7 +51214,7 @@ frantic:
 frantically:
   r:
     sense:
-    - id: 'frantically%4:45:00::'
+    - id: 'frantically%4:02:00::'
       pertainym:
       - frantic%5:00:00:agitated:00
       synset: 00505462-r
@@ -51281,7 +51281,7 @@ fraternal twin:
 fraternally:
   r:
     sense:
-    - id: 'fraternally%4:45:00::'
+    - id: 'fraternally%4:02:00::'
       pertainym:
       - 'fraternal%3:00:02::'
       synset: 00346866-r
@@ -51442,7 +51442,7 @@ fraudulent scheme:
 fraudulently:
   r:
     sense:
-    - id: 'fraudulently%4:45:00::'
+    - id: 'fraudulently%4:02:00::'
       pertainym:
       - fraudulent%5:00:00:dishonest:00
       synset: 00346945-r
@@ -51560,7 +51560,7 @@ freakish:
 freakishly:
   r:
     sense:
-    - id: 'freakishly%4:51:00::'
+    - id: 'freakishly%4:02:00::'
       pertainym:
       - freakish%5:00:00:unpredictable:00
       synset: 00283116-r
@@ -51662,7 +51662,7 @@ free:
     pronunciation:
     - value: fɹiː
     sense:
-    - id: 'free%4:45:00::'
+    - id: 'free%4:02:00::'
       synset: 00359817-r
   v:
     pronunciation:
@@ -51845,7 +51845,7 @@ free nerve ending:
 free of charge:
   r:
     sense:
-    - id: 'free_of_charge%4:45:00::'
+    - id: 'free_of_charge%4:02:00::'
       synset: 00259685-r
 free pardon:
   n:
@@ -52332,7 +52332,7 @@ freeloader:
 freely:
   r:
     sense:
-    - id: 'freely%4:45:00::'
+    - id: 'freely%4:02:00::'
       pertainym:
       - 'free%3:00:00::'
       synset: 00211960-r
@@ -52800,7 +52800,7 @@ frenetic:
 frenetically:
   r:
     sense:
-    - id: 'frenetically%4:45:00::'
+    - id: 'frenetically%4:02:00::'
       pertainym:
       - frenetic%5:00:00:agitated:00
       synset: 00106723-r
@@ -52814,7 +52814,7 @@ frenzied:
 frenziedly:
   r:
     sense:
-    - id: 'frenziedly%4:45:01::'
+    - id: 'frenziedly%4:02:01::'
       pertainym:
       - frenzied%5:00:00:agitated:00
       synset: 00347080-r
@@ -52941,8 +52941,8 @@ frequently:
     - value: ˈfɹiː.kwənt.li
     sense:
     - antonym:
-      - 'infrequently%4:48:00::'
-      id: 'frequently%4:48:00::'
+      - 'infrequently%4:02:00::'
+      id: 'frequently%4:02:00::'
       pertainym:
       - 'frequent%3:00:00::'
       synset: 00035445-r
@@ -53035,7 +53035,7 @@ fresh:
       synset: 00206887-s
   r:
     sense:
-    - id: 'fresh%4:49:00::'
+    - id: 'fresh%4:02:00::'
       synset: 00113522-r
 fresh bean:
   n:
@@ -53154,9 +53154,9 @@ freshly:
     pronunciation:
     - value: ˈfɹɛʃli
     sense:
-    - id: 'freshly%4:49:00::'
+    - id: 'freshly%4:02:00::'
       synset: 00113522-r
-    - id: 'freshly%4:45:03::'
+    - id: 'freshly%4:02:03::'
       pertainym:
       - fresh%5:00:00:forward:02
       synset: 00368286-r
@@ -53389,7 +53389,7 @@ fretful:
 fretfully:
   r:
     sense:
-    - id: 'fretfully%4:45:00::'
+    - id: 'fretfully%4:02:00::'
       pertainym:
       - fretful%5:00:00:complaining:00
       synset: 00347981-r
@@ -53879,7 +53879,7 @@ frightening:
 frighteningly:
   r:
     sense:
-    - id: 'frighteningly%4:51:00::'
+    - id: 'frighteningly%4:02:00::'
       pertainym:
       - frightening%5:00:00:alarming:00
       synset: 00347587-r
@@ -53906,7 +53906,7 @@ frightfully:
     - value: ˈfɹaɪtfəli
       variety: US
     sense:
-    - id: 'frightfully%4:51:00::'
+    - id: 'frightfully%4:02:00::'
       synset: 00055488-r
 frightfulness:
   n:
@@ -53954,7 +53954,7 @@ frigidity:
 frigidly:
   r:
     sense:
-    - id: 'frigidly%4:45:00::'
+    - id: 'frigidly%4:02:00::'
       pertainym:
       - frigid%5:00:00:cold:02
       synset: 00347823-r
@@ -54214,7 +54214,7 @@ frisk:
 friskily:
   r:
     sense:
-    - id: 'friskily%4:45:00::'
+    - id: 'friskily%4:02:00::'
       pertainym:
       - frisky%5:00:00:playful:00
       synset: 00348098-r
@@ -54351,7 +54351,7 @@ frivolous:
 frivolously:
   r:
     sense:
-    - id: 'frivolously%4:45:00::'
+    - id: 'frivolously%4:02:00::'
       pertainym:
       - 'frivolous%3:00:00::'
       synset: 00348224-r
@@ -54598,47 +54598,47 @@ frolicsomeness:
 from each one:
   r:
     sense:
-    - id: 'from_each_one%4:53:00::'
+    - id: 'from_each_one%4:02:00::'
       synset: 00241635-r
 from head to toe:
   r:
     sense:
-    - id: 'from_head_to_toe%4:51:00::'
+    - id: 'from_head_to_toe%4:02:00::'
       synset: 00253175-r
 from nowhere:
   r:
     sense:
-    - id: 'from_nowhere%4:50:00::'
+    - id: 'from_nowhere%4:02:00::'
       synset: 00172975-r
 from pillar to post:
   r:
     sense:
-    - id: 'from_pillar_to_post%4:50:00::'
+    - id: 'from_pillar_to_post%4:02:00::'
       synset: 00511820-r
 from scratch:
   r:
     sense:
-    - id: 'from_scratch%4:45:00::'
+    - id: 'from_scratch%4:02:00::'
       synset: 00161088-r
 from start to finish:
   r:
     sense:
-    - id: 'from_start_to_finish%4:45:00::'
+    - id: 'from_start_to_finish%4:02:00::'
       synset: 00153344-r
 from the heart:
   r:
     sense:
-    - id: 'from_the_heart%4:45:00::'
+    - id: 'from_the_heart%4:02:00::'
       synset: 00380634-r
 from time to time:
   r:
     sense:
-    - id: 'from_time_to_time%4:48:00::'
+    - id: 'from_time_to_time%4:02:00::'
       synset: 00021667-r
 from way back:
   r:
     sense:
-    - id: 'from_way_back%4:49:00::'
+    - id: 'from_way_back%4:02:00::'
       synset: 00161376-r
 frond:
   n:
@@ -54940,7 +54940,7 @@ frontal suture:
 frontally:
   r:
     sense:
-    - id: 'frontally%4:45:00::'
+    - id: 'frontally%4:02:00::'
       pertainym:
       - frontal%5:00:00:front:00
       synset: 00142726-r
@@ -55009,12 +55009,12 @@ frontstall:
 frontward:
   r:
     sense:
-    - id: 'frontward%4:50:00::'
+    - id: 'frontward%4:02:00::'
       synset: 00074907-r
 frontwards:
   r:
     sense:
-    - id: 'frontwards%4:50:00::'
+    - id: 'frontwards%4:02:00::'
       synset: 00074907-r
 frore:
   a:
@@ -55148,7 +55148,7 @@ frosted bat:
 frostily:
   r:
     sense:
-    - id: 'frostily%4:45:00::'
+    - id: 'frostily%4:02:00::'
       pertainym:
       - frosty%5:00:00:cold:02
       synset: 00347823-r
@@ -55259,7 +55259,7 @@ froth at the mouth:
 frothily:
   r:
     sense:
-    - id: 'frothily%4:45:00::'
+    - id: 'frothily%4:02:00::'
       pertainym:
       - frothy%5:00:00:effervescent:00
       synset: 00348388-r
@@ -55350,7 +55350,7 @@ frowning:
 frowningly:
   r:
     sense:
-    - id: 'frowningly%4:45:00::'
+    - id: 'frowningly%4:02:00::'
       pertainym:
       - frowning%5:00:00:displeased:00
       synset: 00241299-r
@@ -55527,7 +55527,7 @@ frugality:
 frugally:
   r:
     sense:
-    - id: 'frugally%4:45:00::'
+    - id: 'frugally%4:02:00::'
       pertainym:
       - frugal%5:00:00:thrifty:00
       synset: 00347253-r
@@ -55719,8 +55719,8 @@ fruitfully:
   r:
     sense:
     - antonym:
-      - 'fruitlessly%4:45:00::'
-      id: 'fruitfully%4:45:00::'
+      - 'fruitlessly%4:02:00::'
+      id: 'fruitfully%4:02:00::'
       synset: 00215173-r
 fruitfulness:
   n:
@@ -55768,8 +55768,8 @@ fruitlessly:
   r:
     sense:
     - antonym:
-      - 'fruitfully%4:45:00::'
-      id: 'fruitlessly%4:45:00::'
+      - 'fruitfully%4:02:00::'
+      id: 'fruitlessly%4:02:00::'
       pertainym:
       - fruitless%5:00:00:unproductive:00
       synset: 00215382-r
@@ -55832,7 +55832,7 @@ frump:
 frumpily:
   r:
     sense:
-    - id: 'frumpily%4:45:00::'
+    - id: 'frumpily%4:02:00::'
       pertainym:
       - frumpy%5:00:00:unfashionable:00
       synset: 00323648-r
@@ -55844,7 +55844,7 @@ frumpish:
 frumpishly:
   r:
     sense:
-    - id: 'frumpishly%4:45:00::'
+    - id: 'frumpishly%4:02:00::'
       pertainym:
       - frumpish%5:00:00:unfashionable:00
       synset: 00323648-r
@@ -56190,7 +56190,7 @@ fucking:
     pronunciation:
     - value: ˈfʌkɪŋ
     sense:
-    - id: 'fucking%4:51:00::'
+    - id: 'fucking%4:02:00::'
       synset: 00033092-r
 fuckup:
   n:
@@ -56500,7 +56500,7 @@ fugal:
 fugally:
   r:
     sense:
-    - id: 'fugally%4:45:00::'
+    - id: 'fugally%4:02:00::'
       pertainym:
       - 'fugal%3:01:00::'
       synset: 00029674-r
@@ -56754,7 +56754,7 @@ full:
       synset: 15232352-n
   r:
     sense:
-    - id: 'full%4:51:01::'
+    - id: 'full%4:02:01::'
       synset: 00010928-r
   v:
     sense:
@@ -57046,8 +57046,8 @@ full-time:
   r:
     sense:
     - antonym:
-      - 'half-time%4:45:00::'
-      id: 'full-time%4:49:00::'
+      - 'half-time%4:02:00::'
+      id: 'full-time%4:02:00::'
       synset: 00254098-r
 full-wave rectifier:
   n:
@@ -57123,13 +57123,13 @@ fully:
     pronunciation:
     - value: ˈfʊli
     sense:
-    - id: 'fully%4:51:02::'
+    - id: 'fully%4:02:02::'
       pertainym:
       - full%5:00:00:complete:00
       synset: 00010928-r
-    - id: 'fully%4:51:04::'
+    - id: 'fully%4:02:04::'
       synset: 00180395-r
-    - id: 'fully%4:51:03::'
+    - id: 'fully%4:02:03::'
       synset: 00507076-r
 fully fashioned:
   a:
@@ -57242,7 +57242,7 @@ fulsome:
 fulsomely:
   r:
     sense:
-    - id: 'fulsomely%4:45:00::'
+    - id: 'fulsomely%4:02:00::'
       pertainym:
       - fulsome%5:00:00:insincere:00
       synset: 00487963-r
@@ -57651,7 +57651,7 @@ functionality:
 functionally:
   r:
     sense:
-    - id: 'functionally%4:52:00::'
+    - id: 'functionally%4:02:00::'
       pertainym:
       - 'functional%3:01:01::'
       synset: 00347455-r
@@ -57902,7 +57902,7 @@ fundamentalistic:
 fundamentally:
   r:
     sense:
-    - id: 'fundamentally%4:51:00::'
+    - id: 'fundamentally%4:02:00::'
       pertainym:
       - fundamental%5:00:00:basic:00
       synset: 00003864-r
@@ -58353,7 +58353,7 @@ funnily:
     pronunciation:
     - value: ˈfʌnəli
     sense:
-    - id: 'funnily%4:45:01::'
+    - id: 'funnily%4:02:01::'
       pertainym:
       - funny%5:00:00:strange:00
       synset: 00439274-r
@@ -58578,15 +58578,15 @@ furiously:
     pronunciation:
     - value: ˈfjʊə̯ɹi.ə̯sli
     sense:
-    - id: 'furiously%4:45:00::'
+    - id: 'furiously%4:02:00::'
       pertainym:
       - furious%5:00:00:stormy:00
       synset: 00225764-r
-    - id: 'furiously%4:45:02::'
+    - id: 'furiously%4:02:02::'
       pertainym:
       - furious%5:00:00:violent:00
       synset: 00226035-r
-    - id: 'furiously%4:45:01::'
+    - id: 'furiously%4:02:01::'
       pertainym:
       - furious%5:00:00:angry:00
       synset: 00225897-r
@@ -58910,11 +58910,11 @@ further:
     pronunciation:
     - value: fɜː(ɹ)ðə(ɹ)
     sense:
-    - id: 'further%4:51:02::'
+    - id: 'further%4:02:02::'
       synset: 00030381-r
-    - id: 'further%4:53:03::'
+    - id: 'further%4:02:03::'
       synset: 00030839-r
-    - id: 'further%4:50:00::'
+    - id: 'further%4:02:00::'
       synset: 00030035-r
   v:
     pronunciation:
@@ -58961,7 +58961,7 @@ furthermore:
     - value: ˈfɜː(ɹ).ðə(ɹ).mɔː(ɹ)
       variety: GB
     sense:
-    - id: 'furthermore%4:54:00::'
+    - id: 'furthermore%4:02:00::'
       synset: 00029763-r
 furthermost:
   a:
@@ -58979,9 +58979,9 @@ furthest:
     pronunciation:
     - value: ˈfɜː(ɹ)ðɪst
     sense:
-    - id: 'furthest%4:51:01::'
+    - id: 'furthest%4:02:01::'
       synset: 00031310-r
-    - id: 'furthest%4:51:00::'
+    - id: 'furthest%4:02:00::'
       synset: 00031050-r
 furtive:
   a:
@@ -59003,7 +59003,7 @@ furtively:
     - value: ˈfɜːtɪvli
       variety: GB
     sense:
-    - id: 'furtively%4:45:00::'
+    - id: 'furtively%4:02:00::'
       pertainym:
       - furtive%5:00:00:concealed:00
       synset: 00106857-r
@@ -59330,7 +59330,7 @@ fuss-budget:
 fussily:
   r:
     sense:
-    - id: 'fussily%4:45:00::'
+    - id: 'fussily%4:02:00::'
       pertainym:
       - fussy%5:00:00:ill-natured:00
       synset: 00181065-r
@@ -59417,7 +59417,7 @@ futile:
 futilely:
   r:
     sense:
-    - id: 'futilely%4:45:00::'
+    - id: 'futilely%4:02:00::'
       pertainym:
       - futile%5:00:00:unproductive:00
       synset: 00031610-r

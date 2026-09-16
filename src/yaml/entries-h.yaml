@@ -9423,7 +9423,7 @@ habitually:
     pronunciation:
     - value: həˈbɪtju.əli
     sense:
-    - id: 'habitually%4:48:00::'
+    - id: 'habitually%4:02:00::'
       pertainym:
       - habitual%5:00:00:usual:00
       synset: 00212077-r
@@ -10282,7 +10282,7 @@ haggardly:
     pronunciation:
     - value: ˈhæɡə(ɹ)dli
     sense:
-    - id: 'haggardly%4:45:00::'
+    - id: 'haggardly%4:02:00::'
       pertainym:
       - haggard%5:00:00:tired:00
       synset: 00505079-r
@@ -11128,7 +11128,7 @@ half:
     - value: hæf
       variety: US
     sense:
-    - id: 'half%4:51:00::'
+    - id: 'half%4:02:00::'
       pertainym:
       - half%5:00:00:fractional:00
       synset: 00008300-r
@@ -11293,7 +11293,7 @@ half-and-half:
       synset: 07863682-n
   r:
     sense:
-    - id: 'half-and-half%4:45:00::'
+    - id: 'half-and-half%4:02:00::'
       pertainym:
       - half-and-half%5:00:00:equal:00
       synset: 00214493-r
@@ -11406,7 +11406,7 @@ half-hearted:
 half-heartedly:
   r:
     sense:
-    - id: 'half-heartedly%4:45:00::'
+    - id: 'half-heartedly%4:02:00::'
       pertainym:
       - halfhearted%5:00:00:unenthusiastic:00
       synset: 00354384-r
@@ -11427,7 +11427,7 @@ half-hourly:
       synset: 01976021-s
   r:
     sense:
-    - id: 'half-hourly%4:48:00::'
+    - id: 'half-hourly%4:02:00::'
       pertainym:
       - half-hourly%5:00:00:periodic:00
       synset: 00354517-r
@@ -11490,7 +11490,7 @@ half-pint:
 half-price:
   r:
     sense:
-    - id: 'half-price%4:51:00::'
+    - id: 'half-price%4:02:00::'
       synset: 00502856-r
 half-relief:
   n:
@@ -11550,8 +11550,8 @@ half-time:
   r:
     sense:
     - antonym:
-      - 'full-time%4:49:00::'
-      id: 'half-time%4:45:00::'
+      - 'full-time%4:02:00::'
+      id: 'half-time%4:02:00::'
       synset: 00254209-r
 half-track:
   a:
@@ -11587,7 +11587,7 @@ half-yearly:
       synset: 01976413-s
   r:
     sense:
-    - id: 'half-yearly%4:48:00::'
+    - id: 'half-yearly%4:02:00::'
       pertainym:
       - half-yearly%5:00:00:periodic:00
       synset: 00354612-r
@@ -11665,7 +11665,7 @@ halfway:
     - value: hɑːfˈweɪ
       variety: GB
     sense:
-    - id: 'halfway%4:50:00::'
+    - id: 'halfway%4:02:00::'
       synset: 00256895-r
 halibut:
   n:
@@ -12188,7 +12188,7 @@ halting:
 haltingly:
   r:
     sense:
-    - id: 'haltingly%4:45:00::'
+    - id: 'haltingly%4:02:00::'
       synset: 00214414-r
 halve:
   v:
@@ -12683,12 +12683,12 @@ hand:
 hand and foot:
   r:
     sense:
-    - id: 'hand_and_foot%4:45:00::'
+    - id: 'hand_and_foot%4:02:00::'
       synset: 00148538-r
 hand and glove:
   r:
     sense:
-    - id: 'hand_and_glove%4:45:00::'
+    - id: 'hand_and_glove%4:02:00::'
       synset: 00164539-r
 hand ax:
   n:
@@ -12767,16 +12767,16 @@ hand grenade:
 hand in glove:
   r:
     sense:
-    - id: 'hand_in_glove%4:45:00::'
+    - id: 'hand_in_glove%4:02:00::'
       synset: 00164539-r
 hand in hand:
   r:
     pronunciation:
     - value: ˌhændɪnˈhænd
     sense:
-    - id: 'hand_in_hand%4:45:03::'
+    - id: 'hand_in_hand%4:02:03::'
       synset: 00246625-r
-    - id: 'hand_in_hand%4:45:01::'
+    - id: 'hand_in_hand%4:02:01::'
       synset: 00148633-r
 hand job:
   n:
@@ -12849,7 +12849,7 @@ hand over:
 hand over fist:
   r:
     sense:
-    - id: 'hand_over_fist%4:45:00::'
+    - id: 'hand_over_fist%4:02:00::'
       synset: 00148729-r
 hand pump:
   n:
@@ -12884,12 +12884,12 @@ hand throttle:
 hand to hand:
   r:
     sense:
-    - id: 'hand_to_hand%4:45:00::'
+    - id: 'hand_to_hand%4:02:00::'
       synset: 00055288-r
 hand to mouth:
   r:
     sense:
-    - id: 'hand_to_mouth%4:45:00::'
+    - id: 'hand_to_mouth%4:02:00::'
       synset: 00055369-r
 hand tool:
   n:
@@ -13337,12 +13337,12 @@ handicraft:
 handily:
   r:
     sense:
-    - id: 'handily%4:45:01::'
+    - id: 'handily%4:02:01::'
       pertainym:
       - handy%5:00:00:accessible:00
       - handy%5:00:00:useful:00
       synset: 00198807-r
-    - id: 'handily%4:45:00::'
+    - id: 'handily%4:02:00::'
       synset: 00148821-r
 handiness:
   n:
@@ -13613,7 +13613,7 @@ hands:
 hands down:
   r:
     sense:
-    - id: 'hands_down%4:45:00::'
+    - id: 'hands_down%4:02:00::'
       synset: 00148821-r
 hands-down:
   a:
@@ -13689,11 +13689,11 @@ handsomely:
     pronunciation:
     - value: ˈhæn(d).səm.li
     sense:
-    - id: 'handsomely%4:45:01::'
+    - id: 'handsomely%4:02:01::'
       pertainym:
       - handsome%5:00:00:beautiful:00
       synset: 00354848-r
-    - id: 'handsomely%4:45:00::'
+    - id: 'handsomely%4:02:00::'
       pertainym:
       - handsome%5:00:00:generous:01
       synset: 00354703-r
@@ -14343,7 +14343,7 @@ haphazard:
       synset: 00313416-s
   r:
     sense:
-    - id: 'haphazard%4:45:00::'
+    - id: 'haphazard%4:02:00::'
       pertainym:
       - haphazard%5:00:00:careless:00
       synset: 00354974-r
@@ -14355,11 +14355,11 @@ haphazardly:
     - value: hæpˈhæzɚdli
       variety: US
     sense:
-    - id: 'haphazardly%4:45:00::'
+    - id: 'haphazardly%4:02:00::'
       pertainym:
       - haphazard%5:00:00:random:00
       synset: 00071165-r
-    - id: 'haphazardly%4:45:01::'
+    - id: 'haphazardly%4:02:01::'
       pertainym:
       - haphazard%5:00:00:careless:00
       synset: 00354974-r
@@ -14416,7 +14416,7 @@ haplotype:
 haply:
   r:
     sense:
-    - id: 'haply%4:51:00::'
+    - id: 'haply%4:02:00::'
       synset: 00355281-r
 happen:
   v:
@@ -14481,14 +14481,14 @@ happily:
       variety: US
     sense:
     - antonym:
-      - 'unhappily%4:45:00::'
-      id: 'happily%4:45:01::'
+      - 'unhappily%4:02:00::'
+      id: 'happily%4:02:01::'
       pertainym:
       - 'happy%3:00:00::'
       synset: 00050835-r
     - antonym:
-      - 'sadly%4:45:00::'
-      id: 'happily%4:45:00::'
+      - 'sadly%4:02:00::'
+      id: 'happily%4:02:00::'
       pertainym:
       - happy%5:00:00:fortunate:00
       synset: 00042894-r
@@ -14574,7 +14574,7 @@ haptic sensation:
 haptically:
   r:
     sense:
-    - id: 'haptically%4:45:00::'
+    - id: 'haptically%4:02:00::'
       pertainym:
       - 'haptic%3:01:00::'
       synset: 00199833-r
@@ -14922,31 +14922,31 @@ hard:
     - value: hɑɹd
       variety: US
     sense:
-    - id: 'hard%4:45:00::'
+    - id: 'hard%4:02:00::'
       pertainym:
       - hard%5:00:01:effortful:00
       synset: 00091820-r
-    - id: 'hard%4:45:05::'
+    - id: 'hard%4:02:05::'
       synset: 00092514-r
-    - id: 'hard%4:45:07::'
+    - id: 'hard%4:02:07::'
       synset: 00092597-r
-    - id: 'hard%4:51:04::'
+    - id: 'hard%4:02:04::'
       synset: 00092328-r
-    - id: 'hard%4:45:03::'
+    - id: 'hard%4:02:03::'
       pertainym:
       - 'hard%3:00:06::'
       synset: 00092166-r
-    - id: 'hard%4:45:06::'
+    - id: 'hard%4:02:06::'
       synset: 00178004-r
-    - id: 'hard%4:51:10::'
+    - id: 'hard%4:02:10::'
       pertainym:
       - hardened%5:00:02:hard:01
       synset: 00093000-r
-    - id: 'hard%4:50:09::'
+    - id: 'hard%4:02:09::'
       synset: 00092809-r
-    - id: 'hard%4:51:08::'
+    - id: 'hard%4:02:08::'
       synset: 00092706-r
-    - id: 'hard%4:45:01::'
+    - id: 'hard%4:02:01::'
       synset: 00092022-r
 hard beech:
   n:
@@ -15528,11 +15528,11 @@ hardly:
     - value: ˈhɑɹdli
       variety: US
     sense:
-    - id: 'hardly%4:51:00::'
+    - id: 'hardly%4:02:00::'
       synset: 00002669-r
-    - id: 'hardly%4:48:02::'
+    - id: 'hardly%4:02:02::'
       synset: 00003317-r
-    - id: 'hardly%4:45:01::'
+    - id: 'hardly%4:02:01::'
       synset: 00092166-r
 hardly a:
   a:
@@ -15936,8 +15936,8 @@ harmfully:
   r:
     sense:
     - antonym:
-      - 'harmlessly%4:45:00::'
-      id: 'harmfully%4:45:00::'
+      - 'harmlessly%4:02:00::'
+      id: 'harmfully%4:02:00::'
       pertainym:
       - 'harmful%3:00:00::'
       synset: 00311268-r
@@ -15971,8 +15971,8 @@ harmlessly:
       variety: US
     sense:
     - antonym:
-      - 'harmfully%4:45:00::'
-      id: 'harmlessly%4:45:00::'
+      - 'harmfully%4:02:00::'
+      id: 'harmlessly%4:02:00::'
       pertainym:
       - 'harmless%3:00:00::'
       synset: 00311429-r
@@ -16069,7 +16069,7 @@ harmonical:
 harmonically:
   r:
     sense:
-    - id: 'harmonically%4:52:00::'
+    - id: 'harmonically%4:02:00::'
       pertainym:
       - 'harmonic%3:01:00::'
       synset: 00135537-r
@@ -16111,7 +16111,7 @@ harmonious:
 harmoniously:
   r:
     sense:
-    - id: 'harmoniously%4:45:00::'
+    - id: 'harmoniously%4:02:00::'
       pertainym:
       - harmonious%5:00:00:compatible:01
       synset: 00355386-r
@@ -16813,11 +16813,11 @@ harshly:
     - value: ˈhɑːʃli
       variety: GB
     sense:
-    - id: 'harshly%4:45:02::'
+    - id: 'harshly%4:02:02::'
       pertainym:
       - harsh%5:00:00:unkind:00
       synset: 00355592-r
-    - id: 'harshly%4:45:00::'
+    - id: 'harshly%4:02:00::'
       pertainym:
       - harsh%5:00:03:unpleasant:00
       synset: 00352317-r
@@ -16899,7 +16899,7 @@ harum-scarum:
     - value: ˌhɛəɹəmˈskɛəɹəm
       variety: US
     sense:
-    - id: 'harum-scarum%4:45:00::'
+    - id: 'harum-scarum%4:02:00::'
       synset: 00165190-r
 harvest:
   n:
@@ -17232,7 +17232,7 @@ hastily:
     pronunciation:
     - value: ˈheɪstɪli
     sense:
-    - id: 'hastily%4:45:00::'
+    - id: 'hastily%4:02:00::'
       pertainym:
       - hasty%5:00:00:hurried:00
       synset: 00207806-r
@@ -17565,7 +17565,7 @@ hateful:
 hatefully:
   r:
     sense:
-    - id: 'hatefully%4:45:00::'
+    - id: 'hatefully%4:02:00::'
       pertainym:
       - hateful%5:00:00:nasty:00
       synset: 00356040-r
@@ -17659,7 +17659,7 @@ hauberk:
 haughtily:
   r:
     sense:
-    - id: 'haughtily%4:45:00::'
+    - id: 'haughtily%4:02:00::'
       pertainym:
       - haughty%5:00:00:proud:00
       synset: 00176109-r
@@ -18678,7 +18678,7 @@ hazardous:
 hazardously:
   r:
     sense:
-    - id: 'hazardously%4:51:00::'
+    - id: 'hazardously%4:02:00::'
       pertainym:
       - hazardous%5:00:00:dangerous:00
       synset: 00090716-r
@@ -18789,11 +18789,11 @@ hazelwood:
 hazily:
   r:
     sense:
-    - id: 'hazily%4:45:01::'
+    - id: 'hazily%4:02:01::'
       pertainym:
       - hazy%5:00:00:cloudy:00
       synset: 00356221-r
-    - id: 'hazily%4:45:00::'
+    - id: 'hazily%4:02:00::'
       pertainym:
       - hazy%5:00:00:indistinct:00
       synset: 00356115-r
@@ -19053,7 +19053,7 @@ head ache:
 head and shoulders above:
   r:
     sense:
-    - id: 'head_and_shoulders_above%4:51:00::'
+    - id: 'head_and_shoulders_above%4:02:00::'
       synset: 00047777-r
 head blight:
   n:
@@ -19196,7 +19196,7 @@ head off:
 head over heels:
   r:
     sense:
-    - id: 'head_over_heels%4:45:00::'
+    - id: 'head_over_heels%4:02:00::'
       synset: 00164903-r
 head register:
   n:
@@ -19284,9 +19284,9 @@ head-on:
       synset: 00200349-s
   r:
     sense:
-    - id: 'head-on%4:45:01::'
+    - id: 'head-on%4:02:01::'
       synset: 00219747-r
-    - id: 'head-on%4:45:00::'
+    - id: 'head-on%4:02:00::'
       synset: 00219659-r
 head-shrinker:
   n:
@@ -19308,7 +19308,7 @@ head-to-head:
     pronunciation:
     - value: hɛd.tu.hɛd
     sense:
-    - id: 'head-to-head%4:45:00::'
+    - id: 'head-to-head%4:02:00::'
       pertainym:
       - head-to-head%5:00:00:inconclusive:00
       synset: 00410542-r
@@ -19420,7 +19420,7 @@ headfirst:
       synset: 00205206-s
   r:
     sense:
-    - id: 'headfirst%4:45:00::'
+    - id: 'headfirst%4:02:00::'
       synset: 00356323-r
 headfish:
   n:
@@ -19581,13 +19581,13 @@ headlong:
     - value: ˈhɛdlɔŋ
       variety: US
     sense:
-    - id: 'headlong%4:45:00::'
+    - id: 'headlong%4:02:00::'
       synset: 00356323-r
-    - id: 'headlong%4:45:02::'
+    - id: 'headlong%4:02:02::'
       pertainym:
       - headlong%5:00:01:hurried:00
       synset: 00356734-r
-    - id: 'headlong%4:45:01::'
+    - id: 'headlong%4:02:01::'
       synset: 00356438-r
 headman:
   n:
@@ -20079,7 +20079,7 @@ healthier:
 healthily:
   r:
     sense:
-    - id: 'healthily%4:51:00::'
+    - id: 'healthily%4:02:00::'
       pertainym:
       - healthy%5:00:00:reasonable:00
       synset: 00184008-r
@@ -20188,7 +20188,7 @@ heaps:
     pronunciation:
     - value: hiːps
     sense:
-    - id: 'heaps%4:51:00::'
+    - id: 'heaps%4:02:00::'
       synset: 00356876-r
 hear:
   v:
@@ -20429,7 +20429,7 @@ heart and soul:
       synset: 05929717-n
   r:
     sense:
-    - id: 'heart_and_soul%4:45:00::'
+    - id: 'heart_and_soul%4:02:00::'
       synset: 00165552-r
 heart attack:
   n:
@@ -20707,11 +20707,11 @@ heartily:
     - value: ˈhɑɹtɪli
       variety: US
     sense:
-    - id: 'heartily%4:45:03::'
+    - id: 'heartily%4:02:03::'
       pertainym:
       - hearty%5:00:00:complete:00
       synset: 00210690-r
-    - id: 'heartily%4:45:01::'
+    - id: 'heartily%4:02:01::'
       pertainym:
       - hearty%5:00:00:warm:02
       synset: 00221335-r
@@ -20767,7 +20767,7 @@ heartless:
 heartlessly:
   r:
     sense:
-    - id: 'heartlessly%4:45:00::'
+    - id: 'heartlessly%4:02:00::'
       pertainym:
       - 'heartless%3:00:02::'
       synset: 00356954-r
@@ -21219,7 +21219,7 @@ heated up:
 heatedly:
   r:
     sense:
-    - id: 'heatedly%4:45:00::'
+    - id: 'heatedly%4:02:00::'
       pertainym:
       - heated%5:00:00:hot:02
       synset: 00357087-r
@@ -21553,17 +21553,17 @@ heavenward:
       synset: 02500849-s
   r:
     sense:
-    - id: 'heavenward%4:50:00::'
+    - id: 'heavenward%4:02:00::'
       synset: 00357305-r
 heavenwardly:
   r:
     sense:
-    - id: 'heavenwardly%4:50:00::'
+    - id: 'heavenwardly%4:02:00::'
       synset: 00357305-r
 heavenwards:
   r:
     sense:
-    - id: 'heavenwards%4:50:00::'
+    - id: 'heavenwards%4:02:00::'
       synset: 00357305-r
 heaver:
   n:
@@ -21598,33 +21598,33 @@ heavily:
     pronunciation:
     - value: ˈhɛvɪli
     sense:
-    - id: 'heavily%4:51:00::'
+    - id: 'heavily%4:02:00::'
       pertainym:
       - 'heavy%3:00:03::'
       synset: 00177869-r
-    - id: 'heavily%4:45:04::'
+    - id: 'heavily%4:02:04::'
       pertainym:
       - heavy%5:00:00:heavy-footed:00
       synset: 00510010-r
-    - id: 'heavily%4:45:05::'
+    - id: 'heavily%4:02:05::'
       pertainym:
       - 'heavy%3:00:08::'
       synset: 00511190-r
-    - id: 'heavily%4:51:03::'
+    - id: 'heavily%4:02:03::'
       pertainym:
       - 'heavy-duty%3:00:00::'
       synset: 00504667-r
-    - id: 'heavily%4:45:02::'
+    - id: 'heavily%4:02:02::'
       pertainym:
       - 'heavy%3:00:02::'
       synset: 00357411-r
-    - id: 'heavily%4:45:06::'
+    - id: 'heavily%4:02:06::'
       pertainym:
       - 'heavy%3:00:01::'
       synset: 00178140-r
     - antonym:
-      - 'lightly%4:45:01::'
-      id: 'heavily%4:45:01::'
+      - 'lightly%4:02:01::'
+      id: 'heavily%4:02:01::'
       synset: 00178004-r
 heavily traveled:
   a:
@@ -21794,7 +21794,7 @@ heavy:
     pronunciation:
     - value: ˈhɛ.vi
     sense:
-    - id: 'heavy%4:45:00::'
+    - id: 'heavy%4:02:00::'
       synset: 00357411-r
 heavy cream:
   n:
@@ -21977,7 +21977,7 @@ hebdomadal:
 hebdomadally:
   r:
     sense:
-    - id: 'hebdomadally%4:48:00::'
+    - id: 'hebdomadally%4:02:00::'
       pertainym:
       - hebdomadal%5:00:00:periodic:00
       synset: 00081941-r
@@ -22095,7 +22095,7 @@ hectic:
 hectically:
   r:
     sense:
-    - id: 'hectically%4:45:00::'
+    - id: 'hectically%4:02:00::'
       pertainym:
       - hectic%5:00:00:agitated:00
       synset: 00347080-r
@@ -22477,7 +22477,7 @@ heedfully:
     - value: ˈhiːdfəli
       variety: GB
     sense:
-    - id: 'heedfully%4:45:00::'
+    - id: 'heedfully%4:02:00::'
       pertainym:
       - heedful%5:00:00:mindful:00
       synset: 00154814-r
@@ -22511,7 +22511,7 @@ heedless:
 heedlessly:
   r:
     sense:
-    - id: 'heedlessly%4:45:00::'
+    - id: 'heedlessly%4:02:00::'
       pertainym:
       - 'heedless%3:00:00::'
       synset: 00165349-r
@@ -22609,7 +22609,7 @@ heelbone:
 heels over head:
   r:
     sense:
-    - id: 'heels_over_head%4:45:00::'
+    - id: 'heels_over_head%4:02:00::'
       synset: 00164903-r
 heeltip:
   n:
@@ -22790,7 +22790,7 @@ heinous:
 heinously:
   r:
     sense:
-    - id: 'heinously%4:45:00::'
+    - id: 'heinously%4:02:00::'
       pertainym:
       - heinous%5:00:00:wicked:00
       synset: 00357543-r
@@ -23131,7 +23131,7 @@ hell-bent:
 hell-for-leather:
   r:
     sense:
-    - id: 'hell-for-leather%4:45:00::'
+    - id: 'hell-for-leather%4:02:00::'
       pertainym:
       - breakneck%5:00:00:dangerous:00
       synset: 00109012-r
@@ -23236,7 +23236,7 @@ hellish:
 hellishly:
   r:
     sense:
-    - id: 'hellishly%4:51:00::'
+    - id: 'hellishly%4:02:00::'
       synset: 00133342-r
 hellishness:
   n:
@@ -23541,8 +23541,8 @@ helpfully:
     - value: ˈhɛlp.fəl.i
     sense:
     - antonym:
-      - 'unhelpfully%4:45:00::'
-      id: 'helpfully%4:45:00::'
+      - 'unhelpfully%4:02:00::'
+      id: 'helpfully%4:02:00::'
       pertainym:
       - 'helpful%3:00:00::'
       synset: 00185484-r
@@ -23591,7 +23591,7 @@ helplessly:
     pronunciation:
     - value: ˈhɛlpləsli
     sense:
-    - id: 'helplessly%4:45:00::'
+    - id: 'helplessly%4:02:00::'
       pertainym:
       - helpless%5:00:01:powerless:00
       synset: 00210099-r
@@ -23638,7 +23638,7 @@ helter-skelter:
     - value: ˌhɛltəˈskɛltə
       variety: GB
     sense:
-    - id: 'helter-skelter%4:45:00::'
+    - id: 'helter-skelter%4:02:00::'
       synset: 00164789-r
 helve:
   n:
@@ -24615,25 +24615,25 @@ hence:
     pronunciation:
     - value: ˈhɛns
     sense:
-    - id: 'hence%4:54:00::'
+    - id: 'hence%4:02:00::'
       synset: 00043413-r
-    - id: 'hence%4:50:02::'
+    - id: 'hence%4:02:02::'
       synset: 00043931-r
-    - id: 'hence%4:49:01::'
+    - id: 'hence%4:02:01::'
       synset: 00043846-r
 henceforth:
   r:
     pronunciation:
     - value: hɛnsˈfɔɹθ
     sense:
-    - id: 'henceforth%4:49:00::'
+    - id: 'henceforth%4:02:00::'
       synset: 00033250-r
 henceforward:
   r:
     pronunciation:
     - value: hɛnsˈfɔɹwɝd
     sense:
-    - id: 'henceforward%4:49:00::'
+    - id: 'henceforward%4:02:00::'
       synset: 00033250-r
 henchman:
   n:
@@ -25285,16 +25285,16 @@ here:
       variety: US
     sense:
     - antonym:
-      - 'there%4:50:00::'
-      id: 'here%4:50:00::'
+      - 'there%4:02:00::'
+      id: 'here%4:02:00::'
       synset: 00109247-r
-    - id: 'here%4:50:02::'
+    - id: 'here%4:02:02::'
       synset: 00109541-r
     - antonym:
-      - 'there%4:50:01::'
-      id: 'here%4:50:01::'
+      - 'there%4:02:01::'
+      id: 'here%4:02:01::'
       synset: 00109415-r
-    - id: 'here%4:50:04::'
+    - id: 'here%4:02:04::'
       synset: 00109789-r
 here and now:
   n:
@@ -25304,17 +25304,17 @@ here and now:
 here and there:
   r:
     sense:
-    - id: 'here_and_there%4:50:00::'
+    - id: 'here_and_there%4:02:00::'
       synset: 00073049-r
 hereabout:
   r:
     sense:
-    - id: 'hereabout%4:50:00::'
+    - id: 'hereabout%4:02:00::'
       synset: 00109134-r
 hereabouts:
   r:
     sense:
-    - id: 'hereabouts%4:50:00::'
+    - id: 'hereabouts%4:02:00::'
       synset: 00109134-r
 hereafter:
   n:
@@ -25335,11 +25335,11 @@ hereafter:
     - value: hɪəˈɹɑːftə
       variety: GB
     sense:
-    - id: 'hereafter%4:49:00::'
+    - id: 'hereafter%4:02:00::'
       synset: 00357692-r
-    - id: 'hereafter%4:49:03::'
+    - id: 'hereafter%4:02:03::'
       synset: 00033526-r
-    - id: 'hereafter%4:49:01::'
+    - id: 'hereafter%4:02:01::'
       synset: 00033383-r
 hereby:
   r:
@@ -25349,7 +25349,7 @@ hereby:
     - value: hɪɹˈbaɪ
       variety: US
     sense:
-    - id: 'hereby%4:45:00::'
+    - id: 'hereby%4:02:00::'
       synset: 00257094-r
 hereditament:
   n:
@@ -25429,7 +25429,7 @@ heredity:
 herein:
   r:
     sense:
-    - id: 'herein%4:50:00::'
+    - id: 'herein%4:02:00::'
       synset: 00109681-r
 hereinafter:
   r:
@@ -25439,12 +25439,12 @@ hereinafter:
     - value: ˈhɪəɹɪnˈɑːftə
       variety: GB
     sense:
-    - id: 'hereinafter%4:49:00::'
+    - id: 'hereinafter%4:02:00::'
       synset: 00357692-r
 hereinbefore:
   r:
     sense:
-    - id: 'hereinbefore%4:50:00::'
+    - id: 'hereinbefore%4:02:00::'
       synset: 00357947-r
 hereness:
   n:
@@ -25458,7 +25458,7 @@ hereness:
 hereof:
   r:
     sense:
-    - id: 'hereof%4:50:00::'
+    - id: 'hereof%4:02:00::'
       synset: 00358029-r
 heresy:
   n:
@@ -25499,7 +25499,7 @@ hereto:
     - value: ˌhɪɹˈtuː
       variety: CA
     sense:
-    - id: 'hereto%4:50:00::'
+    - id: 'hereto%4:02:00::'
       synset: 00358116-r
 heretofore:
   r:
@@ -25509,24 +25509,24 @@ heretofore:
     - value: ˈhɪɹtəfɔɹ
       variety: US
     sense:
-    - id: 'heretofore%4:49:00::'
+    - id: 'heretofore%4:02:00::'
       synset: 00028314-r
 hereunder:
   r:
     sense:
-    - id: 'hereunder%4:49:00::'
+    - id: 'hereunder%4:02:00::'
       synset: 00357692-r
-    - id: 'hereunder%4:50:01::'
+    - id: 'hereunder%4:02:01::'
       synset: 00033624-r
 hereupon:
   r:
     sense:
-    - id: 'hereupon%4:49:00::'
+    - id: 'hereupon%4:02:00::'
       synset: 00358208-r
 herewith:
   r:
     sense:
-    - id: 'herewith%4:45:00::'
+    - id: 'herewith%4:02:00::'
       synset: 00257094-r
 heritable:
   a:
@@ -25636,7 +25636,7 @@ hermetic:
 hermetically:
   r:
     sense:
-    - id: 'hermetically%4:45:00::'
+    - id: 'hermetically%4:02:00::'
       pertainym:
       - hermetic%5:00:00:tight:02
       synset: 00358311-r
@@ -25842,7 +25842,7 @@ heroical:
 heroically:
   r:
     sense:
-    - id: 'heroically%4:45:00::'
+    - id: 'heroically%4:02:00::'
       pertainym:
       - heroic%5:00:00:bold:00
       synset: 00358426-r
@@ -26105,8 +26105,8 @@ hesitantly:
   r:
     sense:
     - antonym:
-      - 'unhesitatingly%4:45:00::'
-      id: 'hesitantly%4:45:00::'
+      - 'unhesitatingly%4:02:00::'
+      id: 'hesitantly%4:02:00::'
       pertainym:
       - hesitant%5:00:00:indecisive:01
       synset: 00147156-r
@@ -26165,7 +26165,7 @@ hesitating:
 hesitatingly:
   r:
     sense:
-    - id: 'hesitatingly%4:45:00::'
+    - id: 'hesitatingly%4:02:00::'
       synset: 00147156-r
 hesitation:
   n:
@@ -27284,7 +27284,7 @@ hideous:
 hideously:
   r:
     sense:
-    - id: 'hideously%4:51:00::'
+    - id: 'hideously%4:02:00::'
       pertainym:
       - hideous%5:00:00:ugly:00
       synset: 00358561-r
@@ -27415,7 +27415,7 @@ hierarchically:
     - value: ˈhaɪə(ɹ)ˌɑː(ɹ)k.ɪk.æli
       variety: GB
     sense:
-    - id: 'hierarchically%4:45:00::'
+    - id: 'hierarchically%4:02:00::'
       pertainym:
       - 'hierarchical%3:00:00::'
       synset: 00257221-r
@@ -27550,7 +27550,7 @@ hieroglyphical:
 hieroglyphically:
   r:
     sense:
-    - id: 'hieroglyphically%4:45:00::'
+    - id: 'hieroglyphically%4:02:00::'
       pertainym:
       - 'hieroglyphic%3:01:00::'
       synset: 00143364-r
@@ -27584,7 +27584,7 @@ higgledy-piggledy:
       synset: 02434302-s
   r:
     sense:
-    - id: 'higgledy-piggledy%4:45:00::'
+    - id: 'higgledy-piggledy%4:02:00::'
       synset: 00257334-r
 high:
   a:
@@ -27651,13 +27651,13 @@ high:
       synset: 03523794-n
   r:
     sense:
-    - id: 'high%4:50:00::'
+    - id: 'high%4:02:00::'
       synset: 00358753-r
-    - id: 'high%4:51:02::'
+    - id: 'high%4:02:02::'
       synset: 00358935-r
-    - id: 'high%4:50:03::'
+    - id: 'high%4:02:03::'
       synset: 00359047-r
-    - id: 'high%4:50:01::'
+    - id: 'high%4:02:01::'
       synset: 00358848-r
 high altar:
   n:
@@ -27667,7 +27667,7 @@ high altar:
 high and low:
   r:
     sense:
-    - id: 'high_and_low%4:50:00::'
+    - id: 'high_and_low%4:02:00::'
       synset: 00026470-r
 high bar:
   n:
@@ -28001,7 +28001,7 @@ high treason:
 high up:
   r:
     sense:
-    - id: 'high_up%4:50:00::'
+    - id: 'high_up%4:02:00::'
       synset: 00358753-r
 high vowel:
   n:
@@ -28126,7 +28126,7 @@ high-handed:
 high-handedly:
   r:
     sense:
-    - id: 'high-handedly%4:45:00::'
+    - id: 'high-handedly%4:02:00::'
       pertainym:
       - high-handed%5:00:00:domineering:00
       synset: 00359172-r
@@ -28201,7 +28201,7 @@ high-minded:
 high-mindedly:
   r:
     sense:
-    - id: 'high-mindedly%4:45:00::'
+    - id: 'high-mindedly%4:02:00::'
       pertainym:
       - high-minded%5:00:00:noble:01
       synset: 00359316-r
@@ -28558,7 +28558,7 @@ higher status:
 higher up:
   r:
     sense:
-    - id: 'higher_up%4:50:00::'
+    - id: 'higher_up%4:02:00::'
       synset: 00080519-r
 higher-ranking:
   a:
@@ -28741,13 +28741,13 @@ highly:
     pronunciation:
     - value: ˈhaɪli
     sense:
-    - id: 'highly%4:51:01::'
+    - id: 'highly%4:02:01::'
       pertainym:
       - 'high%3:00:02::'
       synset: 00089896-r
-    - id: 'highly%4:51:05::'
+    - id: 'highly%4:02:05::'
       synset: 00090131-r
-    - id: 'highly%4:51:00::'
+    - id: 'highly%4:02:00::'
       pertainym:
       - high%5:00:00:superior:01
       synset: 00089755-r
@@ -29030,7 +29030,7 @@ hilarious:
 hilariously:
   r:
     sense:
-    - id: 'hilariously%4:51:00::'
+    - id: 'hilariously%4:02:00::'
       pertainym:
       - hilarious%5:00:00:humorous:00
       synset: 00184128-r
@@ -29264,7 +29264,7 @@ hindering:
 hinderingly:
   r:
     sense:
-    - id: 'hinderingly%4:45:00::'
+    - id: 'hinderingly%4:02:00::'
       pertainym:
       - hindering%5:00:00:preventive:00
       synset: 00415297-r
@@ -29986,7 +29986,7 @@ histological:
 histologically:
   r:
     sense:
-    - id: 'histologically%4:52:00::'
+    - id: 'histologically%4:02:00::'
       pertainym:
       - 'histological%3:01:00::'
       synset: 00090211-r
@@ -30116,11 +30116,11 @@ historical school:
 historically:
   r:
     sense:
-    - id: 'historically%4:52:01::'
+    - id: 'historically%4:02:01::'
       pertainym:
       - historical%5:00:00:past:00
       synset: 00110430-r
-    - id: 'historically%4:52:00::'
+    - id: 'historically%4:02:00::'
       pertainym:
       - historic%5:00:00:past:00
       synset: 00110312-r
@@ -30617,12 +30617,12 @@ hither:
     - value: ˈhɪðɚ
       variety: US
     sense:
-    - id: 'hither%4:50:00::'
+    - id: 'hither%4:02:00::'
       synset: 00109415-r
 hither and thither:
   r:
     sense:
-    - id: 'hither_and_thither%4:50:00::'
+    - id: 'hither_and_thither%4:02:00::'
       synset: 00511820-r
 hitherto:
   r:
@@ -30632,7 +30632,7 @@ hitherto:
     - value: ˈhɪðɚˌtu
       variety: US
     sense:
-    - id: 'hitherto%4:49:00::'
+    - id: 'hitherto%4:02:00::'
       synset: 00028314-r
 hitless:
   a:
@@ -30894,7 +30894,7 @@ hoarse:
 hoarsely:
   r:
     sense:
-    - id: 'hoarsely%4:45:00::'
+    - id: 'hoarsely%4:02:00::'
       pertainym:
       - hoarse%5:00:00:cacophonous:00
       synset: 00359996-r
@@ -32856,7 +32856,7 @@ holloware:
 hollowly:
   r:
     sense:
-    - id: 'hollowly%4:45:00::'
+    - id: 'hollowly%4:02:00::'
       pertainym:
       - hollow%5:00:00:reverberant:00
       - hollow%5:00:00:meaningless:00
@@ -33321,11 +33321,11 @@ home:
     - value: hoʊm
       variety: US
     sense:
-    - id: 'home%4:50:01::'
+    - id: 'home%4:02:01::'
       synset: 00098390-r
-    - id: 'home%4:50:04::'
+    - id: 'home%4:02:04::'
       synset: 00099070-r
-    - id: 'home%4:50:03::'
+    - id: 'home%4:02:03::'
       synset: 00098930-r
   v:
     pronunciation:
@@ -33869,7 +33869,7 @@ homeostatic:
 homeostatically:
   r:
     sense:
-    - id: 'homeostatically%4:45:00::'
+    - id: 'homeostatically%4:02:00::'
       pertainym:
       - 'homeostatic%3:01:00::'
       synset: 00143478-r
@@ -34029,7 +34029,7 @@ homeward:
       synset: 01688009-s
   r:
     sense:
-    - id: 'homeward%4:50:00::'
+    - id: 'homeward%4:02:00::'
       synset: 00099155-r
 homeward-bound:
   a:
@@ -34039,7 +34039,7 @@ homeward-bound:
 homewards:
   r:
     sense:
-    - id: 'homewards%4:50:00::'
+    - id: 'homewards%4:02:00::'
       synset: 00099155-r
 homework:
   n:
@@ -34335,7 +34335,7 @@ homogeneous polynomial:
 homogeneously:
   r:
     sense:
-    - id: 'homogeneously%4:45:00::'
+    - id: 'homogeneously%4:02:00::'
       pertainym:
       - 'homogeneous%3:00:00::'
       synset: 00507330-r
@@ -34969,13 +34969,13 @@ honestly:
     - value: ˈɒnɪstli
       variety: GB
     sense:
-    - id: 'honestly%4:45:00::'
+    - id: 'honestly%4:02:00::'
       pertainym:
       - honest%5:00:00:sincere:00
       synset: 00316228-r
     - antonym:
-      - 'dishonestly%4:45:00::'
-      id: 'honestly%4:45:01::'
+      - 'dishonestly%4:02:00::'
+      id: 'honestly%4:02:01::'
       pertainym:
       - 'honest%3:00:00::'
       synset: 00315777-r
@@ -35592,14 +35592,14 @@ honorably:
   r:
     sense:
     - antonym:
-      - 'dishonorably%4:45:02::'
-      id: 'honorably%4:45:02::'
+      - 'dishonorably%4:02:02::'
+      id: 'honorably%4:02:02::'
       pertainym:
       - 'honorable%3:00:00::'
       synset: 00493074-r
     - antonym:
-      - 'dishonorably%4:45:01::'
-      id: 'honorably%4:45:00::'
+      - 'dishonorably%4:02:01::'
+      id: 'honorably%4:02:00::'
       synset: 00316850-r
 honorarium:
   n:
@@ -35781,7 +35781,7 @@ honourably:
     - value: ˈɑnəɹəbli
       variety: US
     sense:
-    - id: 'honourably%4:45:00::'
+    - id: 'honourably%4:02:00::'
       synset: 00316850-r
 honoured:
   s:
@@ -36240,7 +36240,7 @@ hook and eye:
 hook line and sinker:
   r:
     sense:
-    - id: 'hook_line_and_sinker%4:51:00::'
+    - id: 'hook_line_and_sinker%4:02:00::'
       synset: 00165665-r
 hook on:
   v:
@@ -36890,12 +36890,12 @@ hopefully:
       variety: US
     sense:
     - antonym:
-      - 'hopelessly%4:45:00::'
-      id: 'hopefully%4:45:00::'
+      - 'hopelessly%4:02:00::'
+      id: 'hopefully%4:02:00::'
       pertainym:
       - 'hopeful%3:00:00::'
       synset: 00201672-r
-    - id: 'hopefully%4:45:01::'
+    - id: 'hopefully%4:02:01::'
       synset: 00201575-r
 hopefulness:
   n:
@@ -36940,17 +36940,17 @@ hopelessly:
     - value: ˈhəʊplɪsli
       variety: GB
     sense:
-    - id: 'hopelessly%4:51:01::'
+    - id: 'hopelessly%4:02:01::'
       pertainym:
       - hopeless%5:00:01:bad:00
       synset: 00202043-r
-    - id: 'hopelessly%4:45:03::'
+    - id: 'hopelessly%4:02:03::'
       pertainym:
       - 'hopeless%3:00:00::'
       synset: 00319159-r
     - antonym:
-      - 'hopefully%4:45:00::'
-      id: 'hopelessly%4:45:00::'
+      - 'hopefully%4:02:00::'
+      id: 'hopelessly%4:02:00::'
       pertainym:
       - 'hopeless%3:00:00::'
       synset: 00201821-r
@@ -37187,7 +37187,7 @@ horizontality:
 horizontally:
   r:
     sense:
-    - id: 'horizontally%4:50:00::'
+    - id: 'horizontally%4:02:00::'
       pertainym:
       - 'horizontal%3:00:00::'
       synset: 00360138-r
@@ -37649,7 +37649,7 @@ horrible:
 horribly:
   r:
     sense:
-    - id: 'horribly%4:51:00::'
+    - id: 'horribly%4:02:00::'
       pertainym:
       - horrible%5:00:00:alarming:00
       synset: 00056878-r
@@ -37672,7 +37672,7 @@ horrid:
 horridly:
   r:
     sense:
-    - id: 'horridly%4:51:00::'
+    - id: 'horridly%4:02:00::'
       pertainym:
       - horrid%5:00:00:offensive:01
       synset: 00358561-r
@@ -37734,7 +37734,7 @@ horrifying:
 horrifyingly:
   r:
     sense:
-    - id: 'horrifyingly%4:45:00::'
+    - id: 'horrifyingly%4:02:00::'
       pertainym:
       - horrifying%5:00:00:alarming:00
       synset: 00248938-r
@@ -38144,7 +38144,7 @@ horseback:
     - value: ˈhɔːsˌbæk
       variety: GB
     sense:
-    - id: 'horseback%4:45:00::'
+    - id: 'horseback%4:02:00::'
       synset: 00002484-r
 horseback rider:
   n:
@@ -38530,7 +38530,7 @@ horticultural:
 horticulturally:
   r:
     sense:
-    - id: 'horticulturally%4:52:00::'
+    - id: 'horticulturally%4:02:00::'
       pertainym:
       - 'horticultural%3:01:00::'
       synset: 00143610-r
@@ -38671,8 +38671,8 @@ hospitably:
   r:
     sense:
     - antonym:
-      - 'inhospitably%4:45:00::'
-      id: 'hospitably%4:45:00::'
+      - 'inhospitably%4:02:00::'
+      id: 'hospitably%4:02:00::'
       pertainym:
       - 'hospitable%3:00:02::'
       synset: 00360482-r
@@ -38982,7 +38982,7 @@ hostile witness:
 hostilely:
   r:
     sense:
-    - id: 'hostilely%4:45:00::'
+    - id: 'hostilely%4:02:00::'
       pertainym:
       - 'hostile%3:00:01::'
       synset: 00243937-r
@@ -39526,7 +39526,7 @@ hotfoot:
       synset: 00515482-n
   r:
     sense:
-    - id: 'hotfoot%4:45:00::'
+    - id: 'hotfoot%4:02:00::'
       synset: 00208194-r
   v:
     sense:
@@ -39564,7 +39564,7 @@ hotline:
 hotly:
   r:
     sense:
-    - id: 'hotly%4:45:00::'
+    - id: 'hotly%4:02:00::'
       pertainym:
       - 'hot%3:00:02::'
       synset: 00357087-r
@@ -39759,7 +39759,7 @@ hourly:
     - value: ˈaʊ̯ɚli
       variety: US
     sense:
-    - id: 'hourly%4:48:00::'
+    - id: 'hourly%4:02:00::'
       pertainym:
       - hourly%5:00:00:periodic:00
       synset: 00360781-r
@@ -40456,13 +40456,13 @@ however:
     - value: haʊˈɛvɚ
       variety: US
     sense:
-    - id: 'however%4:54:00::'
+    - id: 'however%4:02:00::'
       synset: 00027761-r
-    - id: 'however%4:54:04::'
+    - id: 'however%4:02:04::'
       synset: 00029193-r
-    - id: 'however%4:51:02::'
+    - id: 'however%4:02:02::'
       synset: 00028974-r
-    - id: 'however%4:45:01::'
+    - id: 'however%4:02:01::'
       synset: 00028820-r
 howitzer:
   n:
@@ -40908,7 +40908,7 @@ huff:
 huffily:
   r:
     sense:
-    - id: 'huffily%4:45:00::'
+    - id: 'huffily%4:02:00::'
       pertainym:
       - huffy%5:00:00:angry:00
       synset: 00360891-r
@@ -41019,7 +41019,7 @@ hugely:
     pronunciation:
     - value: ˈhjuːdʒli
     sense:
-    - id: 'hugely%4:51:00::'
+    - id: 'hugely%4:02:00::'
       synset: 00197952-r
 hugger:
   n:
@@ -41075,7 +41075,7 @@ hugger-mugger:
     - value: ˈhʌɡ.ɚˌmʌɡ.ɚ
       variety: US
     sense:
-    - id: 'hugger-mugger%4:45:00::'
+    - id: 'hugger-mugger%4:02:00::'
       synset: 00361013-r
 hugging:
   n:
@@ -41505,8 +41505,8 @@ humanely:
   r:
     sense:
     - antonym:
-      - 'inhumanely%4:45:00::'
-      id: 'humanely%4:45:00::'
+      - 'inhumanely%4:02:00::'
+      id: 'humanely%4:02:00::'
       pertainym:
       - 'humane%3:00:00::'
       synset: 00361098-r
@@ -41723,7 +41723,7 @@ humanly:
     pronunciation:
     - value: ˈhjuːmənli
     sense:
-    - id: 'humanly%4:51:00::'
+    - id: 'humanly%4:02:00::'
       pertainym:
       - 'human%3:01:00::'
       synset: 00143696-r
@@ -41828,11 +41828,11 @@ humbly:
     pronunciation:
     - value: ˈhʌmbli
     sense:
-    - id: 'humbly%4:45:00::'
+    - id: 'humbly%4:02:00::'
       pertainym:
       - 'humble%3:00:00::'
       synset: 00111029-r
-    - id: 'humbly%4:45:01::'
+    - id: 'humbly%4:02:01::'
       pertainym:
       - humble%5:00:00:inferior:01
       synset: 00399370-r
@@ -42051,7 +42051,7 @@ humiliating:
 humiliatingly:
   r:
     sense:
-    - id: 'humiliatingly%4:51:00::'
+    - id: 'humiliatingly%4:02:00::'
       pertainym:
       - humiliating%5:00:00:undignified:00
       synset: 00212529-r
@@ -42276,8 +42276,8 @@ humorlessly:
   r:
     sense:
     - antonym:
-      - 'humorously%4:45:00::'
-      id: 'humorlessly%4:45:00::'
+      - 'humorously%4:02:00::'
+      id: 'humorlessly%4:02:00::'
       pertainym:
       - 'humorless%3:00:00::'
       synset: 00361567-r
@@ -42302,8 +42302,8 @@ humorously:
   r:
     sense:
     - antonym:
-      - 'humorlessly%4:45:00::'
-      id: 'humorously%4:45:00::'
+      - 'humorlessly%4:02:00::'
+      id: 'humorously%4:02:00::'
       pertainym:
       - 'humorous%3:00:00::'
       synset: 00361378-r
@@ -42415,7 +42415,7 @@ humourless:
 humourlessly:
   r:
     sense:
-    - id: 'humourlessly%4:45:00::'
+    - id: 'humourlessly%4:02:00::'
       synset: 00361567-r
 humourous:
   a:
@@ -42674,7 +42674,7 @@ hundred-percenter:
 hundredfold:
   r:
     sense:
-    - id: 'hundredfold%4:51:00::'
+    - id: 'hundredfold%4:02:00::'
       synset: 00361728-r
 hundredth:
   a:
@@ -42776,7 +42776,7 @@ hungover:
 hungrily:
   r:
     sense:
-    - id: 'hungrily%4:45:00::'
+    - id: 'hungrily%4:02:00::'
       pertainym:
       - 'hungry%3:00:00::'
       synset: 00361850-r
@@ -43337,7 +43337,7 @@ hurricane roof:
 hurridly:
   r:
     sense:
-    - id: 'hurridly%4:45:00::'
+    - id: 'hurridly%4:02:00::'
       synset: 00171925-r
 hurried:
   a:
@@ -43362,8 +43362,8 @@ hurriedly:
       variety: GB
     sense:
     - antonym:
-      - 'unhurriedly%4:45:00::'
-      id: 'hurriedly%4:45:00::'
+      - 'unhurriedly%4:02:00::'
+      id: 'hurriedly%4:02:00::'
       pertainym:
       - 'hurried%3:00:00::'
       synset: 00207806-r
@@ -43795,7 +43795,7 @@ husk tomato:
 huskily:
   r:
     sense:
-    - id: 'huskily%4:45:00::'
+    - id: 'huskily%4:02:00::'
       pertainym:
       - husky%5:00:00:cacophonous:00
       synset: 00359996-r
@@ -44432,7 +44432,7 @@ hydraulically:
     - exemplifies:
       - 'british_spelling%1:10:01::'
       - 'australian_spelling%1:10:01::'
-      id: 'hydraulically%4:45:00::'
+      id: 'hydraulically%4:02:00::'
       pertainym:
       - 'hydraulic%3:01:00::'
       synset: 00362014-r
@@ -44441,7 +44441,7 @@ hydraulicly:
     sense:
     - exemplifies:
       - 'american_spelling%1:10:01::'
-      id: 'hydraulicly%4:45:00::'
+      id: 'hydraulicly%4:02:00::'
       synset: 00362014-r
 hydraulics:
   n:
@@ -45404,8 +45404,8 @@ hygienically:
   r:
     sense:
     - antonym:
-      - 'unhygienically%4:45:00::'
-      id: 'hygienically%4:45:00::'
+      - 'unhygienically%4:02:00::'
+      id: 'hygienically%4:02:00::'
       pertainym:
       - hygienic%5:00:00:sanitary:00
       synset: 00362210-r
@@ -45846,7 +45846,7 @@ hyperbolic geometry:
 hyperbolically:
   r:
     sense:
-    - id: 'hyperbolically%4:45:00::'
+    - id: 'hyperbolically%4:02:00::'
       pertainym:
       - hyperbolic%5:00:00:increased:00
       synset: 00191026-r
@@ -46733,7 +46733,7 @@ hypnotic trance:
 hypnotically:
   r:
     sense:
-    - id: 'hypnotically%4:45:00::'
+    - id: 'hypnotically%4:02:00::'
       pertainym:
       - 'hypnotic%3:01:00::'
       synset: 00516284-r
@@ -46994,7 +46994,7 @@ hypocritical:
 hypocritically:
   r:
     sense:
-    - id: 'hypocritically%4:46:00::'
+    - id: 'hypocritically%4:02:00::'
       pertainym:
       - hypocritical%5:00:00:insincere:00
       synset: 00316567-r
@@ -47477,7 +47477,7 @@ hypothalamic releasing hormone:
 hypothalamically:
   r:
     sense:
-    - id: 'hypothalamically%4:45:00::'
+    - id: 'hypothalamically%4:02:00::'
       pertainym:
       - 'hypothalamic%3:01:00::'
       synset: 00094393-r
@@ -47613,7 +47613,7 @@ hypothetical imperative:
 hypothetically:
   r:
     sense:
-    - id: 'hypothetically%4:52:00::'
+    - id: 'hypothetically%4:02:00::'
       pertainym:
       - hypothetical%5:00:00:theoretical:00
       synset: 00171282-r
@@ -47869,7 +47869,7 @@ hysterical neurosis:
 hysterically:
   r:
     sense:
-    - id: 'hysterically%4:45:00::'
+    - id: 'hysterically%4:02:00::'
       pertainym:
       - hysterical%5:00:00:agitated:00
       synset: 00362506-r

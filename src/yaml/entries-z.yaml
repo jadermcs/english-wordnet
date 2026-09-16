@@ -1525,7 +1525,7 @@ zealous:
 zealously:
   r:
     sense:
-    - id: 'zealously%4:45:00::'
+    - id: 'zealously%4:02:00::'
       pertainym:
       - zealous%5:00:00:enthusiastic:00
       synset: 00499976-r
@@ -1848,7 +1848,7 @@ zestful:
 zestfully:
   r:
     sense:
-    - id: 'zestfully%4:45:00::'
+    - id: 'zestfully%4:02:00::'
       pertainym:
       - zestful%5:00:00:spirited:00
       synset: 00500115-r
@@ -1862,7 +1862,7 @@ zestfulness:
 zestily:
   r:
     sense:
-    - id: 'zestily%4:45:00::'
+    - id: 'zestily%4:02:00::'
       pertainym:
       - zesty%5:00:00:spirited:00
       synset: 00500115-r
@@ -1980,7 +1980,7 @@ zigzag:
       synset: 13910012-n
   r:
     sense:
-    - id: 'zigzag%4:45:00::'
+    - id: 'zigzag%4:02:00::'
       synset: 00500266-r
   v:
     form:
