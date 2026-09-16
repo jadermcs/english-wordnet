@@ -1670,3 +1670,85 @@
   - tonally
   partOfSpeech: r
   source: Colloquial WordNet
+00115217-r:
+  definition:
+  - in an official role
+  example:
+  - officially, he is in charge
+  - officially responsible
+  ili: i18865
+  members:
+  - officially
+  partOfSpeech: r
+00132870-r:
+  definition:
+  - as a person
+  example:
+  - he is personally repulsive
+  ili: i19004
+  members:
+  - personally
+  partOfSpeech: r
+00133132-r:
+  definition:
+  - concerning the speaker
+  example:
+  - personally, I find him stupid
+  ili: i19006
+  members:
+  - personally
+  partOfSpeech: r
+00171282-r:
+  definition:
+  - by hypothesis
+  ili: i19294
+  members:
+  - hypothetically
+  partOfSpeech: r
+00174073-r:
+  definition:
+  - because of prevailing conditions
+  example:
+  - under the circumstances I cannot buy the house
+  ili: i19316
+  members:
+  - under the circumstances
+  partOfSpeech: r
+00341730-r:
+  definition:
+  - in a figurative sense
+  example:
+  - figuratively speaking, …
+  ili: i20479
+  members:
+  - figuratively
+  partOfSpeech: r
+00365540-r:
+  definition:
+  - according to logical reasoning
+  example:
+  - logically, you should now do the same to him
+  ili: i20647
+  members:
+  - logically
+  partOfSpeech: r
+00368189-r:
+  definition:
+  - as yourself
+  example:
+  - speaking personally, I would not want to go
+  ili: i20664
+  members:
+  - personally
+  partOfSpeech: r
+00512379-r:
+  definition:
+  - from a position of superiority or authority
+  example:
+  - father knows best
+  - I know better.
+  ili: i21713
+  members:
+  - better
+  - best
+  partOfSpeech: r

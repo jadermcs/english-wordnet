@@ -70,7 +70,7 @@ The names of the lexicographer files and their corresponding file numbers are li
 44 	adj.ppl 	participial adjectives
 45  adv.manner   manner adverbs
 46  adv.subject_oriented     subject oriented adverbs
-47  adv.speaker_oriented     speaker oriented adverbs
+47  (retired; formerly adv.speaker_oriented, folded into other adverb categories)
 48  adv.frequency        frequency adverbs
 49  adv.temporal     time, date adverbs
 50  adv.spatial      spatial, location adverbs
