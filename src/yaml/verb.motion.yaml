@@ -3341,8 +3341,6 @@
 01895631-v:
   definition:
   - shake or vibrate rapidly and intensively
-  domain_region:
-  - 08879115-n
   example:
   - The old engine was juddering
   hypernym:
@@ -7465,6 +7463,7 @@
   ili: i31517
   members:
   - ride herd on
+  - ride herd
   partOfSpeech: v
 01962137-v:
   definition:
@@ -16777,6 +16776,14 @@
   members:
   - drown
   partOfSpeech: v
+85478917-v:
+  definition:
+  - go to and return from a place
+  hypernym:
+  - 01839438-v
+  members:
+  - be
+  partOfSpeech: v
 90003682-v:
   definition:
   - to perform a dance move in which the dancer simultaneously drops the head while
@@ -16790,8 +16797,6 @@
 90018281-v:
   definition:
   - dancing in a style associated with the South Louisiana club scene
-  domain_region:
-  - 09113391-n
   hypernym:
   - 01898642-v
   members:

@@ -8801,21 +8801,6 @@
   members:
   - wish
   partOfSpeech: v
-  similar:
-  - 00905166-v
-00905166-v:
-  definition:
-  - make or express a wish
-  example:
-  - I wish that Christmas were over
-  hypernym:
-  - 00942415-v
-  ili: i26133
-  members:
-  - wish
-  partOfSpeech: v
-  similar:
-  - 00905052-v
 00905339-v:
   definition:
   - stop blaming or grant forgiveness
@@ -10171,11 +10156,10 @@
   definition:
   - drop a hint; intimate by a hint
   hypernym:
-  - 00930591-v
+  - 00932768-v
   ili: i26247
   members:
   - hint
-  - suggest
   partOfSpeech: v
 00929682-v:
   definition:
@@ -17373,7 +17357,7 @@
   - 02139513-v
   ili: i26862
   members:
-  - cackel
+  - cackle
   partOfSpeech: v
 01058086-v:
   definition:
@@ -17890,11 +17874,17 @@
 01066084-v:
   definition:
   - express contempt about
+  example:
+  - source: Margarita's Soul, Ingraham Lovell
+    text: It cannot be pished and pshawed away, by you or me or another
   hypernym:
   - 00942415-v
   ili: i26906
   members:
   - pooh-pooh
+  - pshaw
+  - pish
+  - pooh
   partOfSpeech: v
 01066173-v:
   definition:
@@ -18466,6 +18456,14 @@
   members:
   - vlog
   partOfSpeech: v
+86375664-v:
+  definition:
+  - cause to come to know personally again
+  hypernym:
+  - 00902866-v
+  members:
+  - reacquaint
+  partOfSpeech: v
 87438385-v:
   definition:
   - to perform a traditional Thai greeting where the hands are placed together in
@@ -18480,6 +18478,14 @@
   - 00994073-v
   members:
   - wai
+  partOfSpeech: v
+89510891-v:
+  definition:
+  - make familiar or conversant with again
+  hypernym:
+  - 00875857-v
+  members:
+  - reacquaint
   partOfSpeech: v
 90000001-v:
   definition:

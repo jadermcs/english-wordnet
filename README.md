@@ -10,10 +10,26 @@ Wordnet and we welcome contributions. Contributions to this wordnet may eventual
 future releases of Princeton WordNet. Correspondance to previous versions and wordnets in other language is provided
 through the [Collaborative Interlingual Index (CILI)](https://github.com/globalwordnet/cili). The Open English Wordnet is available as individual files in [GWN-LMF](http://globalwordnet.github.io/schemas/) format.
 
+Since the 2025 release, Open English Wordnet is also released along with [Open English Namenet](https://github.com/globalwordnet/english-namenet),
+which contains a very large number of entries derived from [Wikidata](https://wikidata.org). As such there are three versions of the wordnet available
+
+* **Open English Wordnet**: A wordnet of the common nouns, verbs, adjectives and adverbs.
+* **Open English Wordnet Plus**: Also contains a selection of proper nouns from Open English Namenet that have been manually validated. 
+    This is based on those in Princeton WordNet 3.1 as well as additional entries added by the Open English Wordnet team.
+* **Open English Namenet**: The full set of proper nouns from Open English Namenet.
+
 ## Releases
 
 Open English Wordnet is released through the [Open English Wordnet website](https://en-word.net/). The versions released are
 
+* **2025 Edition** (Released 31st December 2025). [(LMF)](https://en-word.net/static/english-wordnet-2025.xml.gz)
+[(JSON)](https://en-word.net/static/english-wordnet-2025-json.zip)
+[(RDF)](https://en-word.net/static/english-wordnet-2025.ttl.gz)
+[(WNDB)](https://en-word.net/static/english-wordnet-2025.zip)
+* **2025 Plus** (Released 31st December 2025). [(LMF)](https://en-word.net/static/english-wordnet-2025-plus.xml.gz)
+[(JSON)](https://en-word.net/static/english-wordnet-2025-plus-json.zip)
+[(RDF)](https://en-word.net/static/english-wordnet-2025-plus.ttl.gz)
+[(WNDB)](https://en-word.net/static/english-wordnet-2025-plus.zip)
 * **2024 Edition** (Released 1st November 2024). [(LMF)](https://en-word.net/static/english-wordnet-2024.xml.gz)
 [(RDF)](https://en-word.net/static/english-wordnet-2024.ttl.gz)
 [(WNDB)](https://en-word.net/static/english-wordnet-2024.zip)
@@ -37,6 +53,7 @@ The size of each resource is as follows
 
 | Edition | Words   | Synsets | Relations |
 |---------|---------|---------|-----------|
+| 2025+   | 161,875 | 120,564 | 419,226   |
 | 2024    | 161,705 | 120,630 | 419,168   |
 | 2023    | 161,338 | 120,135 | 415,905   |
 | 2022    | 161,221 | 120,068 | 386,437   |
@@ -45,25 +62,61 @@ The size of each resource is as follows
 | 2019    | 160,051 | 117,791 | 378,201   |
 | Princeton 3.1 | 159,015 | 117,791 | 378,203 | 
 
+The size of the core resources are as follows
+
+| Edition | Words   | Synsets | Relations |
+|---------|---------|---------|-----------|
+| 2025    | 135,969 | 107,519 | 355,064   |
+
 ## Usage
 
-To compile these into a single file please use the following script(s)
+### Web interface
+
+The easiest way to explore Open English Wordnet is through the web interface at **<https://en-word.net/>**. You can search for words, browse synsets, and navigate the relation graph without installing anything.
+
+### JSON API
+
+Open English Wordnet also provides a JSON API for programmatic access, documented at **<https://en-word.net/api/docs>**.
+
+### Python (`wn` library)
+
+[`wn`](https://wn.readthedocs.io/en/latest/) is a Python library for working with wordnets programmatically. Install it with pip:
+
+```bash
+pip install wn
+```
+
+Then download and query Open English Wordnet:
+
+```python
+import wn
+
+wn.download("oewn:2025+")
+
+oewn = wn.Wordnet("oewn:2025+")
+
+# look up a word
+for synset in oewn.synsets("bank"):
+    print(synset.definition())
+
+# find hypernyms
+word = oewn.words("dog")[0]
+for synset in word.synsets():
+    for hypernym in synset.hypernyms():
+        print(hypernym.lemmas())
+```
+
+Full documentation is at <https://wn.readthedocs.io/en/latest/>.
+
+### Building from source
+
+To compile the YAML source files into a single LMF XML file:
 
     python scripts/from_yaml.py
 
 This will create a file at `wn.xml` that contains the complete wordnet.
 
 Further conversions are available through the converter [here](http://server1.nlp.insight-centre.org/gwn-converter/).
-
-[WN](https://wn.readthedocs.io/en/latest/) is a Python library that can be used to work with Open English Wordnet.
-
-```python
-import wn
-
-wn.download("oewn:2024")
-
-oewn = wn.Wordnet("oewn:2024")
-```
 
 ## Changes
 
