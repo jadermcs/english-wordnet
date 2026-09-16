@@ -1,3 +1,22 @@
+00024234-r:
+  definition:
+  - in a pathogenic manner
+  ili: i18278
+  members:
+  - pathogenically
+  partOfSpeech: r
+00044486-r:
+  definition:
+  - (in formal usage, especially legal usage) for that or for it
+  domain_topic:
+  - 08458195-n
+  example:
+  - ordering goods and enclosing payment therefor
+  - a refund therefor
+  ili: i18396
+  members:
+  - therefor
+  partOfSpeech: r
 00044672-r:
   definition:
   - affecting the pursuit of a vocation or occupation
@@ -6,6 +25,25 @@
   ili: i18397
   members:
   - vocationally
+  partOfSpeech: r
+00060838-r:
+  definition:
+  - in every practical sense
+  example:
+  - to all intents and purposes the case is closed
+  - the rest are for all practical purposes useless
+  ili: i18501
+  members:
+  - for all practical purposes
+  - to all intents and purposes
+  - for all intents and purposes
+  partOfSpeech: r
+00062701-r:
+  definition:
+  - by means of an insecticide
+  ili: i18512
+  members:
+  - insecticidally
   partOfSpeech: r
 00064621-r:
   definition:
@@ -52,6 +90,15 @@
   members:
   - mathematically
   partOfSpeech: r
+00076947-r:
+  definition:
+  - with regard to sound or the ear
+  example:
+  - the new musical was visually and aurally appealing
+  ili: i18598
+  members:
+  - aurally
+  partOfSpeech: r
 00077763-r:
   definition:
   - in a commercial manner
@@ -97,6 +144,14 @@
   members:
   - eschatologically
   partOfSpeech: r
+00087414-r:
+  definition:
+  - in a permissible manner
+  ili: i18673
+  members:
+  - permissibly
+  - allowably
+  partOfSpeech: r
 00090211-r:
   definition:
   - involving the use of histology or histological techniques
@@ -114,6 +169,19 @@
   ili: i18720
   members:
   - denominationally
+  partOfSpeech: r
+00104786-r:
+  definition:
+  - in reality
+  example:
+  - she is very kind at heart
+  ili: i18794
+  members:
+  - at heart
+  - at bottom
+  - deep down
+  - inside
+  - in spite of appearance
   partOfSpeech: r
 00110206-r:
   definition:
@@ -160,16 +228,13 @@
   members:
   - militarily
   partOfSpeech: r
-00112012-r:
+00113197-r:
   definition:
-  - (intensifier before a figurative expression) without exaggeration
+  - with respect to the whole earth
   example:
-  - our eyes were literally pinned to TV during the Gulf War
-  exemplifies:
-  - 06332047-n
-  ili: i18844
+  - think globally, not locally
   members:
-  - literally
+  - globally
   partOfSpeech: r
 00115099-r:
   definition:
@@ -179,16 +244,6 @@
   ili: i18864
   members:
   - metabolically
-  partOfSpeech: r
-00115217-r:
-  definition:
-  - in an official role
-  example:
-  - officially, he is in charge
-  - officially responsible
-  ili: i18865
-  members:
-  - officially
   partOfSpeech: r
 00116024-r:
   definition:
@@ -235,6 +290,15 @@
   ili: i18875
   members:
   - politically
+  partOfSpeech: r
+00122170-r:
+  definition:
+  - in regard to academic matters
+  example:
+  - academically, this is a good school
+  ili: i18912
+  members:
+  - academically
   partOfSpeech: r
 00122541-r:
   definition:
@@ -299,6 +363,13 @@
   ili: i18941
   members:
   - medically
+  partOfSpeech: r
+00125817-r:
+  definition:
+  - in a medicinal manner
+  ili: i18942
+  members:
+  - medicinally
   partOfSpeech: r
 00125896-r:
   definition:
@@ -373,23 +444,15 @@
   members:
   - technically
   partOfSpeech: r
-00128223-r:
+00128014-r:
   definition:
-  - with regard to temporal order
+  - according to the exact meaning; according to the facts
   example:
-  - temporally processed
-  ili: i18962
+  - technically, a bank's reserves belong to the stockholders
+  - technically, the term is no longer used by experts
+  ili: i18961
   members:
-  - temporally
-  partOfSpeech: r
-00128418-r:
-  definition:
-  - to a land environment
-  example:
-  - terrestrially adapted
-  ili: i18964
-  members:
-  - terrestrially
+  - technically
   partOfSpeech: r
 00128524-r:
   definition:
@@ -409,6 +472,13 @@
   members:
   - thematically
   partOfSpeech: r
+00128750-r:
+  definition:
+  - for therapeutic purposes
+  ili: i18967
+  members:
+  - therapeutically
+  partOfSpeech: r
 00129866-r:
   definition:
   - with respect to chemistry
@@ -418,6 +488,15 @@
   ili: i18978
   members:
   - chemically
+  partOfSpeech: r
+00130101-r:
+  definition:
+  - by legislation
+  example:
+  - legislatively determined
+  ili: i18980
+  members:
+  - legislatively
   partOfSpeech: r
 00130777-r:
   definition:
@@ -437,6 +516,15 @@
   members:
   - racially
   partOfSpeech: r
+00131004-r:
+  definition:
+  - by municipality
+  example:
+  - municipally funded
+  ili: i18988
+  members:
+  - municipally
+  partOfSpeech: r
 00131099-r:
   definition:
   - by government
@@ -445,15 +533,6 @@
   ili: i18989
   members:
   - governmentally
-  partOfSpeech: r
-00131326-r:
-  definition:
-  - with regard to space
-  example:
-  - spatially limited
-  ili: i18991
-  members:
-  - spatially
   partOfSpeech: r
 00131423-r:
   definition:
@@ -503,6 +582,15 @@
   - fiscally
   - in fiscal matters
   partOfSpeech: r
+00132327-r:
+  definition:
+  - in an algebraic manner
+  example:
+  - algebraically determined
+  ili: i18999
+  members:
+  - algebraically
+  partOfSpeech: r
 00132646-r:
   definition:
   - by phonetics
@@ -511,16 +599,6 @@
   ili: i19002
   members:
   - phonetically
-  partOfSpeech: r
-00132742-r:
-  definition:
-  - by phonemics
-  example:
-  - phonemically transcribed
-  ili: i19003
-  members:
-  - phonemic
-  - phonemically
   partOfSpeech: r
 00133607-r:
   definition:
@@ -549,15 +627,6 @@
   members:
   - visually
   partOfSpeech: r
-00134223-r:
-  definition:
-  - in an intellectual manner
-  example:
-  - cerebrally active
-  ili: i19016
-  members:
-  - cerebrally
-  partOfSpeech: r
 00134423-r:
   definition:
   - with respect to biology
@@ -576,6 +645,15 @@
   members:
   - sociobiologically
   partOfSpeech: r
+00134663-r:
+  definition:
+  - with respect to neurobiology
+  example:
+  - explain the phenomenon neurobiologically
+  ili: i19020
+  members:
+  - neurobiological
+  partOfSpeech: r
 00134797-r:
   definition:
   - with respect to biochemistry
@@ -584,6 +662,13 @@
   ili: i19021
   members:
   - biochemically
+  partOfSpeech: r
+00134925-r:
+  definition:
+  - with respect to musicology
+  ili: i19022
+  members:
+  - musicologically
   partOfSpeech: r
 00135013-r:
   definition:
@@ -639,15 +724,6 @@
   members:
   - acoustically
   partOfSpeech: r
-00136377-r:
-  definition:
-  - in a regional manner
-  example:
-  - regionally governed
-  ili: i19035
-  members:
-  - regionally
-  partOfSpeech: r
 00136606-r:
   definition:
   - with regard to a culture
@@ -665,6 +741,13 @@
   ili: i19038
   members:
   - interracially
+  partOfSpeech: r
+00136998-r:
+  definition:
+  - with respect to the face
+  ili: i19041
+  members:
+  - facially
   partOfSpeech: r
 00137077-r:
   definition:
@@ -693,14 +776,14 @@
   members:
   - lexically
   partOfSpeech: r
-00137680-r:
+00140076-r:
   definition:
-  - with respect to material aspects
+  - especially; in particular
   example:
-  - psychologically similar but materially different
-  ili: i19048
+  - notably in the social sciences, the professors teach too much
+  ili: i19065
   members:
-  - materially
+  - notably
   partOfSpeech: r
 00142809-r:
   definition:
@@ -720,23 +803,12 @@
   members:
   - gravitationally
   partOfSpeech: r
-00143696-r:
+00143610-r:
   definition:
-  - in the manner of human beings
-  example:
-  - humanly possible
-  ili: i19092
+  - by means of horticulture
+  ili: i19091
   members:
-  - humanly
-  partOfSpeech: r
-00144182-r:
-  definition:
-  - by an institution
-  example:
-  - institutionally controlled
-  ili: i19097
-  members:
-  - institutionally
+  - horticulturally
   partOfSpeech: r
 00144291-r:
   definition:
@@ -765,6 +837,54 @@
   members:
   - temperamentally
   partOfSpeech: r
+00149598-r:
+  definition:
+  - from some points of view
+  example:
+  - she was right in a way
+  ili: i19138
+  members:
+  - in a way
+  partOfSpeech: r
+00149685-r:
+  definition:
+  - as a fact or based on fact
+  example:
+  - they learn much, factually, about the problems of retirement and provision for
+    old age, and, psychologically, in the sharing of their thoughts on retirement
+  ili: i19139
+  members:
+  - factually
+  partOfSpeech: r
+00163964-r:
+  definition:
+  - by the public or the people generally
+  example:
+  - publicly provided medical care
+  - publicly financed schools
+  ili: i19240
+  members:
+  - publicly
+  partOfSpeech: r
+00171356-r:
+  definition:
+  - in theory; according to the assumed facts
+  example:
+  - on paper the candidate seems promising
+  ili: i19295
+  members:
+  - theoretically
+  - on paper
+  partOfSpeech: r
+00173875-r:
+  definition:
+  - with that general meaning
+  example:
+  - she said something to that effect
+  ili: i19314
+  members:
+  - to that effect
+  partOfSpeech: r
 00179946-r:
   definition:
   - by religion
@@ -784,15 +904,6 @@
   members:
   - emotionally
   partOfSpeech: r
-00189865-r:
-  definition:
-  - with respect to dramatic value
-  example:
-  - the play was dramatically interesting, but the direction was bad
-  ili: i19433
-  members:
-  - dramatically
-  partOfSpeech: r
 00190641-r:
   definition:
   - of or relating to the intellect
@@ -802,6 +913,15 @@
   ili: i19439
   members:
   - intellectually
+  partOfSpeech: r
+00199241-r:
+  definition:
+  - in concrete terms
+  example:
+  - concretely, this meant that he was broke
+  ili: i19504
+  members:
+  - concretely
   partOfSpeech: r
 00204954-r:
   definition:
@@ -848,6 +968,24 @@
   members:
   - spiritually
   partOfSpeech: r
+00228507-r:
+  definition:
+  - by means of an editorial
+  example:
+  - the paper commented editorially on the scandal
+  ili: i19700
+  members:
+  - editorially
+  partOfSpeech: r
+00229728-r:
+  definition:
+  - in an anachronistic manner
+  example:
+  - let's look at this phenomenon anachronistically
+  ili: i19709
+  members:
+  - anachronistically
+  partOfSpeech: r
 00233903-r:
   definition:
   - with respect to geography
@@ -867,6 +1005,15 @@
   members:
   - analytically
   partOfSpeech: r
+00245268-r:
+  definition:
+  - with respect to structure
+  example:
+  - structurally, the organization is healthy
+  ili: i19819
+  members:
+  - structurally
+  partOfSpeech: r
 00248026-r:
   definition:
   - in a quantitative manner
@@ -875,6 +1022,22 @@
   ili: i19841
   members:
   - quantitatively
+  partOfSpeech: r
+00249583-r:
+  definition:
+  - in a dialectic manner
+  example:
+  - his religiousness is dialectically related to his sinfulness
+  ili: i19853
+  members:
+  - dialectically
+  partOfSpeech: r
+00253080-r:
+  definition:
+  - derived by logic, without observed facts
+  ili: i19881
+  members:
+  - a priori
   partOfSpeech: r
 00253289-r:
   definition:
@@ -887,6 +1050,30 @@
   - lawfully
   - de jure
   partOfSpeech: r
+00253591-r:
+  definition:
+  - in respect to jurisprudence or the science or philosophy of law
+  ili: i19885
+  members:
+  - jurisprudentially
+  partOfSpeech: r
+00253968-r:
+  definition:
+  - by virtue of position
+  example:
+  - the president sat on the committee ex officio
+  ili: i19889
+  members:
+  - ex officio
+  - by right of office
+  partOfSpeech: r
+00261706-r:
+  definition:
+  - at first sight
+  ili: i19957
+  members:
+  - prima facie
+  partOfSpeech: r
 00262662-r:
   definition:
   - in a tasteful way
@@ -896,6 +1083,15 @@
   members:
   - aesthetically
   - esthetically
+  partOfSpeech: r
+00266597-r:
+  definition:
+  - by or for an administrator
+  example:
+  - this decision was made administratively
+  ili: i19993
+  members:
+  - administratively
   partOfSpeech: r
 00269596-r:
   definition:
@@ -924,15 +1120,6 @@
   members:
   - bureaucratically
   partOfSpeech: r
-00282529-r:
-  definition:
-  - in a bureaucratic manner
-  example:
-  - his bureaucratically petty behavior annoyed her
-  ili: i20111
-  members:
-  - bureaucratically
-  partOfSpeech: r
 00287341-r:
   definition:
   - with respect to climate
@@ -953,14 +1140,24 @@
   - conversationally
   - informally
   partOfSpeech: r
-00292903-r:
+00290270-r:
   definition:
-  - in violation of the law; in a criminal manner
+  - with regard to computation
   example:
-  - the alterations in the document were ruled to be criminally fraudulent
-  ili: i20179
+  - computationally, this is a tricky problem
+  ili: i20160
   members:
-  - criminally
+  - computationally
+  partOfSpeech: r
+00290900-r:
+  definition:
+  - in a conceptual manner
+  example:
+  - he can no longer think conceptually
+  - conceptually, the idea is quite simple
+  ili: i20165
+  members:
+  - conceptually
   partOfSpeech: r
 00303375-r:
   definition:
@@ -981,12 +1178,28 @@
   - didactically
   - pedagogically
   partOfSpeech: r
+00322327-r:
+  definition:
+  - as a matter of doctrine
+  ili: i20355
+  members:
+  - doctrinally
+  partOfSpeech: r
 00322759-r:
   definition:
   - with respect to home or family
   example:
   - the housewife bored us with her domestically limited conversation
   ili: i20358
+  members:
+  - domestically
+  partOfSpeech: r
+00322917-r:
+  definition:
+  - with respect to the internal affairs of a government
+  example:
+  - domestically, the president proposes a more moderate economic policy
+  ili: i20359
   members:
   - domestically
   partOfSpeech: r
@@ -1036,15 +1249,6 @@
   members:
   - evolutionarily
   partOfSpeech: r
-00341730-r:
-  definition:
-  - in a figurative sense
-  example:
-  - figuratively speaking, …
-  ili: i20479
-  members:
-  - figuratively
-  partOfSpeech: r
 00347455-r:
   definition:
   - with respect to function
@@ -1053,6 +1257,15 @@
   ili: i20521
   members:
   - functionally
+  partOfSpeech: r
+00349012-r:
+  definition:
+  - in a genealogical manner
+  example:
+  - he charted his family tree genealogically
+  ili: i20531
+  members:
+  - genealogically
   partOfSpeech: r
 00349142-r:
   definition:
@@ -1072,24 +1285,37 @@
   members:
   - geologically
   partOfSpeech: r
-00364446-r:
+00363133-r:
   definition:
-  - of biological parents not married to each other
+  - with respect to ideology
   example:
-  - this child was born illegitimately
-  ili: i20641
+  - ideologically, we do not see eye to eye
+  ili: i20633
   members:
-  - illegitimately
-  - out of wedlock
+  - ideologically
   partOfSpeech: r
-00386371-r:
+00393380-r:
   definition:
-  - by journalists
-  example:
-  - he is being journalistically crucified in his own country
-  ili: i20777
+  - with regard to or concerning limnology
+  ili: i20824
   members:
-  - journalistically
+  - limnologically
+  partOfSpeech: r
+00396942-r:
+  definition:
+  - in a managerial manner
+  ili: i20852
+  members:
+  - managerially
+  partOfSpeech: r
+00403375-r:
+  definition:
+  - with regard to meter
+  example:
+  - metrically, these poems are matched
+  ili: i20894
+  members:
+  - metrically
   partOfSpeech: r
 00405821-r:
   definition:
@@ -1110,6 +1336,15 @@
   - mundanely
   - terrestrially
   partOfSpeech: r
+00412955-r:
+  definition:
+  - with regard to nutrition
+  example:
+  - nutritionally, her new diet is suicide
+  ili: i20958
+  members:
+  - nutritionally
+  partOfSpeech: r
 00413081-r:
   definition:
   - in number; with regard to numbers
@@ -1121,6 +1356,15 @@
   members:
   - numerically
   partOfSpeech: r
+00414088-r:
+  definition:
+  - in a subjective way
+  example:
+  - you cannot look at these facts subjectively
+  ili: i20967
+  members:
+  - subjectively
+  partOfSpeech: r
 00415752-r:
   definition:
   - in respect to operation
@@ -1131,14 +1375,14 @@
   members:
   - operationally
   partOfSpeech: r
-00418340-r:
+00416968-r:
   definition:
-  - in a pacifistic manner
+  - with regard to organization
   example:
-  - the pacifistically inclined liberals
-  ili: i20998
+  - organizationally, the conference was a disaster!
+  ili: i20987
   members:
-  - pacifistically
+  - organizationally
   partOfSpeech: r
 00421786-r:
   definition:
@@ -1149,14 +1393,23 @@
   members:
   - perceptually
   partOfSpeech: r
-00435802-r:
+00423382-r:
   definition:
-  - in the manner of something that has become a byword
+  - with regard to pharmacology
   example:
-  - this proverbially bitter plant, wormwood
-  ili: i21126
+  - pharmacologically, this plant could have important applications
+  ili: i21035
   members:
-  - proverbially
+  - pharmacologically
+  partOfSpeech: r
+00423749-r:
+  definition:
+  - in a philatelic manner
+  example:
+  - the Post Office honors great Americans philatelically
+  ili: i21038
+  members:
+  - philatelically
   partOfSpeech: r
 00436814-r:
   definition:
@@ -1187,24 +1440,6 @@
   members:
   - qualitatively
   partOfSpeech: r
-00442305-r:
-  definition:
-  - in a regal manner
-  example:
-  - a regally appropriate representative
-  ili: i21173
-  members:
-  - regally
-  partOfSpeech: r
-00449290-r:
-  definition:
-  - depending on the season
-  example:
-  - prices are seasonally adjusted
-  ili: i21225
-  members:
-  - seasonally
-  partOfSpeech: r
 00463045-r:
   definition:
   - with regard to sociology
@@ -1222,6 +1457,15 @@
   ili: i21368
   members:
   - statutorily
+  partOfSpeech: r
+00470062-r:
+  definition:
+  - of or concerning this or that
+  example:
+  - a problem and the solution thereof
+  ili: i21385
+  members:
+  - thereof
   partOfSpeech: r
 00470985-r:
   definition:
@@ -1252,6 +1496,15 @@
   members:
   - tactically
   partOfSpeech: r
+00478378-r:
+  definition:
+  - in a theological manner
+  example:
+  - he dealt with the problem of evil theologically, not philosophically
+  ili: i21443
+  members:
+  - theologically
+  partOfSpeech: r
 00478533-r:
   definition:
   - as regards theology
@@ -1260,6 +1513,15 @@
   ili: i21444
   members:
   - theologically
+  partOfSpeech: r
+00478938-r:
+  definition:
+  - according to tradition; in a traditional manner
+  example:
+  - traditionally, we eat fried foods on Hanukah
+  ili: i21447
+  members:
+  - traditionally
   partOfSpeech: r
 00481601-r:
   definition:
@@ -1271,14 +1533,39 @@
   members:
   - topographically
   partOfSpeech: r
-00501406-r:
+00483659-r:
   definition:
-  - insofar as the circumstances are concerned
+  - in a tropical manner
   example:
-  - the account was circumstantially accurate
-  ili: i21625
+  - it was tropically hot in the greenhouse
+  ili: i21484
   members:
-  - circumstantially
+  - tropically
+  partOfSpeech: r
+00484611-r:
+  definition:
+  - in a typographic way
+  ili: i21491
+  members:
+  - typographically
+  partOfSpeech: r
+00484693-r:
+  definition:
+  - beyond the scope or in excess of legal power or authority
+  ili: i21492
+  members:
+  - ultra vires
+  partOfSpeech: r
+00503338-r:
+  definition:
+  - with regard to fundamentals although not concerning details
+  example:
+  - in principle, we agree
+  ili: i21645
+  members:
+  - in principle
+  - in theory
+  - in essence
   partOfSpeech: r
 00503820-r:
   definition:
@@ -1298,14 +1585,35 @@
   members:
   - causally
   partOfSpeech: r
-00508629-r:
+00513385-r:
   definition:
-  - by the use of magnetism
-  example:
-  - magnetically contaminated material
-  ili: i21683
+  - in a manner dependent on context
+  ili: i21721
   members:
-  - magnetically
+  - contextually
+  partOfSpeech: r
+00513476-r:
+  definition:
+  - dependent on a department
+  ili: i21722
+  members:
+  - departmentally
+  partOfSpeech: r
+00513738-r:
+  definition:
+  - used as a residence
+  ili: i21725
+  members:
+  - residentially
+  partOfSpeech: r
+00515407-r:
+  definition:
+  - in a canonical manner
+  example:
+  - the deacon was canonically inducted
+  ili: i21740
+  members:
+  - canonically
   partOfSpeech: r
 00515525-r:
   definition:
@@ -1316,6 +1624,27 @@
   members:
   - cognitively
   partOfSpeech: r
+00516364-r:
+  definition:
+  - from the point of view of immunology
+  ili: i21751
+  members:
+  - immunologically
+  partOfSpeech: r
+00516805-r:
+  definition:
+  - as ordered by a court
+  ili: i21755
+  members:
+  - judicially
+  partOfSpeech: r
+00518336-r:
+  definition:
+  - (of group) in a synergistic or cooperative manner
+  ili: i21770
+  members:
+  - synergistically
+  partOfSpeech: r
 00518567-r:
   definition:
   - with regard to taxonomy
@@ -1325,3 +1654,19 @@
   members:
   - taxonomically
   partOfSpeech: r
+00518683-r:
+  definition:
+  - from the point of view of topology
+  ili: i21773
+  members:
+  - topologically
+  partOfSpeech: r
+91001531-r:
+  also:
+  - 00471848-r
+  definition:
+  - regarding the tone
+  members:
+  - tonally
+  partOfSpeech: r
+  source: Colloquial WordNet

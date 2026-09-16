@@ -47,6 +47,126 @@
   - everyplace
   - all over
   partOfSpeech: r
+00026470-r:
+  definition:
+  - everywhere
+  example:
+  - searched high and low
+  ili: i18292
+  members:
+  - high and low
+  partOfSpeech: r
+00030035-r:
+  definition:
+  - to or at a greater distance in time or space (‘farther’ is used more frequently
+    than ‘further’ in this physical sense)
+  example:
+  - farther north
+  - moved farther away
+  - farther down the corridor
+  - the practice may go back still farther to the Druids
+  - went only three miles further
+  - further in the future
+  ili: i18310
+  members:
+  - farther
+  - further
+  partOfSpeech: r
+00033624-r:
+  definition:
+  - under the terms of this agreement
+  ili: i18329
+  members:
+  - hereunder
+  partOfSpeech: r
+00034695-r:
+  definition:
+  - at a short distance
+  example:
+  - the hem fell shortly below her knees
+  ili: i18338
+  members:
+  - shortly
+  partOfSpeech: r
+00038270-r:
+  definition:
+  - in a difficult or vulnerable position
+  example:
+  - he resigned and left me in the lurch
+  exemplifies:
+  - 07169038-n
+  ili: i18360
+  members:
+  - in the lurch
+  partOfSpeech: r
+00038782-r:
+  definition:
+  - in the uterus
+  example:
+  - the child was infected in utero from the mother
+  ili: i18363
+  members:
+  - in utero
+  partOfSpeech: r
+00038883-r:
+  definition:
+  - in a vacuum
+  ili: i18364
+  members:
+  - in vacuo
+  partOfSpeech: r
+00041294-r:
+  definition:
+  - so as not to obstruct or hinder
+  example:
+  - put that box out of the way so that no one trips on it
+  ili: i18377
+  members:
+  - out of the way
+  partOfSpeech: r
+00041426-r:
+  definition:
+  - murdered
+  example:
+  - the mob boss wanted his rival out of the way
+  ili: i18378
+  members:
+  - out of the way
+  partOfSpeech: r
+00041525-r:
+  definition:
+  - in a remote location or at a distance from the usual route
+  ili: i18379
+  members:
+  - out of the way
+  partOfSpeech: r
+00041626-r:
+  definition:
+  - improper; amiss
+  ili: i18380
+  members:
+  - out of the way
+  partOfSpeech: r
+00041802-r:
+  definition:
+  - not along the usual route
+  example:
+  - in order to experience something different, you need to go off the beaten path
+  members:
+  - off the beaten track
+  - off the beaten path
+  partOfSpeech: r
+00043931-r:
+  definition:
+  - from this place
+  example:
+  - get thee hence!
+  exemplifies:
+  - 07087487-n
+  ili: i18393
+  members:
+  - hence
+  partOfSpeech: r
 00044018-r:
   definition:
   - from that place or from there
@@ -116,6 +236,27 @@
   ili: i18407
   members:
   - beyond
+  partOfSpeech: r
+00052386-r:
+  definition:
+  - without deviation
+  example:
+  - the path leads directly to the lake
+  - went direct to the office
+  ili: i18442
+  members:
+  - directly
+  - straight
+  - direct
+  partOfSpeech: r
+00052690-r:
+  definition:
+  - directly or exactly; straight
+  example:
+  - went due North
+  ili: i18444
+  members:
+  - due
   partOfSpeech: r
 00067181-r:
   definition:
@@ -188,18 +329,6 @@
   members:
   - along
   - 'on'
-  partOfSpeech: r
-00069386-r:
-  definition:
-  - to a more advanced state
-  example:
-  - the work is moving along
-  - well along in their research
-  - hurrying their education along
-  - getting along in years
-  ili: i18554
-  members:
-  - along
   partOfSpeech: r
 00069564-r:
   definition:
@@ -313,17 +442,15 @@
   - about
   - around
   partOfSpeech: r
-00074467-r:
+00073049-r:
   definition:
-  - in or to or toward a past time
+  - in or to various places; first this place and then that; location pronoun
   example:
-  - set the clocks back an hour
-  - never look back
-  - lovers of the past looking fondly backward
-  ili: i18584
+  - he worked here and there but never for long in one town
+  - we drove here and there in the darkness
+  ili: i18576
   members:
-  - back
-  - backward
+  - here and there
   partOfSpeech: r
 00074673-r:
   definition:
@@ -378,34 +505,49 @@
   members:
   - back
   partOfSpeech: r
-00075633-r:
+00075535-r:
   definition:
-  - in reply
+  - in or to or toward an original condition
   example:
-  - he wrote back three days later
-  ili: i18590
+  - he went back to sleep
+  ili: i18589
   members:
   - back
   partOfSpeech: r
-00075922-r:
+00076005-r:
   definition:
-  - by surprise
+  - having the wind against the forward side of the sails
   example:
-  - taken aback by the caustic remarks
-  ili: i18592
+  - the ship came up into the wind with all yards aback
+  ili: i18593
   members:
   - aback
   partOfSpeech: r
-00076232-r:
+00076147-r:
   definition:
-  - in a manner or order or direction the reverse of normal
-  example:
-  - it's easy to get the ‘i’ and the ‘e’ backward in words like ‘seize’ and ‘siege’
-  - the child put her jersey on backward
-  ili: i18595
+  - at right angles to the length of a ship or airplane
+  ili: i18594
   members:
-  - backward
-  - backwards
+  - abeam
+  partOfSpeech: r
+00076778-r:
+  definition:
+  - moving backward and forward along a given course
+  example:
+  - he walked up and down the locker room
+  - all up and down the Eastern seaboard
+  ili: i18597
+  members:
+  - up and down
+  partOfSpeech: r
+00077086-r:
+  definition:
+  - with respect to an axis
+  example:
+  - the jet was directed axially toward the cathode
+  ili: i18599
+  members:
+  - axially
   partOfSpeech: r
 00080132-r:
   definition:
@@ -428,6 +570,26 @@
   - above
   - supra
   partOfSpeech: r
+00080389-r:
+  definition:
+  - in or to a place that is lower
+  ili: i18623
+  members:
+  - below
+  - at a lower place
+  - to a lower place
+  - beneath
+  partOfSpeech: r
+00080519-r:
+  definition:
+  - in or to a place that is higher
+  ili: i18624
+  members:
+  - above
+  - higher up
+  - in a higher place
+  - to a higher place
+  partOfSpeech: r
 00082658-r:
   definition:
   - at or in an indicated (usually distant) place (‘yon’ is archaic and dialectal)
@@ -439,6 +601,20 @@
   members:
   - yonder
   - yon
+  partOfSpeech: r
+00083430-r:
+  definition:
+  - in a dorsal location or direction
+  ili: i18645
+  members:
+  - dorsally
+  partOfSpeech: r
+00083653-r:
+  definition:
+  - in a ventral location or direction
+  ili: i18647
+  members:
+  - ventrally
   partOfSpeech: r
 00085352-r:
   definition:
@@ -459,6 +635,17 @@
   members:
   - flush
   partOfSpeech: r
+00092809-r:
+  definition:
+  - very near or close in space or time
+  example:
+  - it stands hard by the railroad tracks
+  - they were hard on his heels
+  - a strike followed hard upon the plant's opening
+  ili: i18712
+  members:
+  - hard
+  partOfSpeech: r
 00094168-r:
   definition:
   - with respect to the cortex
@@ -467,6 +654,31 @@
   ili: i18721
   members:
   - cortically
+  partOfSpeech: r
+00094281-r:
+  definition:
+  - in a focal manner
+  example:
+  - the submucosa was focally infiltrated
+  ili: i18722
+  members:
+  - focally
+  partOfSpeech: r
+00094530-r:
+  definition:
+  - into the skin
+  ili: i18724
+  members:
+  - intradermally
+  partOfSpeech: r
+00094603-r:
+  definition:
+  - in an intramuscular way
+  example:
+  - administer the drug intramuscularly
+  ili: i18725
+  members:
+  - intramuscularly
   partOfSpeech: r
 00094946-r:
   definition:
@@ -629,6 +841,22 @@
   members:
   - up
   partOfSpeech: r
+00097658-r:
+  definition:
+  - toward the source or against the current
+  ili: i18745
+  members:
+  - upriver
+  - upstream
+  partOfSpeech: r
+00097781-r:
+  definition:
+  - away from the source or with the current
+  ili: i18746
+  members:
+  - downriver
+  - downstream
+  partOfSpeech: r
 00097908-r:
   definition:
   - in the direction of the defending team's end of the playing field
@@ -652,6 +880,37 @@
   - I'll take her home
   - don't forget to write home
   ili: i18751
+  members:
+  - home
+  partOfSpeech: r
+00098716-r:
+  definition:
+  - at, to, or toward the place where you reside
+  example:
+  - he worked at home
+  ili: i18752
+  members:
+  - at home
+  partOfSpeech: r
+00098817-r:
+  definition:
+  - on the home team's field
+  domain_topic:
+  - 00524569-n
+  example:
+  - they played at home last night
+  ili: i18753
+  members:
+  - at home
+  partOfSpeech: r
+00098930-r:
+  definition:
+  - to the fullest extent; to the heart
+  example:
+  - drove the nail home
+  - drove his point home
+  - his comments hit home
+  ili: i18754
   members:
   - home
   partOfSpeech: r
@@ -684,6 +943,30 @@
   ili: i18770
   members:
   - afar
+  partOfSpeech: r
+00101601-r:
+  definition:
+  - at or to or from a great distance in space
+  example:
+  - he traveled far
+  - strayed far from home
+  - sat far away from each other
+  ili: i18771
+  members:
+  - far
+  partOfSpeech: r
+00102579-r:
+  definition:
+  - over great areas or distances; everywhere
+  example:
+  - he traveled far and wide
+  - the news spread far and wide
+  - people came from far and near
+  - searched for the child far and near
+  ili: i18777
+  members:
+  - far and wide
+  - far and near
   partOfSpeech: r
 00104448-r:
   definition:
@@ -724,6 +1007,16 @@
   ili: i18823
   members:
   - here
+  partOfSpeech: r
+00109415-r:
+  definition:
+  - to this place (especially toward the speaker)
+  example:
+  - come here, please
+  ili: i18824
+  members:
+  - here
+  - hither
   partOfSpeech: r
 00109541-r:
   definition:
@@ -796,6 +1089,25 @@
   - out of doors
   - alfresco
   partOfSpeech: r
+00111558-r:
+  definition:
+  - on the inside
+  example:
+  - inside, the car is a mess
+  ili: i18840
+  members:
+  - inside
+  - within
+  partOfSpeech: r
+00111662-r:
+  definition:
+  - on the outside
+  example:
+  - outside, the box is black
+  ili: i18841
+  members:
+  - outside
+  partOfSpeech: r
 00113022-r:
   definition:
   - worldwide
@@ -816,24 +1128,23 @@
   members:
   - centrally
   partOfSpeech: r
-00117901-r:
+00128418-r:
   definition:
-  - assembled in one place
+  - to a land environment
   example:
-  - we were gathered together
-  ili: i18886
+  - terrestrially adapted
+  ili: i18964
   members:
-  - together
+  - terrestrially
   partOfSpeech: r
-00123700-r:
+00131326-r:
   definition:
-  - in an aloof manner
+  - with regard to space
   example:
-  - the local gentry and professional classes had held aloof for the school had accepted
-    their sons readily enough
-  ili: i18923
+  - spatially limited
+  ili: i18991
   members:
-  - aloof
+  - spatially
   partOfSpeech: r
 00134031-r:
   definition:
@@ -862,6 +1173,25 @@
   members:
   - locally
   partOfSpeech: r
+00136228-r:
+  definition:
+  - to a restricted area of the body
+  example:
+  - apply this medicine topically
+  ili: i19034
+  members:
+  - locally
+  - topically
+  partOfSpeech: r
+00136377-r:
+  definition:
+  - in a regional manner
+  example:
+  - regionally governed
+  ili: i19035
+  members:
+  - regionally
+  partOfSpeech: r
 00136477-r:
   definition:
   - with regard to a nation taken as a whole
@@ -870,6 +1200,15 @@
   ili: i19036
   members:
   - nationally
+  partOfSpeech: r
+00136898-r:
+  definition:
+  - below the skin
+  example:
+  - inject subcutaneously
+  ili: i19040
+  members:
+  - subcutaneously
   partOfSpeech: r
 00137187-r:
   definition:
@@ -907,6 +1246,187 @@
   members:
   - onshore
   partOfSpeech: r
+00144584-r:
+  definition:
+  - in a rural manner
+  ili: i19101
+  members:
+  - rurally
+  partOfSpeech: r
+00149387-r:
+  definition:
+  - under control
+  example:
+  - the riots were in hand
+  ili: i19136
+  members:
+  - in hand
+  partOfSpeech: r
+00151409-r:
+  definition:
+  - an interjection expressing agreement; Yes, you are indeed correct
+  ili: i19147
+  members:
+  - right
+  - right on
+  partOfSpeech: r
+00151882-r:
+  definition:
+  - while absent; although absent
+  example:
+  - he was sentenced in absentia
+  ili: i19151
+  members:
+  - in absentia
+  partOfSpeech: r
+00152713-r:
+  definition:
+  - in an advantageous position
+  example:
+  - she's ahead of the game
+  ili: i19158
+  members:
+  - ahead of the game
+  partOfSpeech: r
+00154056-r:
+  definition:
+  - by the shortest and most direct route
+  example:
+  - it's 10 miles as the crow flies
+  ili: i19170
+  members:
+  - as the crow flies
+  partOfSpeech: r
+00158237-r:
+  definition:
+  - exactly ahead or in front
+  example:
+  - the laboratory is dead ahead
+  ili: i19202
+  members:
+  - dead ahead
+  partOfSpeech: r
+00160030-r:
+  definition:
+  - to be won or lost; at risk
+  example:
+  - perhaps a million dollars are at stake
+  ili: i19214
+  members:
+  - at stake
+  partOfSpeech: r
+00160135-r:
+  definition:
+  - in question or at issue
+  example:
+  - there is more at stake than your modesty
+  ili: i19215
+  members:
+  - at stake
+  partOfSpeech: r
+00163131-r:
+  definition:
+  - in a manner accessible to or observable by the public; openly
+  example:
+  - she admitted publicly to being a communist
+  ili: i19236
+  members:
+  - publicly
+  - publically
+  - in public
+  partOfSpeech: r
+00164679-r:
+  definition:
+  - in close proximity
+  example:
+  - the houses were jumbled together cheek by jowl
+  ili: i19245
+  members:
+  - cheek by jowl
+  partOfSpeech: r
+00166891-r:
+  definition:
+  - one behind another in a line or queue
+  example:
+  - they waited in line for the tickets
+  ili: i19261
+  members:
+  - in line
+  partOfSpeech: r
+00168205-r:
+  definition:
+  - on everybody's mind
+  example:
+  - Christmas was in the air
+  ili: i19272
+  members:
+  - in the air
+  - in everyone's thoughts
+  partOfSpeech: r
+00170857-r:
+  definition:
+  - on hands and knees
+  example:
+  - he got down on all fours to play with his grandson
+  ili: i19290
+  members:
+  - on all fours
+  partOfSpeech: r
+00172276-r:
+  definition:
+  - at the place in question; there
+  example:
+  - they were on the spot when it happened
+  - it had to be decided by the man on the spot
+  ili: i19301
+  members:
+  - on the spot
+  partOfSpeech: r
+00172436-r:
+  definition:
+  - in a difficult situation
+  example:
+  - that question really put him on the spot
+  ili: i19302
+  members:
+  - on the spot
+  partOfSpeech: r
+00172731-r:
+  definition:
+  - on a route to some place
+  example:
+  - help is on the way
+  - we saw him on the way to California
+  ili: i19304
+  members:
+  - on the way
+  - en route
+  partOfSpeech: r
+00172975-r:
+  definition:
+  - without warning
+  example:
+  - your cousin arrived out of thin air
+  ili: i19306
+  members:
+  - out of thin air
+  - out of nothing
+  - from nowhere
+  partOfSpeech: r
+00174207-r:
+  definition:
+  - toward the mouth or oral region
+  ili: i19317
+  members:
+  - orad
+  partOfSpeech: r
+00174307-r:
+  definition:
+  - away from the mouth or oral region
+  ili: i19318
+  members:
+  - aborad
+  partOfSpeech: r
 00174563-r:
   definition:
   - from on board a vessel into the water
@@ -936,18 +1456,6 @@
   members:
   - distally
   partOfSpeech: r
-00182430-r:
-  definition:
-  - into parts or pieces
-  example:
-  - he took his father's watch apart
-  - split apart
-  - torn asunder
-  ili: i19378
-  members:
-  - apart
-  - asunder
-  partOfSpeech: r
 00182561-r:
   definition:
   - separated or at a distance in place or position or time
@@ -967,6 +1475,37 @@
   ili: i19380
   members:
   - apart
+  partOfSpeech: r
+00183162-r:
+  definition:
+  - in a place across an ocean
+  ili: i19384
+  members:
+  - overseas
+  - abroad
+  partOfSpeech: r
+00183580-r:
+  definition:
+  - in the living organism
+  example:
+  - studies conducted in vivo
+  ili: i19387
+  members:
+  - in vivo
+  partOfSpeech: r
+00189276-r:
+  definition:
+  - toward or in the upper part of town
+  ili: i19427
+  members:
+  - uptown
+  partOfSpeech: r
+00189364-r:
+  definition:
+  - toward or in the lower or central part of town
+  ili: i19428
+  members:
+  - downtown
   partOfSpeech: r
 00194904-r:
   definition:
@@ -990,6 +1529,15 @@
   - all over
   - over
   partOfSpeech: r
+00204147-r:
+  definition:
+  - by means of aircraft
+  example:
+  - the survey was carried out aerially
+  ili: i19537
+  members:
+  - aerially
+  partOfSpeech: r
 00207713-r:
   definition:
   - away from the right path or direction
@@ -998,6 +1546,15 @@
   ili: i19564
   members:
   - astray
+  partOfSpeech: r
+00221121-r:
+  definition:
+  - in an inverted manner
+  example:
+  - the box was lying on the floor upside down
+  ili: i19650
+  members:
+  - upside down
   partOfSpeech: r
 00223465-r:
   definition:
@@ -1019,6 +1576,30 @@
   - the children left their books behind
   - he took off with a squeal of tires and left the other cars far behind
   ili: i19667
+  members:
+  - behind
+  partOfSpeech: r
+00223959-r:
+  definition:
+  - in debt
+  example:
+  - he fell behind with his mortgage payments
+  - a month behind in the rent
+  - a company that has been run behindhand for years
+  - in arrears with their utility bills
+  ili: i19668
+  members:
+  - behind
+  - behindhand
+  - in arrears
+  partOfSpeech: r
+00224193-r:
+  definition:
+  - in or into an inferior position
+  example:
+  - fell behind in his studies
+  - their business was lagging behind in the competition for customers
+  ili: i19669
   members:
   - behind
   partOfSpeech: r
@@ -1049,6 +1630,23 @@
   ili: i19699
   members:
   - over
+  partOfSpeech: r
+00230832-r:
+  definition:
+  - in bed
+  ili: i19717
+  members:
+  - abed
+  partOfSpeech: r
+00231947-r:
+  definition:
+  - with respect to the outside
+  example:
+  - outwardly, the figure is smooth
+  ili: i19725
+  members:
+  - outwardly
+  - externally
   partOfSpeech: r
 00234593-r:
   definition:
@@ -1158,6 +1756,19 @@
   members:
   - apart
   partOfSpeech: r
+00236283-r:
+  definition:
+  - out of existence
+  example:
+  - the music faded away
+  - source: H.E.Scudder
+    text: tried to explain away the affair of the letter
+  - idled the hours away
+  - her fingernails were worn away
+  ili: i19755
+  members:
+  - away
+  partOfSpeech: r
 00236681-r:
   definition:
   - in a different direction
@@ -1202,6 +1813,17 @@
   ili: i19760
   members:
   - away
+  partOfSpeech: r
+00241809-r:
+  definition:
+  - at or in or to the adjacent residence
+  example:
+  - the criminal had been living next door all this time
+  ili: i19794
+  members:
+  - next door
+  - in the adjacent house
+  - in the adjacent apartment
   partOfSpeech: r
 00242166-r:
   definition:
@@ -1259,6 +1881,16 @@
   members:
   - underfoot
   partOfSpeech: r
+00248151-r:
+  definition:
+  - as written or printed
+  example:
+  - this is exactly what the composer had set down on paper
+  ili: i19842
+  members:
+  - on paper
+  - in writing
+  partOfSpeech: r
 00250643-r:
   definition:
   - on or from the inside
@@ -1286,6 +1918,15 @@
   members:
   - overhead
   partOfSpeech: r
+00251028-r:
+  definition:
+  - at some distance
+  example:
+  - keep someone at arm's length
+  ili: i19862
+  members:
+  - at arm's length
+  partOfSpeech: r
 00251120-r:
   definition:
   - above your head; in the sky
@@ -1305,6 +1946,14 @@
   ili: i19864
   members:
   - aboard
+  partOfSpeech: r
+00251347-r:
+  definition:
+  - on a ship, train, plane or other vehicle
+  ili: i19865
+  members:
+  - aboard
+  - on board
   partOfSpeech: r
 00251433-r:
   definition:
@@ -1335,6 +1984,34 @@
   - between
   - '''tween'
   partOfSpeech: r
+00253874-r:
+  definition:
+  - in a casual way at home
+  example:
+  - we'll have dinner en famille
+  ili: i19888
+  members:
+  - en famille
+  partOfSpeech: r
+00255539-r:
+  definition:
+  - in a direction opposite to the direction in which the hands of a clock move
+  example:
+  - please move counterclockwise in a circle!
+  ili: i19901
+  members:
+  - counterclockwise
+  - anticlockwise
+  partOfSpeech: r
+00255849-r:
+  definition:
+  - in the direction that the hands of a clock move
+  example:
+  - please move clockwise in a circle
+  ili: i19903
+  members:
+  - clockwise
+  partOfSpeech: r
 00256094-r:
   definition:
   - prominently forward
@@ -1355,6 +2032,40 @@
   - halfway
   - midway
   partOfSpeech: r
+00257456-r:
+  definition:
+  - in the same place (used when citing a reference)
+  ili: i19917
+  members:
+  - ibid.
+  - ib.
+  - ibidem
+  partOfSpeech: r
+00257669-r:
+  definition:
+  - in the original or natural place or site
+  example:
+  - carcinoma in situ
+  - the archeologists left the pottery in place
+  ili: i19919
+  members:
+  - in situ
+  - in place
+  partOfSpeech: r
+00257824-r:
+  definition:
+  - in position
+  members:
+  - in situ
+  partOfSpeech: r
+00258633-r:
+  definition:
+  - used to refer to cited works
+  ili: i19927
+  members:
+  - passim
+  - throughout
+  partOfSpeech: r
 00259792-r:
   definition:
   - towards or into the interior of a region
@@ -1372,6 +2083,26 @@
   ili: i19940
   members:
   - inshore
+  partOfSpeech: r
+00259981-r:
+  definition:
+  - toward the center or interior
+  example:
+  - move the needle further inwards!
+  ili: i19941
+  members:
+  - inward
+  - inwards
+  partOfSpeech: r
+00260109-r:
+  definition:
+  - toward the outside
+  example:
+  - move the needle further outward!
+  ili: i19942
+  members:
+  - outward
+  - outwards
   partOfSpeech: r
 00260228-r:
   definition:
@@ -1392,6 +2123,17 @@
   members:
   - breast-deep
   - breast-high
+  partOfSpeech: r
+00260735-r:
+  definition:
+  - the middle or central part or point
+  example:
+  - in the midst of the forest
+  - could he walk out in the midst of his piece?
+  ili: i19948
+  members:
+  - midmost
+  - in the midst
   partOfSpeech: r
 00261005-r:
   definition:
@@ -1420,6 +2162,26 @@
   members:
   - onstage
   partOfSpeech: r
+00262350-r:
+  definition:
+  - toward the sky
+  example:
+  - look skywards!
+  ili: i19963
+  members:
+  - skyward
+  - skywards
+  partOfSpeech: r
+00262429-r:
+  definition:
+  - in a specified area or place
+  example:
+  - you shouldn't be up here
+  ili: i19964
+  members:
+  - up here
+  - over here
+  partOfSpeech: r
 00264278-r:
   definition:
   - off the subject; beyond the point at issue
@@ -1438,6 +2200,17 @@
   ili: i19979
   members:
   - afield
+  partOfSpeech: r
+00264611-r:
+  definition:
+  - far away from home or one's usual surroundings
+  example:
+  - source: R.A.Hall
+    text: looking afield for new lands to conquer
+  ili: i19980
+  members:
+  - afield
+  - abroad
   partOfSpeech: r
 00265458-r:
   definition:
@@ -1461,12 +2234,28 @@
   members:
   - downstage
   partOfSpeech: r
+00267010-r:
+  definition:
+  - in an anterior direction
+  ili: i19996
+  members:
+  - anteriorly
+  partOfSpeech: r
 00268988-r:
   definition:
   - off course, wandering aimlessly
   example:
   - there was a search for beauty that had somehow gone adrift
   ili: i20009
+  members:
+  - adrift
+  partOfSpeech: r
+00269134-r:
+  definition:
+  - floating freely; not anchored
+  example:
+  - the boat was set adrift
+  ili: i20010
   members:
   - adrift
   partOfSpeech: r
@@ -1488,18 +2277,6 @@
   members:
   - alee
   partOfSpeech: r
-00273600-r:
-  definition:
-  - turned or twisted to one side
-  example:
-  - rugs lying askew
-  - with his necktie twisted awry
-  ili: i20043
-  members:
-  - askew
-  - awry
-  - skew-whiff
-  partOfSpeech: r
 00274275-r:
   definition:
   - transversely
@@ -1520,16 +2297,21 @@
   members:
   - across
   partOfSpeech: r
-00276140-r:
+00274669-r:
   definition:
-  - at an oblique angle
-  example:
-  - the sun shone aslant into his face
-  ili: i20063
+  - at or near or toward the middle
+  ili: i20052
   members:
-  - obliquely
-  - aslant
-  - athwart
+  - amidship
+  partOfSpeech: r
+00276465-r:
+  definition:
+  - into a sleeping state
+  example:
+  - he fell asleep
+  ili: i20066
+  members:
+  - asleep
   partOfSpeech: r
 00276631-r:
   definition:
@@ -1586,6 +2368,27 @@
   - astride
   - astraddle
   partOfSpeech: r
+00277506-r:
+  definition:
+  - with the legs stretched far apart
+  ili: i20073
+  members:
+  - astride
+  partOfSpeech: r
+00277575-r:
+  definition:
+  - at right angles to the center line of a ship
+  ili: i20074
+  members:
+  - athwart
+  partOfSpeech: r
+00277655-r:
+  definition:
+  - on, to, or at the top
+  ili: i20075
+  members:
+  - atop
+  partOfSpeech: r
 00278159-r:
   definition:
   - in or to a backstage area of a theater
@@ -1605,6 +2408,15 @@
   members:
   - backstage
   partOfSpeech: r
+00282316-r:
+  definition:
+  - very happily
+  example:
+  - we were floating on air at the news
+  ili: i20109
+  members:
+  - on air
+  partOfSpeech: r
 00287481-r:
   definition:
   - by way of, or along the coast
@@ -1613,6 +2425,13 @@
   ili: i20142
   members:
   - coastwise
+  partOfSpeech: r
+00292166-r:
+  definition:
+  - by means of cytoplasm
+  ili: i20173
+  members:
+  - cytoplasmically
   partOfSpeech: r
 00294730-r:
   definition:
@@ -1661,12 +2480,12 @@
   members:
   - diagonally
   partOfSpeech: r
-00323926-r:
+00323816-r:
   definition:
-  - toward a lower or inferior state
+  - toward the bottom of a hill
   example:
-  - your performance has been going downhill for a long time now
-  ili: i20367
+  - running downhill, he gained a lot of speed
+  ili: i20366
   members:
   - downhill
   partOfSpeech: r
@@ -1728,6 +2547,27 @@
   members:
   - westerly
   partOfSpeech: r
+00325863-r:
+  definition:
+  - in a westward direction
+  example:
+  - source: Daniel Defoe
+    text: we began to steer away westerly
+  ili: i20382
+  members:
+  - westerly
+  partOfSpeech: r
+00330385-r:
+  definition:
+  - with the end forward or toward the observer
+  example:
+  - houses built endways
+  ili: i20410
+  members:
+  - endways
+  - endwise
+  - end on
+  partOfSpeech: r
 00357305-r:
   definition:
   - toward heaven
@@ -1738,6 +2578,22 @@
   - heavenward
   - heavenwards
   - heavenwardly
+  partOfSpeech: r
+00357947-r:
+  definition:
+  - in the preceding part of the current text
+  ili: i20595
+  members:
+  - hereinbefore
+  partOfSpeech: r
+00358029-r:
+  definition:
+  - of or concerning this
+  example:
+  - the twigs hereof are physic
+  ili: i20596
+  members:
+  - hereof
   partOfSpeech: r
 00358116-r:
   definition:
@@ -1758,6 +2614,26 @@
   - high
   - high up
   partOfSpeech: r
+00358848-r:
+  definition:
+  - far up toward the source
+  example:
+  - he lives high up the river
+  ili: i20603
+  members:
+  - high
+  partOfSpeech: r
+00359047-r:
+  definition:
+  - in a rich manner
+  example:
+  - he lives high
+  ili: i20605
+  members:
+  - high
+  - richly
+  - luxuriously
+  partOfSpeech: r
 00359910-r:
   definition:
   - in rotation or succession
@@ -1766,6 +2642,34 @@
   ili: i20611
   members:
   - about
+  partOfSpeech: r
+00360138-r:
+  definition:
+  - in a horizontal direction
+  example:
+  - a gallery quite often is added to make use of space vertically as well as horizontally
+  ili: i20613
+  members:
+  - horizontally
+  partOfSpeech: r
+00360312-r:
+  definition:
+  - in a vertical direction
+  example:
+  - a gallery quite often is added to make use of space vertically as well as horizontally
+  ili: i20614
+  members:
+  - vertically
+  partOfSpeech: r
+00387726-r:
+  definition:
+  - toward land
+  example:
+  - landward, miles of rough grass marshes melt into low uplands
+  ili: i20786
+  members:
+  - landward
+  - landwards
   partOfSpeech: r
 00388491-r:
   definition:
@@ -1788,6 +2692,13 @@
   ili: i20794
   members:
   - laterally
+  partOfSpeech: r
+00389359-r:
+  definition:
+  - armed and prepared for fighting
+  ili: i20797
+  members:
+  - under arms
   partOfSpeech: r
 00389570-r:
   definition:
@@ -1836,6 +2747,18 @@
   members:
   - medially
   partOfSpeech: r
+00403940-r:
+  definition:
+  - at or near or toward the center of a ship
+  example:
+  - in the late 19th century, engines were placed in front, amidships, and at the
+    rear
+  ili: i20898
+  members:
+  - amidships
+  - amidship
+  - midships
+  partOfSpeech: r
 00409125-r:
   definition:
   - extending throughout an entire nation
@@ -1863,6 +2786,58 @@
   - nearer
   - nigher
   - closer
+  partOfSpeech: r
+00411953-r:
+  definition:
+  - very close
+  example:
+  - without my reading glasses I can hardly see things close up
+  - even firing at close range he missed
+  ili: i20950
+  members:
+  - close up
+  - at close range
+  partOfSpeech: r
+00413571-r:
+  definition:
+  - to, toward, or in the northeast
+  ili: i20962
+  members:
+  - northeast
+  - north-east
+  - nor'-east
+  partOfSpeech: r
+00413665-r:
+  definition:
+  - to, toward, or in the northwest
+  ili: i20963
+  members:
+  - northwest
+  - north-west
+  - nor'-west
+  partOfSpeech: r
+00413759-r:
+  definition:
+  - to, toward, or in the north-northeast
+  ili: i20964
+  members:
+  - north-northeast
+  - nor'-nor'-east
+  partOfSpeech: r
+00413857-r:
+  definition:
+  - to, toward, or in the north-northwest
+  ili: i20965
+  members:
+  - north-northwest
+  - nor'-nor'-west
+  partOfSpeech: r
+00415483-r:
+  definition:
+  - illegally in advance of the ball or puck
+  ili: i20976
+  members:
+  - offside
   partOfSpeech: r
 00417776-r:
   definition:
@@ -1902,6 +2877,31 @@
   - by
   - past
   partOfSpeech: r
+00422293-r:
+  definition:
+  - in a perpendicular manner
+  example:
+  - this red line runs perpendicularly to the green line
+  ili: i21027
+  members:
+  - perpendicularly
+  partOfSpeech: r
+00440475-r:
+  definition:
+  - in a radial manner
+  example:
+  - an imaginative dispersal of the pews radially from the central focus of the pulpit
+  ili: i21158
+  members:
+  - radially
+  partOfSpeech: r
+00449404-r:
+  definition:
+  - in the direction of the coast
+  ili: i21226
+  members:
+  - coastward
+  partOfSpeech: r
 00449471-r:
   definition:
   - in the direction of the sea
@@ -1912,6 +2912,35 @@
   - seaward
   - seawards
   - asea
+  partOfSpeech: r
+00455853-r:
+  definition:
+  - with the side toward someone or something
+  example:
+  - source: Nathaniel Hawthorne
+    text: seated sidelong to the window
+  ili: i21275
+  members:
+  - sidelong
+  partOfSpeech: r
+00455985-r:
+  definition:
+  - on the side
+  example:
+  - the plow lay sidelong on the ground
+  ili: i21276
+  members:
+  - sidelong
+  partOfSpeech: r
+00456072-r:
+  definition:
+  - toward one side
+  example:
+  - turn the figure sideward
+  ili: i21277
+  members:
+  - sideward
+  - sidewards
   partOfSpeech: r
 00456477-r:
   definition:
@@ -1924,6 +2953,49 @@
   - sideways
   - sideway
   - sidewise
+  partOfSpeech: r
+00459960-r:
+  definition:
+  - directly or immediately
+  example:
+  - it hit slap-bang in the middle
+  ili: i21304
+  members:
+  - slap-bang
+  partOfSpeech: r
+00464314-r:
+  definition:
+  - to, toward, or in the southeast
+  ili: i21337
+  members:
+  - southeast
+  - south-east
+  - sou'-east
+  partOfSpeech: r
+00464408-r:
+  definition:
+  - to, toward, or in the southwest
+  ili: i21338
+  members:
+  - southwest
+  - south-west
+  - sou'west
+  partOfSpeech: r
+00464501-r:
+  definition:
+  - to, toward, or in the south southeast
+  ili: i21339
+  members:
+  - south-southeast
+  - sou'-sou'-east
+  partOfSpeech: r
+00464599-r:
+  definition:
+  - to, toward, or in the south southwest
+  ili: i21340
+  members:
+  - south-southwest
+  - sou'-sou'-west
   partOfSpeech: r
 00465157-r:
   definition:
@@ -1965,6 +3037,17 @@
   - thereon
   - on it
   - on that
+  partOfSpeech: r
+00470257-r:
+  definition:
+  - to that
+  example:
+  - with all the appurtenances fitting thereto
+  ili: i21387
+  members:
+  - thereto
+  - to it
+  - to that
   partOfSpeech: r
 00480765-r:
   definition:
@@ -2036,6 +3119,15 @@
   example:
   - this will put the patient under
   ili: i21522
+  members:
+  - under
+  partOfSpeech: r
+00488892-r:
+  definition:
+  - through a range downward
+  example:
+  - children six and under will be admitted free
+  ili: i21523
   members:
   - under
   partOfSpeech: r
@@ -2122,6 +3214,21 @@
   members:
   - uppermost
   partOfSpeech: r
+00497507-r:
+  definition:
+  - from what place, source, or cause
+  ili: i21591
+  members:
+  - whence
+  partOfSpeech: r
+00497575-r:
+  definition:
+  - where in the world; location, singular, elective existential pronoun
+  ili: i21592
+  members:
+  - wherever
+  - wheresoever
+  partOfSpeech: r
 00498056-r:
   definition:
   - far from the intended target
@@ -2132,6 +3239,24 @@
   members:
   - wide
   - astray
+  partOfSpeech: r
+00500491-r:
+  definition:
+  - in the space between decks, on a ship
+  ili: i21617
+  members:
+  - between decks
+  - '''tween decks'
+  partOfSpeech: r
+00500585-r:
+  definition:
+  - in the interval
+  example:
+  - dancing all the dances with little rest between
+  ili: i21618
+  members:
+  - between
+  - betwixt
   partOfSpeech: r
 00500697-r:
   definition:
@@ -2191,6 +3316,24 @@
   members:
   - immediately
   partOfSpeech: r
+00507466-r:
+  definition:
+  - flying through the air
+  example:
+  - we saw the ducks in flight
+  ili: i21673
+  members:
+  - in flight
+  - on the wing
+  partOfSpeech: r
+00507966-r:
+  definition:
+  - toward the posterior end of the body
+  ili: i21678
+  members:
+  - caudally
+  - caudal
+  partOfSpeech: r
 00510603-r:
   definition:
   - behind or in the rear
@@ -2199,6 +3342,26 @@
   ili: i21699
   members:
   - after
+  partOfSpeech: r
+00511820-r:
+  definition:
+  - from one place or situation to another
+  example:
+  - we were driven from pillar to post
+  ili: i21709
+  members:
+  - from pillar to post
+  - hither and thither
+  partOfSpeech: r
+00512638-r:
+  definition:
+  - no longer visible
+  example:
+  - the ship disappeared behind the horizon and passed out of sight
+  ili: i21715
+  members:
+  - out of sight
+  - out of view
   partOfSpeech: r
 00514450-r:
   definition:
@@ -2210,6 +3373,14 @@
   - northeastward
   - northeastwardly
   partOfSpeech: r
+00514619-r:
+  definition:
+  - in a northwestward direction
+  ili: i21733
+  members:
+  - northwestward
+  - northwestwardly
+  partOfSpeech: r
 00514743-r:
   definition:
   - in a southeastward direction
@@ -2219,4 +3390,68 @@
   members:
   - southeastward
   - southeastwardly
+  partOfSpeech: r
+00514912-r:
+  definition:
+  - in a southwestward direction
+  ili: i21735
+  members:
+  - southwestward
+  - southwestwardly
+  partOfSpeech: r
+00515036-r:
+  definition:
+  - in an abaxial manner
+  ili: i21736
+  members:
+  - abaxially
+  partOfSpeech: r
+00515130-r:
+  definition:
+  - in an adaxial manner
+  ili: i21737
+  members:
+  - adaxially
+  partOfSpeech: r
+00516462-r:
+  definition:
+  - in an artificial environment outside the living organism
+  example:
+  - an egg fertilized in vitro
+  ili: i21752
+  members:
+  - in vitro
+  - ex vivo
+  partOfSpeech: r
+00517008-r:
+  definition:
+  - within range of a movie or television camera
+  example:
+  - the senator didn't realize that he was speaking on camera
+  ili: i21757
+  members:
+  - on camera
+  partOfSpeech: r
+00517761-r:
+  definition:
+  - towards outer space
+  ili: i21765
+  members:
+  - spaceward
+  - spacewards
+  partOfSpeech: r
+81276284-r:
+  definition:
+  - through a computer or a computer network
+  example:
+  - source: UD_English-GUM Corpus
+    text: People were encouraged to submit their designs online at www.flag.govt.nz
+      and suggest what the flag should mean on www.standfor.co.nz.
+  - source: UD_English-GUM Corpus
+    text: Images of the boy wearing a NASA T-shirt and handcuffed by the police were
+      quickly posted and reposted online.
+  - source: UD_English-GUM Corpus
+    text: They should be available at your local home improvement store or online.
+  members:
+  - online
   partOfSpeech: r

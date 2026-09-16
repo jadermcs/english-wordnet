@@ -61,6 +61,32 @@
   members:
   - anciently
   partOfSpeech: r
+00007414-r:
+  definition:
+  - (of quantities) imprecise but fairly close to correct
+  example:
+  - lasted approximately an hour
+  - in just about a minute
+  - he's about 30 years old
+  - I've had about all I can stand
+  - we meet about once a month
+  - some forty people came
+  - weighs around a hundred pounds
+  - roughly $3,000
+  - holds 3 gallons, more or less
+  - 20 or so people were at the party
+  ili: i18193
+  members:
+  - approximately
+  - about
+  - close to
+  - just about
+  - some
+  - roughly
+  - more or less
+  - around
+  - or so
+  partOfSpeech: r
 00020597-r:
   definition:
   - in a consecutive manner
@@ -80,6 +106,23 @@
   ili: i18265
   members:
   - sometime
+  partOfSpeech: r
+00022855-r:
+  definition:
+  - of the distant or comparatively distant past
+  example:
+  - We met once long ago
+  - they long ago forsook their nomadic life
+  - left for work long ago
+  - he has long since given up mountain climbing
+  - This name has long since been forgotten
+  - ‘lang syne’ is Scottish
+  ili: i18268
+  members:
+  - long ago
+  - long since
+  - lang syne
+  - langsyne
   partOfSpeech: r
 00028191-r:
   definition:
@@ -131,6 +174,16 @@
   ili: i18316
   members:
   - still
+  partOfSpeech: r
+00031911-r:
+  definition:
+  - not now
+  example:
+  - she is no more
+  ili: i18317
+  members:
+  - no longer
+  - no more
   partOfSpeech: r
 00032002-r:
   definition:
@@ -191,18 +244,6 @@
   - just
   - just now
   partOfSpeech: r
-00033808-r:
-  definition:
-  - without any delay
-  example:
-  - he was killed outright
-  ili: i18331
-  members:
-  - instantaneously
-  - outright
-  - instantly
-  - in a flash
-  partOfSpeech: r
 00034196-r:
   definition:
   - (old-fashioned or informal) in a little while
@@ -228,6 +269,13 @@
   - shortly
   - presently
   - before long
+  partOfSpeech: r
+00034524-r:
+  definition:
+  - as soon as possible
+  ili: i18336
+  members:
+  - ASAP
   partOfSpeech: r
 00034576-r:
   definition:
@@ -295,6 +343,14 @@
   - in the end
   - at last
   - at long last
+  partOfSpeech: r
+00048676-r:
+  definition:
+  - after an unspecified period of time or an especially long delay
+  ili: i18421
+  members:
+  - finally
+  - eventually
   partOfSpeech: r
 00048806-r:
   definition:
@@ -387,6 +443,15 @@
   members:
   - now
   partOfSpeech: r
+00050296-r:
+  definition:
+  - (prefatory or transitional) indicates a change of subject or activity
+  example:
+  - Now the next problem is …
+  ili: i18429
+  members:
+  - now
+  partOfSpeech: r
 00054750-r:
   definition:
   - at the time or occasion immediately following
@@ -395,6 +460,16 @@
   ili: i18458
   members:
   - next
+  partOfSpeech: r
+00054865-r:
+  definition:
+  - temporarily
+  example:
+  - we'll stop for the time being
+  ili: i18459
+  members:
+  - for the moment
+  - for the time being
   partOfSpeech: r
 00061170-r:
   definition:
@@ -454,6 +529,15 @@
   - meantime
   - in the meantime
   partOfSpeech: r
+00065584-r:
+  definition:
+  - at the same time but in another place
+  example:
+  - meanwhile, back at the ranch …
+  ili: i18531
+  members:
+  - meanwhile
+  partOfSpeech: r
 00065975-r:
   definition:
   - in a lengthy or prolix manner
@@ -473,6 +557,25 @@
   ili: i18536
   members:
   - last
+  partOfSpeech: r
+00066222-r:
+  definition:
+  - the item at the end
+  example:
+  - last, I'll discuss family values
+  ili: i18537
+  members:
+  - last
+  - lastly
+  - in conclusion
+  - finally
+  partOfSpeech: r
+00066500-r:
+  definition:
+  - in an enduring or permanent manner
+  ili: i18539
+  members:
+  - lastingly
   partOfSpeech: r
 00067445-r:
   definition:
@@ -497,6 +600,17 @@
   ili: i18548
   members:
   - ahead
+  partOfSpeech: r
+00068615-r:
+  definition:
+  - all the time or over a period of time
+  example:
+  - She had known all along
+  - the hope had been there all along
+  ili: i18550
+  members:
+  - all along
+  - right along
   partOfSpeech: r
 00069746-r:
   definition:
@@ -529,14 +643,17 @@
   members:
   - ago
   partOfSpeech: r
-00075535-r:
+00074467-r:
   definition:
-  - in or to or toward an original condition
+  - in or to or toward a past time
   example:
-  - he went back to sleep
-  ili: i18589
+  - set the clocks back an hour
+  - never look back
+  - lovers of the past looking fondly backward
+  ili: i18584
   members:
   - back
+  - backward
   partOfSpeech: r
 00075708-r:
   definition:
@@ -574,6 +691,15 @@
   - forever
   - evermore
   partOfSpeech: r
+00088265-r:
+  definition:
+  - to infinity; without or seemingly without limit
+  example:
+  - talked on and on ad infinitum
+  ili: i18679
+  members:
+  - ad infinitum
+  partOfSpeech: r
 00088404-r:
   definition:
   - for a long time without essential change
@@ -583,6 +709,25 @@
   members:
   - permanently
   - for good
+  partOfSpeech: r
+00088561-r:
+  definition:
+  - for an indefinitely long time
+  example:
+  - bequeathed to the nation in perpetuity
+  ili: i18681
+  members:
+  - in perpetuity
+  partOfSpeech: r
+00088674-r:
+  definition:
+  - for life
+  example:
+  - desire happiness in perpetuity
+  - an annuity paid in perpetuity
+  ili: i18682
+  members:
+  - in perpetuity
   partOfSpeech: r
 00088791-r:
   definition:
@@ -594,6 +739,15 @@
   ili: i18683
   members:
   - temporarily
+  partOfSpeech: r
+00089037-r:
+  definition:
+  - for an intervening time; temporarily
+  example:
+  - elected to serve ad interim
+  ili: i18684
+  members:
+  - ad interim
   partOfSpeech: r
 00089265-r:
   definition:
@@ -711,6 +865,44 @@
   - throughout
   - end-to-end
   partOfSpeech: r
+00103744-r:
+  definition:
+  - at the beginning
+  example:
+  - at first he didn't notice anything strange
+  ili: i18786
+  members:
+  - initially
+  - ab initio
+  - at first
+  partOfSpeech: r
+00103874-r:
+  definition:
+  - on first seeing (someone or something); immediately
+  example:
+  - it was love at first sight
+  ili: i18787
+  members:
+  - at first sight
+  - at first glance
+  partOfSpeech: r
+00104016-r:
+  definition:
+  - after an initial impression, which later proves incorrect
+  members:
+  - at first sight
+  - at first glance
+  partOfSpeech: r
+00104134-r:
+  definition:
+  - as a first impression
+  example:
+  - at first blush the offer seemed attractive
+  ili: i18788
+  members:
+  - at first blush
+  - when first seen
+  partOfSpeech: r
 00104262-r:
   definition:
   - the initial time
@@ -731,6 +923,24 @@
   - forth
   - forward
   - onward
+  partOfSpeech: r
+00105849-r:
+  definition:
+  - immediately
+  example:
+  - she called right after dinner
+  ili: i18800
+  members:
+  - right
+  partOfSpeech: r
+00105927-r:
+  definition:
+  - at a particular time in the past
+  example:
+  - just then the bugle sounded
+  ili: i18801
+  members:
+  - just then
   partOfSpeech: r
 00106154-r:
   definition:
@@ -814,6 +1024,17 @@
   members:
   - then
   partOfSpeech: r
+00119765-r:
+  definition:
+  - on one occasion
+  example:
+  - once I ran into her
+  ili: i18897
+  members:
+  - once
+  - one time
+  - in one case
+  partOfSpeech: r
 00119861-r:
   definition:
   - at a previous time
@@ -828,6 +1049,17 @@
   - at one time
   - erstwhile
   - erst
+  partOfSpeech: r
+00120252-r:
+  definition:
+  - immediately following or undeservedly benefiting from
+  example:
+  - the CEO resigned on the coattails of the scandal
+  - he was elected on his predecessor's coattails
+  ili: i18901
+  members:
+  - on the coattails
+  - on one's coattails
   partOfSpeech: r
 00120979-r:
   definition:
@@ -850,6 +1082,15 @@
   members:
   - concurrently
   - at the same time
+  partOfSpeech: r
+00130452-r:
+  definition:
+  - with respect to longitude
+  example:
+  - longitudinally measured
+  ili: i18983
+  members:
+  - longitudinally
   partOfSpeech: r
 00138162-r:
   definition:
@@ -921,6 +1162,43 @@
   - ever
   - of all time
   partOfSpeech: r
+00152484-r:
+  definition:
+  - not during regular hours
+  example:
+  - he often worked after hours
+  ili: i19156
+  members:
+  - after hours
+  partOfSpeech: r
+00153015-r:
+  definition:
+  - suddenly
+  example:
+  - all at once, he started shouting
+  ili: i19160
+  members:
+  - all of a sudden
+  - all at once
+  partOfSpeech: r
+00153617-r:
+  definition:
+  - endlessly
+  example:
+  - she worked around the clock
+  ili: i19166
+  members:
+  - around the clock
+  - for 24 hours
+  - round the clock
+  partOfSpeech: r
+00155858-r:
+  definition:
+  - in an manner suggesting originality
+  ili: i19184
+  members:
+  - originally
+  partOfSpeech: r
 00156621-r:
   definition:
   - at some eventual time in the future
@@ -931,6 +1209,50 @@
   members:
   - by and by
   - later
+  partOfSpeech: r
+00161376-r:
+  definition:
+  - since long ago
+  example:
+  - she knows him from way back
+  ili: i19225
+  members:
+  - from way back
+  - since a long time ago
+  partOfSpeech: r
+00165958-r:
+  definition:
+  - if there happens to be need
+  example:
+  - in case of trouble call 911
+  - I have money, just in case
+  ili: i19255
+  members:
+  - in case
+  - just in case
+  partOfSpeech: r
+00166484-r:
+  definition:
+  - at the appropriate time
+  example:
+  - we'll get to this question in due course
+  ili: i19258
+  members:
+  - in due course
+  - in due season
+  - in good time
+  - in due time
+  - when the time comes
+  partOfSpeech: r
+00167121-r:
+  definition:
+  - in a relatively short time
+  example:
+  - she finished the assignment in no time
+  ili: i19263
+  members:
+  - in no time
+  - very fast
   partOfSpeech: r
 00167240-r:
   definition:
@@ -947,6 +1269,113 @@
   members:
   - long
   partOfSpeech: r
+00167533-r:
+  definition:
+  - for an extended distance
+  ili: i19265
+  members:
+  - long
+  partOfSpeech: r
+00168316-r:
+  definition:
+  - before now
+  example:
+  - why didn't you tell me in the first place?
+  ili: i19273
+  members:
+  - in the first place
+  - earlier
+  - in the beginning
+  - to begin with
+  - originally
+  partOfSpeech: r
+00168477-r:
+  definition:
+  - eventually or after a lengthy period of time
+  example:
+  - she will succeed in the end
+  ili: i19274
+  members:
+  - in the end
+  partOfSpeech: r
+00168591-r:
+  definition:
+  - at the last possible moment
+  example:
+  - she was saved in the nick of time
+  ili: i19275
+  members:
+  - in the nick of time
+  - just in time
+  partOfSpeech: r
+00168839-r:
+  definition:
+  - without being tardy
+  example:
+  - we made it to the party in time
+  ili: i19277
+  members:
+  - in time
+  - soon enough
+  partOfSpeech: r
+00172124-r:
+  definition:
+  - without delay or immediately
+  example:
+  - we hired her on the spot
+  - thought they were going to shoot us down on the spot
+  ili: i19300
+  members:
+  - on the spot
+  partOfSpeech: r
+00172866-r:
+  definition:
+  - at the expected or proper time
+  example:
+  - she always arrives on time
+  ili: i19305
+  members:
+  - on time
+  - punctually
+  partOfSpeech: r
+00173583-r:
+  definition:
+  - prior to the present time
+  example:
+  - no suspect has been found to date
+  ili: i19311
+  members:
+  - up to now
+  - to date
+  partOfSpeech: r
+00179304-r:
+  definition:
+  - gradually and progressively
+  example:
+  - his health weakened day by day
+  ili: i19354
+  members:
+  - day by day
+  - daily
+  partOfSpeech: r
+00179602-r:
+  definition:
+  - weekly
+  example:
+  - week by week, the betrayal gnawed at his heart
+  ili: i19357
+  members:
+  - week by week
+  partOfSpeech: r
+00179699-r:
+  definition:
+  - for an indefinite number of months
+  example:
+  - month by month, the betrayal gnawed at his heart
+  ili: i19358
+  members:
+  - month by month
+  partOfSpeech: r
 00182828-r:
   definition:
   - as soon as
@@ -955,6 +1384,18 @@
   ili: i19381
   members:
   - once
+  partOfSpeech: r
+00182904-r:
+  definition:
+  - according to need (physicians use PRN in writing prescriptions)
+  example:
+  - add water as needed
+  ili: i19382
+  members:
+  - as needed
+  - as required
+  - pro re nata
+  - PRN
   partOfSpeech: r
 00190913-r:
   definition:
@@ -1001,30 +1442,6 @@
   members:
   - retroactively
   partOfSpeech: r
-00223959-r:
-  definition:
-  - in debt
-  example:
-  - he fell behind with his mortgage payments
-  - a month behind in the rent
-  - a company that has been run behindhand for years
-  - in arrears with their utility bills
-  ili: i19668
-  members:
-  - behind
-  - behindhand
-  - in arrears
-  partOfSpeech: r
-00224193-r:
-  definition:
-  - in or into an inferior position
-  example:
-  - fell behind in his studies
-  - their business was lagging behind in the competition for customers
-  ili: i19669
-  members:
-  - behind
-  partOfSpeech: r
 00224359-r:
   definition:
   - showing a time that is earlier than the actual time
@@ -1046,6 +1463,34 @@
   - over
   - o'er
   partOfSpeech: r
+00229434-r:
+  definition:
+  - in a perennial manner; repeatedly
+  example:
+  - We want to know what is perennially new about the world
+  ili: i19707
+  members:
+  - perennially
+  partOfSpeech: r
+00229584-r:
+  definition:
+  - everlastingly; for all time
+  example:
+  - source: Stuart Chase
+    text: rays … streaming perpetually from the sun
+  ili: i19708
+  members:
+  - perpetually
+  partOfSpeech: r
+00240685-r:
+  definition:
+  - in motion; set in motion
+  example:
+  - the ship got under way
+  ili: i19787
+  members:
+  - under way
+  partOfSpeech: r
 00245801-r:
   definition:
   - during or for the length of one night
@@ -1054,6 +1499,24 @@
   ili: i19823
   members:
   - overnight
+  partOfSpeech: r
+00245908-r:
+  definition:
+  - happening in a short time or with great speed
+  example:
+  - these solutions cannot be found overnight!
+  ili: i19824
+  members:
+  - overnight
+  partOfSpeech: r
+00251832-r:
+  definition:
+  - in an enduring manner
+  example:
+  - Roman culture was enduringly fertilized
+  ili: i19870
+  members:
+  - enduringly
   partOfSpeech: r
 00252773-r:
   definition:
@@ -1094,6 +1557,24 @@
   members:
   - full-time
   partOfSpeech: r
+00258709-r:
+  definition:
+  - for the time being; temporarily
+  example:
+  - source: J.W.Krutch
+    text: accepting pro tem that hypothesis consistent with the facts
+  ili: i19928
+  members:
+  - pro tem
+  - pro tempore
+  partOfSpeech: r
+00258865-r:
+  definition:
+  - without a date fixed (as of an adjournment)
+  ili: i19929
+  members:
+  - sine die
+  partOfSpeech: r
 00260528-r:
   definition:
   - comparatives of ‘soon’ or ‘early’
@@ -1104,6 +1585,13 @@
   members:
   - sooner
   - earlier
+  partOfSpeech: r
+00260674-r:
+  definition:
+  - at the point of death
+  ili: i19947
+  members:
+  - in extremis
   partOfSpeech: r
 00261310-r:
   definition:
@@ -1123,6 +1611,15 @@
   members:
   - overtime
   partOfSpeech: r
+00261595-r:
+  definition:
+  - as fast as possible; with all possible haste
+  example:
+  - send it to me post-haste
+  ili: i19956
+  members:
+  - post-haste
+  partOfSpeech: r
 00275183-r:
   definition:
   - at an opportune time
@@ -1135,6 +1632,15 @@
   - well-timed
   - apropos
   partOfSpeech: r
+00275323-r:
+  definition:
+  - in accordance with the season
+  example:
+  - it was seasonably cold
+  ili: i20057
+  members:
+  - seasonably
+  partOfSpeech: r
 00284664-r:
   definition:
   - all the time; seemingly without stopping
@@ -1146,6 +1652,16 @@
   - interminably
   - endlessly
   partOfSpeech: r
+00296490-r:
+  definition:
+  - during the same period of time
+  example:
+  - contemporaneously, or possibly a little later, there developed a great Sumerian
+    civilisation
+  ili: i20203
+  members:
+  - contemporaneously
+  partOfSpeech: r
 00306173-r:
   definition:
   - during the entire day
@@ -1155,6 +1671,17 @@
   members:
   - daylong
   - all day long
+  partOfSpeech: r
+00307214-r:
+  definition:
+  - to an advanced time
+  example:
+  - deep into the night
+  - talked late into the evening
+  ili: i20268
+  members:
+  - deep
+  - late
   partOfSpeech: r
 00307328-r:
   definition:
@@ -1176,6 +1703,16 @@
   - evermore
   - forevermore
   partOfSpeech: r
+00346567-r:
+  definition:
+  - in the fourth place
+  example:
+  - fourthly, you must pay the rent on the first of the month
+  ili: i20515
+  members:
+  - fourthly
+  - fourth
+  partOfSpeech: r
 00357692-r:
   definition:
   - in a subsequent part of this document or statement or matter etc.
@@ -1189,16 +1726,14 @@
   - hereafter
   - hereunder
   partOfSpeech: r
-00377896-r:
+00358208-r:
   definition:
-  - at an inconvenient time
+  - immediately after this
   example:
-  - he arrived inopportunely just as we sat down for dinner
-  - she answered malapropos
-  ili: i20720
+  - hereupon, the passengers stumbled aboard
+  ili: i20598
   members:
-  - inopportunely
-  - malapropos
+  - hereupon
   partOfSpeech: r
 00378096-r:
   definition:
@@ -1209,6 +1744,24 @@
   members:
   - opportunely
   partOfSpeech: r
+00390283-r:
+  definition:
+  - across time
+  example:
+  - We studied the development of the children longitudinally
+  ili: i20804
+  members:
+  - longitudinally
+  partOfSpeech: r
+00394594-r:
+  definition:
+  - for more time
+  example:
+  - can I stay bit longer?
+  ili: i20835
+  members:
+  - longer
+  partOfSpeech: r
 00394686-r:
   definition:
   - for the most time
@@ -1217,6 +1770,13 @@
   ili: i20836
   members:
   - longest
+  partOfSpeech: r
+00404127-r:
+  definition:
+  - in the middle of the week
+  ili: i20899
+  members:
+  - midweek
   partOfSpeech: r
 00411619-r:
   definition:
@@ -1235,6 +1795,15 @@
   - near
   - nigh
   - close
+  partOfSpeech: r
+00412530-r:
+  definition:
+  - without stopping
+  example:
+  - we are flying nonstop from New York to Tokyo
+  ili: i20955
+  members:
+  - nonstop
   partOfSpeech: r
 00425509-r:
   definition:
@@ -1265,15 +1834,32 @@
   members:
   - prematurely
   partOfSpeech: r
-00454757-r:
+00433834-r:
   definition:
-  - at a disadvantage
-  example:
-  - I was caught short
-  ili: i21266
+  - with reference to the origin or beginning
+  ili: i21111
   members:
-  - short
-  - unawares
+  - primitively
+  - originally
+  - in the beginning
+  partOfSpeech: r
+00444990-r:
+  definition:
+  - in a manner contemplative of past events
+  example:
+  - retrospectively, he seems like a great artist
+  ili: i21194
+  members:
+  - retrospectively
+  partOfSpeech: r
+00449290-r:
+  definition:
+  - depending on the season
+  example:
+  - prices are seasonally adjusted
+  ili: i21225
+  members:
+  - seasonally
   partOfSpeech: r
 00469534-r:
   definition:
@@ -1303,6 +1889,20 @@
   - thereabout
   - thereabouts
   partOfSpeech: r
+00469954-r:
+  definition:
+  - in the following part of a given matter, as in a document or speech
+  ili: i21384
+  members:
+  - thereinafter
+  partOfSpeech: r
+00481406-r:
+  definition:
+  - the next day, the day after, following the present day
+  ili: i21466
+  members:
+  - tomorrow
+  partOfSpeech: r
 00482326-r:
   definition:
   - for a very short time
@@ -1313,15 +1913,19 @@
   members:
   - transiently
   partOfSpeech: r
-00500585-r:
+00482635-r:
   definition:
-  - in the interval
-  example:
-  - dancing all the dances with little rest between
-  ili: i21618
+  - for a very brief time
+  ili: i21476
   members:
-  - between
-  - betwixt
+  - transitorily
+  partOfSpeech: r
+00502957-r:
+  definition:
+  - in an imminent manner
+  ili: i21640
+  members:
+  - imminently
   partOfSpeech: r
 00504442-r:
   definition:
@@ -1331,6 +1935,15 @@
   ili: i21653
   members:
   - theretofore
+  partOfSpeech: r
+00506609-r:
+  definition:
+  - bearing an immediate relation
+  example:
+  - this immediately concerns your future
+  ili: i21667
+  members:
+  - immediately
   partOfSpeech: r
 00509461-r:
   definition:
@@ -1348,6 +1961,15 @@
   example:
   - yesterday the weather was beautiful
   ili: i21696
+  members:
+  - yesterday
+  partOfSpeech: r
+00510352-r:
+  definition:
+  - in the recent past; only a short time ago
+  example:
+  - I was not born yesterday!
+  ili: i21697
   members:
   - yesterday
   partOfSpeech: r

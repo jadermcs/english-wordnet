@@ -1,3 +1,20 @@
+00003317-r:
+  definition:
+  - almost not
+  example:
+  - he hardly ever goes fishing
+  - he was scarce sixteen years old
+  - they scarcely ever used the emergency generator
+  - I can hardly hear what she is saying
+  - she barely seemed to notice him
+  - we were so far back in the theater we could barely read the subtitles
+  ili: i18165
+  members:
+  - hardly
+  - scarcely
+  - barely
+  - scarce
+  partOfSpeech: r
 00019801-r:
   definition:
   - at all times; all the time and on every occasion
@@ -118,6 +135,13 @@
   - oft
   - ofttimes
   partOfSpeech: r
+00035642-r:
+  definition:
+  - more often or more frequently
+  ili: i18346
+  members:
+  - oftener
+  partOfSpeech: r
 00035707-r:
   definition:
   - at another time
@@ -149,6 +173,13 @@
   - once again
   - once more
   - over again
+  partOfSpeech: r
+00060085-r:
+  definition:
+  - in many cases or instances
+  ili: i18496
+  members:
+  - often
   partOfSpeech: r
 00065694-r:
   definition:
@@ -223,16 +254,90 @@
   - commonly
   - ordinarily
   partOfSpeech: r
-00119765-r:
+00142439-r:
   definition:
-  - on one occasion
-  example:
-  - once I ran into her
-  ili: i18897
+  - in an episodic manner
+  ili: i19080
   members:
-  - once
-  - one time
-  - in one case
+  - episodically
+  partOfSpeech: r
+00154430-r:
+  definition:
+  - as one chooses or pleases
+  example:
+  - he can roam the neighborhood at will
+  ili: i19173
+  members:
+  - at will
+  partOfSpeech: r
+00158123-r:
+  definition:
+  - without respite
+  example:
+  - he plays chess day in and day out
+  ili: i19201
+  members:
+  - day in and day out
+  - all the time
+  partOfSpeech: r
+00158535-r:
+  definition:
+  - occasionally
+  example:
+  - every so often she visits her father
+  ili: i19205
+  members:
+  - every so often
+  - every now and then
+  partOfSpeech: r
+00170405-r:
+  definition:
+  - not regularly
+  example:
+  - they phone each other off and on
+  ili: i19286
+  members:
+  - off and on
+  - on and off
+  partOfSpeech: r
+00170970-r:
+  definition:
+  - typically
+  example:
+  - on average he watches three movies a week
+  ili: i19291
+  members:
+  - on the average
+  - on average
+  partOfSpeech: r
+00178467-r:
+  definition:
+  - repeatedly
+  example:
+  - the unknown word turned up over and over again in the text
+  ili: i19349
+  members:
+  - over and over
+  - again and again
+  - over and over again
+  - time and again
+  - time and time again
+  - repeatedly
+  partOfSpeech: r
+00179412-r:
+  definition:
+  - for an indefinite number of successive days
+  ili: i19355
+  members:
+  - day in day out
+  - day after day
+  partOfSpeech: r
+00179514-r:
+  definition:
+  - for an indefinite number of successive weeks
+  ili: i19356
+  members:
+  - week after week
   partOfSpeech: r
 00180072-r:
   definition:
@@ -274,14 +379,29 @@
   - sporadically
   - periodically
   partOfSpeech: r
-00229434-r:
+00252039-r:
   definition:
-  - in a perennial manner; repeatedly
+  - by the year; every year (usually with reference to a sum of money paid or received)
   example:
-  - We want to know what is perennially new about the world
-  ili: i19707
+  - he earned $100,000 per annum
+  - we issue six volumes per annum
+  ili: i19872
   members:
-  - perennially
+  - per annum
+  - p.a.
+  - per year
+  - each year
+  - annually
+  partOfSpeech: r
+00252267-r:
+  definition:
+  - one every day
+  example:
+  - we'll save 100 man-hours per diem
+  ili: i19873
+  members:
+  - per diem
+  - by the day
   partOfSpeech: r
 00256191-r:
   definition:
@@ -361,21 +481,6 @@
   - biennially
   - biyearly
   partOfSpeech: r
-00284287-r:
-  definition:
-  - with unflagging resolve
-  example:
-  - dance inspires him ceaselessly to strive higher and higher toward the shining
-    pinnacle of perfection that is the goal of every artiste
-  ili: i20122
-  members:
-  - endlessly
-  - ceaselessly
-  - incessantly
-  - unceasingly
-  - unendingly
-  - continuously
-  partOfSpeech: r
 00284883-r:
   definition:
   - every hundred years; once in a century
@@ -406,6 +511,29 @@
   - irregularly
   - on an irregular basis
   partOfSpeech: r
+00354517-r:
+  definition:
+  - every thirty minutes, every half hour
+  ili: i20570
+  members:
+  - half-hourly
+  partOfSpeech: r
+00354612-r:
+  definition:
+  - every half year, every six months
+  ili: i20571
+  members:
+  - half-yearly
+  partOfSpeech: r
+00360781-r:
+  definition:
+  - every hour; by the hour
+  example:
+  - daily, hourly, I grew stronger
+  ili: i20617
+  members:
+  - hourly
+  partOfSpeech: r
 00376350-r:
   definition:
   - not many times
@@ -425,6 +553,17 @@
   ili: i20748
   members:
   - intermittently
+  partOfSpeech: r
+00411507-r:
+  definition:
+  - at no time hereafter
+  example:
+  - source: E.A. Poe
+    text: Quoth the raven, nevermore!
+  ili: i20948
+  members:
+  - nevermore
+  - never again
   partOfSpeech: r
 00412120-r:
   definition:
@@ -446,15 +585,6 @@
   - quarterly
   - every quarter
   partOfSpeech: r
-00443066-r:
-  definition:
-  - in a repetitive manner
-  example:
-  - this type of border display is used repetitively in advertising
-  ili: i21179
-  members:
-  - repetitively
-  partOfSpeech: r
 00479093-r:
   definition:
   - in quick succession
@@ -464,4 +594,11 @@
   members:
   - thick
   - thickly
+  partOfSpeech: r
+00517422-r:
+  definition:
+  - in a recurrent manner
+  ili: i21761
+  members:
+  - recurrently
   partOfSpeech: r
