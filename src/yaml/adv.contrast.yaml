@@ -148,6 +148,8 @@
 00119623-r:
   definition:
   - regardless; a combination of irrespective and regardless sometimes used humorously
+  example:
+  - I'm going to the concert irregardless of the weather.
   exemplifies:
   - 07089193-n
   ili: i18896
@@ -208,6 +210,8 @@
 00165875-r:
   definition:
   - absolutely not; never
+  example:
+  - He says he'll have the project finished by tomorrow, but in a pig's eye he will.
   exemplifies:
   - 07089193-n
   ili: i19254
@@ -251,6 +255,9 @@
 00193074-r:
   definition:
   - compare
+  example:
+  - The results of the first study were consistent across all demographics (cf. Smith
+    2022).
   ili: i19456
   members:
   - cf.
@@ -259,6 +266,8 @@
 00249448-r:
   definition:
   - in a contrary disobedient manner
+  example:
+  - The results were, contrarily, much better than anyone had anticipated.
   ili: i19852
   members:
   - perversely
@@ -268,6 +277,9 @@
 00275080-r:
   definition:
   - with antithesis; in an antithetical manner
+  example:
+  - The two policies are antithetically opposed, representing completely different
+    ideologies.
   ili: i20055
   members:
   - antithetically

@@ -28499,9 +28499,10 @@ derp:
     sense:
     - id: 'derp%1:18:01::'
       synset: 90003182-n
+derpily:
   r:
     sense:
-    - id: 'derp%4:45:01::'
+    - id: 'derpily%4:45:00::'
       synset: 90003183-r
 derrick:
   n:

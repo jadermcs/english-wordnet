@@ -125,6 +125,8 @@
 00040906-r:
   definition:
   - together with this
+  example:
+  - He was a man of great intellect, and a talented musician withal.
   ili: i18373
   members:
   - withal
@@ -278,6 +280,9 @@
 00104351-r:
   definition:
   - continuing in the same way
+  example:
+  - We discussed the budget, the timeline, the staffing requirements, and so forth
+    during the meeting.
   ili: i18790
   members:
   - and so forth
@@ -433,6 +438,9 @@
 00190022-r:
   definition:
   - as follows
+  example:
+  - I want you to know one thing, namely that if you run up debts, we will not pay
+    them for you.
   ili: i19434
   members:
   - namely
@@ -444,6 +452,9 @@
 00192665-r:
   definition:
   - and elsewhere (used when referring to other occurrences in a text)
+  example:
+  - The findings from the study by Smith et al. suggest that further research is required
+    to confirm the results.
   ili: i19454
   members:
   - et al.
@@ -534,6 +545,9 @@
 00257022-r:
   definition:
   - all other things being equal
+  example:
+  - The price of gold should remain stable, ceteris paribus, despite the changes in
+    the stock market.
   ili: i19913
   members:
   - ceteris paribus
@@ -590,6 +604,9 @@
   definition:
   - (in enumerating something, such as topics or points of discussion) in the tenth
     place
+  example:
+  - The preacher laid out his subject under a great many heads, firstly, secondly,
+    thirdly, up to tenthly.
   ili: i21441
   members:
   - tenthly

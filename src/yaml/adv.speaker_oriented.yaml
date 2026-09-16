@@ -1,6 +1,8 @@
 00003761-r:
   definition:
   - in an annoying manner or to an annoying degree
+  example:
+  - Mr President, annoyingly, my speech had to end as time ran out
   ili: i18167
   members:
   - annoyingly
@@ -8,6 +10,8 @@
 00004152-r:
   definition:
   - in a blessed manner
+  example:
+  - seven hundred years blessedly free of warfare
   ili: i18169
   members:
   - blessedly
@@ -174,8 +178,9 @@
   partOfSpeech: r
 00038658-r:
   definition:
-  - an archaic word originally meaning ‘in truth’ but now usually used to express
-    disbelief
+  - (archaic) in truth
+  example:
+  - it's a kind of wine bar for royals, forsooth
   ili: i18362
   members:
   - forsooth
@@ -325,6 +330,8 @@
 00043757-r:
   definition:
   - (used as a sentence connector) therefore or consequently
+  example:
+  - The products are poorly constructed; ergo, they break easily.
   ili: i18391
   members:
   - ergo
@@ -332,6 +339,8 @@
 00050427-r:
   definition:
   - interjection of rebuke
+  example:
+  - Now, now. There's no need to use that kind of language.
   ili: i18430
   members:
   - now now
@@ -339,6 +348,8 @@
 00053542-r:
   definition:
   - an expression of agreement normally occurring at the beginning of a sentence
+  example:
+  - Very well, we should change subjects now.
   ili: i18450
   members:
   - very well
@@ -691,6 +702,9 @@
 00155582-r:
   definition:
   - believed or reputed to be the case
+  example:
+  - The document purportedly proves the conspiracy, but its authenticity is still
+    under question.
   ili: i19182
   members:
   - purportedly
@@ -734,6 +748,8 @@
 00161285-r:
   definition:
   - written formula for ending a letter
+  example:
+  - I apologize for the misunderstanding, sincerely, John.
   ili: i19224
   members:
   - sincerely
@@ -752,6 +768,9 @@
 00171282-r:
   definition:
   - by hypothesis
+  example:
+  - Hypothetically, we could finish the project early if everyone works through the
+    weekend.
   ili: i19294
   members:
   - hypothetically
@@ -838,6 +857,9 @@
   definition:
   - a figure of speech used as a way to provide further information, or to be more
     specific or exact about something
+  example:
+  - The team is working on the final phase of the project, i.e., the quality assurance
+    testing.
   ili: i19457
   members:
   - i.e.
@@ -984,6 +1006,9 @@
 00255756-r:
   definition:
   - in a counterintuitive manner
+  example:
+  - Counterintuitively, adding more lanes to the highway actually increased traffic
+    congestion.
   ili: i19902
   members:
   - counterintuitively
@@ -1012,6 +1037,8 @@
 00261520-r:
   definition:
   - by necessity; by force of circumstance
+  example:
+  - The store was closed, so we must perforce look for another place to eat.
   ili: i19955
   members:
   - perforce
@@ -1048,6 +1075,8 @@
 00296016-r:
   definition:
   - having the result that
+  example:
+  - The weather was poor, and consequentially, the outdoor event was canceled.
   ili: i20200
   members:
   - consequentially
@@ -1121,6 +1150,8 @@
 00304163-r:
   definition:
   - not involving any controversy
+  example:
+  - The evidence uncontroversially supports the findings of the original study.
   ili: i20246
   members:
   - uncontroversially
@@ -1343,6 +1374,9 @@
 00430483-r:
   definition:
   - in a practicable manner; so as to be feasible
+  example:
+  - The project could feasibly be completed by the end of the month if we hire additional
+    staff.
   ili: i21088
   members:
   - practicably
@@ -1360,6 +1394,8 @@
 00434111-r:
   definition:
   - in such a way as to pose a problem
+  example:
+  - The school has become problematically overcrowded.
   ili: i21113
   members:
   - problematically
@@ -1433,6 +1469,8 @@
 00450666-r:
   definition:
   - in a self-evident manner
+  example:
+  - The claim that the earth is flat is self-evidently false.
   ili: i21236
   members:
   - self-evidently
@@ -1530,6 +1568,8 @@
 00507906-r:
   definition:
   - with reason or justice
+  example:
+  - By rights, the property belongs to her family.
   ili: i21677
   members:
   - by rights
@@ -1557,6 +1597,8 @@
 00513162-r:
   definition:
   - happening at the same time
+  example:
+  - Coincidently, I also have a sister called Sara
   ili: i21719
   members:
   - coincidentally
@@ -1565,6 +1607,8 @@
 00518855-r:
   definition:
   - in a vexatious manner
+  example:
+  - The results of his efforts were vexatiously few.
   ili: i21775
   members:
   - vexatiously

@@ -138,6 +138,8 @@
 00035642-r:
   definition:
   - more often or more frequently
+  example:
+  - Perhaps annually, but not any oftener than that
   ili: i18346
   members:
   - oftener
@@ -177,6 +179,8 @@
 00060085-r:
   definition:
   - in many cases or instances
+  example:
+  - I often go for walks, several times a day.
   ili: i18496
   members:
   - often
@@ -257,6 +261,9 @@
 00142439-r:
   definition:
   - in an episodic manner
+  example:
+  - She experiences headaches episodically, meaning they come and go rather than being
+    constant.
   ili: i19080
   members:
   - episodically
@@ -312,7 +319,7 @@
   partOfSpeech: r
 00178467-r:
   definition:
-  - repeatedly
+  - repeated many times
   example:
   - the unknown word turned up over and over again in the text
   ili: i19349
@@ -327,6 +334,8 @@
 00179412-r:
   definition:
   - for an indefinite number of successive days
+  example:
+  - He practiced his scales day after day until he mastered the piece.
   ili: i19355
   members:
   - day in day out
@@ -335,6 +344,8 @@
 00179514-r:
   definition:
   - for an indefinite number of successive weeks
+  example:
+  - She practiced her piano scales week after week until she mastered the piece.
   ili: i19356
   members:
   - week after week
@@ -514,6 +525,8 @@
 00354517-r:
   definition:
   - every thirty minutes, every half hour
+  example:
+  - The train departures for the city center are scheduled half-hourly.
   ili: i20570
   members:
   - half-hourly
@@ -521,6 +534,8 @@
 00354612-r:
   definition:
   - every half year, every six months
+  example:
+  - The company publishes its financial reports on a half-yearly basis.
   ili: i20571
   members:
   - half-yearly
@@ -598,6 +613,8 @@
 00517422-r:
   definition:
   - in a recurrent manner
+  example:
+  - He recurrently wrestles with this same question.
   ili: i21761
   members:
   - recurrently

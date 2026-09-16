@@ -273,6 +273,8 @@
 00034524-r:
   definition:
   - as soon as possible
+  example:
+  - call me ASAP
   ili: i18336
   members:
   - ASAP
@@ -347,6 +349,8 @@
 00048676-r:
   definition:
   - after an unspecified period of time or an especially long delay
+  example:
+  - it was finally done
   ili: i18421
   members:
   - finally
@@ -573,6 +577,8 @@
 00066500-r:
   definition:
   - in an enduring or permanent manner
+  example:
+  - The show proved lastingly popular.
   ili: i18539
   members:
   - lastingly
@@ -889,6 +895,8 @@
 00104016-r:
   definition:
   - after an initial impression, which later proves incorrect
+  example:
+  - At first sight, the project appeared simple.
   members:
   - at first sight
   - at first glance
@@ -1195,6 +1203,8 @@
 00155858-r:
   definition:
   - in an manner suggesting originality
+  example:
+  - The house was originally built in the 1920s before being renovated.
   ili: i19184
   members:
   - originally
@@ -1272,6 +1282,8 @@
 00167533-r:
   definition:
   - for an extended distance
+  example:
+  - The runner had been training all year long for the marathon.
   ili: i19265
   members:
   - long
@@ -1571,6 +1583,8 @@
 00258865-r:
   definition:
   - without a date fixed (as of an adjournment)
+  example:
+  - The court adjourned the hearing sine die, meaning no date was set for it to resume.
   ili: i19929
   members:
   - sine die
@@ -1589,6 +1603,8 @@
 00260674-r:
   definition:
   - at the point of death
+  example:
+  - The doctors worked tirelessly to save the patient who was in extremis.
   ili: i19947
   members:
   - in extremis
@@ -1774,6 +1790,8 @@
 00404127-r:
   definition:
   - in the middle of the week
+  example:
+  - The project deadline was moved up to midweek to allow for extra testing.
   ili: i20899
   members:
   - midweek
@@ -1837,6 +1855,8 @@
 00433834-r:
   definition:
   - with reference to the origin or beginning
+  example:
+  - The building was originally designed to be a library.
   ili: i21111
   members:
   - primitively
@@ -1892,6 +1912,9 @@
 00469954-r:
   definition:
   - in the following part of a given matter, as in a document or speech
+  example:
+  - The company, thereinafter referred to as the Contractor, shall be responsible
+    for all site maintenance.
   ili: i21384
   members:
   - thereinafter
@@ -1899,6 +1922,8 @@
 00481406-r:
   definition:
   - the next day, the day after, following the present day
+  example:
+  - We will finish the report tomorrow.
   ili: i21466
   members:
   - tomorrow
@@ -1916,6 +1941,8 @@
 00482635-r:
   definition:
   - for a very brief time
+  example:
+  - The sun appeared transitorily between the dark clouds before disappearing again.
   ili: i21476
   members:
   - transitorily
@@ -1923,6 +1950,8 @@
 00502957-r:
   definition:
   - in an imminent manner
+  example:
+  - The store is due to open imminently
   ili: i21640
   members:
   - imminently

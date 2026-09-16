@@ -91,6 +91,8 @@
 00006415-r:
   definition:
   - in a gross manner
+  example:
+  - the impacts of the measure were grossly overestimated
   ili: i18186
   members:
   - grossly
@@ -1054,6 +1056,8 @@
 00057190-r:
   definition:
   - in a drastic manner
+  example:
+  - the ending was drastically different from what I'd expected
   ili: i18476
   members:
   - drastically
@@ -1115,6 +1119,8 @@
 00059205-r:
   definition:
   - in an intractable manner
+  example:
+  - She is intractably opposed to hunting.
   ili: i18489
   members:
   - intractably
@@ -1263,6 +1269,8 @@
 00082389-r:
   definition:
   - in a manner or to a degree that dazzles the beholder
+  example:
+  - The sun was dazzlingly bright
   ili: i18636
   members:
   - dazzlingly
@@ -1270,6 +1278,8 @@
 00082925-r:
   definition:
   - in a depressing manner or to a depressing degree
+  example:
+  - It remained depressingly grey for the entire week.
   ili: i18640
   members:
   - depressingly
@@ -1323,6 +1333,8 @@
 00085603-r:
   definition:
   - in an exasperating manner
+  example:
+  - The process was exasperatingly slow, testing everyone's patience.
   ili: i18660
   members:
   - exasperatingly
@@ -1330,6 +1342,8 @@
 00087173-r:
   definition:
   - most quickly
+  example:
+  - He set a new fastest time for running a mile
   ili: i18670
   members:
   - quickest
@@ -1338,6 +1352,8 @@
 00087268-r:
   definition:
   - most slowly
+  example:
+  - The sloth is known as the slowest animal on land.
   ili: i18671
   members:
   - slowest
@@ -1694,6 +1710,8 @@
 00114741-r:
   definition:
   - without fail
+  example:
+  - She was unfailingly polite to everyone she met.
   ili: i18861
   members:
   - unfailingly
@@ -1712,6 +1730,8 @@
   definition:
   - in or at or near a periphery or according to a peripheral role or function or
     relationship
+  example:
+  - The company was only peripherally involved in the negotiations.
   ili: i18869
   members:
   - peripherally
@@ -1977,6 +1997,8 @@
 00153403-r:
   definition:
   - an expression of emphatic agreement
+  example:
+  - She is incredibly talented at playing the piano, and how!
   ili: i19164
   members:
   - and how
@@ -2345,6 +2367,8 @@
 00190112-r:
   definition:
   - in a similar way
+  example:
+  - She looks very much like her mother did at that age.
   ili: i19435
   members:
   - much as
@@ -2596,6 +2620,8 @@
 00231579-r:
   definition:
   - without qualification or limitation
+  example:
+  - The committee unqualifiedly endorsed the new proposal.
   ili: i19722
   members:
   - unqualifiedly
@@ -2763,6 +2789,9 @@
 00255193-r:
   definition:
   - in an overly sweet manner
+  example:
+  - The anniversary card was cloyingly sentimental, filled with over-the-top declarations
+    of love.
   ili: i19898
   members:
   - cloyingly
@@ -3599,6 +3628,8 @@
 00381063-r:
   definition:
   - to such an extent or degree; so
+  example:
+  - The project was successful insomuch as it met all the initial requirements.
   ili: i20738
   members:
   - insomuch
@@ -3654,6 +3685,8 @@
 00387120-r:
   definition:
   - in a very humorous manner
+  example:
+  - She was killingly confident, making the entire audience roar with laughter.
   ili: i20782
   members:
   - killingly
@@ -3662,6 +3695,8 @@
 00388297-r:
   definition:
   - at a distance, wide of something (as of a mark)
+  example:
+  - prefer large spaced positions to avoid collision.
   ili: i20791
   members:
   - large
@@ -3800,6 +3835,9 @@
 00405159-r:
   definition:
   - in a momentous way
+  example:
+  - The signing of the peace treaty was a momentously important event for the future
+    of both nations.
   ili: i20907
   members:
   - momentously
@@ -3878,6 +3916,8 @@
 00415559-r:
   definition:
   - in an onerous manner
+  example:
+  - The new regulations were onerously difficult for the small business to implement.
   ili: i20977
   members:
   - onerously
@@ -4123,6 +4163,9 @@
 00437765-r:
   definition:
   - in a punishing manner
+  example:
+  - The marathon course was punishingly difficult, featuring several steep climbs
+    in the final miles.
   ili: i21140
   members:
   - punishingly
@@ -4556,6 +4599,8 @@
 00490485-r:
   definition:
   - to an unimaginable extent
+  example:
+  - Sahara's unthinkably massive expanse
   ili: i21534
   members:
   - unimaginably
@@ -4564,6 +4609,8 @@
 00491178-r:
   definition:
   - in an unprecedented manner
+  example:
+  - unprecedentedly large number of cooperating exporters
   ili: i21539
   members:
   - unprecedentedly
@@ -4657,6 +4704,8 @@
 00499077-r:
   definition:
   - in a manner to cause worry
+  example:
+  - A worryingly high percentage of managers do not know when resources are dispatched
   ili: i21605
   members:
   - worryingly
@@ -4766,6 +4815,8 @@
 00516613-r:
   definition:
   - in an irreparable manner or to an irreparable degree
+  example:
+  - children whose life chances will have been irreparably damaged
   ili: i21753
   members:
   - irreparably
@@ -4782,12 +4833,16 @@
 00519421-r:
   definition:
   - in an incorrigible manner
+  example:
+  - He is the incorrigibly irresponsible single father of two daughters.
   members:
   - incorrigibly
   partOfSpeech: r
 00519615-r:
   definition:
   - in an extreme or fanatical manner
+  example:
+  - They are rabidly partisan.
   members:
   - rabidly
   partOfSpeech: r

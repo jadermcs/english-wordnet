@@ -1,6 +1,8 @@
 00024234-r:
   definition:
   - in a pathogenic manner
+  example:
+  - inhibition of pathogenically-related morphologic transition in Candida albicans
   ili: i18278
   members:
   - pathogenically
@@ -41,6 +43,8 @@
 00062701-r:
   definition:
   - by means of an insecticide
+  example:
+  - The compound was found to be insecticidally active against the larvae.
   ili: i18512
   members:
   - insecticidally
@@ -147,6 +151,9 @@
 00087414-r:
   definition:
   - in a permissible manner
+  example:
+  - The land is not protected by environmental legislation and could permissibly be
+    built on.
   ili: i18673
   members:
   - permissibly
@@ -367,6 +374,8 @@
 00125817-r:
   definition:
   - in a medicinal manner
+  example:
+  - The herbs were grown specifically to be used medicinally in herbal teas.
   ili: i18942
   members:
   - medicinally
@@ -475,6 +484,9 @@
 00128750-r:
   definition:
   - for therapeutic purposes
+  example:
+  - These drugs are therapeutically effective in the treatment of skin diseases such
+    as acne.
   ili: i18967
   members:
   - therapeutically
@@ -666,6 +678,9 @@
 00134925-r:
   definition:
   - with respect to musicology
+  example:
+  - source: https://guides.lib.umich.edu/digitalmusicology
+    text: musicologically relevant research using quantitative and computational methodologies.
   ili: i19022
   members:
   - musicologically
@@ -745,6 +760,8 @@
 00136998-r:
   definition:
   - with respect to the face
+  example:
+  - The contract was facially valid, though its underlying terms were highly controversial.
   ili: i19041
   members:
   - facially
@@ -806,6 +823,9 @@
 00143610-r:
   definition:
   - by means of horticulture
+  example:
+  - The community garden was designed horticulturally to promote biodiversity and
+    sustainability.
   ili: i19091
   members:
   - horticulturally
@@ -1035,6 +1055,9 @@
 00253080-r:
   definition:
   - derived by logic, without observed facts
+  example:
+  - There is no a priori reason to believe that the new policy will fail without further
+    investigation.
   ili: i19881
   members:
   - a priori
@@ -1053,6 +1076,8 @@
 00253591-r:
   definition:
   - in respect to jurisprudence or the science or philosophy of law
+  example:
+  - Right now I feel we're in the dark ages jurisprudentially.
   ili: i19885
   members:
   - jurisprudentially
@@ -1070,6 +1095,9 @@
 00261706-r:
   definition:
   - at first sight
+  example:
+  - The prosecutor presented prima facie evidence to justify bringing the case to
+    trial.
   ili: i19957
   members:
   - prima facie
@@ -1181,6 +1209,9 @@
 00322327-r:
   definition:
   - as a matter of doctrine
+  example:
+  - The church leaders decided to act pragmatically rather than doctrinally to resolve
+    the dispute.
   ili: i20355
   members:
   - doctrinally
@@ -1297,6 +1328,9 @@
 00393380-r:
   definition:
   - with regard to or concerning limnology
+  example:
+  - The researchers examined the effects of climate change on the lake's ecosystem
+    limnologically.
   ili: i20824
   members:
   - limnologically
@@ -1304,6 +1338,8 @@
 00396942-r:
   definition:
   - in a managerial manner
+  example:
+  - The software company was managerially troubled.
   ili: i20852
   members:
   - managerially
@@ -1545,6 +1581,9 @@
 00484611-r:
   definition:
   - in a typographic way
+  example:
+  - On your CV, make sure everything is typographically perfect and that there are
+    no spelling mistakes.
   ili: i21491
   members:
   - typographically
@@ -1552,6 +1591,9 @@
 00484693-r:
   definition:
   - beyond the scope or in excess of legal power or authority
+  example:
+  - The company's decision to invest in an unrelated industry was deemed ultra vires
+    by the board of directors.
   ili: i21492
   members:
   - ultra vires
@@ -1588,6 +1630,8 @@
 00513385-r:
   definition:
   - in a manner dependent on context
+  example:
+  - Children frequently fail to select the contextually appropriate meaning.
   ili: i21721
   members:
   - contextually
@@ -1595,6 +1639,8 @@
 00513476-r:
   definition:
   - dependent on a department
+  example:
+  - the administration of departmentally funded services
   ili: i21722
   members:
   - departmentally
@@ -1602,6 +1648,8 @@
 00513738-r:
   definition:
   - used as a residence
+  example:
+  - It's a residentially very mixed part of town
   ili: i21725
   members:
   - residentially
@@ -1627,6 +1675,9 @@
 00516364-r:
   definition:
   - from the point of view of immunology
+  example:
+  - source: https://pubmed.ncbi.nlm.nih.gov/17378763/
+    text: Immunologically active autoantigens
   ili: i21751
   members:
   - immunologically
@@ -1634,6 +1685,8 @@
 00516805-r:
   definition:
   - as ordered by a court
+  example:
+  - She was judicially ordered to submit to a psychiatric evaluation.
   ili: i21755
   members:
   - judicially
@@ -1641,6 +1694,8 @@
 00518336-r:
   definition:
   - (of group) in a synergistic or cooperative manner
+  example:
+  - That means those markets value those mergers as synergistically negative.
   ili: i21770
   members:
   - synergistically
@@ -1657,6 +1712,9 @@
 00518683-r:
   definition:
   - from the point of view of topology
+  example:
+  - source: https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=0600688&KC=&locale=de_ep&FT=E#
+    text: topologically consistent visual displays
   ili: i21773
   members:
   - topologically
@@ -1666,6 +1724,8 @@
   - 00471848-r
   definition:
   - regarding the tone
+  example:
+  - inwardness and longing to tonally splendid Christmas jubilation.
   members:
   - tonally
   partOfSpeech: r

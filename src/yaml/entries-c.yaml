@@ -93860,11 +93860,10 @@ connubial:
       pertainym:
       - 'marriage%1:26:00::'
       synset: 02883370-a
+connubially:
   r:
     sense:
-    - id: 'connubial%4:45:00::'
-      pertainym:
-      - 'connubial%3:01:00::'
+    - id: 'connubially%4:45:00::'
       synset: 00501719-r
 conodont:
   n:

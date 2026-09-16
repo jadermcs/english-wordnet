@@ -75,6 +75,8 @@
 00033624-r:
   definition:
   - under the terms of this agreement
+  example:
+  - You will find, hereunder, the last changes
   ili: i18329
   members:
   - hereunder
@@ -111,6 +113,8 @@
 00038883-r:
   definition:
   - in a vacuum
+  example:
+  - The experiment was conducted in vacuo.
   ili: i18364
   members:
   - in vacuo
@@ -136,6 +140,8 @@
 00041525-r:
   definition:
   - in a remote location or at a distance from the usual route
+  example:
+  - We moved the heavy trunk out of the way to clear the entrance.
   ili: i18379
   members:
   - out of the way
@@ -143,6 +149,8 @@
 00041626-r:
   definition:
   - improper; amiss
+  example:
+  - the people who are out of the way, out of the faith, blasphemous
   ili: i18380
   members:
   - out of the way
@@ -526,6 +534,8 @@
 00076147-r:
   definition:
   - at right angles to the length of a ship or airplane
+  example:
+  - The island was directly abeam of us
   ili: i18594
   members:
   - abeam
@@ -573,6 +583,8 @@
 00080389-r:
   definition:
   - in or to a place that is lower
+  example:
+  - The sun glowed red as it sank slowly below the horizon.
   ili: i18623
   members:
   - below
@@ -605,6 +617,8 @@
 00083430-r:
   definition:
   - in a dorsal location or direction
+  example:
+  - The shark's fin was visible as it swam dorsally along the surface of the water.
   ili: i18645
   members:
   - dorsally
@@ -612,6 +626,8 @@
 00083653-r:
   definition:
   - in a ventral location or direction
+  example:
+  - The frog is brightly colored dorsally but pale ventrally.
   ili: i18647
   members:
   - ventrally
@@ -667,6 +683,9 @@
 00094530-r:
   definition:
   - into the skin
+  example:
+  - Local anesthetics are often administered intradermally to numb the surface of
+    the skin.
   ili: i18724
   members:
   - intradermally
@@ -844,6 +863,8 @@
 00097658-r:
   definition:
   - toward the source or against the current
+  example:
+  - fishes are struggling to swim upstream against the powerful current.
   ili: i18745
   members:
   - upriver
@@ -852,6 +873,8 @@
 00097781-r:
   definition:
   - away from the source or with the current
+  example:
+  - The raft floated downstream toward the sea.
   ili: i18746
   members:
   - downriver
@@ -1249,6 +1272,8 @@
 00144584-r:
   definition:
   - in a rural manner
+  example:
+  - They lived rurally to enjoy the peace and quiet of the countryside.
   ili: i19101
   members:
   - rurally
@@ -1265,6 +1290,8 @@
 00151409-r:
   definition:
   - an interjection expressing agreement; Yes, you are indeed correct
+  example:
+  - Please turn right at the next intersection.
   ili: i19147
   members:
   - right
@@ -1416,6 +1443,8 @@
 00174207-r:
   definition:
   - toward the mouth or oral region
+  example:
+  - The nerve impulses traveled orad, moving toward the oral cavity.
   ili: i19317
   members:
   - orad
@@ -1423,6 +1452,8 @@
 00174307-r:
   definition:
   - away from the mouth or oral region
+  example:
+  - She plans to study abroad next year to improve her language skills.
   ili: i19318
   members:
   - aborad
@@ -1479,6 +1510,8 @@
 00183162-r:
   definition:
   - in a place across an ocean
+  example:
+  - My brother is a student overseas.
   ili: i19384
   members:
   - overseas
@@ -1496,6 +1529,8 @@
 00189276-r:
   definition:
   - toward or in the upper part of town
+  example:
+  - We walked uptown to find a quiet place for dinner.
   ili: i19427
   members:
   - uptown
@@ -1503,6 +1538,8 @@
 00189364-r:
   definition:
   - toward or in the lower or central part of town
+  example:
+  - We decided to meet downtown for dinner at the new Italian restaurant.
   ili: i19428
   members:
   - downtown
@@ -1634,6 +1671,8 @@
 00230832-r:
   definition:
   - in bed
+  example:
+  - After a long day of hiking, he lay abed and rested his tired muscles.
   ili: i19717
   members:
   - abed
@@ -1950,6 +1989,8 @@
 00251347-r:
   definition:
   - on a ship, train, plane or other vehicle
+  example:
+  - The flight attendant welcomed us aboard.
   ili: i19865
   members:
   - aboard
@@ -2035,6 +2076,9 @@
 00257456-r:
   definition:
   - in the same place (used when citing a reference)
+  example:
+  - 'The term is used in footnotes to cite the same source as the previous entry,
+    such as: 2. Ibid., 45.'
   ili: i19917
   members:
   - ibid.
@@ -2055,12 +2099,17 @@
 00257824-r:
   definition:
   - in position
+  example:
+  - The archaeologists carefully studied the ancient artifacts in situ to preserve
+    their historical context.
   members:
   - in situ
   partOfSpeech: r
 00258633-r:
   definition:
   - used to refer to cited works
+  example:
+  - The music played throughout the entire building.
   ili: i19927
   members:
   - passim
@@ -2237,6 +2286,9 @@
 00267010-r:
   definition:
   - in an anterior direction
+  example:
+  - The bony structure of the skull is positioned further anteriorly than in other
+    species.
   ili: i19996
   members:
   - anteriorly
@@ -2300,6 +2352,8 @@
 00274669-r:
   definition:
   - at or near or toward the middle
+  example:
+  - The supplies were stowed amidship to keep the vessel balanced.
   ili: i20052
   members:
   - amidship
@@ -2371,6 +2425,8 @@
 00277506-r:
   definition:
   - with the legs stretched far apart
+  example:
+  - The traveler sat astride his horse as he surveyed the valley below.
   ili: i20073
   members:
   - astride
@@ -2378,6 +2434,9 @@
 00277575-r:
   definition:
   - at right angles to the center line of a ship
+  example:
+  - The sailboat drifted athwart the narrow channel, blocking the path of the oncoming
+    ferry.
   ili: i20074
   members:
   - athwart
@@ -2385,6 +2444,8 @@
 00277655-r:
   definition:
   - on, to, or at the top
+  example:
+  - The cat sat atop the fence to watch the birds in the yard.
   ili: i20075
   members:
   - atop
@@ -2429,6 +2490,8 @@
 00292166-r:
   definition:
   - by means of cytoplasm
+  example:
+  - A transit peptide lets the cytoplasmically made protein enter chloroplasts.
   ili: i20173
   members:
   - cytoplasmically
@@ -2582,6 +2645,8 @@
 00357947-r:
   definition:
   - in the preceding part of the current text
+  example:
+  - The parties agree to the terms and conditions hereinbefore set forth in this agreement.
   ili: i20595
   members:
   - hereinbefore
@@ -2696,6 +2761,8 @@
 00389359-r:
   definition:
   - armed and prepared for fighting
+  example:
+  - The athlete applied the ointment under arms to prevent chafing during the race.
   ili: i20797
   members:
   - under arms
@@ -2801,6 +2868,8 @@
 00413571-r:
   definition:
   - to, toward, or in the northeast
+  example:
+  - The hikers headed north-east to find the mountain trail.
   ili: i20962
   members:
   - northeast
@@ -2810,6 +2879,8 @@
 00413665-r:
   definition:
   - to, toward, or in the northwest
+  example:
+  - The storm is moving north-west at ten miles per hour.
   ili: i20963
   members:
   - northwest
@@ -2819,6 +2890,8 @@
 00413759-r:
   definition:
   - to, toward, or in the north-northeast
+  example:
+  - The ship continued to sail north-northeast through the calm waters.
   ili: i20964
   members:
   - north-northeast
@@ -2827,6 +2900,8 @@
 00413857-r:
   definition:
   - to, toward, or in the north-northwest
+  example:
+  - The storm is currently moving north-northwest at ten miles per hour.
   ili: i20965
   members:
   - north-northwest
@@ -2835,6 +2910,8 @@
 00415483-r:
   definition:
   - illegally in advance of the ball or puck
+  example:
+  - The goal was disallowed because the striker was standing offside.
   ili: i20976
   members:
   - offside
@@ -2898,6 +2975,8 @@
 00449404-r:
   definition:
   - in the direction of the coast
+  example:
+  - The ship turned and began to sail coastward as the storm approached.
   ili: i21226
   members:
   - coastward
@@ -3217,6 +3296,8 @@
 00497507-r:
   definition:
   - from what place, source, or cause
+  example:
+  - From whence does his avatars appear, and who is to blame?
   ili: i21591
   members:
   - whence
@@ -3224,6 +3305,8 @@
 00497575-r:
   definition:
   - where in the world; location, singular, elective existential pronoun
+  example:
+  - We can go wherever you like.
   ili: i21592
   members:
   - wherever
@@ -3243,6 +3326,8 @@
 00500491-r:
   definition:
   - in the space between decks, on a ship
+  example:
+  - We're showing damage between decks.
   ili: i21617
   members:
   - between decks
@@ -3329,6 +3414,8 @@
 00507966-r:
   definition:
   - toward the posterior end of the body
+  example:
+  - The first incision is extended caudally into the right ventricle.
   ili: i21678
   members:
   - caudally
@@ -3402,6 +3489,8 @@
 00515036-r:
   definition:
   - in an abaxial manner
+  example:
+  - The biologist noted that the stomata were located abaxially on the leaf surface.
   ili: i21736
   members:
   - abaxially
@@ -3409,6 +3498,8 @@
 00515130-r:
   definition:
   - in an adaxial manner
+  example:
+  - The leaves are positioned adaxially, facing toward the stem of the plant.
   ili: i21737
   members:
   - adaxially
@@ -3463,4 +3554,19 @@
   ili: i21716
   members:
   - out of place
+  partOfSpeech: r
+81519324-r:
+  definition:
+  - under that
+  domain_topic:
+  - 08458195-n
+  example:
+  - source: SemCor
+    text: so construed as to deprive the owner of any background patent relating thereto
+      of such rights as he may have thereunder
+  - source: https://www.federalregister.gov/documents/2021/01/11/2020-25236/revisions-to-civil-penalty-amounts
+    text: A person who knowingly violates a requirement of the Federal hazardous material
+      transportation law, an order issued thereunder
+  members:
+  - thereunder
   partOfSpeech: r
