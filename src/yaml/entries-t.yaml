@@ -4931,7 +4931,7 @@ tacit consent:
 tacitly:
   r:
     sense:
-    - id: 'tacitly%4:02:00::'
+    - id: 'tacitly%4:45:00::'
       pertainym:
       - tacit%5:00:00:implicit:00
       synset: 00475152-r
@@ -4959,7 +4959,7 @@ taciturnity:
 taciturnly:
   r:
     sense:
-    - id: 'taciturnly%4:02:00::'
+    - id: 'taciturnly%4:45:00::'
       pertainym:
       - 'taciturn%3:00:00::'
       synset: 00112833-r
@@ -5225,8 +5225,8 @@ tactfully:
   r:
     sense:
     - antonym:
-      - 'tactlessly%4:02:00::'
-      id: 'tactfully%4:02:00::'
+      - 'tactlessly%4:45:00::'
+      id: 'tactfully%4:45:00::'
       pertainym:
       - 'tactful%3:00:00::'
       synset: 00475301-r
@@ -5286,7 +5286,7 @@ tactical warning:
 tactically:
   r:
     sense:
-    - id: 'tactically%4:02:00::'
+    - id: 'tactically%4:52:00::'
       pertainym:
       - 'tactical%3:01:00::'
       synset: 00475679-r
@@ -5374,8 +5374,8 @@ tactlessly:
   r:
     sense:
     - antonym:
-      - 'tactfully%4:02:00::'
-      id: 'tactlessly%4:02:00::'
+      - 'tactfully%4:45:00::'
+      id: 'tactlessly%4:45:00::'
       pertainym:
       - 'tactless%3:00:00::'
       synset: 00475469-r
@@ -5414,7 +5414,7 @@ tactual sensation:
 tactually:
   r:
     sense:
-    - id: 'tactually%4:02:00::'
+    - id: 'tactually%4:45:00::'
       pertainym:
       - 'tactual%3:01:00::'
       synset: 00199833-r
@@ -8285,7 +8285,7 @@ talkative:
 talkatively:
   r:
     sense:
-    - id: 'talkatively%4:02:00::'
+    - id: 'talkatively%4:45:00::'
       pertainym:
       - talkative%5:00:00:voluble:00
       synset: 00394779-r
@@ -8322,7 +8322,7 @@ talkie:
 talkily:
   r:
     sense:
-    - id: 'talkily%4:02:00::'
+    - id: 'talkily%4:45:00::'
       pertainym:
       - talky%5:00:00:voluble:00
       synset: 00394779-r
@@ -8884,7 +8884,7 @@ tamed:
 tamely:
   r:
     sense:
-    - id: 'tamely%4:02:00::'
+    - id: 'tamely%4:45:00::'
       pertainym:
       - 'tame%3:00:02::'
       synset: 00475829-r
@@ -9098,7 +9098,7 @@ tandem:
     pronunciation:
     - value: ˈtæn.dəm
     sense:
-    - id: 'tandem%4:02:00::'
+    - id: 'tandem%4:45:00::'
       synset: 00259144-r
 tandem bicycle:
   n:
@@ -9213,7 +9213,7 @@ tangentially:
     pronunciation:
     - value: tænˈd͡ʒɛnʃi.əli
     sense:
-    - id: 'tangentially%4:02:00::'
+    - id: 'tangentially%4:45:00::'
       pertainym:
       - tangential%5:00:00:irrelevant:00
       synset: 00145227-r
@@ -9299,7 +9299,7 @@ tangibleness:
 tangibly:
   r:
     sense:
-    - id: 'tangibly%4:02:00::'
+    - id: 'tangibly%4:45:00::'
       pertainym:
       - 'tangible%3:00:02::'
       synset: 00475966-r
@@ -9828,7 +9828,7 @@ tantalizing:
 tantalizingly:
   r:
     sense:
-    - id: 'tantalizingly%4:02:00::'
+    - id: 'tantalizingly%4:45:00::'
       pertainym:
       - tantalizing%5:00:02:inviting:00
       synset: 00197312-r
@@ -10671,9 +10671,9 @@ tardigrade:
 tardily:
   r:
     sense:
-    - id: 'tardily%4:02:00::'
+    - id: 'tardily%4:45:00::'
       synset: 00162829-r
-    - id: 'tardily%4:02:01::'
+    - id: 'tardily%4:49:01::'
       pertainym:
       - tardy%5:00:00:unpunctual:00
       synset: 00100817-r
@@ -11215,7 +11215,7 @@ tartlet:
 tartly:
   r:
     sense:
-    - id: 'tartly%4:02:00::'
+    - id: 'tartly%4:45:00::'
       pertainym:
       - tart%5:00:00:unpleasant:00
       synset: 00476072-r
@@ -11537,8 +11537,8 @@ tastefully:
   r:
     sense:
     - antonym:
-      - 'tastelessly%4:02:00::'
-      id: 'tastefully%4:02:00::'
+      - 'tastelessly%4:45:00::'
+      id: 'tastefully%4:45:00::'
       pertainym:
       - 'tasteful%3:00:02::'
       synset: 00476193-r
@@ -11570,8 +11570,8 @@ tastelessly:
   r:
     sense:
     - antonym:
-      - 'tastefully%4:02:00::'
-      id: 'tastelessly%4:02:00::'
+      - 'tastefully%4:45:00::'
+      id: 'tastelessly%4:45:00::'
       pertainym:
       - 'tasteless%3:00:02::'
       synset: 00476348-r
@@ -11601,11 +11601,11 @@ taster:
 tastily:
   r:
     sense:
-    - id: 'tastily%4:02:00::'
+    - id: 'tastily%4:45:00::'
       pertainym:
       - 'tasty%3:00:00::'
       synset: 00476516-r
-    - id: 'tastily%4:02:01::'
+    - id: 'tastily%4:45:01::'
       synset: 00476193-r
 tastiness:
   n:
@@ -11737,7 +11737,7 @@ tattered:
 tattily:
   r:
     sense:
-    - id: 'tattily%4:02:00::'
+    - id: 'tattily%4:45:00::'
       pertainym:
       - tatty%5:00:00:tasteless:02
       synset: 00335934-r
@@ -11928,7 +11928,7 @@ taunting:
 tauntingly:
   r:
     sense:
-    - id: 'tauntingly%4:02:00::'
+    - id: 'tauntingly%4:45:00::'
       synset: 00476618-r
 tauon:
   n:
@@ -12015,7 +12015,7 @@ tauten:
 tautly:
   r:
     sense:
-    - id: 'tautly%4:02:00::'
+    - id: 'tautly%4:45:00::'
       pertainym:
       - taut%5:00:00:tense:01
       synset: 00476787-r
@@ -12094,7 +12094,7 @@ taw:
 tawdrily:
   r:
     sense:
-    - id: 'tawdrily%4:02:00::'
+    - id: 'tawdrily%4:45:00::'
       pertainym:
       - tawdry%5:00:00:tasteless:02
       synset: 00348805-r
@@ -12624,7 +12624,7 @@ taxonomical:
 taxonomically:
   r:
     sense:
-    - id: 'taxonomically%4:02:00::'
+    - id: 'taxonomically%4:52:00::'
       pertainym:
       - 'taxonomic%3:01:00::'
       synset: 00518567-r
@@ -13437,7 +13437,7 @@ tearful:
 tearfully:
   r:
     sense:
-    - id: 'tearfully%4:02:00::'
+    - id: 'tearfully%4:45:00::'
       pertainym:
       - tearful%5:00:00:sorrowful:00
       synset: 00476889-r
@@ -13696,7 +13696,7 @@ teasing:
 teasingly:
   r:
     sense:
-    - id: 'teasingly%4:02:00::'
+    - id: 'teasingly%4:45:00::'
       pertainym:
       - teasing%5:00:00:playful:00
       synset: 00476618-r
@@ -13875,13 +13875,13 @@ technically:
     pronunciation:
     - value: ˈtɛknɪkəli
     sense:
-    - id: 'technically%4:02:01::'
+    - id: 'technically%4:52:01::'
       pertainym:
       - 'technical%3:01:00::'
       synset: 00127856-r
-    - id: 'technically%4:02:00::'
+    - id: 'technically%4:52:00::'
       synset: 00127721-r
-    - id: 'technically%4:02:02::'
+    - id: 'technically%4:52:02::'
       synset: 00128014-r
 technician:
   n:
@@ -13974,7 +13974,7 @@ technological:
 technologically:
   r:
     sense:
-    - id: 'technologically%4:02:00::'
+    - id: 'technologically%4:52:00::'
       pertainym:
       - 'technological%3:01:00::'
       synset: 00146377-r
@@ -14126,7 +14126,7 @@ tedious:
 tediously:
   r:
     sense:
-    - id: 'tediously%4:02:00::'
+    - id: 'tediously%4:45:00::'
       pertainym:
       - tedious%5:00:00:uninteresting:00
       synset: 00216346-r
@@ -14830,7 +14830,7 @@ telegraphic signal:
 telegraphically:
   r:
     sense:
-    - id: 'telegraphically%4:02:00::'
+    - id: 'telegraphically%4:45:00::'
       pertainym:
       - telegraphic%5:00:00:concise:00
       synset: 00477033-r
@@ -15357,7 +15357,7 @@ telescopic sight:
 telescopically:
   r:
     sense:
-    - id: 'telescopically%4:02:00::'
+    - id: 'telescopically%4:45:00::'
       pertainym:
       - telescopic%5:00:00:collapsible:00
       synset: 00477225-r
@@ -15758,7 +15758,7 @@ telling:
 tellingly:
   r:
     sense:
-    - id: 'tellingly%4:02:00::'
+    - id: 'tellingly%4:45:00::'
       pertainym:
       - telling%5:00:00:informative:00
       synset: 00477436-r
@@ -16042,7 +16042,7 @@ temperamental:
 temperamentally:
   r:
     sense:
-    - id: 'temperamentally%4:02:00::'
+    - id: 'temperamentally%4:52:00::'
       pertainym:
       - 'temperamental%3:01:00::'
       synset: 00146491-r
@@ -16089,13 +16089,13 @@ temperate rain forest:
 temperately:
   r:
     sense:
-    - id: 'temperately%4:02:01::'
+    - id: 'temperately%4:45:01::'
       synset: 00477722-r
-    - id: 'temperately%4:02:00::'
+    - id: 'temperately%4:45:00::'
       pertainym:
       - 'temperate%3:00:00::'
       synset: 00477600-r
-    - id: 'temperately%4:02:02::'
+    - id: 'temperately%4:45:02::'
       pertainym:
       - 'temperate%3:00:00::'
       synset: 00265986-r
@@ -16405,7 +16405,7 @@ temporalization:
 temporally:
   r:
     sense:
-    - id: 'temporally%4:02:00::'
+    - id: 'temporally%4:45:00::'
       pertainym:
       - 'temporal%3:01:01::'
       synset: 00128223-r
@@ -16425,8 +16425,8 @@ temporarily:
       variety: GB
     sense:
     - antonym:
-      - 'permanently%4:02:00::'
-      id: 'temporarily%4:02:00::'
+      - 'permanently%4:49:00::'
+      id: 'temporarily%4:49:00::'
       pertainym:
       - 'temporary%3:00:00::'
       synset: 00088791-r
@@ -16680,7 +16680,7 @@ tempting:
 temptingly:
   r:
     sense:
-    - id: 'temptingly%4:02:00::'
+    - id: 'temptingly%4:45:00::'
       pertainym:
       - tempting%5:00:00:seductive:00
       synset: 00450023-r
@@ -16827,7 +16827,7 @@ tenaciously:
     pronunciation:
     - value: təˈneɪʃəsli
     sense:
-    - id: 'tenaciously%4:02:00::'
+    - id: 'tenaciously%4:45:00::'
       pertainym:
       - tenacious%5:00:00:stubborn:00
       synset: 00237428-r
@@ -16989,7 +16989,7 @@ tendentious:
 tendentiously:
   r:
     sense:
-    - id: 'tendentiously%4:02:00::'
+    - id: 'tendentiously%4:45:00::'
       pertainym:
       - tendentious%5:00:00:partisan:00
       synset: 00477828-r
@@ -17224,7 +17224,7 @@ tenderly:
     - value: ˈtɛn.də.li
       variety: GB
     sense:
-    - id: 'tenderly%4:02:00::'
+    - id: 'tenderly%4:45:00::'
       pertainym:
       - tender%5:00:00:loving:00
       synset: 00477976-r
@@ -17398,7 +17398,7 @@ tenfold:
       synset: 02228065-s
   r:
     sense:
-    - id: 'tenfold%4:02:00::'
+    - id: 'tenfold%4:51:00::'
       synset: 00247934-r
 tenge:
   n:
@@ -17719,7 +17719,7 @@ tensed:
 tensely:
   r:
     sense:
-    - id: 'tensely%4:02:00::'
+    - id: 'tensely%4:45:00::'
       pertainym:
       - 'tense%3:00:03::'
       synset: 00175276-r
@@ -17947,7 +17947,7 @@ tentatively:
     pronunciation:
     - value: ˈtɛntətɪvli
     sense:
-    - id: 'tentatively%4:02:00::'
+    - id: 'tentatively%4:45:00::'
       pertainym:
       - tentative%5:00:00:conditional:00
       synset: 00180698-r
@@ -17991,7 +17991,7 @@ tenth part:
 tenthly:
   r:
     sense:
-    - id: 'tenthly%4:02:00::'
+    - id: 'tenthly%4:53:00::'
       pertainym:
       - tenth%5:00:00:ordinal:00
       synset: 00478108-r
@@ -18054,7 +18054,7 @@ tenuous:
 tenuously:
   r:
     sense:
-    - id: 'tenuously%4:02:00::'
+    - id: 'tenuously%4:45:00::'
       pertainym:
       - tenuous%5:00:00:insignificant:00
       synset: 00229297-r
@@ -18136,7 +18136,7 @@ tepidity:
 tepidly:
   r:
     sense:
-    - id: 'tepidly%4:02:00::'
+    - id: 'tepidly%4:45:00::'
       synset: 00391708-r
 tepidness:
   n:
@@ -18560,7 +18560,7 @@ terminality:
 terminally:
   r:
     sense:
-    - id: 'terminally%4:02:00::'
+    - id: 'terminally%4:51:00::'
       pertainym:
       - 'terminal%3:01:00::'
       synset: 00128333-r
@@ -18994,11 +18994,11 @@ terrestrial time:
 terrestrially:
   r:
     sense:
-    - id: 'terrestrially%4:02:01::'
+    - id: 'terrestrially%4:52:01::'
       pertainym:
       - terrestrial%5:00:00:worldly:00
       synset: 00406789-r
-    - id: 'terrestrially%4:02:00::'
+    - id: 'terrestrially%4:50:00::'
       pertainym:
       - 'terrestrial%3:00:00::'
       synset: 00128418-r
@@ -19039,9 +19039,9 @@ terribly:
     pronunciation:
     - value: ˈtɛɹ.ɪ.bli
     sense:
-    - id: 'terribly%4:02:00::'
+    - id: 'terribly%4:51:00::'
       synset: 00055488-r
-    - id: 'terribly%4:02:01::'
+    - id: 'terribly%4:45:01::'
       pertainym:
       - terrible%5:00:01:bad:00
       synset: 00055639-r
@@ -19064,7 +19064,7 @@ terrific:
 terrifically:
   r:
     sense:
-    - id: 'terrifically%4:02:00::'
+    - id: 'terrifically%4:51:00::'
       pertainym:
       - terrific%5:00:00:extraordinary:00
       synset: 00184576-r
@@ -19256,7 +19256,7 @@ territorialize:
 territorially:
   r:
     sense:
-    - id: 'territorially%4:02:00::'
+    - id: 'territorially%4:52:00::'
       pertainym:
       - 'territorial%3:01:00::'
       synset: 00128524-r
@@ -19495,7 +19495,7 @@ terse:
 tersely:
   r:
     sense:
-    - id: 'tersely%4:02:00::'
+    - id: 'tersely%4:45:00::'
       pertainym:
       - terse%5:00:00:concise:00
       synset: 00477033-r
@@ -20065,7 +20065,7 @@ testify:
 testily:
   r:
     sense:
-    - id: 'testily%4:02:00::'
+    - id: 'testily%4:45:00::'
       pertainym:
       - testy%5:00:00:ill-natured:00
       synset: 00218072-r
@@ -20263,7 +20263,7 @@ tetchily:
     pronunciation:
     - value: ˈtɛtʃ.ɪ.li
     sense:
-    - id: 'tetchily%4:02:00::'
+    - id: 'tetchily%4:45:00::'
       pertainym:
       - tetchy%5:00:00:ill-natured:00
       synset: 00478247-r
@@ -20289,7 +20289,7 @@ tetchy:
 tete a tete:
   r:
     sense:
-    - id: 'tete_a_tete%4:02:00::'
+    - id: 'tete_a_tete%4:45:00::'
       synset: 00045694-r
 tete-a-tete:
   a:
@@ -20970,11 +20970,11 @@ thankful:
 thankfully:
   r:
     sense:
-    - id: 'thankfully%4:02:01::'
+    - id: 'thankfully%4:45:01::'
       pertainym:
       - 'thankful%3:00:00::'
       synset: 00201415-r
-    - id: 'thankfully%4:02:00::'
+    - id: 'thankfully%4:47:00::'
       synset: 00201311-r
 thankfulness:
   n:
@@ -21017,7 +21017,7 @@ thanksgiving:
 that is to say:
   r:
     sense:
-    - id: 'that_is_to_say%4:02:00::'
+    - id: 'that_is_to_say%4:53:00::'
       synset: 00190022-r
 thatch:
   n:
@@ -21217,7 +21217,7 @@ the hots:
 the least bit:
   r:
     sense:
-    - id: 'the_least_bit%4:02:00::'
+    - id: 'the_least_bit%4:51:00::'
       synset: 00057267-r
 the like:
   n:
@@ -21232,7 +21232,7 @@ the likes of:
 the other way around:
   r:
     sense:
-    - id: 'the_other_way_around%4:02:00::'
+    - id: 'the_other_way_around%4:54:00::'
       synset: 00179172-r
 the pits:
   n:
@@ -21284,7 +21284,7 @@ the ways of the world:
 the whole way:
   r:
     sense:
-    - id: 'the_whole_way%4:02:00::'
+    - id: 'the_whole_way%4:51:00::'
       synset: 00153124-r
 theanthropism:
   n:
@@ -21520,11 +21520,11 @@ theatricality:
 theatrically:
   r:
     sense:
-    - id: 'theatrically%4:02:00::'
+    - id: 'theatrically%4:45:00::'
       pertainym:
       - 'theatrical%3:00:00::'
       synset: 00467046-r
-    - id: 'theatrically%4:02:01::'
+    - id: 'theatrically%4:45:01::'
       pertainym:
       - 'theatrical%3:00:00::'
       synset: 00189760-r
@@ -21660,7 +21660,7 @@ thematic vowel:
 thematically:
   r:
     sense:
-    - id: 'thematically%4:02:00::'
+    - id: 'thematically%4:52:00::'
       pertainym:
       - 'thematic%3:01:00::'
       synset: 00128636-r
@@ -21723,16 +21723,16 @@ then:
     pronunciation:
     - value: ðɛn
     sense:
-    - id: 'then%4:02:00::'
+    - id: 'then%4:49:00::'
       synset: 00118527-r
-    - id: 'then%4:02:02::'
+    - id: 'then%4:54:02::'
       synset: 00118928-r
-    - id: 'then%4:02:01::'
+    - id: 'then%4:49:01::'
       synset: 00118799-r
 then again:
   r:
     sense:
-    - id: 'then_again%4:02:00::'
+    - id: 'then_again%4:54:00::'
       synset: 00120473-r
 thenal:
   a:
@@ -21778,11 +21778,11 @@ thence:
     pronunciation:
     - value: ðɛns
     sense:
-    - id: 'thence%4:02:01::'
+    - id: 'thence%4:50:01::'
       synset: 00044018-r
-    - id: 'thence%4:02:02::'
+    - id: 'thence%4:50:02::'
       synset: 00044204-r
-    - id: 'thence%4:02:00::'
+    - id: 'thence%4:47:00::'
       synset: 00043413-r
 thenceforth:
   r:
@@ -21792,7 +21792,7 @@ thenceforth:
     - value: ˌðɛnsˈfɔːɹθ
       variety: US
     sense:
-    - id: 'thenceforth%4:02:01::'
+    - id: 'thenceforth%4:49:01::'
       synset: 00147317-r
 theocentrism:
   n:
@@ -21888,11 +21888,11 @@ theological virtue:
 theologically:
   r:
     sense:
-    - id: 'theologically%4:02:01::'
+    - id: 'theologically%4:52:01::'
       pertainym:
       - 'theological%3:01:00::'
       synset: 00478533-r
-    - id: 'theologically%4:02:00::'
+    - id: 'theologically%4:52:00::'
       pertainym:
       - 'theological%3:01:00::'
       synset: 00478378-r
@@ -22052,13 +22052,13 @@ theoretical account:
 theoretically:
   r:
     sense:
-    - id: 'theoretically%4:02:00::'
+    - id: 'theoretically%4:52:00::'
       pertainym:
       - 'theoretical%3:00:00::'
       synset: 00171356-r
     - antonym:
-      - 'empirically%4:02:00::'
-      id: 'theoretically%4:02:01::'
+      - 'empirically%4:45:00::'
+      id: 'theoretically%4:45:01::'
       pertainym:
       - 'theoretical%3:00:00::'
       synset: 00171499-r
@@ -22361,7 +22361,7 @@ therapeutical:
 therapeutically:
   r:
     sense:
-    - id: 'therapeutically%4:02:00::'
+    - id: 'therapeutically%4:52:00::'
       pertainym:
       - therapeutic%5:00:00:healthful:00
       synset: 00128750-r
@@ -22417,30 +22417,30 @@ there:
       variety: AU
     sense:
     - antonym:
-      - 'here%4:02:00::'
-      id: 'there%4:02:00::'
+      - 'here%4:50:00::'
+      id: 'there%4:50:00::'
       synset: 00109919-r
-    - id: 'there%4:02:02::'
+    - id: 'there%4:52:02::'
       synset: 00110206-r
     - antonym:
-      - 'here%4:02:01::'
-      id: 'there%4:02:01::'
+      - 'here%4:50:01::'
+      id: 'there%4:50:01::'
       synset: 00110073-r
 thereabout:
   r:
     pronunciation:
     - value: ˌðɛəɹəˈbaʊt
     sense:
-    - id: 'thereabout%4:02:01::'
+    - id: 'thereabout%4:49:01::'
       synset: 00469848-r
-    - id: 'thereabout%4:02:00::'
+    - id: 'thereabout%4:50:00::'
       synset: 00469724-r
 thereabouts:
   r:
     sense:
-    - id: 'thereabouts%4:02:01::'
+    - id: 'thereabouts%4:49:01::'
       synset: 00469848-r
-    - id: 'thereabouts%4:02:00::'
+    - id: 'thereabouts%4:50:00::'
       synset: 00469724-r
 thereafter:
   r:
@@ -22450,7 +22450,7 @@ thereafter:
     - value: ˌðɛəɹˈæf.tɚ
       variety: US
     sense:
-    - id: 'thereafter%4:02:00::'
+    - id: 'thereafter%4:49:00::'
       synset: 00147317-r
 thereby:
   r:
@@ -22460,7 +22460,7 @@ thereby:
     - value: ðɛəˈbaɪ
       variety: GB
     sense:
-    - id: 'thereby%4:02:00::'
+    - id: 'thereby%4:45:00::'
       synset: 00121886-r
 therefor:
   r:
@@ -22470,7 +22470,7 @@ therefor:
     - value: ðɛəɹˈfɔɹ
       variety: US
     sense:
-    - id: 'therefor%4:02:00::'
+    - id: 'therefor%4:52:00::'
       synset: 00044486-r
 therefore:
   r:
@@ -22480,30 +22480,30 @@ therefore:
     - value: ˈðɛəɹfɔɹ
       variety: US
     sense:
-    - id: 'therefore%4:02:00::'
+    - id: 'therefore%4:47:00::'
       synset: 00043413-r
-    - id: 'therefore%4:02:01::'
+    - id: 'therefore%4:47:01::'
       synset: 00295773-r
 therefrom:
   r:
     pronunciation:
     - value: ˌðeəˈfɹɒm
     sense:
-    - id: 'therefrom%4:02:02::'
+    - id: 'therefrom%4:50:02::'
       synset: 00044204-r
-    - id: 'therefrom%4:02:01::'
+    - id: 'therefrom%4:50:01::'
       synset: 00044018-r
 therein:
   r:
     pronunciation:
     - value: ˈðeəɹˈɪn
     sense:
-    - id: 'therein%4:02:00::'
+    - id: 'therein%4:50:00::'
       synset: 00242166-r
 thereinafter:
   r:
     sense:
-    - id: 'thereinafter%4:02:00::'
+    - id: 'thereinafter%4:49:00::'
       synset: 00469954-r
 theremin:
   n:
@@ -22529,9 +22529,9 @@ thereof:
     - value: ðɛəˈɹɒv
       variety: GB
     sense:
-    - id: 'thereof%4:02:00::'
+    - id: 'thereof%4:52:00::'
       synset: 00470062-r
-    - id: 'thereof%4:02:02::'
+    - id: 'thereof%4:50:02::'
       synset: 00044204-r
 thereon:
   r:
@@ -22541,7 +22541,7 @@ thereon:
     - value: ðɛˈɹɑn
       variety: US
     sense:
-    - id: 'thereon%4:02:00::'
+    - id: 'thereon%4:50:00::'
       synset: 00470165-r
 thereto:
   r:
@@ -22551,29 +22551,29 @@ thereto:
     - value: ˌðɛɚˈtuː
       variety: US
     sense:
-    - id: 'thereto%4:02:00::'
+    - id: 'thereto%4:50:00::'
       synset: 00470257-r
 theretofore:
   r:
     sense:
-    - id: 'theretofore%4:02:00::'
+    - id: 'theretofore%4:49:00::'
       synset: 00504442-r
 thereunder:
   r:
     sense:
-    - id: 'thereunder%4:02:00::'
+    - id: 'thereunder%4:50:00::'
       synset: 81519324-r
 therewith:
   r:
     pronunciation:
     - value: ðɛəˈwɪθ
     sense:
-    - id: 'therewith%4:02:00::'
+    - id: 'therewith%4:45:00::'
       synset: 00470364-r
 therewithal:
   r:
     sense:
-    - id: 'therewithal%4:02:00::'
+    - id: 'therewithal%4:53:00::'
       synset: 00470504-r
 theridiid:
   n:
@@ -22677,7 +22677,7 @@ thermalgesia:
 thermally:
   r:
     sense:
-    - id: 'thermally%4:02:00::'
+    - id: 'thermally%4:45:00::'
       pertainym:
       - 'thermal%3:01:00::'
       synset: 00128942-r
@@ -22815,7 +22815,7 @@ thermodynamical:
 thermodynamically:
   r:
     sense:
-    - id: 'thermodynamically%4:02:00::'
+    - id: 'thermodynamically%4:52:00::'
       pertainym:
       - 'thermodynamic%3:01:00::'
       synset: 00079620-r
@@ -23101,7 +23101,7 @@ thermostatic:
 thermostatically:
   r:
     sense:
-    - id: 'thermostatically%4:02:00::'
+    - id: 'thermostatically%4:45:00::'
       pertainym:
       - 'thermostatic%3:01:00::'
       synset: 00478659-r
@@ -23293,9 +23293,9 @@ thick:
     - value: θɘk
       variety: NZ
     sense:
-    - id: 'thick%4:02:01::'
+    - id: 'thick%4:45:01::'
       synset: 00480171-r
-    - id: 'thick%4:02:00::'
+    - id: 'thick%4:48:00::'
       synset: 00479093-r
 thick skin:
   n:
@@ -23463,29 +23463,29 @@ thickly:
     pronunciation:
     - value: ˈθɪkli
     sense:
-    - id: 'thickly%4:02:02::'
+    - id: 'thickly%4:45:02::'
       pertainym:
       - thick%5:00:00:unintelligible:00
       synset: 00479325-r
     - antonym:
-      - 'thinly%4:02:02::'
-      id: 'thickly%4:02:01::'
+      - 'thinly%4:45:02::'
+      id: 'thickly%4:51:01::'
       pertainym:
       - thick%5:00:00:concentrated:00
       synset: 00301007-r
     - antonym:
-      - 'thinly%4:02:00::'
-      id: 'thickly%4:02:04::'
+      - 'thinly%4:45:00::'
+      id: 'thickly%4:45:04::'
       pertainym:
       - 'thick%3:00:02::'
       synset: 00480171-r
     - antonym:
-      - 'thinly%4:02:01::'
-      id: 'thickly%4:02:03::'
+      - 'thinly%4:45:01::'
+      id: 'thickly%4:45:03::'
       pertainym:
       - 'thick%3:00:01::'
       synset: 00479490-r
-    - id: 'thickly%4:02:00::'
+    - id: 'thickly%4:48:00::'
       synset: 00479093-r
 thickly settled:
   a:
@@ -23589,7 +23589,7 @@ thievish:
 thievishly:
   r:
     sense:
-    - id: 'thievishly%4:02:00::'
+    - id: 'thievishly%4:45:00::'
       pertainym:
       - thievish%5:00:00:dishonest:00
       synset: 00194810-r
@@ -23729,7 +23729,7 @@ thin:
     pronunciation:
     - value: ˈθɪn
     sense:
-    - id: 'thin%4:02:00::'
+    - id: 'thin%4:45:00::'
       synset: 00479945-r
   v:
     form:
@@ -24218,25 +24218,25 @@ thinly:
     pronunciation:
     - value: ˈθɪnli
     sense:
-    - id: 'thinly%4:02:03::'
+    - id: 'thinly%4:45:03::'
       pertainym:
       - thin%5:00:00:spiritless:00
       synset: 00480070-r
     - antonym:
-      - 'thickly%4:02:04::'
-      id: 'thinly%4:02:00::'
+      - 'thickly%4:45:04::'
+      id: 'thinly%4:45:00::'
       pertainym:
       - 'thin%3:00:02::'
       synset: 00479945-r
     - antonym:
-      - 'thickly%4:02:03::'
-      id: 'thinly%4:02:01::'
+      - 'thickly%4:45:03::'
+      id: 'thinly%4:45:01::'
       pertainym:
       - 'thin%3:00:01::'
       synset: 00479767-r
     - antonym:
-      - 'thickly%4:02:01::'
-      id: 'thinly%4:02:02::'
+      - 'thickly%4:51:01::'
+      id: 'thinly%4:45:02::'
       pertainym:
       - thin%5:00:00:distributed:00
       synset: 00479191-r
@@ -24411,7 +24411,7 @@ third:
       synset: 04432939-n
   r:
     sense:
-    - id: 'third%4:02:00::'
+    - id: 'third%4:53:00::'
       synset: 00103536-r
 third base:
   n:
@@ -24586,7 +24586,7 @@ thirdhand:
       synset: 01861099-s
   r:
     sense:
-    - id: 'thirdhand%4:02:00::'
+    - id: 'thirdhand%4:45:00::'
       pertainym:
       - thirdhand%5:00:00:secondary:01
       synset: 00059516-r
@@ -24598,7 +24598,7 @@ thirdly:
     - value: ˈθɚdli
       variety: US
     sense:
-    - id: 'thirdly%4:02:00::'
+    - id: 'thirdly%4:53:00::'
       synset: 00103536-r
 thirst:
   n:
@@ -24654,11 +24654,11 @@ thirster:
 thirstily:
   r:
     sense:
-    - id: 'thirstily%4:02:00::'
+    - id: 'thirstily%4:45:00::'
       pertainym:
       - 'thirsty%3:00:00::'
       synset: 00480306-r
-    - id: 'thirstily%4:02:01::'
+    - id: 'thirstily%4:45:01::'
       pertainym:
       - thirsty%5:00:00:desirous:00
       synset: 00202206-r
@@ -24884,12 +24884,12 @@ thirty-two:
 this evening:
   r:
     sense:
-    - id: 'this_evening%4:02:00::'
+    - id: 'this_evening%4:49:00::'
       synset: 00079765-r
 this night:
   r:
     sense:
-    - id: 'this_night%4:02:00::'
+    - id: 'this_night%4:49:00::'
       synset: 00079765-r
 thistle:
   n:
@@ -24913,7 +24913,7 @@ thither:
     pronunciation:
     - value: ˈðɪðəɹ
     sense:
-    - id: 'thither%4:02:00::'
+    - id: 'thither%4:50:00::'
       synset: 00110073-r
 thole:
   n:
@@ -25211,11 +25211,11 @@ thoroughly:
     - value: θɜːɹ.ə.lɪ
       variety: US
     sense:
-    - id: 'thoroughly%4:02:00::'
+    - id: 'thoroughly%4:45:00::'
       pertainym:
       - thorough%5:00:00:careful:00
       synset: 00057795-r
-    - id: 'thoroughly%4:02:01::'
+    - id: 'thoroughly%4:51:01::'
       pertainym:
       - thorough%5:00:00:complete:00
       synset: 00057926-r
@@ -25259,7 +25259,7 @@ though:
     - value: ðoʊ
       variety: US
     sense:
-    - id: 'though%4:02:01::'
+    - id: 'though%4:54:01::'
       synset: 00120034-r
 thought:
   n:
@@ -25361,14 +25361,14 @@ thoughtfully:
     - value: ˈθɑtfəli
     sense:
     - antonym:
-      - 'thoughtlessly%4:02:01::'
-      id: 'thoughtfully%4:02:01::'
+      - 'thoughtlessly%4:45:01::'
+      id: 'thoughtfully%4:45:01::'
       pertainym:
       - 'thoughtful%3:00:00::'
       synset: 00218585-r
     - antonym:
-      - 'thoughtlessly%4:02:00::'
-      id: 'thoughtfully%4:02:00::'
+      - 'thoughtlessly%4:45:00::'
+      id: 'thoughtfully%4:45:00::'
       pertainym:
       - thoughtful%5:00:00:considerate:00
       synset: 00218268-r
@@ -25425,14 +25425,14 @@ thoughtlessly:
     - value: ˈθɔt.lɪs.li
     sense:
     - antonym:
-      - 'thoughtfully%4:02:01::'
-      id: 'thoughtlessly%4:02:01::'
+      - 'thoughtfully%4:45:01::'
+      id: 'thoughtlessly%4:45:01::'
       pertainym:
       - 'thoughtless%3:00:00::'
       synset: 00218725-r
     - antonym:
-      - 'thoughtfully%4:02:00::'
-      id: 'thoughtlessly%4:02:00::'
+      - 'thoughtfully%4:45:00::'
+      id: 'thoughtlessly%4:45:00::'
       pertainym:
       - thoughtless%5:00:00:inconsiderate:00
       synset: 00218444-r
@@ -25467,12 +25467,12 @@ thousand:
 thousand times:
   r:
     sense:
-    - id: 'thousand_times%4:02:00::'
+    - id: 'thousand_times%4:51:00::'
       synset: 00141305-r
 thousand-fold:
   r:
     sense:
-    - id: 'thousand-fold%4:02:00::'
+    - id: 'thousand-fold%4:51:00::'
       synset: 00141305-r
 thousandth:
   a:
@@ -25830,7 +25830,7 @@ threatening:
 threateningly:
   r:
     sense:
-    - id: 'threateningly%4:02:00::'
+    - id: 'threateningly%4:45:00::'
       pertainym:
       - threatening%5:00:00:alarming:00
       synset: 00401712-r
@@ -25857,7 +25857,7 @@ three hundred:
 three times:
   r:
     sense:
-    - id: 'three_times%4:02:01::'
+    - id: 'three_times%4:51:01::'
       synset: 00478811-r
 three year old:
   n:
@@ -26173,7 +26173,7 @@ threefold:
       synset: 02225486-s
   r:
     sense:
-    - id: 'threefold%4:02:00::'
+    - id: 'threefold%4:51:00::'
       synset: 00478811-r
 threepence:
   n:
@@ -26353,7 +26353,7 @@ thrice:
     pronunciation:
     - value: θɹaɪs
     sense:
-    - id: 'thrice%4:02:00::'
+    - id: 'thrice%4:48:00::'
       synset: 00259294-r
 thrift:
   n:
@@ -26375,7 +26375,7 @@ thrift institution:
 thriftily:
   r:
     sense:
-    - id: 'thriftily%4:02:00::'
+    - id: 'thriftily%4:45:00::'
       pertainym:
       - 'thrifty%3:00:00::'
       synset: 00480442-r
@@ -26397,7 +26397,7 @@ thriftless:
 thriftlessly:
   r:
     sense:
-    - id: 'thriftlessly%4:02:00::'
+    - id: 'thriftlessly%4:45:00::'
       pertainym:
       - thriftless%5:00:00:improvident:00
       synset: 00480643-r
@@ -26976,25 +26976,25 @@ through:
     - value: θɹu
       variety: US
     sense:
-    - id: 'through%4:02:03::'
+    - id: 'through%4:51:03::'
       synset: 00480952-r
-    - id: 'through%4:02:01::'
+    - id: 'through%4:50:01::'
       synset: 00480765-r
-    - id: 'through%4:02:04::'
+    - id: 'through%4:45:04::'
       synset: 00481035-r
-    - id: 'through%4:02:02::'
+    - id: 'through%4:50:02::'
       synset: 00480861-r
-    - id: 'through%4:02:05::'
+    - id: 'through%4:51:05::'
       synset: 00058164-r
 through an experiment:
   r:
     sense:
-    - id: 'through_an_experiment%4:02:00::'
+    - id: 'through_an_experiment%4:45:00::'
       synset: 00085689-r
 through and through:
   r:
     sense:
-    - id: 'through_and_through%4:02:00::'
+    - id: 'through_and_through%4:51:00::'
       synset: 00058164-r
 through bill of lading:
   n:
@@ -27004,7 +27004,7 @@ through bill of lading:
 through empirical observation:
   r:
     sense:
-    - id: 'through_empirical_observation%4:02:00::'
+    - id: 'through_empirical_observation%4:45:00::'
       synset: 00084388-r
 through with:
   a:
@@ -27021,9 +27021,9 @@ throughout:
     - value: θɹuˈʌʊt
       variety: CA
     sense:
-    - id: 'throughout%4:02:00::'
+    - id: 'throughout%4:49:00::'
       synset: 00103637-r
-    - id: 'throughout%4:02:02::'
+    - id: 'throughout%4:50:02::'
       synset: 00258633-r
 throughput:
   n:
@@ -28108,21 +28108,21 @@ thus:
       synset: 14898102-n
   r:
     sense:
-    - id: 'thus%4:02:00::'
+    - id: 'thus%4:47:00::'
       synset: 00043413-r
-    - id: 'thus%4:02:01::'
+    - id: 'thus%4:45:01::'
       synset: 00122019-r
 thus far:
   r:
     sense:
-    - id: 'thus_far%4:02:00::'
+    - id: 'thus_far%4:49:00::'
       synset: 00028314-r
 thusly:
   r:
     pronunciation:
     - value: ˈðʌs.li
     sense:
-    - id: 'thusly%4:02:00::'
+    - id: 'thusly%4:45:00::'
       synset: 00122019-r
 thwack:
   n:
@@ -29152,7 +29152,7 @@ tideway:
 tidily:
   r:
     sense:
-    - id: 'tidily%4:02:00::'
+    - id: 'tidily%4:45:00::'
       pertainym:
       - 'tidy%3:00:00::'
       synset: 00403093-r
@@ -29723,9 +29723,9 @@ tight:
     pronunciation:
     - value: taɪt
     sense:
-    - id: 'tight%4:02:00::'
+    - id: 'tight%4:45:00::'
       synset: 00086892-r
-    - id: 'tight%4:02:02::'
+    - id: 'tight%4:45:02::'
       synset: 00507682-r
 tight end:
   n:
@@ -29836,11 +29836,11 @@ tightly:
     pronunciation:
     - value: ˈtaɪtli
     sense:
-    - id: 'tightly%4:02:02::'
+    - id: 'tightly%4:45:02::'
       pertainym:
       - 'tight%3:00:01::'
       synset: 00301391-r
-    - id: 'tightly%4:02:01::'
+    - id: 'tightly%4:45:01::'
       pertainym:
       - tight%5:00:00:secure:03
       synset: 00093119-r
@@ -29939,7 +29939,7 @@ tike:
 til now:
   r:
     sense:
-    - id: 'til_now%4:02:00::'
+    - id: 'til_now%4:49:00::'
       synset: 00028314-r
 tilde:
   n:
@@ -30049,7 +30049,7 @@ till:
 till now:
   r:
     sense:
-    - id: 'till_now%4:02:00::'
+    - id: 'till_now%4:49:00::'
       synset: 00028314-r
 tillable:
   a:
@@ -30464,7 +30464,7 @@ time and a half:
 time and again:
   r:
     sense:
-    - id: 'time_and_again%4:02:00::'
+    - id: 'time_and_again%4:48:00::'
       synset: 00178467-r
 time and motion study:
   n:
@@ -30474,7 +30474,7 @@ time and motion study:
 time and time again:
   r:
     sense:
-    - id: 'time_and_time_again%4:02:00::'
+    - id: 'time_and_time_again%4:48:00::'
       synset: 00178467-r
 time being:
   n:
@@ -30868,7 +30868,7 @@ timely:
     pronunciation:
     - value: ˈtaɪmli
     sense:
-    - id: 'timely%4:02:00::'
+    - id: 'timely%4:49:00::'
       synset: 00275183-r
 timepiece:
   n:
@@ -30996,7 +30996,7 @@ timidity:
 timidly:
   r:
     sense:
-    - id: 'timidly%4:02:00::'
+    - id: 'timidly%4:45:00::'
       pertainym:
       - 'timid%3:00:00::'
       synset: 00230526-r
@@ -31043,7 +31043,7 @@ timorous:
 timorously:
   r:
     sense:
-    - id: 'timorously%4:02:00::'
+    - id: 'timorously%4:45:00::'
       pertainym:
       - timorous%5:00:00:timid:00
       synset: 00481122-r
@@ -32020,7 +32020,7 @@ tip-tilted:
 tip-top:
   r:
     sense:
-    - id: 'tip-top%4:02:00::'
+    - id: 'tip-top%4:51:00::'
       synset: 00481239-r
 tip-top table:
   n:
@@ -32175,7 +32175,7 @@ tiptoe:
       synset: 05584935-n
   r:
     sense:
-    - id: 'tiptoe%4:02:00::'
+    - id: 'tiptoe%4:45:00::'
       synset: 00481324-r
   v:
     pronunciation:
@@ -32314,7 +32314,7 @@ tired of:
 tiredly:
   r:
     sense:
-    - id: 'tiredly%4:02:00::'
+    - id: 'tiredly%4:45:00::'
       pertainym:
       - 'tired%3:00:00::'
       synset: 00090912-r
@@ -32339,7 +32339,7 @@ tireless:
 tirelessly:
   r:
     sense:
-    - id: 'tirelessly%4:02:00::'
+    - id: 'tirelessly%4:45:00::'
       pertainym:
       - tireless%5:00:00:energetic:00
       synset: 00053027-r
@@ -32366,7 +32366,7 @@ tiresome:
 tiresomely:
   r:
     sense:
-    - id: 'tiresomely%4:02:00::'
+    - id: 'tiresomely%4:45:00::'
       pertainym:
       - tiresome%5:00:00:uninteresting:00
       synset: 00216346-r
@@ -33015,97 +33015,97 @@ tkm:
 to a T:
   r:
     sense:
-    - id: 'to_a_t%4:02:00::'
+    - id: 'to_a_t%4:45:00::'
       synset: 00173452-r
 to a fault:
   r:
     sense:
-    - id: 'to_a_fault%4:02:00::'
+    - id: 'to_a_fault%4:51:00::'
       synset: 00047930-r
 to a great extent:
   r:
     sense:
-    - id: 'to_a_great_extent%4:02:00::'
+    - id: 'to_a_great_extent%4:51:00::'
       synset: 00177869-r
 to a greater extent:
   r:
     sense:
-    - id: 'to_a_greater_extent%4:02:01::'
+    - id: 'to_a_greater_extent%4:51:01::'
       synset: 00099891-r
 to a higher place:
   r:
     sense:
-    - id: 'to_a_higher_place%4:02:00::'
+    - id: 'to_a_higher_place%4:50:00::'
       synset: 00080519-r
 to a lesser extent:
   r:
     sense:
-    - id: 'to_a_lesser_extent%4:02:00::'
+    - id: 'to_a_lesser_extent%4:51:00::'
       synset: 00100077-r
 to a lower place:
   r:
     sense:
-    - id: 'to_a_lower_place%4:02:01::'
+    - id: 'to_a_lower_place%4:50:01::'
       synset: 00080389-r
 to a man:
   r:
     sense:
-    - id: 'to_a_man%4:02:00::'
+    - id: 'to_a_man%4:53:00::'
       synset: 00173363-r
 to advantage:
   r:
     sense:
-    - id: 'to_advantage%4:02:00::'
+    - id: 'to_advantage%4:45:00::'
       synset: 00173213-r
 to all intents and purposes:
   r:
     sense:
-    - id: 'to_all_intents_and_purposes%4:02:01::'
+    - id: 'to_all_intents_and_purposes%4:52:01::'
       synset: 00060838-r
 to and fro:
   r:
     sense:
-    - id: 'to_and_fro%4:02:00::'
+    - id: 'to_and_fro%4:45:00::'
       synset: 00076459-r
 to be precise:
   r:
     sense:
-    - id: 'to_be_precise%4:02:00::'
+    - id: 'to_be_precise%4:47:00::'
       synset: 00150568-r
 to be sure:
   r:
     sense:
-    - id: 'to_be_sure%4:02:00::'
+    - id: 'to_be_sure%4:47:00::'
       synset: 00151192-r
 to begin with:
   r:
     sense:
-    - id: 'to_begin_with%4:02:00::'
+    - id: 'to_begin_with%4:49:00::'
       synset: 00168316-r
 to boot:
   r:
     sense:
-    - id: 'to_boot%4:02:00::'
+    - id: 'to_boot%4:53:00::'
       synset: 00046607-r
 to both ears:
   r:
     sense:
-    - id: 'to_both_ears%4:02:00::'
+    - id: 'to_both_ears%4:45:00::'
       synset: 00209272-r
 to date:
   r:
     sense:
-    - id: 'to_date%4:02:00::'
+    - id: 'to_date%4:49:00::'
       synset: 00173583-r
 to each one:
   r:
     sense:
-    - id: 'to_each_one%4:02:00::'
+    - id: 'to_each_one%4:53:00::'
       synset: 00241635-r
 to it:
   r:
     sense:
-    - id: 'to_it%4:02:00::'
+    - id: 'to_it%4:50:00::'
       synset: 00470257-r
 to leeward:
   n:
@@ -33115,77 +33115,77 @@ to leeward:
 to no degree:
   r:
     sense:
-    - id: 'to_no_degree%4:02:00::'
+    - id: 'to_no_degree%4:51:00::'
       synset: 00413480-r
 to one ear:
   r:
     sense:
-    - id: 'to_one_ear%4:02:00::'
+    - id: 'to_one_ear%4:45:00::'
       synset: 00209438-r
 to order:
   r:
     sense:
-    - id: 'to_order%4:02:00::'
+    - id: 'to_order%4:45:00::'
       synset: 00173693-r
 to perfection:
   r:
     sense:
-    - id: 'to_perfection%4:02:00::'
+    - id: 'to_perfection%4:45:00::'
       synset: 00173452-r
 to that:
   r:
     sense:
-    - id: 'to_that%4:02:00::'
+    - id: 'to_that%4:50:00::'
       synset: 00470257-r
 to that degree:
   r:
     sense:
-    - id: 'to_that_degree%4:02:00::'
+    - id: 'to_that_degree%4:51:00::'
       synset: 00099509-r
 to that effect:
   r:
     sense:
-    - id: 'to_that_effect%4:02:00::'
+    - id: 'to_that_effect%4:52:00::'
       synset: 00173875-r
 to that extent:
   r:
     sense:
-    - id: 'to_that_extent%4:02:00::'
+    - id: 'to_that_extent%4:51:00::'
       synset: 00099509-r
 to the contrary:
   r:
     sense:
-    - id: 'to_the_contrary%4:02:00::'
+    - id: 'to_the_contrary%4:54:00::'
       synset: 00171723-r
 to the full:
   r:
     sense:
-    - id: 'to_the_full%4:02:00::'
+    - id: 'to_the_full%4:51:00::'
       synset: 00010928-r
 to the highest degree:
   r:
     sense:
-    - id: 'to_the_highest_degree%4:02:00::'
+    - id: 'to_the_highest_degree%4:51:00::'
       synset: 00112352-r
 to the hilt:
   r:
     sense:
-    - id: 'to_the_hilt%4:02:00::'
+    - id: 'to_the_hilt%4:51:00::'
       synset: 00173980-r
 to the letter:
   r:
     sense:
-    - id: 'to_the_letter%4:02:00::'
+    - id: 'to_the_letter%4:45:00::'
       synset: 00173452-r
 to the limit:
   r:
     sense:
-    - id: 'to_the_limit%4:02:00::'
+    - id: 'to_the_limit%4:51:00::'
       synset: 00173980-r
 to the lowest degree:
   r:
     sense:
-    - id: 'to_the_lowest_degree%4:02:00::'
+    - id: 'to_the_lowest_degree%4:51:00::'
       synset: 00112501-r
 to the point:
   a:
@@ -33195,12 +33195,12 @@ to the point:
 to the south:
   r:
     sense:
-    - id: 'to_the_south%4:02:00::'
+    - id: 'to_the_south%4:50:00::'
       synset: 00245397-r
 to wit:
   r:
     sense:
-    - id: 'to_wit%4:02:00::'
+    - id: 'to_wit%4:53:00::'
       synset: 00190022-r
 to-do:
   n:
@@ -33644,9 +33644,9 @@ today:
     - value: təˈdeɪ
       variety: US
     sense:
-    - id: 'today%4:02:01::'
+    - id: 'today%4:49:01::'
       synset: 00049013-r
-    - id: 'today%4:02:00::'
+    - id: 'today%4:49:00::'
       synset: 00208693-r
 toddle:
   v:
@@ -33791,7 +33791,7 @@ toe-in:
 toe-to-toe:
   r:
     sense:
-    - id: 'toe-to-toe%4:02:00::'
+    - id: 'toe-to-toe%4:45:00::'
       synset: 00117297-r
 toea:
   n:
@@ -33955,22 +33955,22 @@ together:
     - value: tʊˈɡɛðɚ
       variety: US
     sense:
-    - id: 'together%4:02:02::'
+    - id: 'together%4:45:02::'
       synset: 00117698-r
-    - id: 'together%4:02:03::'
+    - id: 'together%4:45:03::'
       synset: 00117901-r
-    - id: 'together%4:02:10::'
+    - id: 'together%4:45:10::'
       synset: 00510460-r
-    - id: 'together%4:02:00::'
+    - id: 'together%4:45:00::'
       synset: 00117417-r
-    - id: 'together%4:02:01::'
+    - id: 'together%4:45:01::'
       synset: 00117495-r
-    - id: 'together%4:02:05::'
+    - id: 'together%4:45:05::'
       synset: 00117612-r
 together with:
   r:
     sense:
-    - id: 'together_with%4:02:00::'
+    - id: 'together_with%4:45:00::'
       synset: 00117989-r
 togetherness:
   n:
@@ -34351,8 +34351,8 @@ tolerably:
       variety: GB
     sense:
     - antonym:
-      - 'intolerably%4:02:00::'
-      id: 'tolerably%4:02:01::'
+      - 'intolerably%4:51:00::'
+      id: 'tolerably%4:45:01::'
       pertainym:
       - 'tolerable%3:00:00::'
       synset: 00055850-r
@@ -34411,8 +34411,8 @@ tolerantly:
   r:
     sense:
     - antonym:
-      - 'intolerantly%4:02:01::'
-      id: 'tolerantly%4:02:00::'
+      - 'intolerantly%4:45:01::'
+      id: 'tolerantly%4:45:00::'
       pertainym:
       - 'tolerant%3:00:00::'
       synset: 00382666-r
@@ -34947,7 +34947,7 @@ tomorrow:
     - value: təˈmɔɹoʊ
       variety: CA
     sense:
-    - id: 'tomorrow%4:02:00::'
+    - id: 'tomorrow%4:49:00::'
       synset: 00481406-r
 tompion:
   n:
@@ -35022,7 +35022,7 @@ tonality:
 tonally:
   r:
     sense:
-    - id: 'tonally%4:02:01::'
+    - id: 'tonally%4:52:01::'
       synset: 91001531-r
 tone:
   n:
@@ -35216,7 +35216,7 @@ toneless:
 tonelessly:
   r:
     sense:
-    - id: 'tonelessly%4:02:00::'
+    - id: 'tonelessly%4:45:00::'
       pertainym:
       - 'toneless%3:00:00::'
       synset: 00481497-r
@@ -35342,9 +35342,9 @@ tongue-in-cheek:
       synset: 01268023-s
   r:
     sense:
-    - id: 'tongue-in-cheek%4:02:02::'
+    - id: 'tongue-in-cheek%4:45:02::'
       synset: 00279158-r
-    - id: 'tongue-in-cheek%4:02:00::'
+    - id: 'tongue-in-cheek%4:45:00::'
       synset: 00086017-r
 tongue-lashing:
   n:
@@ -35495,7 +35495,7 @@ tonight:
     pronunciation:
     - value: təˈnaɪt
     sense:
-    - id: 'tonight%4:02:00::'
+    - id: 'tonight%4:49:00::'
       synset: 00079765-r
 tonka bean:
   n:
@@ -35674,9 +35674,9 @@ too:
     - value: tu
       variety: US
     sense:
-    - id: 'too%4:02:00::'
+    - id: 'too%4:51:00::'
       synset: 00047930-r
-    - id: 'too%4:02:01::'
+    - id: 'too%4:53:01::'
       synset: 00048072-r
 too bad:
   a:
@@ -35698,12 +35698,12 @@ too much:
     pronunciation:
     - value: tu ˈmʌtʃ
     sense:
-    - id: 'too_much%4:02:00::'
+    - id: 'too_much%4:51:00::'
       synset: 00417873-r
 too soon:
   r:
     sense:
-    - id: 'too_soon%4:02:00::'
+    - id: 'too_soon%4:49:00::'
       synset: 00100632-r
 too-careful:
   a:
@@ -35893,7 +35893,7 @@ tooth:
 tooth and nail:
   r:
     sense:
-    - id: 'tooth_and_nail%4:02:00::'
+    - id: 'tooth_and_nail%4:45:00::'
       synset: 00173780-r
 tooth decay:
   n:
@@ -36632,7 +36632,7 @@ topicalize:
 topically:
   r:
     sense:
-    - id: 'topically%4:02:00::'
+    - id: 'topically%4:50:00::'
       pertainym:
       - topical%5:00:00:local:02
       synset: 00136228-r
@@ -36727,7 +36727,7 @@ topographical:
 topographically:
   r:
     sense:
-    - id: 'topographically%4:02:00::'
+    - id: 'topographically%4:52:00::'
       pertainym:
       - 'topographical%3:01:00::'
       synset: 00481601-r
@@ -36776,7 +36776,7 @@ topological space:
 topologically:
   r:
     sense:
-    - id: 'topologically%4:02:00::'
+    - id: 'topologically%4:52:00::'
       pertainym:
       - 'topological%3:01:00::'
       synset: 00518683-r
@@ -36880,7 +36880,7 @@ topping:
 toppingly:
   r:
     sense:
-    - id: 'toppingly%4:02:00::'
+    - id: 'toppingly%4:51:00::'
       pertainym:
       - topping%5:00:00:superior:02
       synset: 00184576-r
@@ -36943,7 +36943,7 @@ topspin:
 topsy-turvily:
   r:
     sense:
-    - id: 'topsy-turvily%4:02:00::'
+    - id: 'topsy-turvily%4:45:00::'
       synset: 00164903-r
 topsy-turvy:
   a:
@@ -36964,9 +36964,9 @@ topsy-turvy:
     - value: ˈˌtɑpsiˈtɚvi
       variety: US
     sense:
-    - id: 'topsy-turvy%4:02:01::'
+    - id: 'topsy-turvy%4:45:01::'
       synset: 00257334-r
-    - id: 'topsy-turvy%4:02:00::'
+    - id: 'topsy-turvy%4:45:00::'
       synset: 00164903-r
 topsy-turvydom:
   n:
@@ -37329,7 +37329,7 @@ torpidity:
 torpidly:
   r:
     sense:
-    - id: 'torpidly%4:02:00::'
+    - id: 'torpidly%4:45:00::'
       pertainym:
       - torpid%5:00:00:inactive:01
       synset: 00299316-r
@@ -37631,9 +37631,9 @@ tortuous:
 tortuously:
   r:
     sense:
-    - id: 'tortuously%4:02:01::'
+    - id: 'tortuously%4:45:01::'
       synset: 00481921-r
-    - id: 'tortuously%4:02:00::'
+    - id: 'tortuously%4:45:00::'
       synset: 00481824-r
 tortuousness:
   n:
@@ -37769,7 +37769,7 @@ torturous:
 torturously:
   r:
     sense:
-    - id: 'torturously%4:02:00::'
+    - id: 'torturously%4:51:00::'
       pertainym:
       - torturous%5:00:00:painful:00
       synset: 00262820-r
@@ -38231,7 +38231,7 @@ totally:
     pronunciation:
     - value: ˈtoʊt.əl.i
     sense:
-    - id: 'totally%4:02:00::'
+    - id: 'totally%4:51:00::'
       pertainym:
       - total%5:00:00:whole:00
       synset: 00008423-r
@@ -38757,7 +38757,7 @@ toucher:
 touchily:
   r:
     sense:
-    - id: 'touchily%4:02:00::'
+    - id: 'touchily%4:45:00::'
       pertainym:
       - touchy%5:00:00:sensitive:02
       synset: 00481981-r
@@ -38786,7 +38786,7 @@ touching:
 touchingly:
   r:
     sense:
-    - id: 'touchingly%4:02:00::'
+    - id: 'touchingly%4:45:00::'
       pertainym:
       - touching%5:00:00:moving:01
       synset: 00067005-r
@@ -38928,7 +38928,7 @@ toughie:
 toughly:
   r:
     sense:
-    - id: 'toughly%4:02:00::'
+    - id: 'toughly%4:45:00::'
       pertainym:
       - tough%5:00:00:rugged:00
       synset: 00482096-r
@@ -39212,7 +39212,7 @@ tout ensemble:
       synset: 04684187-n
   r:
     sense:
-    - id: 'tout_ensemble%4:02:00::'
+    - id: 'tout_ensemble%4:47:00::'
       synset: 00152813-r
 touter:
   n:
@@ -40952,7 +40952,7 @@ traditionally:
     pronunciation:
     - value: tɹəˈdɪʃəˌnəli
     sense:
-    - id: 'traditionally%4:02:00::'
+    - id: 'traditionally%4:52:00::'
       pertainym:
       - 'traditional%3:00:00::'
       synset: 00478938-r
@@ -41163,7 +41163,7 @@ tragical:
 tragically:
   r:
     sense:
-    - id: 'tragically%4:02:00::'
+    - id: 'tragically%4:47:00::'
       pertainym:
       - tragic%5:00:00:sad:00
       synset: 00238709-r
@@ -41721,7 +41721,7 @@ traitorous:
 traitorously:
   r:
     sense:
-    - id: 'traitorously%4:02:00::'
+    - id: 'traitorously%4:45:00::'
       pertainym:
       - traitorous%5:00:00:disloyal:00
       synset: 00337533-r
@@ -42266,7 +42266,7 @@ tranquillizing:
 tranquilly:
   r:
     sense:
-    - id: 'tranquilly%4:02:01::'
+    - id: 'tranquilly%4:45:01::'
       pertainym:
       - tranquil%5:00:00:composed:00
       synset: 00188416-r
@@ -42506,7 +42506,7 @@ transcendentalist:
 transcendentally:
   r:
     sense:
-    - id: 'transcendentally%4:02:00::'
+    - id: 'transcendentally%4:45:00::'
       pertainym:
       - transcendental%5:00:00:supernatural:00
       synset: 00482210-r
@@ -43370,7 +43370,7 @@ transient ischemic attack:
 transiently:
   r:
     sense:
-    - id: 'transiently%4:02:00::'
+    - id: 'transiently%4:49:00::'
       pertainym:
       - transient%5:00:00:impermanent:00
       synset: 00482326-r
@@ -43540,7 +43540,7 @@ transitional:
 transitionally:
   r:
     sense:
-    - id: 'transitionally%4:02:00::'
+    - id: 'transitionally%4:45:00::'
       pertainym:
       - 'transitional%3:01:00::'
       synset: 00482524-r
@@ -43575,8 +43575,8 @@ transitively:
   r:
     sense:
     - antonym:
-      - 'intransitively%4:02:00::'
-      id: 'transitively%4:02:00::'
+      - 'intransitively%4:45:00::'
+      id: 'transitively%4:45:00::'
       pertainym:
       - 'transitive%3:00:00::'
       synset: 00382927-r
@@ -43628,7 +43628,7 @@ transitivize:
 transitorily:
   r:
     sense:
-    - id: 'transitorily%4:02:00::'
+    - id: 'transitorily%4:49:00::'
       pertainym:
       - transitory%5:00:00:impermanent:00
       synset: 00482635-r
@@ -44349,11 +44349,11 @@ transparent substance:
 transparently:
   r:
     sense:
-    - id: 'transparently%4:02:01::'
+    - id: 'transparently%4:51:01::'
       pertainym:
       - transparent%5:00:00:obvious:00
       synset: 00482882-r
-    - id: 'transparently%4:02:00::'
+    - id: 'transparently%4:45:00::'
       pertainym:
       - transparent%5:00:00:clear:02
       synset: 00482715-r
@@ -45004,7 +45004,7 @@ transversal:
 transversally:
   r:
     sense:
-    - id: 'transversally%4:02:00::'
+    - id: 'transversally%4:45:00::'
       pertainym:
       - transversal%5:00:00:crosswise:00
       synset: 00138580-r
@@ -45048,7 +45048,7 @@ transverse sinus:
 transversely:
   r:
     sense:
-    - id: 'transversely%4:02:00::'
+    - id: 'transversely%4:45:00::'
       pertainym:
       - transverse%5:00:00:crosswise:00
       synset: 00138580-r
@@ -46113,7 +46113,7 @@ treacherous:
 treacherously:
   r:
     sense:
-    - id: 'treacherously%4:02:00::'
+    - id: 'treacherously%4:45:00::'
       pertainym:
       - treacherous%5:00:00:unfaithful:00
       synset: 00337533-r
@@ -46313,7 +46313,7 @@ treasonable:
 treasonably:
   r:
     sense:
-    - id: 'treasonably%4:02:00::'
+    - id: 'treasonably%4:45:00::'
       pertainym:
       - treasonable%5:00:00:disloyal:00
       synset: 00337533-r
@@ -47183,7 +47183,7 @@ tremendous:
 tremendously:
   r:
     sense:
-    - id: 'tremendously%4:02:00::'
+    - id: 'tremendously%4:51:00::'
       pertainym:
       - tremendous%5:00:00:extraordinary:00
       synset: 00197952-r
@@ -47240,7 +47240,7 @@ tremulous:
 tremulously:
   r:
     sense:
-    - id: 'tremulously%4:02:00::'
+    - id: 'tremulously%4:45:00::'
       pertainym:
       - tremulous%5:00:00:unsteady:00
       synset: 00483060-r
@@ -47383,7 +47383,7 @@ trenchant:
 trenchantly:
   r:
     sense:
-    - id: 'trenchantly%4:02:00::'
+    - id: 'trenchantly%4:45:00::'
       pertainym:
       - trenchant%5:00:00:effective:00
       synset: 00483185-r
@@ -47578,7 +47578,7 @@ trepidation:
 trepidly:
   r:
     sense:
-    - id: 'trepidly%4:02:00::'
+    - id: 'trepidly%4:45:00::'
       pertainym:
       - trepid%5:00:00:timid:00
       synset: 00481122-r
@@ -48536,7 +48536,7 @@ trickery:
 trickily:
   r:
     sense:
-    - id: 'trickily%4:02:00::'
+    - id: 'trickily%4:45:00::'
       pertainym:
       - tricky%5:00:00:artful:00
       synset: 00295240-r
@@ -49432,7 +49432,7 @@ trimipramine:
 trimly:
   r:
     sense:
-    - id: 'trimly%4:02:00::'
+    - id: 'trimly%4:45:00::'
       pertainym:
       - trim%5:00:01:tidy:00
       synset: 00466658-r
@@ -50066,7 +50066,7 @@ tripping:
 trippingly:
   r:
     sense:
-    - id: 'trippingly%4:02:00::'
+    - id: 'trippingly%4:45:00::'
       pertainym:
       - tripping%5:00:00:light-footed:00
       synset: 00393212-r
@@ -50212,7 +50212,7 @@ trite:
 tritely:
   r:
     sense:
-    - id: 'tritely%4:02:00::'
+    - id: 'tritely%4:45:00::'
       pertainym:
       - trite%5:00:00:unoriginal:00
       synset: 00483330-r
@@ -50336,7 +50336,7 @@ triumphant:
 triumphantly:
   r:
     sense:
-    - id: 'triumphantly%4:02:00::'
+    - id: 'triumphantly%4:45:00::'
       pertainym:
       - triumphant%5:00:00:elated:00
       synset: 00196625-r
@@ -50452,9 +50452,9 @@ trivialize:
 trivially:
   r:
     sense:
-    - id: 'trivially%4:02:01::'
+    - id: 'trivially%4:45:01::'
       synset: 00483550-r
-    - id: 'trivially%4:02:00::'
+    - id: 'trivially%4:45:00::'
       pertainym:
       - trivial%5:00:00:frivolous:00
       synset: 00483431-r
@@ -51030,7 +51030,7 @@ tropical year:
 tropically:
   r:
     sense:
-    - id: 'tropically%4:02:00::'
+    - id: 'tropically%4:52:00::'
       pertainym:
       - tropical%5:00:00:hot:01
       synset: 00483659-r
@@ -51787,9 +51787,9 @@ truculent:
 truculently:
   r:
     sense:
-    - id: 'truculently%4:02:01::'
+    - id: 'truculently%4:45:01::'
       synset: 00483916-r
-    - id: 'truculently%4:02:00::'
+    - id: 'truculently%4:45:00::'
       pertainym:
       - truculent%5:00:00:aggressive:00
       synset: 00483779-r
@@ -51894,7 +51894,7 @@ trudger:
     - value: tɹu
       variety: US
     sense:
-    - id: 'true%4:02:00::'
+    - id: 'true%4:47:00::'
       synset: 00185770-r
   v:
     pronunciation:
@@ -52198,19 +52198,19 @@ truly:
     - value: ˈtɹuːli
       variety: GB
     sense:
-    - id: 'truly%4:02:00::'
+    - id: 'truly%4:51:00::'
       pertainym:
       - 'true%3:00:00::'
       synset: 00037620-r
-    - id: 'truly%4:02:01::'
+    - id: 'truly%4:47:01::'
       pertainym:
       - true%5:00:00:legitimate:00
       synset: 00224480-r
-    - id: 'truly%4:02:03::'
+    - id: 'truly%4:45:03::'
       pertainym:
       - true%5:00:00:sincere:00
       synset: 00380195-r
-    - id: 'truly%4:02:04::'
+    - id: 'truly%4:47:04::'
       synset: 00038407-r
 trump:
   n:
@@ -52855,12 +52855,12 @@ trustfully:
   r:
     sense:
     - antonym:
-      - 'distrustfully%4:02:00::'
-      id: 'trustfully%4:02:00::'
+      - 'distrustfully%4:45:00::'
+      id: 'trustfully%4:45:00::'
       pertainym:
       - 'trustful%3:00:00::'
       synset: 00321961-r
-    - id: 'trustfully%4:02:02::'
+    - id: 'trustfully%4:45:02::'
       pertainym:
       - 'trustful%3:00:00::'
       synset: 00207362-r
@@ -52892,7 +52892,7 @@ trusting:
 trustingly:
   r:
     sense:
-    - id: 'trustingly%4:02:00::'
+    - id: 'trustingly%4:45:00::'
       pertainym:
       - 'trusting%3:00:02::'
       synset: 00321961-r
@@ -53009,8 +53009,8 @@ truthfully:
     - value: ˈtɹuːθ.f(ə)l.li
     sense:
     - antonym:
-      - 'untruthfully%4:02:00::'
-      id: 'truthfully%4:02:01::'
+      - 'untruthfully%4:45:00::'
+      id: 'truthfully%4:47:01::'
       pertainym:
       - 'truthful%3:00:00::'
       synset: 00402102-r
@@ -54623,7 +54623,7 @@ tumultuous disturbance:
 tumultuously:
   r:
     sense:
-    - id: 'tumultuously%4:02:00::'
+    - id: 'tumultuously%4:45:00::'
       pertainym:
       - tumultuous%5:00:00:unquiet:00
       synset: 00484064-r
@@ -54787,7 +54787,7 @@ tuneful:
 tunefully:
   r:
     sense:
-    - id: 'tunefully%4:02:00::'
+    - id: 'tunefully%4:45:00::'
       pertainym:
       - 'tuneful%3:00:00::'
       synset: 00400865-r
@@ -54808,7 +54808,7 @@ tuneless:
 tunelessly:
   r:
     sense:
-    - id: 'tunelessly%4:02:00::'
+    - id: 'tunelessly%4:45:00::'
       pertainym:
       - 'tuneless%3:00:00::'
       synset: 00509752-r
@@ -55209,11 +55209,11 @@ turbulent flow:
 turbulently:
   r:
     sense:
-    - id: 'turbulently%4:02:00::'
+    - id: 'turbulently%4:45:00::'
       pertainym:
       - turbulent%5:00:00:agitated:02
       synset: 00484231-r
-    - id: 'turbulently%4:02:01::'
+    - id: 'turbulently%4:45:01::'
       synset: 00035332-r
 turd:
   n:
@@ -55317,7 +55317,7 @@ turgidity:
 turgidly:
   r:
     sense:
-    - id: 'turgidly%4:02:00::'
+    - id: 'turgidly%4:45:00::'
       pertainym:
       - turgid%5:00:00:rhetorical:00
       synset: 00271157-r
@@ -56977,7 +56977,7 @@ tutorial:
 tutorially:
   r:
     sense:
-    - id: 'tutorially%4:02:00::'
+    - id: 'tutorially%4:45:00::'
       pertainym:
       - 'tutorial%3:01:00::'
       synset: 00484366-r
@@ -57675,9 +57675,9 @@ twice:
     pronunciation:
     - value: twaɪs
     sense:
-    - id: 'twice%4:02:00::'
+    - id: 'twice%4:48:00::'
       synset: 00065694-r
-    - id: 'twice%4:02:01::'
+    - id: 'twice%4:51:01::'
       synset: 00083743-r
 twice-baked bread:
   n:
@@ -58195,7 +58195,7 @@ twirler:
 twirlingly:
   r:
     sense:
-    - id: 'twirlingly%4:02:00::'
+    - id: 'twirlingly%4:45:00::'
       synset: 00223367-r
 twirp:
   n:
@@ -58612,7 +58612,7 @@ two iron:
 two times:
   r:
     sense:
-    - id: 'two_times%4:02:01::'
+    - id: 'two_times%4:51:01::'
       synset: 00484504-r
 two weeks:
   n:
@@ -59010,7 +59010,7 @@ twofold:
       synset: 02224928-s
   r:
     sense:
-    - id: 'twofold%4:02:00::'
+    - id: 'twofold%4:51:00::'
       synset: 00484504-r
 twopence:
   n:
@@ -59523,8 +59523,8 @@ typically:
     - value: ˈtɪp.ɪ.kl.i
     sense:
     - antonym:
-      - 'atypically%4:02:00::'
-      id: 'typically%4:02:00::'
+      - 'atypically%4:45:00::'
+      id: 'typically%4:45:00::'
       pertainym:
       - 'typical%3:00:00::'
       synset: 00129052-r
@@ -59639,7 +59639,7 @@ typographical error:
 typographically:
   r:
     sense:
-    - id: 'typographically%4:02:00::'
+    - id: 'typographically%4:52:00::'
       pertainym:
       - 'typographic%3:01:00::'
       synset: 00484611-r

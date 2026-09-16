@@ -1836,7 +1836,7 @@ vacant lot:
 vacantly:
   r:
     sense:
-    - id: 'vacantly%4:02:00::'
+    - id: 'vacantly%4:45:00::'
       pertainym:
       - vacant%5:00:02:foolish:00
       synset: 00493903-r
@@ -2173,7 +2173,7 @@ vacuous:
 vacuously:
   r:
     sense:
-    - id: 'vacuously%4:02:00::'
+    - id: 'vacuously%4:45:00::'
       pertainym:
       - vacuous%5:00:00:meaningless:00
       synset: 00494018-r
@@ -2473,7 +2473,7 @@ vaguely:
     pronunciation:
     - value: ˈveɪɡli
     sense:
-    - id: 'vaguely%4:02:00::'
+    - id: 'vaguely%4:51:00::'
       pertainym:
       - vague%5:00:00:unclear:00
       synset: 00234331-r
@@ -2540,7 +2540,7 @@ vainly:
     - value: ˈveɪnli
       variety: US
     sense:
-    - id: 'vainly%4:02:00::'
+    - id: 'vainly%4:45:00::'
       pertainym:
       - vain%5:00:00:unproductive:00
       synset: 00168943-r
@@ -2793,7 +2793,7 @@ valiant:
 valiantly:
   r:
     sense:
-    - id: 'valiantly%4:02:00::'
+    - id: 'valiantly%4:45:00::'
       pertainym:
       - valiant%5:00:00:brave:00
       synset: 00494093-r
@@ -2909,7 +2909,7 @@ validity:
 validly:
   r:
     sense:
-    - id: 'validly%4:02:00::'
+    - id: 'validly%4:45:00::'
       pertainym:
       - 'valid%3:00:00::'
       synset: 00494248-r
@@ -2995,7 +2995,7 @@ valorous:
 valorously:
   r:
     sense:
-    - id: 'valorously%4:02:00::'
+    - id: 'valorously%4:45:00::'
       pertainym:
       - valorous%5:00:00:brave:00
       synset: 00494093-r
@@ -3749,7 +3749,7 @@ vanishing point:
 vanishingly:
   r:
     sense:
-    - id: 'vanishingly%4:02:00::'
+    - id: 'vanishingly%4:51:00::'
       synset: 00503964-r
 vanity:
   n:
@@ -3867,7 +3867,7 @@ vapidity:
 vapidly:
   r:
     sense:
-    - id: 'vapidly%4:02:00::'
+    - id: 'vapidly%4:45:00::'
       pertainym:
       - vapid%5:00:00:unstimulating:00
       synset: 00494366-r
@@ -4358,7 +4358,7 @@ variably:
     pronunciation:
     - value: ˈvɛəɹiəbli
     sense:
-    - id: 'variably%4:02:00::'
+    - id: 'variably%4:51:00::'
       pertainym:
       - 'variable%3:00:00::'
       synset: 00494467-r
@@ -4808,7 +4808,7 @@ various:
 variously:
   r:
     sense:
-    - id: 'variously%4:02:00::'
+    - id: 'variously%4:45:00::'
       pertainym:
       - various%5:00:00:different:00
       synset: 00052769-r
@@ -5333,7 +5333,7 @@ vast:
 vastly:
   r:
     sense:
-    - id: 'vastly%4:02:00::'
+    - id: 'vastly%4:51:00::'
       pertainym:
       - vast%5:00:00:large:00
       synset: 00006160-r
@@ -5558,7 +5558,7 @@ vaunter:
 vauntingly:
   r:
     sense:
-    - id: 'vauntingly%4:02:00::'
+    - id: 'vauntingly%4:45:00::'
       synset: 00227289-r
 veal:
   n:
@@ -5986,7 +5986,7 @@ vehemently:
     pronunciation:
     - value: ˈviː.ə.məntli
     sense:
-    - id: 'vehemently%4:02:00::'
+    - id: 'vehemently%4:45:00::'
       pertainym:
       - vehement%5:00:00:intense:00
       synset: 00494612-r
@@ -7245,7 +7245,7 @@ venality:
 venally:
   r:
     sense:
-    - id: 'venally%4:02:00::'
+    - id: 'venally%4:45:00::'
       pertainym:
       - venal%5:00:00:corrupt:00
       synset: 00315990-r
@@ -7520,7 +7520,7 @@ vengeful:
 vengefully:
   r:
     sense:
-    - id: 'vengefully%4:02:00::'
+    - id: 'vengefully%4:45:00::'
       pertainym:
       - vengeful%5:00:00:unforgiving:00
       synset: 00445141-r
@@ -7634,7 +7634,7 @@ venomous lizard:
 venomously:
   r:
     sense:
-    - id: 'venomously%4:02:00::'
+    - id: 'venomously%4:45:00::'
       pertainym:
       - venomous%5:00:00:malicious:00
       synset: 00428672-r
@@ -7923,7 +7923,7 @@ ventral root:
 ventrally:
   r:
     sense:
-    - id: 'ventrally%4:02:00::'
+    - id: 'ventrally%4:50:00::'
       pertainym:
       - 'ventral%3:00:00::'
       synset: 00083653-r
@@ -8414,11 +8414,11 @@ verbalizer:
 verbally:
   r:
     sense:
-    - id: 'verbally%4:02:00::'
+    - id: 'verbally%4:45:00::'
       pertainym:
       - 'verbal%3:01:00::'
       synset: 00129438-r
-    - id: 'verbally%4:02:01::'
+    - id: 'verbally%4:45:01::'
       pertainym:
       - verbal%5:00:00:communicative:00
       synset: 00129340-r
@@ -8439,7 +8439,7 @@ verbatim:
     - value: vɚˈbeɪ.tɪm
       variety: US
     sense:
-    - id: 'verbatim%4:02:00::'
+    - id: 'verbatim%4:45:00::'
       synset: 00259374-r
 verbena:
   n:
@@ -8497,7 +8497,7 @@ verbose:
 verbosely:
   r:
     sense:
-    - id: 'verbosely%4:02:00::'
+    - id: 'verbosely%4:45:00::'
       pertainym:
       - verbose%5:00:00:prolix:00
       synset: 00494741-r
@@ -8760,7 +8760,7 @@ verily:
     pronunciation:
     - value: ˈvɛɹ.əl.i
     sense:
-    - id: 'verily%4:02:00::'
+    - id: 'verily%4:47:00::'
       synset: 00494943-r
 verisimilar:
   a:
@@ -9542,7 +9542,7 @@ vertically:
     pronunciation:
     - value: ˈvɜːtɪkli
     sense:
-    - id: 'vertically%4:02:00::'
+    - id: 'vertically%4:50:00::'
       pertainym:
       - 'vertical%3:00:00::'
       synset: 00360312-r
@@ -9657,14 +9657,14 @@ very:
     pronunciation:
     - value: ˈvɛɹi
     sense:
-    - id: 'very%4:02:00::'
+    - id: 'very%4:51:00::'
       synset: 00032295-r
-    - id: 'very%4:02:01::'
+    - id: 'very%4:51:01::'
       synset: 00513282-r
 very fast:
   r:
     sense:
-    - id: 'very_fast%4:02:00::'
+    - id: 'very_fast%4:49:00::'
       synset: 00167121-r
 very high frequency:
   n:
@@ -9679,7 +9679,7 @@ very important person:
 very loudly:
   r:
     sense:
-    - id: 'very_loudly%4:02:00::'
+    - id: 'very_loudly%4:45:00::'
       synset: 00345869-r
 very low density lipoprotein:
   n:
@@ -9694,19 +9694,19 @@ very low frequency:
 very much like:
   r:
     sense:
-    - id: 'very_much_like%4:02:00::'
+    - id: 'very_much_like%4:51:00::'
       synset: 00190112-r
 very softly:
   r:
     sense:
-    - id: 'very_softly%4:02:00::'
+    - id: 'very_softly%4:45:00::'
       synset: 00345734-r
 very well:
   r:
     sense:
-    - id: 'very_well%4:02:00::'
+    - id: 'very_well%4:51:00::'
       synset: 00342247-r
-    - id: 'very_well%4:02:01::'
+    - id: 'very_well%4:47:01::'
       synset: 00053542-r
 vesica:
   n:
@@ -10432,7 +10432,7 @@ vexatious litigation:
 vexatiously:
   r:
     sense:
-    - id: 'vexatiously%4:02:00::'
+    - id: 'vexatiously%4:47:00::'
       pertainym:
       - vexatious%5:00:00:disagreeable:00
       synset: 00518855-r
@@ -10861,7 +10861,7 @@ vicarious:
 vicariously:
   r:
     sense:
-    - id: 'vicariously%4:02:00::'
+    - id: 'vicariously%4:45:00::'
       pertainym:
       - vicarious%5:00:00:secondary:01
       synset: 00495098-r
@@ -10944,7 +10944,7 @@ vice versa:
     - value: ˈvaɪsi ˈvɝsə
       variety: US
     sense:
-    - id: 'vice_versa%4:02:00::'
+    - id: 'vice_versa%4:54:00::'
       synset: 00179172-r
 vice-presidency:
   n:
@@ -11099,7 +11099,7 @@ vicious cycle:
 viciously:
   r:
     sense:
-    - id: 'viciously%4:02:00::'
+    - id: 'viciously%4:45:00::'
       pertainym:
       - vicious%5:00:00:inhumane:00
       synset: 00202624-r
@@ -11290,7 +11290,7 @@ victorious:
 victoriously:
   r:
     sense:
-    - id: 'victoriously%4:02:00::'
+    - id: 'victoriously%4:45:00::'
       pertainym:
       - victorious%5:00:00:undefeated:00
       synset: 00200866-r
@@ -11430,7 +11430,7 @@ videlicet:
     pronunciation:
     - value: vɪˈdɛlɪsɛt
     sense:
-    - id: 'videlicet%4:02:00::'
+    - id: 'videlicet%4:53:00::'
       synset: 00190022-r
 video:
   n:
@@ -11805,7 +11805,7 @@ vigilantism:
 vigilantly:
   r:
     sense:
-    - id: 'vigilantly%4:02:00::'
+    - id: 'vigilantly%4:45:00::'
       pertainym:
       - vigilant%5:00:00:alert:00
       synset: 00495238-r
@@ -11871,7 +11871,7 @@ vigorously:
     pronunciation:
     - value: ˈvɪɡəɹəsli
     sense:
-    - id: 'vigorously%4:02:00::'
+    - id: 'vigorously%4:45:00::'
       pertainym:
       - vigorous%5:00:00:energetic:00
       synset: 00183234-r
@@ -11925,7 +11925,7 @@ vile:
 vilely:
   r:
     sense:
-    - id: 'vilely%4:02:00::'
+    - id: 'vilely%4:45:00::'
       pertainym:
       - vile%5:00:00:evil:00
       synset: 00495346-r
@@ -12240,7 +12240,7 @@ vindictive:
 vindictively:
   r:
     sense:
-    - id: 'vindictively%4:02:00::'
+    - id: 'vindictively%4:45:00::'
       pertainym:
       - vindictive%5:00:00:unforgiving:00
       synset: 00445141-r
@@ -12726,8 +12726,8 @@ violently:
     - value: ˈvaɪ(ə)ləntli
     sense:
     - antonym:
-      - 'nonviolently%4:02:00::'
-      id: 'violently%4:02:00::'
+      - 'nonviolently%4:45:00::'
+      id: 'violently%4:45:00::'
       pertainym:
       - 'violent%3:00:00::'
       synset: 00225476-r
@@ -13280,11 +13280,11 @@ virtual storage:
 virtually:
   r:
     sense:
-    - id: 'virtually%4:02:01::'
+    - id: 'virtually%4:51:01::'
       pertainym:
       - virtual%5:00:00:essential:00
       synset: 00112194-r
-    - id: 'virtually%4:02:02::'
+    - id: 'virtually%4:51:02::'
       synset: 00073433-r
 virtue:
   n:
@@ -13367,11 +13367,11 @@ virtuous:
 virtuously:
   r:
     sense:
-    - id: 'virtuously%4:02:01::'
+    - id: 'virtuously%4:45:01::'
       pertainym:
       - 'virtuous%3:00:00::'
       synset: 00366273-r
-    - id: 'virtuously%4:02:00::'
+    - id: 'virtuously%4:45:00::'
       pertainym:
       - virtuous%5:00:00:chaste:00
       synset: 00285302-r
@@ -13452,7 +13452,7 @@ virulent:
 virulently:
   r:
     sense:
-    - id: 'virulently%4:02:00::'
+    - id: 'virulently%4:45:00::'
       pertainym:
       - virulent%5:00:00:unpleasant:00
       synset: 00495458-r
@@ -13493,7 +13493,7 @@ vis-a-vis:
       synset: 03698800-n
   r:
     sense:
-    - id: 'vis-a-vis%4:02:00::'
+    - id: 'vis-a-vis%4:50:00::'
       synset: 00045532-r
 visa:
   n:
@@ -13583,11 +13583,11 @@ visceral pleura:
 viscerally:
   r:
     sense:
-    - id: 'viscerally%4:02:01::'
+    - id: 'viscerally%4:45:01::'
       pertainym:
       - visceral%5:00:00:illogical:00
       synset: 00513908-r
-    - id: 'viscerally%4:02:00::'
+    - id: 'viscerally%4:50:00::'
       pertainym:
       - 'visceral%3:01:00::'
       synset: 00134031-r
@@ -13614,7 +13614,7 @@ viscidity:
 viscidly:
   r:
     sense:
-    - id: 'viscidly%4:02:00::'
+    - id: 'viscidly%4:45:00::'
       pertainym:
       - viscid%5:00:00:adhesive:00
       synset: 00468495-r
@@ -13854,12 +13854,12 @@ visibly:
     - value: ˈvɪzɪbli
     sense:
     - antonym:
-      - 'invisibly%4:02:00::'
-      id: 'visibly%4:02:00::'
+      - 'invisibly%4:45:00::'
+      id: 'visibly%4:45:00::'
       pertainym:
       - 'visible%3:00:00::'
       synset: 00384120-r
-    - id: 'visibly%4:02:01::'
+    - id: 'visibly%4:45:01::'
       pertainym:
       - 'visible%3:00:00::'
       synset: 00195362-r
@@ -14423,7 +14423,7 @@ visualizer:
 visually:
   r:
     sense:
-    - id: 'visually%4:02:00::'
+    - id: 'visually%4:52:00::'
       synset: 00133950-r
 visually challenged:
   a:
@@ -14634,7 +14634,7 @@ vitalizing:
 vitally:
   r:
     sense:
-    - id: 'vitally%4:02:00::'
+    - id: 'vitally%4:51:00::'
       pertainym:
       - vital%5:00:00:essential:00
       synset: 00091039-r
@@ -15034,7 +15034,7 @@ vitriolic:
 vitriolically:
   r:
     sense:
-    - id: 'vitriolically%4:02:00::'
+    - id: 'vitriolically%4:45:00::'
       pertainym:
       - vitriolic%5:00:00:unpleasant:00
       synset: 00283379-r
@@ -15094,7 +15094,7 @@ viva voce:
     pronunciation:
     - value: ˈvaɪvə ˈvoʊtʃɪ
     sense:
-    - id: 'viva_voce%4:02:00::'
+    - id: 'viva_voce%4:45:00::'
       synset: 00259598-r
 viva-voce:
   a:
@@ -15108,7 +15108,7 @@ vivace:
       synset: 00985709-s
   r:
     sense:
-    - id: 'vivace%4:02:00::'
+    - id: 'vivace%4:45:00::'
       synset: 00495612-r
 vivacious:
   a:
@@ -15122,7 +15122,7 @@ vivacious:
 vivaciously:
   r:
     sense:
-    - id: 'vivaciously%4:02:00::'
+    - id: 'vivaciously%4:45:00::'
       pertainym:
       - vivacious%5:00:00:spirited:00
       synset: 00495692-r
@@ -15180,7 +15180,7 @@ vividly:
     pronunciation:
     - value: ˈvɪvɪdli
     sense:
-    - id: 'vividly%4:02:00::'
+    - id: 'vividly%4:45:00::'
       pertainym:
       - vivid%5:00:00:realistic:00
       synset: 00247302-r
@@ -15297,7 +15297,7 @@ viz.:
     pronunciation:
     - value: vɪz
     sense:
-    - id: 'viz.%4:02:00::'
+    - id: 'viz.%4:53:00::'
       synset: 00190022-r
 vizier:
   n:
@@ -15660,7 +15660,7 @@ vocally:
     - value: ˈvoʊkəli
       variety: US
     sense:
-    - id: 'vocally%4:02:00::'
+    - id: 'vocally%4:45:00::'
       pertainym:
       - vocal%5:00:00:communicative:00
       synset: 00129544-r
@@ -15716,7 +15716,7 @@ vocational training:
 vocationally:
   r:
     sense:
-    - id: 'vocationally%4:02:00::'
+    - id: 'vocationally%4:52:00::'
       pertainym:
       - 'vocational%3:01:00::'
       synset: 00044672-r
@@ -15793,7 +15793,7 @@ vociferous:
 vociferously:
   r:
     sense:
-    - id: 'vociferously%4:02:00::'
+    - id: 'vociferously%4:45:00::'
       pertainym:
       - vociferous%5:00:00:noisy:00
       synset: 00155235-r
@@ -16317,7 +16317,7 @@ volcanic rock:
 volcanically:
   r:
     sense:
-    - id: 'volcanically%4:02:00::'
+    - id: 'volcanically%4:45:00::'
       pertainym:
       - 'volcanic%3:01:00::'
       synset: 00145328-r
@@ -16384,7 +16384,7 @@ volitional:
 volitionally:
   r:
     sense:
-    - id: 'volitionally%4:02:00::'
+    - id: 'volitionally%4:45:00::'
       pertainym:
       - volitional%5:00:00:willing:00
       synset: 00306669-r
@@ -16592,7 +16592,7 @@ voluble:
 volubly:
   r:
     sense:
-    - id: 'volubly%4:02:00::'
+    - id: 'volubly%4:45:00::'
       pertainym:
       - 'voluble%3:00:00::'
       synset: 00285441-r
@@ -16677,7 +16677,7 @@ volumetrical:
 volumetrically:
   r:
     sense:
-    - id: 'volumetrically%4:02:00::'
+    - id: 'volumetrically%4:45:00::'
       pertainym:
       - 'volumetric%3:01:00::'
       synset: 00119149-r
@@ -16702,7 +16702,7 @@ voluminous:
       - 'volume%1:23:00::'
       - 'volume%1:07:03::'
       - 'voluminosity%1:07:00::'
-      - 'voluminously%4:02:00::'
+      - 'voluminously%4:45:00::'
       id: voluminous%5:00:00:large:00
       synset: 01393834-s
     - id: voluminous%5:00:00:crooked:01
@@ -16710,7 +16710,7 @@ voluminous:
     - derivation:
       - 'voluminousness%1:07:00::'
       - 'voluminosity%1:07:00::'
-      - 'voluminously%4:02:00::'
+      - 'voluminously%4:45:00::'
       id: voluminous%5:00:00:abundant:00
       synset: 00014877-s
 voluminously:
@@ -16719,7 +16719,7 @@ voluminously:
     - derivation:
       - voluminous%5:00:00:abundant:00
       - voluminous%5:00:00:large:00
-      id: 'voluminously%4:02:00::'
+      id: 'voluminously%4:45:00::'
       pertainym:
       - voluminous%5:00:00:abundant:00
       - voluminous%5:00:00:large:00
@@ -16741,8 +16741,8 @@ voluntarily:
       variety: GB
     sense:
     - antonym:
-      - 'involuntarily%4:02:00::'
-      id: 'voluntarily%4:02:00::'
+      - 'involuntarily%4:45:00::'
+      id: 'voluntarily%4:45:00::'
       pertainym:
       - 'voluntary%3:00:01::'
       synset: 00233496-r
@@ -16876,11 +16876,11 @@ voluptuous:
 voluptuously:
   r:
     sense:
-    - id: 'voluptuously%4:02:01::'
+    - id: 'voluptuously%4:51:01::'
       pertainym:
       - voluptuous%5:00:00:shapely:00
       synset: 00495806-r
-    - id: 'voluptuously%4:02:00::'
+    - id: 'voluptuously%4:45:00::'
       pertainym:
       - voluptuous%5:00:00:indulgent:00
       synset: 00451201-r
@@ -17125,7 +17125,7 @@ voracious:
 voraciously:
   r:
     sense:
-    - id: 'voraciously%4:02:00::'
+    - id: 'voraciously%4:45:00::'
       pertainym:
       - voracious%5:00:00:gluttonous:00
       synset: 00495930-r
@@ -17711,7 +17711,7 @@ voyeuristical:
 voyeuristically:
   r:
     sense:
-    - id: 'voyeuristically%4:02:00::'
+    - id: 'voyeuristically%4:45:00::'
       pertainym:
       - 'voyeuristic%3:01:00::'
       synset: 00496043-r
@@ -18045,7 +18045,7 @@ vulgarizer:
 vulgarly:
   r:
     sense:
-    - id: 'vulgarly%4:02:00::'
+    - id: 'vulgarly%4:45:00::'
       pertainym:
       - vulgar%5:00:00:indecent:00
       synset: 00461819-r
@@ -18087,7 +18087,7 @@ vulnerable:
 vulnerably:
   r:
     sense:
-    - id: 'vulnerably%4:02:00::'
+    - id: 'vulnerably%4:45:00::'
       pertainym:
       - 'vulnerable%3:00:00::'
       synset: 00496172-r

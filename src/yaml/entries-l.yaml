@@ -4645,7 +4645,7 @@ laboriously:
     - value: ləˈbɔɹ.i.əs.li
       variety: US
     sense:
-    - id: 'laboriously%4:02:00::'
+    - id: 'laboriously%4:45:00::'
       pertainym:
       - laborious%5:00:00:effortful:00
       synset: 00387237-r
@@ -5258,7 +5258,7 @@ lackadaisical:
 lackadaisically:
   r:
     sense:
-    - id: 'lackadaisically%4:02:00::'
+    - id: 'lackadaisically%4:45:00::'
       pertainym:
       - lackadaisical%5:00:00:idle:00
       synset: 00387445-r
@@ -5320,7 +5320,7 @@ laconic:
 laconically:
   r:
     sense:
-    - id: 'laconically%4:02:00::'
+    - id: 'laconically%4:45:00::'
       pertainym:
       - laconic%5:00:00:concise:00
       synset: 00233186-r
@@ -6830,7 +6830,7 @@ lamely:
     pronunciation:
     - value: ˈleɪmli
     sense:
-    - id: 'lamely%4:02:00::'
+    - id: 'lamely%4:45:00::'
       pertainym:
       - lame%5:00:00:weak:00
       synset: 00387593-r
@@ -6912,7 +6912,7 @@ lamentable:
 lamentably:
   r:
     sense:
-    - id: 'lamentably%4:02:00::'
+    - id: 'lamentably%4:47:00::'
       synset: 00093820-r
 lamentation:
   n:
@@ -8049,12 +8049,12 @@ landswoman:
 landward:
   r:
     sense:
-    - id: 'landward%4:02:00::'
+    - id: 'landward%4:50:00::'
       synset: 00387726-r
 landwards:
   r:
     sense:
-    - id: 'landwards%4:02:00::'
+    - id: 'landwards%4:50:00::'
       synset: 00387726-r
 landwoman:
   n:
@@ -8077,7 +8077,7 @@ lang syne:
       synset: 15277446-n
   r:
     sense:
-    - id: 'lang_syne%4:02:00::'
+    - id: 'lang_syne%4:49:00::'
       synset: 00022855-r
 langbeinite:
   n:
@@ -8127,7 +8127,7 @@ langsyne:
       synset: 15277446-n
   r:
     sense:
-    - id: 'langsyne%4:02:01::'
+    - id: 'langsyne%4:49:01::'
       synset: 00022855-r
 language:
   n:
@@ -8207,7 +8207,7 @@ languid:
 languidly:
   r:
     sense:
-    - id: 'languidly%4:02:00::'
+    - id: 'languidly%4:45:00::'
       pertainym:
       - languid%5:00:00:lethargic:00
       synset: 00387954-r
@@ -8273,7 +8273,7 @@ languorous:
 languorously:
   r:
     sense:
-    - id: 'languorously%4:02:00::'
+    - id: 'languorously%4:45:00::'
       pertainym:
       - languorous%5:00:00:lethargic:00
       synset: 00388085-r
@@ -9057,11 +9057,11 @@ large:
     - value: ˈlɑɹd͡ʒ
       variety: US
     sense:
-    - id: 'large%4:02:01::'
+    - id: 'large%4:51:01::'
       synset: 00388297-r
-    - id: 'large%4:02:00::'
+    - id: 'large%4:45:00::'
       synset: 00388211-r
-    - id: 'large%4:02:02::'
+    - id: 'large%4:45:02::'
       synset: 00227289-r
 large calorie:
   n:
@@ -9271,9 +9271,9 @@ largely:
     pronunciation:
     - value: ˈlɑɹdʒli
     sense:
-    - id: 'largely%4:02:00::'
+    - id: 'largely%4:51:00::'
       synset: 00006486-r
-    - id: 'largely%4:02:01::'
+    - id: 'largely%4:51:01::'
       synset: 00065759-r
 largemouth:
   n:
@@ -9399,7 +9399,7 @@ largo:
       synset: 07060601-n
   r:
     sense:
-    - id: 'largo%4:02:00::'
+    - id: 'largo%4:45:00::'
       pertainym:
       - largo%5:00:00:slow:02
       synset: 00065886-r
@@ -9666,7 +9666,7 @@ lascivious:
 lasciviously:
   r:
     sense:
-    - id: 'lasciviously%4:02:00::'
+    - id: 'lasciviously%4:45:00::'
       pertainym:
       - lascivious%5:00:00:sexy:00
       synset: 00388378-r
@@ -9932,9 +9932,9 @@ last:
       synset: 03649846-n
   r:
     sense:
-    - id: 'last%4:02:00::'
+    - id: 'last%4:49:00::'
       synset: 00066148-r
-    - id: 'last%4:02:01::'
+    - id: 'last%4:49:01::'
       pertainym:
       - 'last%3:00:00::'
       synset: 00066222-r
@@ -9959,7 +9959,7 @@ last but not least:
       variety: US
     - value: ˈlɑːst bʌt nɒt ˈliːst
     sense:
-    - id: 'last_but_not_least%4:02:00::'
+    - id: 'last_but_not_least%4:54:00::'
       synset: 00066363-r
 last gasp:
   n:
@@ -10013,7 +10013,7 @@ last name:
 last not least:
   r:
     sense:
-    - id: 'last_not_least%4:02:00::'
+    - id: 'last_not_least%4:54:00::'
       synset: 00066363-r
 last out:
   v:
@@ -10100,7 +10100,7 @@ lasting:
 lastingly:
   r:
     sense:
-    - id: 'lastingly%4:02:00::'
+    - id: 'lastingly%4:49:00::'
       pertainym:
       - 'permanent%3:00:00::'
       synset: 00066500-r
@@ -10127,7 +10127,7 @@ lastly:
     - value: ˈlæstli
       variety: US
     sense:
-    - id: 'lastly%4:02:00::'
+    - id: 'lastly%4:49:00::'
       synset: 00066222-r
 lat:
   n:
@@ -10267,14 +10267,14 @@ late:
     - value: leɪt
     sense:
     - antonym:
-      - 'early%4:02:00::'
-      id: 'late%4:02:00::'
+      - 'early%4:49:00::'
+      id: 'late%4:49:00::'
       synset: 00100817-r
-    - id: 'late%4:02:01::'
+    - id: 'late%4:49:01::'
       synset: 00307214-r
-    - id: 'late%4:02:02::'
+    - id: 'late%4:49:02::'
       synset: 00307328-r
-    - id: 'late%4:02:03::'
+    - id: 'late%4:49:03::'
       synset: 00108184-r
 late blight:
   n:
@@ -10355,7 +10355,7 @@ lately:
     pronunciation:
     - value: ˈleɪt.li
     sense:
-    - id: 'lately%4:02:00::'
+    - id: 'lately%4:49:00::'
       synset: 00108184-r
 latency:
   n:
@@ -10464,18 +10464,18 @@ later:
     - value: ˈleɪtɚ
       variety: US
     sense:
-    - id: 'later%4:02:01::'
+    - id: 'later%4:49:01::'
       pertainym:
       - later%5:00:00:subsequent:00
       synset: 00061741-r
-    - id: 'later%4:02:02::'
+    - id: 'later%4:49:02::'
       synset: 00156621-r
-    - id: 'later%4:02:03::'
+    - id: 'later%4:49:03::'
       synset: 00510690-r
 later on:
   r:
     sense:
-    - id: 'later_on%4:02:00::'
+    - id: 'later_on%4:49:00::'
       synset: 00061741-r
 lateral:
   a:
@@ -10603,11 +10603,11 @@ lateralize:
 laterally:
   r:
     sense:
-    - id: 'laterally%4:02:01::'
+    - id: 'laterally%4:50:01::'
       pertainym:
       - lateral%5:00:00:side:00
       synset: 00388669-r
-    - id: 'laterally%4:02:00::'
+    - id: 'laterally%4:50:00::'
       pertainym:
       - lateral%5:00:00:distal:02
       synset: 00388491-r
@@ -10933,7 +10933,7 @@ latter-day:
 latterly:
   r:
     sense:
-    - id: 'latterly%4:02:00::'
+    - id: 'latterly%4:49:00::'
       synset: 00108184-r
 lattice:
   n:
@@ -11009,7 +11009,7 @@ laudably:
     - value: ˈlɔː.dɪb.li
       variety: GB
     sense:
-    - id: 'laudably%4:02:00::'
+    - id: 'laudably%4:45:00::'
       pertainym:
       - laudable%5:00:00:worthy:00
       synset: 00220366-r
@@ -11174,7 +11174,7 @@ laughable:
 laughably:
   r:
     sense:
-    - id: 'laughably%4:02:00::'
+    - id: 'laughably%4:51:00::'
       pertainym:
       - laughable%5:00:00:humorous:00
       synset: 00388921-r
@@ -11228,7 +11228,7 @@ laughing owl:
 laughingly:
   r:
     sense:
-    - id: 'laughingly%4:02:00::'
+    - id: 'laughingly%4:45:00::'
       synset: 00221703-r
 laughingstock:
   n:
@@ -11741,11 +11741,11 @@ lavishly:
     pronunciation:
     - value: ˈlævɪʃli
     sense:
-    - id: 'lavishly%4:02:00::'
+    - id: 'lavishly%4:45:00::'
       pertainym:
       - lavish%5:00:00:generous:01
       synset: 00337069-r
-    - id: 'lavishly%4:02:01::'
+    - id: 'lavishly%4:45:01::'
       pertainym:
       - lavish%5:00:00:rich:03
       synset: 00189129-r
@@ -12068,14 +12068,14 @@ lawfully:
   r:
     sense:
     - antonym:
-      - 'lawlessly%4:02:00::'
-      id: 'lawfully%4:02:01::'
+      - 'lawlessly%4:45:00::'
+      id: 'lawfully%4:45:01::'
       pertainym:
       - 'lawful%3:00:00::'
       synset: 00365014-r
     - antonym:
-      - 'unlawfully%4:02:00::'
-      id: 'lawfully%4:02:00::'
+      - 'unlawfully%4:45:00::'
+      id: 'lawfully%4:52:00::'
       pertainym:
       - lawful%5:00:00:legal:00
       synset: 00253289-r
@@ -12126,8 +12126,8 @@ lawlessly:
   r:
     sense:
     - antonym:
-      - 'lawfully%4:02:01::'
-      id: 'lawlessly%4:02:00::'
+      - 'lawfully%4:45:01::'
+      id: 'lawlessly%4:45:00::'
       pertainym:
       - 'lawful%3:00:00::'
       synset: 00155669-r
@@ -12320,7 +12320,7 @@ laxly:
     pronunciation:
     - value: ˈlæks.li
     sense:
-    - id: 'laxly%4:02:00::'
+    - id: 'laxly%4:45:00::'
       pertainym:
       - lax%5:00:00:negligent:00
       synset: 00389158-r
@@ -12777,11 +12777,11 @@ laze:
 lazily:
   r:
     sense:
-    - id: 'lazily%4:02:00::'
+    - id: 'lazily%4:45:00::'
       pertainym:
       - lazy%5:00:00:slow:01
       synset: 00389429-r
-    - id: 'lazily%4:02:01::'
+    - id: 'lazily%4:45:01::'
       pertainym:
       - lazy%5:00:00:idle:00
       synset: 00363577-r
@@ -14344,7 +14344,7 @@ learned response:
 learnedly:
   r:
     sense:
-    - id: 'learnedly%4:02:00::'
+    - id: 'learnedly%4:45:00::'
       pertainym:
       - learned%5:00:00:scholarly:00
       synset: 00331730-r
@@ -14574,8 +14574,8 @@ least:
     - value: liːst
     sense:
     - antonym:
-      - 'most%4:02:00::'
-      id: 'least%4:02:00::'
+      - 'most%4:51:00::'
+      id: 'least%4:51:00::'
       synset: 00112501-r
 least bittern:
   n:
@@ -14595,7 +14595,7 @@ least effort:
 least of all:
   r:
     sense:
-    - id: 'least_of_all%4:02:00::'
+    - id: 'least_of_all%4:53:00::'
       synset: 00112653-r
 least resistance:
   n:
@@ -14623,12 +14623,12 @@ leastways:
     - value: ˈliːstˌweɪz
       variety: US
     sense:
-    - id: 'leastways%4:02:00::'
+    - id: 'leastways%4:53:00::'
       synset: 00105348-r
 leastwise:
   r:
     sense:
-    - id: 'leastwise%4:02:00::'
+    - id: 'leastwise%4:53:00::'
       synset: 00105348-r
 leather:
   n:
@@ -15502,8 +15502,8 @@ leeward:
       variety: US
     sense:
     - antonym:
-      - 'windward%4:02:00::'
-      id: 'leeward%4:02:00::'
+      - 'windward%4:50:00::'
+      id: 'leeward%4:50:00::'
       synset: 00095742-r
 leeward side:
   n:
@@ -15571,8 +15571,8 @@ left:
     - value: lɛft
     sense:
     - antonym:
-      - 'right%4:02:03::'
-      id: 'left%4:02:03::'
+      - 'right%4:50:03::'
+      id: 'left%4:50:03::'
       synset: 00389570-r
 left atrioventricular valve:
   n:
@@ -16198,11 +16198,11 @@ legally:
     pronunciation:
     - value: ˈliːɡəli
     sense:
-    - id: 'legally%4:02:01::'
+    - id: 'legally%4:52:01::'
       pertainym:
       - 'legal%3:01:00::'
       synset: 00253289-r
-    - id: 'legally%4:02:03::'
+    - id: 'legally%4:45:03::'
       pertainym:
       - 'legal%3:00:00::'
       synset: 00125495-r
@@ -16249,8 +16249,8 @@ legato:
       variety: US
     sense:
     - antonym:
-      - 'staccato%4:02:00::'
-      id: 'legato%4:02:00::'
+      - 'staccato%4:45:00::'
+      id: 'legato%4:45:00::'
       synset: 00389887-r
 legend:
   n:
@@ -16368,8 +16368,8 @@ legibly:
   r:
     sense:
     - antonym:
-      - 'illegibly%4:02:00::'
-      id: 'legibly%4:02:00::'
+      - 'illegibly%4:45:00::'
+      id: 'legibly%4:45:00::'
       pertainym:
       - 'legible%3:00:00::'
       synset: 00364072-r
@@ -16503,7 +16503,7 @@ legislative council:
 legislatively:
   r:
     sense:
-    - id: 'legislatively%4:02:00::'
+    - id: 'legislatively%4:52:00::'
       pertainym:
       - 'legislative%3:01:01::'
       synset: 00130101-r
@@ -16591,14 +16591,14 @@ legitimately:
   r:
     sense:
     - antonym:
-      - 'illegitimately%4:02:01::'
-      id: 'legitimately%4:02:01::'
+      - 'illegitimately%4:45:01::'
+      id: 'legitimately%4:45:01::'
       pertainym:
       - legitimate%5:00:00:legal:00
       synset: 00365014-r
     - antonym:
-      - 'illegitimately%4:02:00::'
-      id: 'legitimately%4:02:00::'
+      - 'illegitimately%4:45:00::'
+      id: 'legitimately%4:45:00::'
       pertainym:
       - 'legitimate%3:00:00::'
       synset: 00364627-r
@@ -16796,7 +16796,7 @@ leisurely:
       synset: 01275286-s
   r:
     sense:
-    - id: 'leisurely%4:02:00::'
+    - id: 'leisurely%4:45:00::'
       pertainym:
       - leisurely%5:00:00:unhurried:00
       synset: 00105677-r
@@ -17246,7 +17246,7 @@ lengthening:
 lengthily:
   r:
     sense:
-    - id: 'lengthily%4:02:00::'
+    - id: 'lengthily%4:49:00::'
       pertainym:
       - lengthy%5:00:00:long:02
       synset: 00065975-r
@@ -17266,7 +17266,7 @@ lengthways:
       synset: 01447704-a
   r:
     sense:
-    - id: 'lengthways%4:02:00::'
+    - id: 'lengthways%4:45:00::'
       synset: 00390113-r
 lengthwise:
   a:
@@ -17277,7 +17277,7 @@ lengthwise:
       synset: 01447704-a
   r:
     sense:
-    - id: 'lengthwise%4:02:00::'
+    - id: 'lengthwise%4:45:00::'
       synset: 00390113-r
 lengthy:
   a:
@@ -17343,7 +17343,7 @@ lenient:
 leniently:
   r:
     sense:
-    - id: 'leniently%4:02:00::'
+    - id: 'leniently%4:45:00::'
       pertainym:
       - lenient%5:00:00:permissive:01
       synset: 00389158-r
@@ -17567,7 +17567,7 @@ lento:
       synset: 00986243-s
   r:
     sense:
-    - id: 'lento%4:02:00::'
+    - id: 'lento%4:45:00::'
       synset: 00390398-r
 leoncita:
   n:
@@ -17965,12 +17965,12 @@ less:
   r:
     sense:
     - antonym:
-      - 'more%4:02:00::'
-      id: 'less%4:02:00::'
+      - 'more%4:51:00::'
+      id: 'less%4:51:00::'
       synset: 00100077-r
     - antonym:
-      - 'more%4:02:01::'
-      id: 'less%4:02:01::'
+      - 'more%4:51:01::'
+      id: 'less%4:51:01::'
       synset: 00100418-r
 less-traveled:
   a:
@@ -18235,7 +18235,7 @@ let:
 let alone:
   r:
     sense:
-    - id: 'let_alone%4:02:00::'
+    - id: 'let_alone%4:53:00::'
       synset: 00063907-r
   v:
     sense:
@@ -18478,7 +18478,7 @@ lethargic encephalitis:
 lethargically:
   r:
     sense:
-    - id: 'lethargically%4:02:00::'
+    - id: 'lethargically%4:45:00::'
       pertainym:
       - 'lethargic%3:00:00::'
       synset: 00390494-r
@@ -19344,7 +19344,7 @@ lewd:
 lewdly:
   r:
     sense:
-    - id: 'lewdly%4:02:00::'
+    - id: 'lewdly%4:45:00::'
       pertainym:
       - lewd%5:00:00:sexy:00
       synset: 00390651-r
@@ -19474,7 +19474,7 @@ lexicalized concept:
 lexically:
   r:
     sense:
-    - id: 'lexically%4:02:00::'
+    - id: 'lexically%4:52:00::'
       pertainym:
       - 'lexical%3:01:01::'
       synset: 00137473-r
@@ -19908,11 +19908,11 @@ liberalize:
 liberally:
   r:
     sense:
-    - id: 'liberally%4:02:00::'
+    - id: 'liberally%4:45:00::'
       pertainym:
       - liberal%5:00:00:inexact:00
       synset: 00198286-r
-    - id: 'liberally%4:02:01::'
+    - id: 'liberally%4:45:01::'
       pertainym:
       - liberal%5:00:00:generous:01
       synset: 00198104-r
@@ -20437,7 +20437,7 @@ licentious:
 licentiously:
   r:
     sense:
-    - id: 'licentiously%4:02:00::'
+    - id: 'licentiously%4:45:00::'
       pertainym:
       - licentious%5:00:00:unchaste:00
       synset: 00390848-r
@@ -20510,8 +20510,8 @@ licitly:
   r:
     sense:
     - antonym:
-      - 'illicitly%4:02:00::'
-      id: 'licitly%4:02:00::'
+      - 'illicitly%4:45:00::'
+      id: 'licitly%4:45:00::'
       pertainym:
       - licit%5:00:00:legal:00
       synset: 00365014-r
@@ -20573,12 +20573,12 @@ licked:
 lickety cut:
   r:
     sense:
-    - id: 'lickety_cut%4:02:00::'
+    - id: 'lickety_cut%4:51:00::'
       synset: 00169345-r
 lickety split:
   r:
     sense:
-    - id: 'lickety_split%4:02:00::'
+    - id: 'lickety_split%4:51:00::'
       synset: 00169345-r
 licking:
   n:
@@ -20874,7 +20874,7 @@ lief:
     pronunciation:
     - value: liːf
     sense:
-    - id: 'lief%4:02:00::'
+    - id: 'lief%4:45:00::'
       synset: 00349906-r
 liege:
   a:
@@ -21354,15 +21354,15 @@ lifeless:
 lifelessly:
   r:
     sense:
-    - id: 'lifelessly%4:02:01::'
+    - id: 'lifelessly%4:45:01::'
       pertainym:
       - lifeless%5:00:00:unanimated:00
       synset: 00391203-r
-    - id: 'lifelessly%4:02:02::'
+    - id: 'lifelessly%4:45:02::'
       pertainym:
       - lifeless%5:00:01:dead:01
       synset: 00391087-r
-    - id: 'lifelessly%4:02:00::'
+    - id: 'lifelessly%4:45:00::'
       pertainym:
       - lifeless%5:00:01:dead:01
       synset: 00306284-r
@@ -21992,7 +21992,7 @@ light:
       synset: 03671917-n
   r:
     sense:
-    - id: 'light%4:02:00::'
+    - id: 'light%4:45:00::'
       synset: 00392845-r
   v:
     form:
@@ -22402,7 +22402,7 @@ light-handed:
 light-handedly:
   r:
     sense:
-    - id: 'light-handedly%4:02:00::'
+    - id: 'light-handedly%4:45:00::'
       pertainym:
       - light-handed%5:00:00:delicate:00
       synset: 00392962-r
@@ -22416,7 +22416,7 @@ light-headed:
 light-headedly:
   r:
     sense:
-    - id: 'light-headedly%4:02:00::'
+    - id: 'light-headedly%4:45:00::'
       synset: 00083273-r
 light-hearted:
   a:
@@ -22426,7 +22426,7 @@ light-hearted:
 light-heartedly:
   r:
     sense:
-    - id: 'light-heartedly%4:02:00::'
+    - id: 'light-heartedly%4:45:00::'
       synset: 00393047-r
 light-minded:
   a:
@@ -22721,29 +22721,29 @@ lightly:
     pronunciation:
     - value: ˈlaɪtli
     sense:
-    - id: 'lightly%4:02:06::'
+    - id: 'lightly%4:45:06::'
       pertainym:
       - 'light%3:00:02::'
       synset: 00511567-r
-    - id: 'lightly%4:02:02::'
+    - id: 'lightly%4:45:02::'
       pertainym:
       - 'light%3:00:01::'
       synset: 00392845-r
-    - id: 'lightly%4:02:00::'
+    - id: 'lightly%4:45:00::'
       synset: 00181765-r
     - antonym:
-      - 'heavily%4:02:01::'
-      id: 'lightly%4:02:01::'
+      - 'heavily%4:45:01::'
+      id: 'lightly%4:45:01::'
       pertainym:
       - light%5:00:00:temperate:00
       synset: 00178236-r
-    - id: 'lightly%4:02:04::'
+    - id: 'lightly%4:45:04::'
       pertainym:
       - 'light%3:00:02::'
       synset: 00029319-r
-    - id: 'lightly%4:02:03::'
+    - id: 'lightly%4:45:03::'
       synset: 00479767-r
-    - id: 'lightly%4:02:05::'
+    - id: 'lightly%4:51:05::'
       pertainym:
       - 'light%3:00:03::'
       synset: 00181654-r
@@ -22860,11 +22860,11 @@ lightsome:
 lightsomely:
   r:
     sense:
-    - id: 'lightsomely%4:02:01::'
+    - id: 'lightsomely%4:45:01::'
       pertainym:
       - lightsome%5:00:00:light-footed:00
       synset: 00393212-r
-    - id: 'lightsomely%4:02:00::'
+    - id: 'lightsomely%4:45:00::'
       pertainym:
       - lightsome%5:00:00:cheerful:00
       synset: 00393047-r
@@ -23089,71 +23089,71 @@ like:
 like a shot:
   r:
     sense:
-    - id: 'like_a_shot%4:02:00::'
+    - id: 'like_a_shot%4:49:00::'
       synset: 00049277-r
 like an expert:
   r:
     sense:
-    - id: 'like_an_expert%4:02:00::'
+    - id: 'like_an_expert%4:45:00::'
       synset: 00215587-r
 like blue murder:
   r:
     sense:
-    - id: 'like_blue_murder%4:02:00::'
+    - id: 'like_blue_murder%4:45:00::'
       synset: 00086743-r
 like clockwork:
   r:
     sense:
-    - id: 'like_clockwork%4:02:00::'
+    - id: 'like_clockwork%4:45:00::'
       synset: 00169451-r
 like crazy:
   r:
     sense:
-    - id: 'like_crazy%4:02:00::'
+    - id: 'like_crazy%4:45:00::'
       synset: 00169587-r
 like fun:
   r:
     sense:
     - exemplifies:
       - 'archaism%1:10:00::'
-      id: 'like_fun%4:02:00::'
+      id: 'like_fun%4:47:00::'
       synset: 00169954-r
 like hell:
   r:
     sense:
-    - id: 'like_hell%4:02:00::'
+    - id: 'like_hell%4:45:00::'
       synset: 00169587-r
-    - id: 'like_hell%4:02:01::'
+    - id: 'like_hell%4:47:01::'
       synset: 00169954-r
 like kings:
   r:
     sense:
-    - id: 'like_kings%4:02:00::'
+    - id: 'like_kings%4:45:00::'
       synset: 00126869-r
 like mad:
   r:
     sense:
-    - id: 'like_mad%4:02:00::'
+    - id: 'like_mad%4:45:00::'
       synset: 00169587-r
 like royalty:
   r:
     sense:
-    - id: 'like_royalty%4:02:00::'
+    - id: 'like_royalty%4:45:00::'
       synset: 00126869-r
 like sin:
   r:
     sense:
-    - id: 'like_sin%4:02:00::'
+    - id: 'like_sin%4:45:00::'
       synset: 00169587-r
 like the devil:
   r:
     sense:
-    - id: 'like_the_devil%4:02:00::'
+    - id: 'like_the_devil%4:45:00::'
       synset: 00169587-r
 like thunder:
   r:
     sense:
-    - id: 'like_thunder%4:02:00::'
+    - id: 'like_thunder%4:45:00::'
       synset: 00169587-r
 like-minded:
   a:
@@ -23218,7 +23218,7 @@ likely:
       synset: 00648191-s
   r:
     sense:
-    - id: 'likely%4:02:00::'
+    - id: 'likely%4:47:00::'
       synset: 00139421-r
 liken:
   v:
@@ -23255,11 +23255,11 @@ likewise:
     pronunciation:
     - value: ˈlaɪkˌwaɪz
     sense:
-    - id: 'likewise%4:02:00::'
+    - id: 'likewise%4:45:00::'
       synset: 00138870-r
-    - id: 'likewise%4:02:01::'
+    - id: 'likewise%4:53:01::'
       synset: 00048072-r
-    - id: 'likewise%4:02:08::'
+    - id: 'likewise%4:53:08::'
       synset: 00070072-r
 liking:
   n:
@@ -23917,7 +23917,7 @@ limited war:
 limitedly:
   r:
     sense:
-    - id: 'limitedly%4:02:00::'
+    - id: 'limitedly%4:45:00::'
       pertainym:
       - limited%5:00:00:moderate:00
       synset: 00131535-r
@@ -24017,7 +24017,7 @@ limnological:
 limnologically:
   r:
     sense:
-    - id: 'limnologically%4:02:00::'
+    - id: 'limnologically%4:52:00::'
       pertainym:
       - 'limnological%3:01:00::'
       synset: 00393380-r
@@ -24155,7 +24155,7 @@ limpidity:
 limpidly:
   r:
     sense:
-    - id: 'limpidly%4:02:00::'
+    - id: 'limpidly%4:45:00::'
       pertainym:
       - limpid%5:00:00:clear:00
       synset: 00391499-r
@@ -24177,7 +24177,7 @@ limpkin:
 limply:
   r:
     sense:
-    - id: 'limply%4:02:00::'
+    - id: 'limply%4:45:00::'
       synset: 00393479-r
 limpness:
   n:
@@ -24822,7 +24822,7 @@ lineal:
 lineally:
   r:
     sense:
-    - id: 'lineally%4:02:00::'
+    - id: 'lineally%4:45:00::'
       pertainym:
       - 'lineal%3:00:00::'
       synset: 00393575-r
@@ -24969,8 +24969,8 @@ linearly:
   r:
     sense:
     - antonym:
-      - 'geometrically%4:02:00::'
-      id: 'linearly%4:02:00::'
+      - 'geometrically%4:51:00::'
+      id: 'linearly%4:45:00::'
       pertainym:
       - 'linear%3:00:02::'
       synset: 00130309-r
@@ -25243,7 +25243,7 @@ lingering:
 lingeringly:
   r:
     sense:
-    - id: 'lingeringly%4:02:00::'
+    - id: 'lingeringly%4:45:00::'
       synset: 00393893-r
 lingo:
   n:
@@ -25326,7 +25326,7 @@ lingual vein:
 lingually:
   r:
     sense:
-    - id: 'lingually%4:02:00::'
+    - id: 'lingually%4:52:00::'
       pertainym:
       - 'lingual%3:01:00::'
       synset: 00131610-r
@@ -25466,11 +25466,11 @@ linguistically:
     - value: lɪŋˈɡwɪstɪk(ə)li
       variety: US
     sense:
-    - id: 'linguistically%4:02:01::'
+    - id: 'linguistically%4:52:01::'
       pertainym:
       - 'linguistic%3:01:01::'
       synset: 00131928-r
-    - id: 'linguistically%4:02:00::'
+    - id: 'linguistically%4:52:00::'
       pertainym:
       - 'linguistic%3:01:00::'
       synset: 00131610-r
@@ -26808,7 +26808,7 @@ lisper:
 lispingly:
   r:
     sense:
-    - id: 'lispingly%4:02:00::'
+    - id: 'lispingly%4:45:00::'
       synset: 00394078-r
 lissom:
   a:
@@ -27089,7 +27089,7 @@ listless:
 listlessly:
   r:
     sense:
-    - id: 'listlessly%4:02:00::'
+    - id: 'listlessly%4:45:00::'
       pertainym:
       - listless%5:00:00:lethargic:00
       synset: 00394150-r
@@ -27273,12 +27273,12 @@ literally:
       variety: US
     sense:
     - antonym:
-      - 'figuratively%4:02:00::'
-      id: 'literally%4:02:00::'
+      - 'figuratively%4:47:00::'
+      id: 'literally%4:45:00::'
       pertainym:
       - 'literal%3:00:00::'
       synset: 00341857-r
-    - id: 'literally%4:02:01::'
+    - id: 'literally%4:47:01::'
       synset: 00112012-r
 literalness:
   n:
@@ -27416,7 +27416,7 @@ literatim:
     - value: ˌlɪ.tɚˈeɪ.tɪm
       variety: US
     sense:
-    - id: 'literatim%4:02:00::'
+    - id: 'literatim%4:45:00::'
       synset: 00514262-r
 literature:
   n:
@@ -27950,7 +27950,7 @@ little:
     - value: ˈlɪ.ɾɫ̩
       variety: AU
     sense:
-    - id: 'little%4:02:00::'
+    - id: 'little%4:51:00::'
       synset: 00100552-r
 little auk:
   n:
@@ -27990,9 +27990,9 @@ little brown myotis:
 little by little:
   r:
     sense:
-    - id: 'little_by_little%4:02:00::'
+    - id: 'little_by_little%4:45:00::'
       synset: 00424192-r
-    - id: 'little_by_little%4:02:01::'
+    - id: 'little_by_little%4:45:01::'
       synset: 00157136-r
 little chief hare:
   n:
@@ -28308,7 +28308,7 @@ live:
     - value: laɪv
       variety: US
     sense:
-    - id: 'live%4:02:00::'
+    - id: 'live%4:45:00::'
       synset: 00260451-r
   v:
     pronunciation:
@@ -28849,7 +28849,7 @@ lividly:
     pronunciation:
     - value: ˈlɪvɪdliː
     sense:
-    - id: 'lividly%4:02:00::'
+    - id: 'lividly%4:45:00::'
       pertainym:
       - livid%5:00:00:angry:00
       synset: 00394265-r
@@ -30197,11 +30197,11 @@ locally:
     pronunciation:
     - value: ˈləʊkəli
     sense:
-    - id: 'locally%4:02:00::'
+    - id: 'locally%4:50:00::'
       pertainym:
       - 'local%3:00:01::'
       synset: 00136124-r
-    - id: 'locally%4:02:01::'
+    - id: 'locally%4:50:01::'
       pertainym:
       - 'local%3:00:02::'
       synset: 00136228-r
@@ -31146,7 +31146,7 @@ loft bombing:
 loftily:
   r:
     sense:
-    - id: 'loftily%4:02:00::'
+    - id: 'loftily%4:45:00::'
       pertainym:
       - lofty%5:00:00:high:01
       synset: 00394336-r
@@ -31336,7 +31336,7 @@ logarithmic scale:
 logarithmically:
   r:
     sense:
-    - id: 'logarithmically%4:02:00::'
+    - id: 'logarithmically%4:45:00::'
       pertainym:
       - 'logarithmic%3:01:00::'
       synset: 00394435-r
@@ -31593,13 +31593,13 @@ logicality:
 logically:
   r:
     sense:
-    - id: 'logically%4:02:01::'
+    - id: 'logically%4:47:01::'
       pertainym:
       - logical%5:00:00:valid:00
       synset: 00365540-r
     - antonym:
-      - 'illogically%4:02:00::'
-      id: 'logically%4:02:00::'
+      - 'illogically%4:45:00::'
+      id: 'logically%4:45:00::'
       pertainym:
       - 'logical%3:00:00::'
       synset: 00365259-r
@@ -31740,7 +31740,7 @@ logogrammatic:
 logogrammatically:
   r:
     sense:
-    - id: 'logogrammatically%4:02:00::'
+    - id: 'logogrammatically%4:45:00::'
       pertainym:
       - 'logogrammatic%3:01:00::'
       synset: 00516883-r
@@ -32158,9 +32158,9 @@ long:
       synset: 00015626-s
   r:
     sense:
-    - id: 'long%4:02:00::'
+    - id: 'long%4:49:00::'
       synset: 00167240-r
-    - id: 'long%4:02:03::'
+    - id: 'long%4:49:03::'
       synset: 00167533-r
   v:
     sense:
@@ -32178,7 +32178,7 @@ long:
 long ago:
   r:
     sense:
-    - id: 'long_ago%4:02:00::'
+    - id: 'long_ago%4:49:00::'
       synset: 00022855-r
 long ass:
   a:
@@ -32328,7 +32328,7 @@ long shot:
 long since:
   r:
     sense:
-    - id: 'long_since%4:02:01::'
+    - id: 'long_since%4:49:01::'
       synset: 00022855-r
 long sleeve:
   n:
@@ -32684,7 +32684,7 @@ long-winded:
 long-windedly:
   r:
     sense:
-    - id: 'long-windedly%4:02:00::'
+    - id: 'long-windedly%4:45:00::'
       pertainym:
       - long-winded%5:00:00:prolix:00
       synset: 00494741-r
@@ -32786,7 +32786,7 @@ longer:
       synset: 10290575-n
   r:
     sense:
-    - id: 'longer%4:02:00::'
+    - id: 'longer%4:49:00::'
       pertainym:
       - 'long%3:00:02::'
       synset: 00394594-r
@@ -32798,7 +32798,7 @@ longest:
     - value: ˈlɔŋ.ɡəst
       variety: US
     sense:
-    - id: 'longest%4:02:00::'
+    - id: 'longest%4:49:00::'
       pertainym:
       - 'long%3:00:02::'
       synset: 00394686-r
@@ -32862,7 +32862,7 @@ longing:
 longingly:
   r:
     sense:
-    - id: 'longingly%4:02:00::'
+    - id: 'longingly%4:45:00::'
       synset: 00391325-r
 longish:
   a:
@@ -32909,13 +32909,13 @@ longitudinally:
     - value: lɔŋ.ɡəˈt͡ʃʉːd.ə.nə.li
       variety: AU
     sense:
-    - id: 'longitudinally%4:02:02::'
+    - id: 'longitudinally%4:49:02::'
       synset: 00390283-r
-    - id: 'longitudinally%4:02:01::'
+    - id: 'longitudinally%4:45:01::'
       pertainym:
       - longitudinal%5:00:00:lengthwise:00
       synset: 00390113-r
-    - id: 'longitudinally%4:02:00::'
+    - id: 'longitudinally%4:49:00::'
       pertainym:
       - 'longitudinal%3:01:00::'
       synset: 00130452-r
@@ -33020,7 +33020,7 @@ longways:
       synset: 00540547-n
   r:
     sense:
-    - id: 'longways%4:02:00::'
+    - id: 'longways%4:45:00::'
       synset: 00390113-r
 longways dance:
   n:
@@ -33030,7 +33030,7 @@ longways dance:
 longwise:
   r:
     sense:
-    - id: 'longwise%4:02:00::'
+    - id: 'longwise%4:45:00::'
       synset: 00390113-r
 longwool:
   n:
@@ -33814,7 +33814,7 @@ loose:
       synset: 00362917-s
   r:
     sense:
-    - id: 'loose%4:02:00::'
+    - id: 'loose%4:45:00::'
       synset: 00359817-r
   v:
     pronunciation:
@@ -33915,15 +33915,15 @@ loosely:
     pronunciation:
     - value: ˈluːsli
     sense:
-    - id: 'loosely%4:02:00::'
+    - id: 'loosely%4:45:00::'
       pertainym:
       - loose%5:00:00:lax:01
       synset: 00180928-r
-    - id: 'loosely%4:02:04::'
+    - id: 'loosely%4:45:04::'
       synset: 00514014-r
-    - id: 'loosely%4:02:02::'
+    - id: 'loosely%4:45:02::'
       synset: 00223063-r
-    - id: 'loosely%4:02:01::'
+    - id: 'loosely%4:45:01::'
       pertainym:
       - loose%5:00:00:coarse:00
       synset: 00154531-r
@@ -34234,7 +34234,7 @@ lopsided:
 lopsidedly:
   r:
     sense:
-    - id: 'lopsidedly%4:02:00::'
+    - id: 'lopsidedly%4:45:00::'
       pertainym:
       - lopsided%5:00:00:crooked:01
       synset: 00242413-r
@@ -34261,7 +34261,7 @@ loquacious:
 loquaciously:
   r:
     sense:
-    - id: 'loquaciously%4:02:00::'
+    - id: 'loquaciously%4:45:00::'
       pertainym:
       - loquacious%5:00:00:voluble:00
       synset: 00394779-r
@@ -34872,7 +34872,7 @@ lots:
     - value: lɒts
       variety: GB
     sense:
-    - id: 'lots%4:02:00::'
+    - id: 'lots%4:51:00::'
       synset: 00059709-r
 lotte:
   n:
@@ -34967,7 +34967,7 @@ loud:
       synset: 01461579-a
   r:
     sense:
-    - id: 'loud%4:02:00::'
+    - id: 'loud%4:45:00::'
       synset: 00070301-r
 loud hailer:
   n:
@@ -35021,14 +35021,14 @@ loudly:
     - value: ˈlaʊdli
     sense:
     - antonym:
-      - 'softly%4:02:00::'
-      id: 'loudly%4:02:00::'
+      - 'softly%4:45:00::'
+      id: 'loudly%4:45:00::'
       pertainym:
       - 'loud%3:00:00::'
       synset: 00070301-r
-    - id: 'loudly%4:02:04::'
+    - id: 'loudly%4:45:04::'
       synset: 00414618-r
-    - id: 'loudly%4:02:02::'
+    - id: 'loudly%4:45:02::'
       synset: 00345595-r
 loudmouth:
   n:
@@ -35825,7 +35825,7 @@ loving-kindness:
 lovingly:
   r:
     sense:
-    - id: 'lovingly%4:02:00::'
+    - id: 'lovingly%4:45:00::'
       pertainym:
       - 'loving%3:00:00::'
       synset: 00230690-r
@@ -35915,7 +35915,7 @@ low:
     - value: loʊ
       variety: US
     sense:
-    - id: 'low%4:02:00::'
+    - id: 'low%4:50:00::'
       synset: 00395053-r
   v:
     pronunciation:
@@ -36661,7 +36661,7 @@ lowering:
 loweringly:
   r:
     sense:
-    - id: 'loweringly%4:02:00::'
+    - id: 'loweringly%4:45:00::'
       pertainym:
       - lowering%5:00:00:cloudy:00
       synset: 00511304-r
@@ -36677,7 +36677,7 @@ lowest:
       synset: 00231668-s
   r:
     sense:
-    - id: 'lowest%4:02:00::'
+    - id: 'lowest%4:50:00::'
       synset: 00395144-r
 lowest common multiple:
   n:
@@ -36821,8 +36821,8 @@ loyally:
   r:
     sense:
     - antonym:
-      - 'disloyally%4:02:00::'
-      id: 'loyally%4:02:00::'
+      - 'disloyally%4:45:00::'
+      id: 'loyally%4:45:00::'
       pertainym:
       - 'loyal%3:00:00::'
       synset: 00317497-r
@@ -37084,7 +37084,7 @@ lucidly:
     pronunciation:
     - value: ˈluːsɪdli
     sense:
-    - id: 'lucidly%4:02:00::'
+    - id: 'lucidly%4:45:00::'
       pertainym:
       - lucid%5:00:00:rational:00
       synset: 00391499-r
@@ -37173,8 +37173,8 @@ luckily:
     - value: ˈlʌkɪli
     sense:
     - antonym:
-      - 'unluckily%4:02:00::'
-      id: 'luckily%4:02:00::'
+      - 'unluckily%4:47:00::'
+      id: 'luckily%4:47:00::'
       pertainym:
       - 'lucky%3:00:00::'
       synset: 00042664-r
@@ -37300,7 +37300,7 @@ ludicrous:
 ludicrously:
   r:
     sense:
-    - id: 'ludicrously%4:02:00::'
+    - id: 'ludicrously%4:51:00::'
       pertainym:
       - ludicrous%5:00:00:humorous:00
       synset: 00388921-r
@@ -37503,7 +37503,7 @@ lugubrious:
 lugubriously:
   r:
     sense:
-    - id: 'lugubriously%4:02:00::'
+    - id: 'lugubriously%4:45:00::'
       pertainym:
       - lugubrious%5:00:00:sorrowful:00
       synset: 00395274-r
@@ -37538,7 +37538,7 @@ lukewarm:
 lukewarmly:
   r:
     sense:
-    - id: 'lukewarmly%4:02:00::'
+    - id: 'lukewarmly%4:45:00::'
       pertainym:
       - lukewarm%5:00:00:unenthusiastic:00
       synset: 00391708-r
@@ -38629,7 +38629,7 @@ lurid:
 luridly:
   r:
     sense:
-    - id: 'luridly%4:02:00::'
+    - id: 'luridly%4:45:00::'
       pertainym:
       - lurid%5:00:00:sensational:00
       synset: 00395442-r
@@ -38713,7 +38713,7 @@ luscious:
 lusciously:
   r:
     sense:
-    - id: 'lusciously%4:02:00::'
+    - id: 'lusciously%4:51:00::'
       pertainym:
       - luscious%5:00:00:tasty:00
       synset: 00395592-r
@@ -38851,7 +38851,7 @@ lustful:
 lustfully:
   r:
     sense:
-    - id: 'lustfully%4:02:00::'
+    - id: 'lustfully%4:45:00::'
       pertainym:
       - lustful%5:00:01:sexy:00
       synset: 00395807-r
@@ -38867,7 +38867,7 @@ lustfulness:
 lustily:
   r:
     sense:
-    - id: 'lustily%4:02:00::'
+    - id: 'lustily%4:45:00::'
       pertainym:
       - lusty%5:00:00:healthy:00
       synset: 00247649-r
@@ -39140,11 +39140,11 @@ luxuriant:
 luxuriantly:
   r:
     sense:
-    - id: 'luxuriantly%4:02:01::'
+    - id: 'luxuriantly%4:45:01::'
       pertainym:
       - luxuriant%5:00:00:abundant:00
       synset: 00392051-r
-    - id: 'luxuriantly%4:02:00::'
+    - id: 'luxuriantly%4:51:00::'
       pertainym:
       - luxuriant%5:00:00:fancy:00
       synset: 00391862-r
@@ -39203,11 +39203,11 @@ luxurious:
 luxuriously:
   r:
     sense:
-    - id: 'luxuriously%4:02:02::'
+    - id: 'luxuriously%4:45:02::'
       pertainym:
       - luxurious%5:00:00:indulgent:00
       synset: 00511054-r
-    - id: 'luxuriously%4:02:00::'
+    - id: 'luxuriously%4:50:00::'
       pertainym:
       - luxurious%5:00:00:rich:03
       synset: 00359047-r
@@ -40002,7 +40002,7 @@ lyricality:
 lyrically:
   r:
     sense:
-    - id: 'lyrically%4:02:00::'
+    - id: 'lyrically%4:45:00::'
       pertainym:
       - lyrical%5:00:00:emotional:00
       synset: 00395924-r

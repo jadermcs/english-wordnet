@@ -29,7 +29,7 @@ P.M.:
       synset: 89528311-n
   r:
     sense:
-    - id: 'p.m.%4:02:00::'
+    - id: 'p.m.%4:49:00::'
       synset: 00252877-r
 P.O.:
   n:
@@ -210,7 +210,7 @@ PM:
       synset: 89528311-n
   r:
     sense:
-    - id: 'pm%4:02:03::'
+    - id: 'pm%4:49:03::'
       synset: 00252877-r
 PMS:
   n:
@@ -282,7 +282,7 @@ PR woman:
 PRN:
   r:
     sense:
-    - id: 'prn%4:02:00::'
+    - id: 'prn%4:49:00::'
       synset: 00182904-r
 PS:
   n:
@@ -7461,7 +7461,7 @@ p-type semiconductor:
 p.a.:
   r:
     sense:
-    - id: 'p.a.%4:02:00::'
+    - id: 'p.a.%4:48:00::'
       synset: 00252039-r
 p.m.:
   n:
@@ -7470,7 +7470,7 @@ p.m.:
       synset: 89528311-n
   r:
     sense:
-    - id: 'p.m.%4:02:03::'
+    - id: 'p.m.%4:49:03::'
       synset: 00252877-r
 pH:
   n:
@@ -7793,7 +7793,7 @@ pacific:
 pacifically:
   r:
     sense:
-    - id: 'pacifically%4:02:00::'
+    - id: 'pacifically%4:45:00::'
       pertainym:
       - pacific%5:00:02:peaceful:00
       synset: 00420622-r
@@ -7884,7 +7884,7 @@ pacifistic:
 pacifistically:
   r:
     sense:
-    - id: 'pacifistically%4:02:00::'
+    - id: 'pacifistically%4:45:00::'
       pertainym:
       - pacifistic%5:00:00:peaceful:00
       synset: 00418340-r
@@ -9162,13 +9162,13 @@ painfully:
     pronunciation:
     - value: ˈpeɪnfəli
     sense:
-    - id: 'painfully%4:02:00::'
+    - id: 'painfully%4:51:00::'
       pertainym:
       - painful%5:00:00:bad:00
       synset: 00115516-r
     - antonym:
-      - 'painlessly%4:02:01::'
-      id: 'painfully%4:02:01::'
+      - 'painlessly%4:45:01::'
+      id: 'painfully%4:45:01::'
       pertainym:
       - 'painful%3:00:00::'
       synset: 00512066-r
@@ -9205,8 +9205,8 @@ painlessly:
   r:
     sense:
     - antonym:
-      - 'painfully%4:02:01::'
-      id: 'painlessly%4:02:01::'
+      - 'painfully%4:45:01::'
+      id: 'painlessly%4:45:01::'
       pertainym:
       - 'painless%3:00:00::'
       synset: 00512235-r
@@ -9241,7 +9241,7 @@ painstakingly:
     pronunciation:
     - value: ˈpeɪnˌsteɪkɪŋli
     sense:
-    - id: 'painstakingly%4:02:00::'
+    - id: 'painstakingly%4:45:00::'
       pertainym:
       - painstaking%5:00:00:careful:00
       synset: 00418463-r
@@ -9929,8 +9929,8 @@ palatably:
   r:
     sense:
     - antonym:
-      - 'unpalatably%4:02:00::'
-      id: 'palatably%4:02:00::'
+      - 'unpalatably%4:51:00::'
+      id: 'palatably%4:45:00::'
       pertainym:
       - 'palatable%3:00:00::'
       synset: 00418673-r
@@ -10234,11 +10234,11 @@ paleface:
 palely:
   r:
     sense:
-    - id: 'palely%4:02:01::'
+    - id: 'palely%4:51:01::'
       pertainym:
       - pale%5:00:00:colorless:03
       synset: 00419049-r
-    - id: 'palely%4:02:00::'
+    - id: 'palely%4:45:00::'
       pertainym:
       - pale%5:00:00:colorless:02
       synset: 00418906-r
@@ -10763,7 +10763,7 @@ pallidity:
 pallidly:
   r:
     sense:
-    - id: 'pallidly%4:02:00::'
+    - id: 'pallidly%4:51:00::'
       pertainym:
       - pallid%5:00:00:weak:00
       synset: 00419049-r
@@ -10931,7 +10931,7 @@ palmate leaf:
 palmately:
   r:
     sense:
-    - id: 'palmately%4:02:00::'
+    - id: 'palmately%4:45:00::'
       pertainym:
       - palmate%5:00:00:compound:00
       synset: 00023528-r
@@ -11077,7 +11077,7 @@ palpable:
 palpably:
   r:
     sense:
-    - id: 'palpably%4:02:00::'
+    - id: 'palpably%4:51:00::'
       pertainym:
       - 'palpable%3:00:00::'
       synset: 00162619-r
@@ -13389,7 +13389,7 @@ par excellence:
     - value: ˌpɑɹ ˌɛksəˈlɑns
       variety: US
     sense:
-    - id: 'par_excellence%4:02:00::'
+    - id: 'par_excellence%4:51:00::'
       synset: 00258439-r
 par value:
   n:
@@ -13793,7 +13793,7 @@ paradoxical sleep:
 paradoxically:
   r:
     sense:
-    - id: 'paradoxically%4:02:00::'
+    - id: 'paradoxically%4:47:00::'
       pertainym:
       - paradoxical%5:00:00:inexplicable:00
       synset: 00023622-r
@@ -14810,7 +14810,7 @@ parasitical:
 parasitically:
   r:
     sense:
-    - id: 'parasitically%4:02:00::'
+    - id: 'parasitically%4:45:00::'
       pertainym:
       - parasitic%5:00:00:dependent:00
       synset: 00023771-r
@@ -15179,8 +15179,8 @@ pardonably:
   r:
     sense:
     - antonym:
-      - 'unpardonably%4:02:00::'
-      id: 'pardonably%4:02:00::'
+      - 'unpardonably%4:51:00::'
+      id: 'pardonably%4:45:00::'
       pertainym:
       - 'pardonable%3:00:00::'
       synset: 00334820-r
@@ -15354,7 +15354,7 @@ parental quality:
 parentally:
   r:
     sense:
-    - id: 'parentally%4:02:00::'
+    - id: 'parentally%4:45:00::'
       pertainym:
       - 'parental%3:00:00::'
       synset: 00419209-r
@@ -15379,7 +15379,7 @@ parenteral:
 parenterally:
   r:
     sense:
-    - id: 'parenterally%4:02:00::'
+    - id: 'parenterally%4:45:00::'
       pertainym:
       - 'parenteral%3:01:01::'
       synset: 00419286-r
@@ -15439,7 +15439,7 @@ parenthetically:
     pronunciation:
     - value: ˈpæɹənˌθɛtɪkli
     sense:
-    - id: 'parenthetically%4:02:00::'
+    - id: 'parenthetically%4:45:00::'
       pertainym:
       - parenthetical%5:00:00:incidental:00
       synset: 00419420-r
@@ -15619,7 +15619,7 @@ pari passu:
     - value: ˌpaɹiˈpɑːsuː
       variety: GB
     sense:
-    - id: 'pari_passu%4:02:00::'
+    - id: 'pari_passu%4:45:00::'
       synset: 00258553-r
 pari-mutuel machine:
   n:
@@ -16207,7 +16207,7 @@ parochialism:
 parochially:
   r:
     sense:
-    - id: 'parochially%4:02:00::'
+    - id: 'parochially%4:45:00::'
       pertainym:
       - parochial%5:00:00:provincial:00
       synset: 00419581-r
@@ -16769,7 +16769,7 @@ part:
     - value: pɐːt
       variety: AU
     sense:
-    - id: 'part%4:02:00::'
+    - id: 'part%4:51:00::'
       synset: 00008102-r
   v:
     pronunciation:
@@ -16878,7 +16878,7 @@ part-time:
       synset: 01093061-a
   r:
     sense:
-    - id: 'part-time%4:02:00::'
+    - id: 'part-time%4:45:00::'
       synset: 00254209-r
 part-timer:
   n:
@@ -17125,7 +17125,7 @@ partially:
     - value: ˈpɑːʃəli
       variety: GB
     sense:
-    - id: 'partially%4:02:00::'
+    - id: 'partially%4:51:00::'
       pertainym:
       - partial%5:00:00:incomplete:00
       synset: 00008102-r
@@ -17476,15 +17476,15 @@ particularly:
     - value: pəˈtɪkjəlɚli
       variety: US
     sense:
-    - id: 'particularly%4:02:00::'
+    - id: 'particularly%4:51:00::'
       pertainym:
       - particular%5:00:00:uncommon:00
       synset: 00084573-r
-    - id: 'particularly%4:02:02::'
+    - id: 'particularly%4:53:02::'
       pertainym:
       - particular%5:00:00:specific:00
       synset: 00250244-r
-    - id: 'particularly%4:02:01::'
+    - id: 'particularly%4:51:01::'
       pertainym:
       - particular%5:00:00:specific:00
       synset: 00249967-r
@@ -17703,8 +17703,8 @@ partly:
       variety: GB
     sense:
     - antonym:
-      - 'wholly%4:02:00::'
-      id: 'partly%4:02:00::'
+      - 'wholly%4:51:00::'
+      id: 'partly%4:51:00::'
       synset: 00008102-r
 partner:
   n:
@@ -17866,7 +17866,7 @@ partsong:
 parttime:
   r:
     sense:
-    - id: 'parttime%4:02:00::'
+    - id: 'parttime%4:45:00::'
       synset: 00254209-r
 parturiency:
   n:
@@ -18715,7 +18715,7 @@ passable:
 passably:
   r:
     sense:
-    - id: 'passably%4:02:00::'
+    - id: 'passably%4:51:00::'
       synset: 00036138-r
 passado:
   n:
@@ -18919,7 +18919,7 @@ passim:
     pronunciation:
     - value: ˈpæsɪm
     sense:
-    - id: 'passim%4:02:00::'
+    - id: 'passim%4:50:00::'
       synset: 00258633-r
 passing:
   a:
@@ -18981,7 +18981,7 @@ passing:
     - value: ˈpɑːsɪŋ
       variety: GB
     sense:
-    - id: 'passing%4:02:00::'
+    - id: 'passing%4:51:00::'
       synset: 00473918-r
 passing beam headlamp:
   n:
@@ -19061,11 +19061,11 @@ passionately:
     pronunciation:
     - value: ˈpæʃənətli
     sense:
-    - id: 'passionately%4:02:00::'
+    - id: 'passionately%4:45:00::'
       pertainym:
       - 'passionate%3:00:00::'
       synset: 00211183-r
-    - id: 'passionately%4:02:01::'
+    - id: 'passionately%4:45:01::'
       synset: 00035332-r
 passionateness:
   n:
@@ -19193,8 +19193,8 @@ passively:
     - value: ˈpæs.ɪv.li
     sense:
     - antonym:
-      - 'actively%4:02:00::'
-      id: 'passively%4:02:00::'
+      - 'actively%4:45:00::'
+      id: 'passively%4:45:00::'
       pertainym:
       - 'passive%3:00:01::'
       synset: 00080014-r
@@ -19292,7 +19292,7 @@ past:
     - value: pæst
       variety: US
     sense:
-    - id: 'past%4:02:00::'
+    - id: 'past%4:50:00::'
       synset: 00419697-r
 past master:
   n:
@@ -19863,7 +19863,7 @@ pat:
       synset: 00126256-n
   r:
     sense:
-    - id: 'pat%4:02:00::'
+    - id: 'pat%4:51:00::'
       synset: 00010321-r
   v:
     form:
@@ -20024,7 +20024,7 @@ patched:
 patchily:
   r:
     sense:
-    - id: 'patchily%4:02:00::'
+    - id: 'patchily%4:45:00::'
       pertainym:
       - patchy%5:00:00:uneven:00
       synset: 00419794-r
@@ -20284,7 +20284,7 @@ patentee:
 patently:
   r:
     sense:
-    - id: 'patently%4:02:00::'
+    - id: 'patently%4:47:00::'
       pertainym:
       - patent%5:00:00:obvious:00
       synset: 00039730-r
@@ -20348,7 +20348,7 @@ paternalistic:
 paternally:
   r:
     sense:
-    - id: 'paternally%4:02:00::'
+    - id: 'paternally%4:45:00::'
       pertainym:
       - 'paternal%3:00:00::'
       synset: 00419857-r
@@ -20433,11 +20433,11 @@ pathetically:
     pronunciation:
     - value: pəˈθɛtɪkli
     sense:
-    - id: 'pathetically%4:02:02::'
+    - id: 'pathetically%4:45:02::'
       pertainym:
       - pathetic%5:00:00:unfortunate:00
       synset: 00420133-r
-    - id: 'pathetically%4:02:01::'
+    - id: 'pathetically%4:51:01::'
       pertainym:
       - pathetic%5:00:00:contemptible:00
       synset: 00419987-r
@@ -20475,7 +20475,7 @@ pathogenic:
 pathogenically:
   r:
     sense:
-    - id: 'pathogenically%4:02:00::'
+    - id: 'pathogenically%4:52:00::'
       pertainym:
       - pathogenic%5:00:00:unhealthful:00
       synset: 00024234-r
@@ -20527,7 +20527,7 @@ pathological state:
 pathologically:
   r:
     sense:
-    - id: 'pathologically%4:02:00::'
+    - id: 'pathologically%4:51:00::'
       pertainym:
       - 'pathological%3:01:00::'
       synset: 00133483-r
@@ -20635,8 +20635,8 @@ patiently:
     - value: ˈpeɪʃəntli
     sense:
     - antonym:
-      - 'impatiently%4:02:00::'
-      id: 'patiently%4:02:00::'
+      - 'impatiently%4:45:00::'
+      id: 'patiently%4:45:00::'
       pertainym:
       - 'patient%3:00:00::'
       synset: 00175130-r
@@ -20880,7 +20880,7 @@ patrilineal sib:
 patrilineally:
   r:
     sense:
-    - id: 'patrilineally%4:02:00::'
+    - id: 'patrilineally%4:45:00::'
       pertainym:
       - patrilineal%5:00:00:lineal:00
       synset: 00393801-r
@@ -20938,8 +20938,8 @@ patriotically:
   r:
     sense:
     - antonym:
-      - 'unpatriotically%4:02:00::'
-      id: 'patriotically%4:02:00::'
+      - 'unpatriotically%4:45:00::'
+      id: 'patriotically%4:45:00::'
       pertainym:
       - 'patriotic%3:00:00::'
       synset: 00420302-r
@@ -21222,7 +21222,7 @@ patronising:
 patronisingly:
   r:
     sense:
-    - id: 'patronisingly%4:02:00::'
+    - id: 'patronisingly%4:45:00::'
       pertainym:
       - patronising%5:00:00:superior:01
       synset: 00293447-r
@@ -21288,7 +21288,7 @@ patronizing:
 patronizingly:
   r:
     sense:
-    - id: 'patronizingly%4:02:00::'
+    - id: 'patronizingly%4:45:00::'
       pertainym:
       - patronizing%5:00:00:superior:01
       synset: 00293447-r
@@ -22692,7 +22692,7 @@ peaceableness:
 peaceably:
   r:
     sense:
-    - id: 'peaceably%4:02:00::'
+    - id: 'peaceably%4:45:00::'
       pertainym:
       - peaceable%5:00:01:peaceful:00
       synset: 00420622-r
@@ -22714,7 +22714,7 @@ peacefully:
     pronunciation:
     - value: ˈpiːsfəli
     sense:
-    - id: 'peacefully%4:02:00::'
+    - id: 'peacefully%4:45:00::'
       pertainym:
       - 'peaceful%3:00:00::'
       synset: 00110560-r
@@ -23862,15 +23862,15 @@ peculiarly:
     - value: pɪˈkjuːljəli
       variety: GB
     sense:
-    - id: 'peculiarly%4:02:01::'
+    - id: 'peculiarly%4:51:01::'
       pertainym:
       - peculiar%5:00:00:specific:00
       synset: 00249967-r
-    - id: 'peculiarly%4:02:00::'
+    - id: 'peculiarly%4:47:00::'
       pertainym:
       - peculiar%5:00:00:strange:00
       synset: 00035878-r
-    - id: 'peculiarly%4:02:02::'
+    - id: 'peculiarly%4:51:02::'
       pertainym:
       - peculiar%5:00:00:unusual:00
       synset: 00084573-r
@@ -23928,7 +23928,7 @@ pedagogical:
 pedagogically:
   r:
     sense:
-    - id: 'pedagogically%4:02:00::'
+    - id: 'pedagogically%4:52:00::'
       pertainym:
       - 'pedagogic%3:01:00::'
       synset: 00313044-r
@@ -24074,7 +24074,7 @@ pedantic:
 pedantically:
   r:
     sense:
-    - id: 'pedantically%4:02:00::'
+    - id: 'pedantically%4:47:00::'
       pertainym:
       - pedantic%5:00:00:scholarly:00
       synset: 00420895-r
@@ -24804,7 +24804,7 @@ peevish:
 peevishly:
   r:
     sense:
-    - id: 'peevishly%4:02:00::'
+    - id: 'peevishly%4:45:00::'
       pertainym:
       - peevish%5:00:00:ill-natured:00
       synset: 00421054-r
@@ -24960,7 +24960,7 @@ pejorative:
 pejoratively:
   r:
     sense:
-    - id: 'pejoratively%4:02:00::'
+    - id: 'pejoratively%4:45:00::'
       pertainym:
       - pejorative%5:00:00:uncomplimentary:00
       synset: 00421193-r
@@ -25074,7 +25074,7 @@ pell-mell:
     pronunciation:
     - value: ˈpɛlˈmɛl
     sense:
-    - id: 'pell-mell%4:02:00::'
+    - id: 'pell-mell%4:45:00::'
       synset: 00165190-r
 pellagra:
   n:
@@ -25143,7 +25143,7 @@ pellucidity:
 pellucidly:
   r:
     sense:
-    - id: 'pellucidly%4:02:00::'
+    - id: 'pellucidly%4:45:00::'
       pertainym:
       - pellucid%5:00:00:clear:00
       synset: 00391499-r
@@ -25502,7 +25502,7 @@ penalize:
 penally:
   r:
     sense:
-    - id: 'penally%4:02:00::'
+    - id: 'penally%4:45:00::'
       pertainym:
       - penal%5:00:00:punitive:00
       synset: 00437844-r
@@ -25846,7 +25846,7 @@ penetrating trauma:
 penetratingly:
   r:
     sense:
-    - id: 'penetratingly%4:02:00::'
+    - id: 'penetratingly%4:45:00::'
       pertainym:
       - penetrating%5:00:00:perceptive:00
       synset: 00421314-r
@@ -25893,7 +25893,7 @@ penetrative:
 penetratively:
   r:
     sense:
-    - id: 'penetratively%4:02:00::'
+    - id: 'penetratively%4:45:00::'
       pertainym:
       - penetrative%5:00:00:perceptive:00
       synset: 00421314-r
@@ -26085,7 +26085,7 @@ penitential:
 penitentially:
   r:
     sense:
-    - id: 'penitentially%4:02:00::'
+    - id: 'penitentially%4:45:00::'
       pertainym:
       - penitential%5:00:00:penitent:00
       synset: 00366906-r
@@ -26113,8 +26113,8 @@ penitently:
   r:
     sense:
     - antonym:
-      - 'impenitently%4:02:00::'
-      id: 'penitently%4:02:00::'
+      - 'impenitently%4:45:00::'
+      id: 'penitently%4:45:00::'
       pertainym:
       - 'penitent%3:00:00::'
       synset: 00366906-r
@@ -26464,7 +26464,7 @@ pensive:
 pensively:
   r:
     sense:
-    - id: 'pensively%4:02:00::'
+    - id: 'pensively%4:45:00::'
       pertainym:
       - pensive%5:00:00:thoughtful:00
       synset: 00421486-r
@@ -26807,7 +26807,7 @@ penurious:
 penuriously:
   r:
     sense:
-    - id: 'penuriously%4:02:00::'
+    - id: 'penuriously%4:45:00::'
       pertainym:
       - penurious%5:00:00:poor:00
       synset: 00421600-r
@@ -27373,7 +27373,7 @@ peptone:
 per annum:
   r:
     sense:
-    - id: 'per_annum%4:02:00::'
+    - id: 'per_annum%4:48:00::'
       synset: 00252039-r
 per capita:
   a:
@@ -27382,7 +27382,7 @@ per capita:
       synset: 00484441-s
   r:
     sense:
-    - id: 'per_capita%4:02:00::'
+    - id: 'per_capita%4:51:00::'
       pertainym:
       - per_capita%5:00:00:proportionate:00
       synset: 00503489-r
@@ -27403,7 +27403,7 @@ per diem:
       synset: 13314775-n
   r:
     sense:
-    - id: 'per_diem%4:02:00::'
+    - id: 'per_diem%4:48:00::'
       synset: 00252267-r
 per se:
   r:
@@ -27413,12 +27413,12 @@ per se:
     - value: pɚːˈseɪ
       variety: US
     sense:
-    - id: 'per_se%4:02:00::'
+    - id: 'per_se%4:53:00::'
       synset: 00037166-r
 per year:
   r:
     sense:
-    - id: 'per_year%4:02:00::'
+    - id: 'per_year%4:48:00::'
       synset: 00252039-r
 peradventure:
   n:
@@ -27427,7 +27427,7 @@ peradventure:
       synset: 05707565-n
   r:
     sense:
-    - id: 'peradventure%4:02:00::'
+    - id: 'peradventure%4:47:00::'
       synset: 00301501-r
 perambulate:
   v:
@@ -27633,8 +27633,8 @@ perceptibly:
   r:
     sense:
     - antonym:
-      - 'imperceptibly%4:02:00::'
-      id: 'perceptibly%4:02:00::'
+      - 'imperceptibly%4:45:00::'
+      id: 'perceptibly%4:51:00::'
       pertainym:
       - 'perceptible%3:00:00::'
       synset: 00367464-r
@@ -27690,7 +27690,7 @@ perceptive:
 perceptively:
   r:
     sense:
-    - id: 'perceptively%4:02:00::'
+    - id: 'perceptively%4:45:00::'
       pertainym:
       - 'perceptive%3:00:00::'
       synset: 00421705-r
@@ -27750,7 +27750,7 @@ perceptuality:
 perceptually:
   r:
     sense:
-    - id: 'perceptually%4:02:00::'
+    - id: 'perceptually%4:52:00::'
       pertainym:
       - 'perceptual%3:01:00::'
       synset: 00421786-r
@@ -27810,9 +27810,9 @@ perchance:
     - value: pɜː(ɹ)ˈtʃɑːns
       variety: GB
     sense:
-    - id: 'perchance%4:02:00::'
+    - id: 'perchance%4:47:00::'
       synset: 00421914-r
-    - id: 'perchance%4:02:01::'
+    - id: 'perchance%4:47:01::'
       synset: 00301501-r
 percher:
   n:
@@ -28165,7 +28165,7 @@ peremptorily:
     - value: pəˈɹɛmpt(ə)ɹəli
       variety: GB
     sense:
-    - id: 'peremptorily%4:02:00::'
+    - id: 'peremptorily%4:45:00::'
       pertainym:
       - peremptory%5:00:02:imperative:00
       synset: 00367080-r
@@ -28248,7 +28248,7 @@ perennial salt marsh aster:
 perennially:
   r:
     sense:
-    - id: 'perennially%4:02:00::'
+    - id: 'perennially%4:49:00::'
       pertainym:
       - 'perennial%3:00:00::'
       synset: 00229434-r
@@ -28431,13 +28431,13 @@ perfectly:
     - value: ˈpɝfɪktli
       variety: US
     sense:
-    - id: 'perfectly%4:02:00::'
+    - id: 'perfectly%4:51:00::'
       pertainym:
       - perfect%5:00:00:unmitigated:00
       synset: 00009459-r
     - antonym:
-      - 'imperfectly%4:02:00::'
-      id: 'perfectly%4:02:01::'
+      - 'imperfectly%4:45:00::'
+      id: 'perfectly%4:45:01::'
       pertainym:
       - 'perfect%3:00:00::'
       synset: 00010112-r
@@ -28481,7 +28481,7 @@ perfidious:
 perfidiously:
   r:
     sense:
-    - id: 'perfidiously%4:02:00::'
+    - id: 'perfidiously%4:45:00::'
       pertainym:
       - perfidious%5:00:00:unfaithful:00
       synset: 00422032-r
@@ -28592,7 +28592,7 @@ perforce:
     - value: pɚˈfɔɹs
       variety: US
     sense:
-    - id: 'perforce%4:02:00::'
+    - id: 'perforce%4:47:00::'
       synset: 00261520-r
 perform:
   v:
@@ -28791,7 +28791,7 @@ perfunctorily:
     pronunciation:
     - value: pəɹˈfʌŋkt(ə)ɹɪli
     sense:
-    - id: 'perfunctorily%4:02:00::'
+    - id: 'perfunctorily%4:45:00::'
       pertainym:
       - perfunctory%5:00:00:careless:00
       synset: 00261760-r
@@ -28850,7 +28850,7 @@ perhaps:
       variety: US
     - value: ˈpɹæps
     sense:
-    - id: 'perhaps%4:02:00::'
+    - id: 'perhaps%4:47:00::'
       synset: 00301501-r
 peri:
   n:
@@ -29127,7 +29127,7 @@ perilous:
 perilously:
   r:
     sense:
-    - id: 'perilously%4:02:00::'
+    - id: 'perilously%4:51:00::'
       pertainym:
       - perilous%5:00:00:dangerous:00
       synset: 00090716-r
@@ -29376,7 +29376,7 @@ periodical cicada:
 periodically:
   r:
     sense:
-    - id: 'periodically%4:02:00::'
+    - id: 'periodically%4:48:00::'
       pertainym:
       - 'periodical%3:00:00::'
       synset: 00214272-r
@@ -29535,8 +29535,8 @@ peripherally:
   r:
     sense:
     - antonym:
-      - 'centrally%4:02:00::'
-      id: 'peripherally%4:02:00::'
+      - 'centrally%4:50:00::'
+      id: 'peripherally%4:51:00::'
       pertainym:
       - peripheral%5:00:00:incidental:00
       - 'peripheral%3:00:00::'
@@ -29866,7 +29866,7 @@ perked up:
 perkily:
   r:
     sense:
-    - id: 'perkily%4:02:00::'
+    - id: 'perkily%4:45:00::'
       pertainym:
       - perky%5:00:00:cheerful:00
       synset: 00422171-r
@@ -30013,8 +30013,8 @@ permanently:
       variety: GB
     sense:
     - antonym:
-      - 'temporarily%4:02:00::'
-      id: 'permanently%4:02:00::'
+      - 'temporarily%4:49:00::'
+      id: 'permanently%4:49:00::'
       pertainym:
       - 'permanent%3:00:00::'
       synset: 00088404-r
@@ -30170,8 +30170,8 @@ permissibly:
   r:
     sense:
     - antonym:
-      - 'impermissibly%4:02:00::'
-      id: 'permissibly%4:02:00::'
+      - 'impermissibly%4:51:00::'
+      id: 'permissibly%4:52:00::'
       pertainym:
       - 'permissible%3:00:00::'
       synset: 00087414-r
@@ -30212,7 +30212,7 @@ permissive waste:
 permissively:
   r:
     sense:
-    - id: 'permissively%4:02:00::'
+    - id: 'permissively%4:45:00::'
       pertainym:
       - 'permissive%3:00:01::'
       synset: 00087333-r
@@ -30378,11 +30378,11 @@ pernicious anemia:
 perniciously:
   r:
     sense:
-    - id: 'perniciously%4:02:01::'
+    - id: 'perniciously%4:45:01::'
       pertainym:
       - pernicious%5:00:00:noxious:00
       synset: 00380042-r
-    - id: 'perniciously%4:02:00::'
+    - id: 'perniciously%4:45:00::'
       pertainym:
       - pernicious%5:00:00:noxious:00
       synset: 00278865-r
@@ -30578,9 +30578,9 @@ perpendicularity:
 perpendicularly:
   r:
     sense:
-    - id: 'perpendicularly%4:02:01::'
+    - id: 'perpendicularly%4:45:01::'
       synset: 00454019-r
-    - id: 'perpendicularly%4:02:00::'
+    - id: 'perpendicularly%4:50:00::'
       pertainym:
       - 'perpendicular%3:00:00::'
       synset: 00422293-r
@@ -30660,11 +30660,11 @@ perpetually:
     - value: pəˈpɛtʃʊəli
       variety: GB
     sense:
-    - id: 'perpetually%4:02:01::'
+    - id: 'perpetually%4:49:01::'
       pertainym:
       - perpetual%5:00:00:continuous:01
       synset: 00229584-r
-    - id: 'perpetually%4:02:00::'
+    - id: 'perpetually%4:48:00::'
       pertainym:
       - perpetual%5:00:00:continuous:01
       synset: 00020735-r
@@ -30739,7 +30739,7 @@ perplexed:
 perplexedly:
   r:
     sense:
-    - id: 'perplexedly%4:02:00::'
+    - id: 'perplexedly%4:45:00::'
       pertainym:
       - 'perplexed%3:00:00::'
       synset: 00422436-r
@@ -30892,7 +30892,7 @@ persevering:
 perseveringly:
   r:
     sense:
-    - id: 'perseveringly%4:02:00::'
+    - id: 'perseveringly%4:45:00::'
       pertainym:
       - persevering%5:00:00:patient:00
       synset: 00273866-r
@@ -31031,11 +31031,11 @@ persistent:
 persistently:
   r:
     sense:
-    - id: 'persistently%4:02:01::'
+    - id: 'persistently%4:45:01::'
       pertainym:
       - persistent%5:00:00:continual:00
       synset: 00422590-r
-    - id: 'persistently%4:02:00::'
+    - id: 'persistently%4:45:00::'
       pertainym:
       - persistent%5:00:00:continual:00
       synset: 00273943-r
@@ -31108,7 +31108,7 @@ person-to-person:
       synset: 01773691-s
   r:
     sense:
-    - id: 'person-to-person%4:02:00::'
+    - id: 'person-to-person%4:45:00::'
       synset: 00044989-r
 persona:
   n:
@@ -31457,23 +31457,23 @@ personally:
     pronunciation:
     - value: ˈpɜːsnəli
     sense:
-    - id: 'personally%4:02:01::'
+    - id: 'personally%4:47:01::'
       synset: 00368189-r
-    - id: 'personally%4:02:00::'
+    - id: 'personally%4:47:00::'
       pertainym:
       - 'personal%3:01:01::'
       synset: 00132870-r
     - antonym:
-      - 'impersonally%4:02:00::'
-      id: 'personally%4:02:03::'
+      - 'impersonally%4:45:00::'
+      id: 'personally%4:45:03::'
       pertainym:
       - 'personal%3:00:00::'
       synset: 00368062-r
-    - id: 'personally%4:02:04::'
+    - id: 'personally%4:53:04::'
       pertainym:
       - 'personal%3:00:00::'
       synset: 00132968-r
-    - id: 'personally%4:02:02::'
+    - id: 'personally%4:47:02::'
       synset: 00133132-r
 personalty:
   n:
@@ -31691,7 +31691,7 @@ perspicuous:
 perspicuously:
   r:
     sense:
-    - id: 'perspicuously%4:02:00::'
+    - id: 'perspicuously%4:45:00::'
       pertainym:
       - perspicuous%5:00:00:clear:00
       synset: 00391499-r
@@ -31831,7 +31831,7 @@ persuasive:
 persuasively:
   r:
     sense:
-    - id: 'persuasively%4:02:00::'
+    - id: 'persuasively%4:45:00::'
       pertainym:
       - 'persuasive%3:00:00::'
       synset: 00422738-r
@@ -31911,7 +31911,7 @@ pertinaciously:
     - value: ˌpɝːtənˈeɪʃəsli
       variety: US
     sense:
-    - id: 'pertinaciously%4:02:00::'
+    - id: 'pertinaciously%4:45:00::'
       pertainym:
       - pertinacious%5:00:00:stubborn:00
       synset: 00422859-r
@@ -31963,14 +31963,14 @@ pertinent:
 pertinently:
   r:
     sense:
-    - id: 'pertinently%4:02:00::'
+    - id: 'pertinently%4:45:00::'
       pertainym:
       - pertinent%5:00:00:apropos:00
       synset: 00423009-r
 pertly:
   r:
     sense:
-    - id: 'pertly%4:02:00::'
+    - id: 'pertly%4:45:00::'
       pertainym:
       - pert%5:00:00:spirited:00
       synset: 00368286-r
@@ -32199,7 +32199,7 @@ pervasive:
 pervasively:
   r:
     sense:
-    - id: 'pervasively%4:02:00::'
+    - id: 'pervasively%4:45:00::'
       pertainym:
       - pervasive%5:00:00:distributive:00
       synset: 00423235-r
@@ -32244,11 +32244,11 @@ perverse:
 perversely:
   r:
     sense:
-    - id: 'perversely%4:02:00::'
+    - id: 'perversely%4:51:00::'
       pertainym:
       - perverse%5:00:00:corrupt:00
       synset: 00249338-r
-    - id: 'perversely%4:02:03::'
+    - id: 'perversely%4:54:03::'
       pertainym:
       - perverse%5:00:00:disobedient:00
       synset: 00249448-r
@@ -32500,8 +32500,8 @@ pessimistically:
   r:
     sense:
     - antonym:
-      - 'optimistically%4:02:00::'
-      id: 'pessimistically%4:02:00::'
+      - 'optimistically%4:45:00::'
+      id: 'pessimistically%4:45:00::'
       pertainym:
       - 'pessimistic%3:00:00::'
       synset: 00416346-r
@@ -33315,7 +33315,7 @@ pettifoggery:
 pettily:
   r:
     sense:
-    - id: 'pettily%4:02:00::'
+    - id: 'pettily%4:45:00::'
       pertainym:
       - petty%5:00:00:narrow-minded:00
       synset: 00423314-r
@@ -33358,7 +33358,7 @@ pettish:
 pettishly:
   r:
     sense:
-    - id: 'pettishly%4:02:00::'
+    - id: 'pettishly%4:45:00::'
       pertainym:
       - pettish%5:00:00:ill-natured:00
       synset: 00218072-r
@@ -33473,7 +33473,7 @@ petulant:
 petulantly:
   r:
     sense:
-    - id: 'petulantly%4:02:00::'
+    - id: 'petulantly%4:45:00::'
       pertainym:
       - petulant%5:00:00:ill-natured:00
       synset: 00218072-r
@@ -34001,7 +34001,7 @@ pharmacologically:
     pronunciation:
     - value: ˌfɑɹməkəˈlɒdʒɪkəli
     sense:
-    - id: 'pharmacologically%4:02:00::'
+    - id: 'pharmacologically%4:52:00::'
       pertainym:
       - 'pharmacological%3:01:00::'
       synset: 00423382-r
@@ -34462,7 +34462,7 @@ phenomenality:
 phenomenally:
   r:
     sense:
-    - id: 'phenomenally%4:02:00::'
+    - id: 'phenomenally%4:51:00::'
       pertainym:
       - phenomenal%5:00:00:extraordinary:00
       synset: 00423540-r
@@ -34735,7 +34735,7 @@ philanthropic gift:
 philanthropically:
   r:
     sense:
-    - id: 'philanthropically%4:02:00::'
+    - id: 'philanthropically%4:45:00::'
       pertainym:
       - philanthropic%5:00:00:charitable:00
       synset: 00423660-r
@@ -34780,7 +34780,7 @@ philatelical:
 philatelically:
   r:
     sense:
-    - id: 'philatelically%4:02:00::'
+    - id: 'philatelically%4:52:00::'
       pertainym:
       - 'philatelic%3:01:00::'
       synset: 00423749-r
@@ -35059,11 +35059,11 @@ philosophical theory:
 philosophically:
   r:
     sense:
-    - id: 'philosophically%4:02:00::'
+    - id: 'philosophically%4:45:00::'
       pertainym:
       - philosophical%5:00:00:unemotional:00
       synset: 00133226-r
-    - id: 'philosophically%4:02:01::'
+    - id: 'philosophically%4:52:01::'
       pertainym:
       - 'philosophical%3:01:00::'
       synset: 00503820-r
@@ -35299,7 +35299,7 @@ phlegmatical:
 phlegmatically:
   r:
     sense:
-    - id: 'phlegmatically%4:02:00::'
+    - id: 'phlegmatically%4:45:00::'
       pertainym:
       - phlegmatic%5:00:00:unemotional:00
       synset: 00423889-r
@@ -35604,7 +35604,7 @@ phonemic:
       synset: 02869175-a
   r:
     sense:
-    - id: 'phonemic%4:02:00::'
+    - id: 'phonemic%4:45:00::'
       pertainym:
       - 'phonemic%3:01:00::'
       synset: 00132742-r
@@ -35616,7 +35616,7 @@ phonemic system:
 phonemically:
   r:
     sense:
-    - id: 'phonemically%4:02:00::'
+    - id: 'phonemically%4:45:00::'
       pertainym:
       - 'phonemic%3:01:00::'
       synset: 00132742-r
@@ -35679,7 +35679,7 @@ phonetic transcription:
 phonetically:
   r:
     sense:
-    - id: 'phonetically%4:02:00::'
+    - id: 'phonetically%4:52:00::'
       pertainym:
       - 'phonetic%3:01:00::'
       synset: 00132646-r
@@ -36251,7 +36251,7 @@ photoelectrical:
 photoelectrically:
   r:
     sense:
-    - id: 'photoelectrically%4:02:00::'
+    - id: 'photoelectrically%4:45:00::'
       pertainym:
       - 'photoelectric%3:01:00::'
       synset: 00122654-r
@@ -36446,7 +36446,7 @@ photographic print:
 photographically:
   r:
     sense:
-    - id: 'photographically%4:02:00::'
+    - id: 'photographically%4:45:00::'
       pertainym:
       - 'photographic%3:01:00::'
       synset: 00122778-r
@@ -36558,7 +36558,7 @@ photometrical:
 photometrically:
   r:
     sense:
-    - id: 'photometrically%4:02:00::'
+    - id: 'photometrically%4:45:00::'
       pertainym:
       - 'photometric%3:01:00::'
       synset: 00122898-r
@@ -37081,7 +37081,7 @@ phylogenetic relation:
 phylogenetically:
   r:
     sense:
-    - id: 'phylogenetically%4:02:00::'
+    - id: 'phylogenetically%4:52:00::'
       pertainym:
       - 'phylogenetic%3:01:00::'
       synset: 00116024-r
@@ -37333,7 +37333,7 @@ physically:
     pronunciation:
     - value: ˈfɪzɪkli
     sense:
-    - id: 'physically%4:02:00::'
+    - id: 'physically%4:52:00::'
       pertainym:
       - 'physical%3:01:00::'
       synset: 00116161-r
@@ -37493,7 +37493,7 @@ physiological state:
 physiologically:
   r:
     sense:
-    - id: 'physiologically%4:02:00::'
+    - id: 'physiologically%4:52:00::'
       pertainym:
       - physiological%5:00:00:physical:00
       synset: 00116277-r
@@ -37693,8 +37693,8 @@ pianissimo:
   r:
     sense:
     - antonym:
-      - 'fortissimo%4:02:00::'
-      id: 'pianissimo%4:02:00::'
+      - 'fortissimo%4:45:00::'
+      id: 'pianissimo%4:45:00::'
       pertainym:
       - pianissimo%5:00:00:piano:00
       synset: 00345734-r
@@ -37759,8 +37759,8 @@ piano:
     - value: piˈɑnoʊ
     sense:
     - antonym:
-      - 'forte%4:02:00::'
-      id: 'piano%4:02:00::'
+      - 'forte%4:45:00::'
+      id: 'piano%4:45:00::'
       pertainym:
       - 'piano%3:00:00::'
       synset: 00345456-r
@@ -38331,9 +38331,9 @@ pick-off:
 pickaback:
   r:
     sense:
-    - id: 'pickaback%4:02:01::'
+    - id: 'pickaback%4:45:01::'
       synset: 00351250-r
-    - id: 'pickaback%4:02:00::'
+    - id: 'pickaback%4:45:00::'
       synset: 00351105-r
 pickaback plant:
   n:
@@ -38770,7 +38770,7 @@ pictorial representation:
 pictorially:
   r:
     sense:
-    - id: 'pictorially%4:02:00::'
+    - id: 'pictorially%4:45:00::'
       pertainym:
       - 'pictorial%3:01:00::'
       synset: 00024317-r
@@ -38964,7 +38964,7 @@ picturesquely:
     - value: ˌpɪkt͡ʃəˈɹɛskli
       variety: US
     sense:
-    - id: 'picturesquely%4:02:00::'
+    - id: 'picturesquely%4:45:00::'
       pertainym:
       - picturesque%5:00:00:beautiful:00
       synset: 00424015-r
@@ -39304,7 +39304,7 @@ piecemeal:
     pronunciation:
     - value: ˈpiːs.miːl
     sense:
-    - id: 'piecemeal%4:02:00::'
+    - id: 'piecemeal%4:45:00::'
       synset: 00424192-r
 piecework:
   n:
@@ -39435,11 +39435,11 @@ piercing:
 piercingly:
   r:
     sense:
-    - id: 'piercingly%4:02:00::'
+    - id: 'piercingly%4:51:00::'
       pertainym:
       - piercing%5:00:00:sharp:04
       synset: 00424346-r
-    - id: 'piercingly%4:02:01::'
+    - id: 'piercingly%4:45:01::'
       synset: 00050613-r
 pierid:
   n:
@@ -39687,14 +39687,14 @@ pig's ears:
 pig-a-back:
   r:
     sense:
-    - id: 'pig-a-back%4:02:01::'
+    - id: 'pig-a-back%4:45:01::'
       synset: 00351250-r
-    - id: 'pig-a-back%4:02:00::'
+    - id: 'pig-a-back%4:45:00::'
       synset: 00351105-r
 pig-headedly:
   r:
     sense:
-    - id: 'pig-headedly%4:02:00::'
+    - id: 'pig-headedly%4:45:00::'
       pertainym:
       - pigheaded%5:00:00:stubborn:00
       synset: 00200274-r
@@ -39839,7 +39839,7 @@ piggish:
 piggishly:
   r:
     sense:
-    - id: 'piggishly%4:02:00::'
+    - id: 'piggishly%4:45:00::'
       pertainym:
       - piggish%5:00:00:gluttonous:00
       synset: 00424530-r
@@ -39883,9 +39883,9 @@ piggyback:
       synset: 00320339-n
   r:
     sense:
-    - id: 'piggyback%4:02:01::'
+    - id: 'piggyback%4:45:01::'
       synset: 00351250-r
-    - id: 'piggyback%4:02:00::'
+    - id: 'piggyback%4:45:00::'
       synset: 00351105-r
   v:
     sense:
@@ -42075,7 +42075,7 @@ pinnated:
 pinnately:
   r:
     sense:
-    - id: 'pinnately%4:02:00::'
+    - id: 'pinnately%4:45:00::'
       pertainym:
       - pinnate%5:00:00:compound:00
       synset: 00424646-r
@@ -42398,7 +42398,7 @@ pious platitude:
 piously:
   r:
     sense:
-    - id: 'piously%4:02:01::'
+    - id: 'piously%4:51:01::'
       pertainym:
       - 'pious%3:00:00::'
       synset: 00311786-r
@@ -42791,7 +42791,7 @@ piping:
       synset: 00102528-n
   r:
     sense:
-    - id: 'piping%4:02:00::'
+    - id: 'piping%4:51:00::'
       synset: 00424753-r
 piping crow:
   n:
@@ -42875,7 +42875,7 @@ piquant:
 piquantly:
   r:
     sense:
-    - id: 'piquantly%4:02:00::'
+    - id: 'piquantly%4:45:00::'
       pertainym:
       - piquant%5:00:00:tasty:00
       synset: 00424855-r
@@ -43027,7 +43027,7 @@ piratical:
 piratically:
   r:
     sense:
-    - id: 'piratically%4:02:00::'
+    - id: 'piratically%4:45:00::'
       pertainym:
       - 'piratical%3:01:01::'
       synset: 00426370-r
@@ -43472,9 +43472,9 @@ pit viper:
 pit-a-pat:
   r:
     sense:
-    - id: 'pit-a-pat%4:02:01::'
+    - id: 'pit-a-pat%4:45:01::'
       synset: 00426635-r
-    - id: 'pit-a-pat%4:02:00::'
+    - id: 'pit-a-pat%4:45:00::'
       synset: 00426498-r
 pit-house:
   n:
@@ -43880,7 +43880,7 @@ piteous:
 piteously:
   r:
     sense:
-    - id: 'piteously%4:02:00::'
+    - id: 'piteously%4:45:00::'
       pertainym:
       - piteous%5:00:00:unfortunate:00
       synset: 00426773-r
@@ -43937,7 +43937,7 @@ pithead:
 pithily:
   r:
     sense:
-    - id: 'pithily%4:02:00::'
+    - id: 'pithily%4:45:00::'
       pertainym:
       - pithy%5:00:00:concise:00
       synset: 00426848-r
@@ -43978,7 +43978,7 @@ pitiable:
 pitiably:
   r:
     sense:
-    - id: 'pitiably%4:02:00::'
+    - id: 'pitiably%4:45:00::'
       pertainym:
       - pitiable%5:00:00:unfortunate:00
       synset: 00420133-r
@@ -43996,7 +43996,7 @@ pitiful:
 pitifully:
   r:
     sense:
-    - id: 'pitifully%4:02:00::'
+    - id: 'pitifully%4:51:00::'
       pertainym:
       - pitiful%5:00:00:contemptible:00
       synset: 00426998-r
@@ -44017,7 +44017,7 @@ pitiless:
 pitilessly:
   r:
     sense:
-    - id: 'pitilessly%4:02:00::'
+    - id: 'pitilessly%4:45:00::'
       pertainym:
       - pitiless%5:00:00:merciless:00
       synset: 00402381-r
@@ -44083,9 +44083,9 @@ pitter-patter:
       synset: 07404357-n
   r:
     sense:
-    - id: 'pitter-patter%4:02:01::'
+    - id: 'pitter-patter%4:45:01::'
       synset: 00426635-r
-    - id: 'pitter-patter%4:02:00::'
+    - id: 'pitter-patter%4:45:00::'
       synset: 00426498-r
   v:
     sense:
@@ -44112,16 +44112,16 @@ pitting:
 pitty-pat:
   r:
     sense:
-    - id: 'pitty-pat%4:02:01::'
+    - id: 'pitty-pat%4:45:01::'
       synset: 00426635-r
-    - id: 'pitty-pat%4:02:00::'
+    - id: 'pitty-pat%4:45:00::'
       synset: 00426498-r
 pitty-patty:
   r:
     sense:
-    - id: 'pitty-patty%4:02:01::'
+    - id: 'pitty-patty%4:45:01::'
       synset: 00426635-r
-    - id: 'pitty-patty%4:02:00::'
+    - id: 'pitty-patty%4:45:00::'
       synset: 00426498-r
 pituitary:
   a:
@@ -44207,7 +44207,7 @@ pity:
 pityingly:
   r:
     sense:
-    - id: 'pityingly%4:02:00::'
+    - id: 'pityingly%4:45:00::'
       synset: 00240008-r
 pityriasis:
   n:
@@ -44389,7 +44389,7 @@ pizzicato:
     pronunciation:
     - value: ˌpɪtsɪˈkɑːtoʊ
     sense:
-    - id: 'pizzicato%4:02:00::'
+    - id: 'pizzicato%4:45:00::'
       synset: 00425289-r
 pj's:
   n:
@@ -44469,7 +44469,7 @@ placating:
 placatingly:
   r:
     sense:
-    - id: 'placatingly%4:02:00::'
+    - id: 'placatingly%4:45:00::'
       pertainym:
       - placating%5:00:00:conciliatory:00
       synset: 00427134-r
@@ -44972,11 +44972,11 @@ placidity:
 placidly:
   r:
     sense:
-    - id: 'placidly%4:02:01::'
+    - id: 'placidly%4:45:01::'
       pertainym:
       - placid%5:00:00:calm:00
       synset: 00425154-r
-    - id: 'placidly%4:02:00::'
+    - id: 'placidly%4:45:00::'
       pertainym:
       - placid%5:00:00:good-natured:00
       synset: 00425009-r
@@ -45251,12 +45251,12 @@ plaguey:
       synset: 00090253-s
   r:
     sense:
-    - id: 'plaguey%4:02:00::'
+    - id: 'plaguey%4:51:00::'
       synset: 00427241-r
 plaguily:
   r:
     sense:
-    - id: 'plaguily%4:02:00::'
+    - id: 'plaguily%4:51:00::'
       pertainym:
       - plaguy%5:00:00:disagreeable:00
       synset: 00427241-r
@@ -45271,7 +45271,7 @@ plaguy:
       synset: 00090253-s
   r:
     sense:
-    - id: 'plaguy%4:02:00::'
+    - id: 'plaguy%4:51:00::'
       synset: 00427241-r
 plaice:
   n:
@@ -45329,7 +45329,7 @@ plain:
       synset: 03630435-n
   r:
     sense:
-    - id: 'plain%4:02:00::'
+    - id: 'plain%4:47:00::'
       synset: 00039730-r
   v:
     sense:
@@ -45403,11 +45403,11 @@ plainly:
     pronunciation:
     - value: ˈpleɪnli
     sense:
-    - id: 'plainly%4:02:00::'
+    - id: 'plainly%4:47:00::'
       pertainym:
       - plain%5:00:00:obvious:00
       synset: 00039730-r
-    - id: 'plainly%4:02:01::'
+    - id: 'plainly%4:45:01::'
       synset: 00005436-r
 plainness:
   n:
@@ -45511,7 +45511,7 @@ plaintive:
 plaintively:
   r:
     sense:
-    - id: 'plaintively%4:02:00::'
+    - id: 'plaintively%4:45:00::'
       pertainym:
       - plaintive%5:00:00:sorrowful:00
       synset: 00427364-r
@@ -46957,7 +46957,7 @@ plastically:
     - value: ˈplastɪkli
       variety: GB
     sense:
-    - id: 'plastically%4:02:00::'
+    - id: 'plastically%4:45:00::'
       pertainym:
       - plastic%5:00:00:elastic:00
       synset: 00227180-r
@@ -47557,7 +47557,7 @@ plausibleness:
 plausibly:
   r:
     sense:
-    - id: 'plausibly%4:02:00::'
+    - id: 'plausibly%4:45:00::'
       pertainym:
       - 'plausible%3:00:00::'
       synset: 00297385-r
@@ -48242,7 +48242,7 @@ playful:
 playfully:
   r:
     sense:
-    - id: 'playfully%4:02:00::'
+    - id: 'playfully%4:45:00::'
       pertainym:
       - 'playful%3:00:00::'
       synset: 00427493-r
@@ -48551,7 +48551,7 @@ pleading in the alternative:
 pleadingly:
   r:
     sense:
-    - id: 'pleadingly%4:02:00::'
+    - id: 'pleadingly%4:45:00::'
       synset: 00280063-r
 pleasance:
   n:
@@ -48597,13 +48597,13 @@ pleasantly:
     pronunciation:
     - value: ˈplɛzəntli
     sense:
-    - id: 'pleasantly%4:02:01::'
+    - id: 'pleasantly%4:45:01::'
       pertainym:
       - pleasant%5:00:00:nice:00
       synset: 00220805-r
     - antonym:
-      - 'unpleasantly%4:02:00::'
-      id: 'pleasantly%4:02:00::'
+      - 'unpleasantly%4:45:00::'
+      id: 'pleasantly%4:51:00::'
       pertainym:
       - 'pleasant%3:00:00::'
       synset: 00220590-r
@@ -48630,7 +48630,7 @@ pleasantry:
 please:
   r:
     sense:
-    - id: 'please%4:02:00::'
+    - id: 'please%4:47:00::'
       synset: 00010428-r
   v:
     sense:
@@ -48705,7 +48705,7 @@ pleasing:
 pleasingly:
   r:
     sense:
-    - id: 'pleasingly%4:02:00::'
+    - id: 'pleasingly%4:51:00::'
       pertainym:
       - 'pleasing%3:00:00::'
       synset: 00427673-r
@@ -48728,7 +48728,7 @@ pleasurable:
 pleasurably:
   r:
     sense:
-    - id: 'pleasurably%4:02:00::'
+    - id: 'pleasurably%4:45:00::'
       pertainym:
       - pleasurable%5:00:00:pleasant:00
       synset: 00230162-r
@@ -49017,7 +49017,7 @@ pledger:
 plenarily:
   r:
     sense:
-    - id: 'plenarily%4:02:00::'
+    - id: 'plenarily%4:51:00::'
       pertainym:
       - plenary%5:00:00:comprehensive:00
       synset: 00427783-r
@@ -49065,7 +49065,7 @@ plenteous:
 plenteously:
   r:
     sense:
-    - id: 'plenteously%4:02:00::'
+    - id: 'plenteously%4:45:00::'
       pertainym:
       - plenteous%5:00:00:abundant:00
       synset: 00281297-r
@@ -49096,7 +49096,7 @@ plentifully:
     pronunciation:
     - value: ˈplɛntɪfəli
     sense:
-    - id: 'plentifully%4:02:00::'
+    - id: 'plentifully%4:45:00::'
       pertainym:
       - plentiful%5:00:00:fruitful:00
       synset: 00281297-r
@@ -49136,7 +49136,7 @@ plenty:
     - value: ˈplɛnti
       variety: US
     sense:
-    - id: 'plenty%4:02:00::'
+    - id: 'plenty%4:51:00::'
       synset: 00146749-r
 plenum:
   n:
@@ -49720,7 +49720,7 @@ plodding:
 ploddingly:
   r:
     sense:
-    - id: 'ploddingly%4:02:00::'
+    - id: 'ploddingly%4:45:00::'
       pertainym:
       - plodding%5:00:00:effortful:00
       synset: 00427916-r
@@ -49766,7 +49766,7 @@ plop:
       synset: 07404649-n
   r:
     sense:
-    - id: 'plop%4:02:00::'
+    - id: 'plop%4:45:00::'
       synset: 00428051-r
   v:
     form:
@@ -50238,7 +50238,7 @@ plucked:
 pluckily:
   r:
     sense:
-    - id: 'pluckily%4:02:00::'
+    - id: 'pluckily%4:45:00::'
       pertainym:
       - plucky%5:00:00:spirited:00
       synset: 00428788-r
@@ -50437,9 +50437,9 @@ plum:
       synset: 00597196-n
   r:
     sense:
-    - id: 'plum%4:02:02::'
+    - id: 'plum%4:51:02::'
       synset: 00010003-r
-    - id: 'plum%4:02:04::'
+    - id: 'plum%4:51:04::'
       synset: 00009835-r
 plum duff:
   n:
@@ -50516,11 +50516,11 @@ plumb:
       synset: 03975060-n
   r:
     sense:
-    - id: 'plumb%4:02:04::'
+    - id: 'plumb%4:51:04::'
       synset: 00009835-r
-    - id: 'plumb%4:02:00::'
+    - id: 'plumb%4:45:00::'
       synset: 00428968-r
-    - id: 'plumb%4:02:02::'
+    - id: 'plumb%4:51:02::'
       synset: 00010003-r
   v:
     sense:
@@ -50835,7 +50835,7 @@ plump:
       synset: 07404805-n
   r:
     sense:
-    - id: 'plump%4:02:01::'
+    - id: 'plump%4:45:01::'
       synset: 00428189-r
   v:
     sense:
@@ -51167,7 +51167,7 @@ plunk:
       synset: 00133039-n
   r:
     sense:
-    - id: 'plunk%4:02:00::'
+    - id: 'plunk%4:45:00::'
       synset: 00428051-r
   v:
     pronunciation:
@@ -51603,7 +51603,7 @@ plywood:
 pm:
   r:
     sense:
-    - id: 'pm%4:02:02::'
+    - id: 'pm%4:49:02::'
       synset: 00252877-r
 pneumatic:
   a:
@@ -51642,7 +51642,7 @@ pneumatic tyre:
 pneumatically:
   r:
     sense:
-    - id: 'pneumatically%4:02:00::'
+    - id: 'pneumatically%4:45:00::'
       pertainym:
       - 'pneumatic%3:01:00::'
       synset: 00428368-r
@@ -52451,7 +52451,7 @@ poetical:
 poetically:
   r:
     sense:
-    - id: 'poetically%4:02:00::'
+    - id: 'poetically%4:45:00::'
       pertainym:
       - 'poetic%3:01:00::'
       synset: 00132547-r
@@ -52634,7 +52634,7 @@ poignant:
 poignantly:
   r:
     sense:
-    - id: 'poignantly%4:02:00::'
+    - id: 'poignantly%4:45:00::'
       pertainym:
       - poignant%5:00:00:moving:01
       synset: 00067005-r
@@ -53073,7 +53073,7 @@ point-blank:
       synset: 00765135-s
   r:
     sense:
-    - id: 'point-blank%4:02:00::'
+    - id: 'point-blank%4:45:00::'
       synset: 00425382-r
 point-contact diode:
   n:
@@ -53120,7 +53120,7 @@ pointed-toe:
 pointedly:
   r:
     sense:
-    - id: 'pointedly%4:02:00::'
+    - id: 'pointedly%4:45:00::'
       pertainym:
       - pointed%5:00:00:direct:02
       synset: 00004419-r
@@ -53231,7 +53231,7 @@ pointless:
 pointlessly:
   r:
     sense:
-    - id: 'pointlessly%4:02:00::'
+    - id: 'pointlessly%4:51:00::'
       pertainym:
       - pointless%5:00:00:worthless:00
       synset: 00428539-r
@@ -53540,7 +53540,7 @@ poisonous substance:
 poisonously:
   r:
     sense:
-    - id: 'poisonously%4:02:00::'
+    - id: 'poisonously%4:45:00::'
       pertainym:
       - poisonous%5:00:00:malicious:00
       synset: 00428672-r
@@ -54267,7 +54267,7 @@ polemical:
 polemically:
   r:
     sense:
-    - id: 'polemically%4:02:00::'
+    - id: 'polemically%4:45:00::'
       pertainym:
       - polemic%5:00:00:controversial:00
       synset: 00303994-r
@@ -54765,8 +54765,8 @@ politely:
     - value: pəˈlaɪtli
     sense:
     - antonym:
-      - 'impolitely%4:02:00::'
-      id: 'politely%4:02:00::'
+      - 'impolitely%4:45:00::'
+      id: 'politely%4:45:00::'
       pertainym:
       - 'polite%3:00:00::'
       synset: 00219959-r
@@ -55003,11 +55003,11 @@ political unit:
 politically:
   r:
     sense:
-    - id: 'politically%4:02:00::'
+    - id: 'politically%4:52:00::'
       pertainym:
       - 'political%3:01:01::'
       synset: 00116766-r
-    - id: 'politically%4:02:01::'
+    - id: 'politically%4:52:01::'
       pertainym:
       - 'political%3:00:00::'
       synset: 00116652-r
@@ -55971,7 +55971,7 @@ polygonal shape:
 polygonally:
   r:
     sense:
-    - id: 'polygonally%4:02:00::'
+    - id: 'polygonally%4:45:00::'
       pertainym:
       - 'polygonal%3:01:00::'
       synset: 00513562-r
@@ -56427,7 +56427,7 @@ polyphonic prose:
 polyphonically:
   r:
     sense:
-    - id: 'polyphonically%4:02:00::'
+    - id: 'polyphonically%4:45:00::'
       pertainym:
       - 'polyphonic%3:01:00::'
       synset: 00132437-r
@@ -56624,7 +56624,7 @@ polysyllabic word:
 polysyllabically:
   r:
     sense:
-    - id: 'polysyllabically%4:02:00::'
+    - id: 'polysyllabically%4:45:00::'
       pertainym:
       - polysyllabic%5:00:00:syllabic:00
       synset: 00145067-r
@@ -57077,7 +57077,7 @@ pompous:
 pompously:
   r:
     sense:
-    - id: 'pompously%4:02:00::'
+    - id: 'pompously%4:45:00::'
       pertainym:
       - pompous%5:00:00:pretentious:00
       synset: 00234475-r
@@ -57245,11 +57245,11 @@ ponderous:
 ponderously:
   r:
     sense:
-    - id: 'ponderously%4:02:01::'
+    - id: 'ponderously%4:51:01::'
       pertainym:
       - ponderous%5:00:00:uninteresting:00
       synset: 00429154-r
-    - id: 'ponderously%4:02:00::'
+    - id: 'ponderously%4:45:00::'
       pertainym:
       - ponderous%5:00:00:heavy-footed:00
       synset: 00429045-r
@@ -57799,7 +57799,7 @@ poorly:
       synset: 02553095-s
   r:
     sense:
-    - id: 'poorly%4:02:00::'
+    - id: 'poorly%4:51:00::'
       pertainym:
       - poor%5:00:00:unfortunate:00
       synset: 00011978-r
@@ -57857,7 +57857,7 @@ pop:
       synset: 07074002-n
   r:
     sense:
-    - id: 'pop%4:02:00::'
+    - id: 'pop%4:45:00::'
       synset: 00429305-r
   v:
     form:
@@ -58125,7 +58125,7 @@ popish:
 popishly:
   r:
     sense:
-    - id: 'popishly%4:02:00::'
+    - id: 'popishly%4:45:00::'
       pertainym:
       - 'popish%3:01:00::'
       synset: 00429384-r
@@ -58424,7 +58424,7 @@ popularizer:
 popularly:
   r:
     sense:
-    - id: 'popularly%4:02:00::'
+    - id: 'popularly%4:45:00::'
       pertainym:
       - popular%5:00:00:democratic:00
       synset: 00190181-r
@@ -58844,7 +58844,7 @@ pornographic:
 pornographically:
   r:
     sense:
-    - id: 'pornographically%4:02:00::'
+    - id: 'pornographically%4:45:00::'
       pertainym:
       - pornographic%5:00:00:sexy:00
       synset: 00116911-r
@@ -59285,7 +59285,7 @@ portentously:
     pronunciation:
     - value: pɔːˈten.təs.li
     sense:
-    - id: 'portentously%4:02:00::'
+    - id: 'portentously%4:45:00::'
       pertainym:
       - portentous%5:00:00:pretentious:00
       synset: 00429472-r
@@ -60125,11 +60125,11 @@ positively:
     pronunciation:
     - value: ˈpɒzɪtɪvli
     sense:
-    - id: 'positively%4:02:00::'
+    - id: 'positively%4:51:00::'
       pertainym:
       - positive%5:00:00:certain:02
       synset: 00183685-r
-    - id: 'positively%4:02:02::'
+    - id: 'positively%4:45:02::'
       pertainym:
       - 'positive%3:00:01::'
       synset: 00514106-r
@@ -60383,7 +60383,7 @@ possessive pronoun:
 possessively:
   r:
     sense:
-    - id: 'possessively%4:02:00::'
+    - id: 'possessively%4:45:00::'
       pertainym:
       - possessive%5:00:00:acquisitive:00
       synset: 00429596-r
@@ -60492,11 +60492,11 @@ possibly:
     - value: ˈpɒsɪbli
       variety: GB
     sense:
-    - id: 'possibly%4:02:00::'
+    - id: 'possibly%4:47:00::'
       synset: 00301501-r
     - antonym:
-      - 'impossibly%4:02:01::'
-      id: 'possibly%4:02:01::'
+      - 'impossibly%4:51:01::'
+      id: 'possibly%4:47:01::'
       pertainym:
       - 'possible%3:00:00::'
       synset: 00301868-r
@@ -60715,7 +60715,7 @@ post house:
 post meridiem:
   r:
     sense:
-    - id: 'post_meridiem%4:02:00::'
+    - id: 'post_meridiem%4:49:00::'
       synset: 00252877-r
 post oak:
   n:
@@ -60761,7 +60761,7 @@ post-free:
       synset: 01713807-s
   r:
     sense:
-    - id: 'post-free%4:02:00::'
+    - id: 'post-free%4:45:00::'
       synset: 00429740-r
 post-haste:
   r:
@@ -60771,7 +60771,7 @@ post-haste:
     - value: ˌpoʊstˈheɪst
       variety: US
     sense:
-    - id: 'post-haste%4:02:00::'
+    - id: 'post-haste%4:49:00::'
       synset: 00261595-r
 post-hole digger:
   n:
@@ -60820,7 +60820,7 @@ post-office box number:
 post-paid:
   r:
     sense:
-    - id: 'post-paid%4:02:00::'
+    - id: 'post-paid%4:45:00::'
       synset: 00429740-r
 post-rotational nystagmus:
   n:
@@ -61321,7 +61321,7 @@ posthumous birth:
 posthumously:
   r:
     sense:
-    - id: 'posthumously%4:02:00::'
+    - id: 'posthumously%4:49:00::'
       pertainym:
       - posthumous%5:00:00:late:00
       synset: 00425509-r
@@ -61557,7 +61557,7 @@ postoperative:
 postoperatively:
   r:
     sense:
-    - id: 'postoperatively%4:02:00::'
+    - id: 'postoperatively%4:49:00::'
       pertainym:
       - postoperative%5:00:00:surgical:00
       synset: 00138162-r
@@ -62456,7 +62456,7 @@ potentially:
     - value: pəˈtɛnʃ(ə)li
       variety: GB
     sense:
-    - id: 'potentially%4:02:00::'
+    - id: 'potentially%4:47:00::'
       pertainym:
       - 'potential%3:00:00::'
       synset: 00302263-r
@@ -62488,7 +62488,7 @@ potentiometer:
 potently:
   r:
     sense:
-    - id: 'potently%4:02:00::'
+    - id: 'potently%4:51:00::'
       pertainym:
       - potent%5:00:00:influential:00
       synset: 00429855-r
@@ -63354,7 +63354,7 @@ poutine:
 poutingly:
   r:
     sense:
-    - id: 'poutingly%4:02:00::'
+    - id: 'poutingly%4:45:00::'
       synset: 00430084-r
 poverty:
   n:
@@ -64014,7 +64014,7 @@ powerful:
     - value: ˈpaʊəfəl
       variety: GB
     sense:
-    - id: 'powerful%4:02:00::'
+    - id: 'powerful%4:51:00::'
       synset: 00032793-r
 powerfully:
   r:
@@ -64024,11 +64024,11 @@ powerfully:
     - value: ˈpaʊəf(ə)li
       variety: GB
     sense:
-    - id: 'powerfully%4:02:01::'
+    - id: 'powerfully%4:51:01::'
       pertainym:
       - 'powerful%3:00:00::'
       synset: 00430156-r
-    - id: 'powerfully%4:02:00::'
+    - id: 'powerfully%4:51:00::'
       pertainym:
       - powerful%5:00:00:influential:00
       synset: 00429855-r
@@ -64069,7 +64069,7 @@ powerless:
 powerlessly:
   r:
     sense:
-    - id: 'powerlessly%4:02:00::'
+    - id: 'powerlessly%4:45:00::'
       pertainym:
       - 'powerless%3:00:00::'
       synset: 00430404-r
@@ -64168,7 +64168,7 @@ practicableness:
 practicably:
   r:
     sense:
-    - id: 'practicably%4:02:00::'
+    - id: 'practicably%4:47:00::'
       pertainym:
       - practicable%5:00:00:possible:00
       synset: 00430483-r
@@ -64234,13 +64234,13 @@ practically:
     pronunciation:
     - value: ˈpɹæktɪkli
     sense:
-    - id: 'practically%4:02:00::'
+    - id: 'practically%4:51:00::'
       synset: 00054282-r
-    - id: 'practically%4:02:01::'
+    - id: 'practically%4:45:01::'
       pertainym:
       - 'practical%3:00:00::'
       synset: 00054050-r
-    - id: 'practically%4:02:02::'
+    - id: 'practically%4:51:02::'
       synset: 00023283-r
 practice:
   n:
@@ -64525,7 +64525,7 @@ pragmatical:
 pragmatically:
   r:
     sense:
-    - id: 'pragmatically%4:02:00::'
+    - id: 'pragmatically%4:45:00::'
       pertainym:
       - pragmatic%5:00:00:realistic:00
       synset: 00430615-r
@@ -64837,7 +64837,7 @@ praiseful:
 praiseworthily:
   r:
     sense:
-    - id: 'praiseworthily%4:02:00::'
+    - id: 'praiseworthily%4:45:00::'
       pertainym:
       - praiseworthy%5:00:00:worthy:00
       synset: 00220366-r
@@ -65345,7 +65345,7 @@ pre-eclampsia:
 pre-eminently:
   r:
     sense:
-    - id: 'pre-eminently%4:02:00::'
+    - id: 'pre-eminently%4:51:00::'
       synset: 00430768-r
 pre-empt:
   n:
@@ -65624,7 +65624,7 @@ precarious:
 precariously:
   r:
     sense:
-    - id: 'precariously%4:02:00::'
+    - id: 'precariously%4:51:00::'
       pertainym:
       - precarious%5:00:00:dangerous:00
       synset: 00430990-r
@@ -65833,8 +65833,8 @@ precedentedly:
   r:
     sense:
     - antonym:
-      - 'unprecedentedly%4:02:00::'
-      id: 'precedentedly%4:02:00::'
+      - 'unprecedentedly%4:51:00::'
+      id: 'precedentedly%4:45:00::'
       pertainym:
       - 'precedented%3:00:00::'
       synset: 00491086-r
@@ -65977,7 +65977,7 @@ precious:
     pronunciation:
     - value: ˈpɹɛʃəs
     sense:
-    - id: 'precious%4:02:00::'
+    - id: 'precious%4:51:00::'
       synset: 00032295-r
 precious coral:
   n:
@@ -65997,7 +65997,7 @@ precious stone:
 preciously:
   r:
     sense:
-    - id: 'preciously%4:02:00::'
+    - id: 'preciously%4:51:00::'
       synset: 00032295-r
 preciousness:
   n:
@@ -66131,7 +66131,7 @@ precipitate:
 precipitately:
   r:
     sense:
-    - id: 'precipitately%4:02:00::'
+    - id: 'precipitately%4:45:00::'
       pertainym:
       - precipitate%5:00:00:hurried:00
       synset: 00356734-r
@@ -66206,9 +66206,9 @@ precipitous:
 precipitously:
   r:
     sense:
-    - id: 'precipitously%4:02:01::'
+    - id: 'precipitously%4:45:01::'
       synset: 00431427-r
-    - id: 'precipitously%4:02:00::'
+    - id: 'precipitously%4:45:00::'
       pertainym:
       - precipitous%5:00:00:steep:00
       synset: 00431283-r
@@ -66261,17 +66261,17 @@ precisely:
     pronunciation:
     - value: pɹɪˈsaɪsli
     sense:
-    - id: 'precisely%4:02:00::'
+    - id: 'precisely%4:51:00::'
       pertainym:
       - 'precise%3:00:00::'
       synset: 00159432-r
     - antonym:
-      - 'imprecisely%4:02:00::'
-      id: 'precisely%4:02:01::'
+      - 'imprecisely%4:45:00::'
+      id: 'precisely%4:45:01::'
       pertainym:
       - exact%5:00:00:correct:00
       synset: 00370083-r
-    - id: 'precisely%4:02:02::'
+    - id: 'precisely%4:47:02::'
       synset: 00370459-r
 preciseness:
   n:
@@ -66392,7 +66392,7 @@ precocious dentition:
 precociously:
   r:
     sense:
-    - id: 'precociously%4:02:00::'
+    - id: 'precociously%4:45:00::'
       pertainym:
       - 'precocious%3:00:00::'
       synset: 00431593-r
@@ -66902,7 +66902,7 @@ predicatively:
     pronunciation:
     - value: ˈpɹɛ.dɪ.kə.tɪv.li
     sense:
-    - id: 'predicatively%4:02:00::'
+    - id: 'predicatively%4:45:00::'
       pertainym:
       - 'predicative%3:00:00::'
       synset: 00125992-r
@@ -66960,7 +66960,7 @@ predictable:
 predictably:
   r:
     sense:
-    - id: 'predictably%4:02:00::'
+    - id: 'predictably%4:47:00::'
       pertainym:
       - 'predictable%3:00:00::'
       synset: 00431708-r
@@ -67103,7 +67103,7 @@ predominantly:
     pronunciation:
     - value: pɹɪˈdɒmɪnəntli
     sense:
-    - id: 'predominantly%4:02:00::'
+    - id: 'predominantly%4:51:00::'
       pertainym:
       - predominant%5:00:00:frequent:00
       synset: 00162217-r
@@ -67179,7 +67179,7 @@ preeminent:
 preeminently:
   r:
     sense:
-    - id: 'preeminently%4:02:00::'
+    - id: 'preeminently%4:51:00::'
       pertainym:
       - preeminent%5:00:00:superior:01
       synset: 00430768-r
@@ -67505,7 +67505,7 @@ preferable:
 preferably:
   r:
     sense:
-    - id: 'preferably%4:02:00::'
+    - id: 'preferably%4:47:00::'
       synset: 00116461-r
 preference:
   n:
@@ -67554,7 +67554,7 @@ preferentially:
     - value: ˈpɹɛf.ɜː(ɹ)ˌɛn.ʃə.li
       variety: GB
     sense:
-    - id: 'preferentially%4:02:00::'
+    - id: 'preferentially%4:45:00::'
       pertainym:
       - preferential%5:00:00:advantageous:00
       synset: 00185898-r
@@ -68145,11 +68145,11 @@ premature ventricular contraction:
 prematurely:
   r:
     sense:
-    - id: 'prematurely%4:02:01::'
+    - id: 'prematurely%4:49:01::'
       pertainym:
       - 'premature%3:00:00::'
       synset: 00431998-r
-    - id: 'prematurely%4:02:00::'
+    - id: 'prematurely%4:49:00::'
       pertainym:
       - premature%5:00:00:early:00
       synset: 00431857-r
@@ -68864,7 +68864,7 @@ preponderant:
 preponderantly:
   r:
     sense:
-    - id: 'preponderantly%4:02:00::'
+    - id: 'preponderantly%4:51:00::'
       pertainym:
       - preponderant%5:00:00:dominant:01
       synset: 00162217-r
@@ -68933,7 +68933,7 @@ prepositional phrase:
 prepositionally:
   r:
     sense:
-    - id: 'prepositionally%4:02:00::'
+    - id: 'prepositionally%4:45:00::'
       pertainym:
       - 'prepositional%3:01:00::'
       synset: 00517151-r
@@ -68999,7 +68999,7 @@ preposterously:
     - value: pɹəˈpɑstɹəsli
       variety: US
     sense:
-    - id: 'preposterously%4:02:00::'
+    - id: 'preposterously%4:51:00::'
       synset: 00388921-r
 prepotency:
   n:
@@ -69210,7 +69210,7 @@ prescient:
 presciently:
   r:
     sense:
-    - id: 'presciently%4:02:00::'
+    - id: 'presciently%4:45:00::'
       pertainym:
       - prescient%5:00:00:discerning:00
       synset: 00432154-r
@@ -69620,7 +69620,7 @@ presentable:
 presentably:
   r:
     sense:
-    - id: 'presentably%4:02:00::'
+    - id: 'presentably%4:45:00::'
       pertainym:
       - presentable%5:00:00:respectable:00
       synset: 00432413-r
@@ -69711,9 +69711,9 @@ presently:
     - value: ˈpɹɛzəntli
       variety: GB
     sense:
-    - id: 'presently%4:02:01::'
+    - id: 'presently%4:49:01::'
       synset: 00034309-r
-    - id: 'presently%4:02:00::'
+    - id: 'presently%4:49:00::'
       pertainym:
       - 'present%3:00:01::'
       synset: 00048806-r
@@ -70020,7 +70020,7 @@ presidential term:
 presidentially:
   r:
     sense:
-    - id: 'presidentially%4:02:00::'
+    - id: 'presidentially%4:45:00::'
       pertainym:
       - 'presidential%3:00:00::'
       synset: 00517229-r
@@ -70378,7 +70378,7 @@ pressing:
 pressingly:
   r:
     sense:
-    - id: 'pressingly%4:02:00::'
+    - id: 'pressingly%4:45:00::'
       pertainym:
       - pressing%5:00:00:imperative:00
       synset: 00432599-r
@@ -70691,7 +70691,7 @@ prestissimo:
     - value: pɹɛˈstɪsɪməʊ
       variety: GB
     sense:
-    - id: 'prestissimo%4:02:00::'
+    - id: 'prestissimo%4:45:00::'
       synset: 00425660-r
 presto:
   a:
@@ -70705,9 +70705,9 @@ presto:
     - value: ˈpɹɛstoʊ
       variety: US
     sense:
-    - id: 'presto%4:02:01::'
+    - id: 'presto%4:45:01::'
       synset: 00062352-r
-    - id: 'presto%4:02:02::'
+    - id: 'presto%4:45:02::'
       synset: 00062437-r
 presumable:
   a:
@@ -70722,7 +70722,7 @@ presumably:
     - value: pɹɪˈzjuːməbli
       variety: AU
     sense:
-    - id: 'presumably%4:02:00::'
+    - id: 'presumably%4:47:00::'
       pertainym:
       - presumable%5:00:00:thinkable:00
       synset: 00054490-r
@@ -70823,7 +70823,7 @@ presumptive:
 presumptively:
   r:
     sense:
-    - id: 'presumptively%4:02:00::'
+    - id: 'presumptively%4:47:00::'
       synset: 00054490-r
 presumptuous:
   a:
@@ -70842,7 +70842,7 @@ presumptuous:
 presumptuously:
   r:
     sense:
-    - id: 'presumptuously%4:02:00::'
+    - id: 'presumptuously%4:45:00::'
       pertainym:
       - presumptuous%5:00:00:forward:02
       synset: 00432676-r
@@ -71106,8 +71106,8 @@ pretentiously:
       variety: US
     sense:
     - antonym:
-      - 'unpretentiously%4:02:00::'
-      id: 'pretentiously%4:02:00::'
+      - 'unpretentiously%4:45:00::'
+      id: 'pretentiously%4:45:00::'
       pertainym:
       - 'pretentious%3:00:00::'
       synset: 00432814-r
@@ -71206,7 +71206,7 @@ preternatural:
 preternaturally:
   r:
     sense:
-    - id: 'preternaturally%4:02:00::'
+    - id: 'preternaturally%4:51:00::'
       pertainym:
       - preternatural%5:00:00:supernatural:00
       synset: 00433131-r
@@ -71278,7 +71278,7 @@ prettify:
 prettily:
   r:
     sense:
-    - id: 'prettily%4:02:00::'
+    - id: 'prettily%4:45:00::'
       pertainym:
       - pretty%5:00:00:beautiful:00
       synset: 00433289-r
@@ -71307,12 +71307,12 @@ pretty:
     pronunciation:
     - value: ˈpɹɪti
     sense:
-    - id: 'pretty%4:02:00::'
+    - id: 'pretty%4:51:00::'
       synset: 00036138-r
 pretty much:
   r:
     sense:
-    - id: 'pretty_much%4:02:00::'
+    - id: 'pretty_much%4:51:00::'
       synset: 00023171-r
 pretty up:
   v:
@@ -71649,7 +71649,7 @@ previously:
     - value: ˈpɹivi.əsli
       variety: US
     sense:
-    - id: 'previously%4:02:00::'
+    - id: 'previously%4:49:00::'
       pertainym:
       - previous%5:00:00:preceding:00
       synset: 00061170-r
@@ -72406,7 +72406,7 @@ priggish:
 priggishly:
   r:
     sense:
-    - id: 'priggishly%4:02:00::'
+    - id: 'priggishly%4:45:00::'
       pertainym:
       - priggish%5:00:00:proper:00
       synset: 00433396-r
@@ -72498,7 +72498,7 @@ prima facie:
     pronunciation:
     - value: ˈpɹaɪmə ˈfeɪʃiː
     sense:
-    - id: 'prima_facie%4:02:00::'
+    - id: 'prima_facie%4:52:00::'
       synset: 00261706-r
 primacy:
   n:
@@ -72541,13 +72541,13 @@ primarily:
     pronunciation:
     - value: pɹaɪˈmɛɹəli
     sense:
-    - id: 'primarily%4:02:01::'
+    - id: 'primarily%4:53:01::'
       pertainym:
       - 'primary%3:00:00::'
       synset: 00074163-r
     - antonym:
-      - 'secondarily%4:02:00::'
-      id: 'primarily%4:02:00::'
+      - 'secondarily%4:45:00::'
+      id: 'primarily%4:51:00::'
       pertainym:
       - 'primary%3:00:00::'
       synset: 00139220-r
@@ -73029,9 +73029,9 @@ primitive person:
 primitively:
   r:
     sense:
-    - id: 'primitively%4:02:01::'
+    - id: 'primitively%4:49:01::'
       synset: 00433834-r
-    - id: 'primitively%4:02:00::'
+    - id: 'primitively%4:45:00::'
       pertainym:
       - primitive%5:00:02:early:02
       synset: 00433705-r
@@ -73054,7 +73054,7 @@ primitivism:
 primly:
   r:
     sense:
-    - id: 'primly%4:02:00::'
+    - id: 'primly%4:45:00::'
       pertainym:
       - prim%5:00:00:proper:00
       synset: 00433542-r
@@ -73348,7 +73348,7 @@ principality:
 principally:
   r:
     sense:
-    - id: 'principally%4:02:00::'
+    - id: 'principally%4:53:00::'
       pertainym:
       - principal%5:00:00:important:00
       synset: 00074163-r
@@ -73935,7 +73935,7 @@ prisonlike:
 prissily:
   r:
     sense:
-    - id: 'prissily%4:02:00::'
+    - id: 'prissily%4:45:00::'
       pertainym:
       - prissy%5:00:00:proper:00
       synset: 00433542-r
@@ -74114,14 +74114,14 @@ privately:
     - value: ˈpɹaɪvɪtli
     sense:
     - antonym:
-      - 'publicly%4:02:00::'
-      id: 'privately%4:02:00::'
+      - 'publicly%4:50:00::'
+      id: 'privately%4:45:00::'
       pertainym:
       - 'private%3:00:00::'
       synset: 00163336-r
     - antonym:
-      - 'publicly%4:02:01::'
-      id: 'privately%4:02:01::'
+      - 'publicly%4:52:01::'
+      id: 'privately%4:45:01::'
       synset: 00163844-r
 privately held corporation:
   n:
@@ -74276,7 +74276,7 @@ privily:
     - value: ˈpɹɪvɪli
       variety: GB
     sense:
-    - id: 'privily%4:02:00::'
+    - id: 'privily%4:45:00::'
       synset: 00278494-r
 privy:
   a:
@@ -74432,8 +74432,8 @@ pro:
   r:
     sense:
     - antonym:
-      - 'con%4:02:00::'
-      id: 'pro%4:02:00::'
+      - 'con%4:54:00::'
+      id: 'pro%4:45:00::'
       synset: 00290519-r
 pro bono:
   a:
@@ -74452,17 +74452,17 @@ pro forma:
       synset: 01047301-s
   r:
     sense:
-    - id: 'pro_forma%4:02:00::'
+    - id: 'pro_forma%4:45:00::'
       synset: 00261760-r
 pro rata:
   r:
     sense:
-    - id: 'pro_rata%4:02:00::'
+    - id: 'pro_rata%4:45:00::'
       synset: 00261963-r
 pro re nata:
   r:
     sense:
-    - id: 'pro_re_nata%4:02:00::'
+    - id: 'pro_re_nata%4:49:00::'
       synset: 00182904-r
 pro tem:
   a:
@@ -74471,7 +74471,7 @@ pro tem:
       synset: 01762120-s
   r:
     sense:
-    - id: 'pro_tem%4:02:00::'
+    - id: 'pro_tem%4:49:00::'
       synset: 00258709-r
 pro tempore:
   a:
@@ -74480,7 +74480,7 @@ pro tempore:
       synset: 01762120-s
   r:
     sense:
-    - id: 'pro_tempore%4:02:00::'
+    - id: 'pro_tempore%4:49:00::'
       synset: 00258709-r
 pro-American:
   a:
@@ -74587,7 +74587,7 @@ probabilistic classifier:
 probabilistically:
   r:
     sense:
-    - id: 'probabilistically%4:02:00::'
+    - id: 'probabilistically%4:45:00::'
       pertainym:
       - 'probabilistic%3:01:00::'
       synset: 00433947-r
@@ -74661,11 +74661,11 @@ probably:
     - value: ˈpɹɑbəbli
       variety: US
     sense:
-    - id: 'probably%4:02:00::'
+    - id: 'probably%4:47:00::'
       pertainym:
       - 'probable%3:00:00::'
       synset: 00139421-r
-    - id: 'probably%4:02:01::'
+    - id: 'probably%4:45:01::'
       pertainym:
       - 'probable%3:00:00::'
       synset: 00297385-r
@@ -74934,7 +74934,7 @@ problematical:
 problematically:
   r:
     sense:
-    - id: 'problematically%4:02:00::'
+    - id: 'problematically%4:47:00::'
       pertainym:
       - problematic%5:00:00:difficult:00
       synset: 00434111-r
@@ -75843,7 +75843,7 @@ prodigality:
 prodigally:
   r:
     sense:
-    - id: 'prodigally%4:02:01::'
+    - id: 'prodigally%4:51:01::'
       pertainym:
       - prodigal%5:00:00:wasteful:00
       synset: 00434339-r
@@ -75865,7 +75865,7 @@ prodigious:
 prodigiously:
   r:
     sense:
-    - id: 'prodigiously%4:02:00::'
+    - id: 'prodigiously%4:51:00::'
       pertainym:
       - prodigious%5:00:00:extraordinary:00
       synset: 00434522-r
@@ -76162,8 +76162,8 @@ productively:
   r:
     sense:
     - antonym:
-      - 'unproductively%4:02:00::'
-      id: 'productively%4:02:00::'
+      - 'unproductively%4:45:00::'
+      id: 'productively%4:45:00::'
       pertainym:
       - 'productive%3:00:00::'
       synset: 00215173-r
@@ -76279,11 +76279,11 @@ profaned:
 profanely:
   r:
     sense:
-    - id: 'profanely%4:02:01::'
+    - id: 'profanely%4:45:01::'
       pertainym:
       - profane%5:00:00:dirty:02
       synset: 00434800-r
-    - id: 'profanely%4:02:00::'
+    - id: 'profanely%4:45:00::'
       pertainym:
       - profane%5:00:00:irreverent:00
       synset: 00434644-r
@@ -76373,11 +76373,11 @@ professed:
 professedly:
   r:
     sense:
-    - id: 'professedly%4:02:00::'
+    - id: 'professedly%4:47:00::'
       pertainym:
       - professed%5:00:01:declared:00
       synset: 00190790-r
-    - id: 'professedly%4:02:01::'
+    - id: 'professedly%4:45:01::'
       pertainym:
       - professed%5:00:00:declared:00
       synset: 00277958-r
@@ -76594,7 +76594,7 @@ professionalize:
 professionally:
   r:
     sense:
-    - id: 'professionally%4:02:00::'
+    - id: 'professionally%4:45:00::'
       pertainym:
       - 'professional%3:01:00::'
       synset: 00131209-r
@@ -76623,7 +76623,7 @@ professorial:
 professorially:
   r:
     sense:
-    - id: 'professorially%4:02:00::'
+    - id: 'professorially%4:45:00::'
       pertainym:
       - 'professorial%3:01:00::'
       synset: 00126122-r
@@ -76698,7 +76698,7 @@ proficient:
 proficiently:
   r:
     sense:
-    - id: 'proficiently%4:02:00::'
+    - id: 'proficiently%4:45:00::'
       pertainym:
       - proficient%5:00:00:skilled:00
       synset: 00434890-r
@@ -76888,8 +76888,8 @@ profitably:
   r:
     sense:
     - antonym:
-      - 'unprofitably%4:02:00::'
-      id: 'profitably%4:02:00::'
+      - 'unprofitably%4:45:00::'
+      id: 'profitably%4:45:00::'
       synset: 00215173-r
 profiteer:
   n:
@@ -76922,7 +76922,7 @@ profitless:
 profitlessly:
   r:
     sense:
-    - id: 'profitlessly%4:02:00::'
+    - id: 'profitlessly%4:45:00::'
       pertainym:
       - profitless%5:00:00:unrewarding:00
       synset: 00435013-r
@@ -76978,7 +76978,7 @@ profligate:
 profligately:
   r:
     sense:
-    - id: 'profligately%4:02:00::'
+    - id: 'profligately%4:45:00::'
       pertainym:
       - profligate%5:00:00:immoral:00
       synset: 00502645-r
@@ -77025,7 +77025,7 @@ profoundly:
     pronunciation:
     - value: pɹəˈfaʊndli
     sense:
-    - id: 'profoundly%4:02:00::'
+    - id: 'profoundly%4:51:00::'
       pertainym:
       - profound%5:00:02:deep:02
       synset: 00174785-r
@@ -77099,7 +77099,7 @@ profusely:
     - value: pɹəˈfjusli
       variety: US
     sense:
-    - id: 'profusely%4:02:00::'
+    - id: 'profusely%4:51:00::'
       synset: 00215852-r
 profuseness:
   n:
@@ -77721,7 +77721,7 @@ progressive vaccinia:
 progressively:
   r:
     sense:
-    - id: 'progressively%4:02:01::'
+    - id: 'progressively%4:51:01::'
       pertainym:
       - progressive%5:00:00:increasing:00
       synset: 00060392-r
@@ -77826,7 +77826,7 @@ prohibitive:
 prohibitively:
   r:
     sense:
-    - id: 'prohibitively%4:02:00::'
+    - id: 'prohibitively%4:51:00::'
       pertainym:
       - prohibitive%5:00:00:preventive:00
       synset: 00435140-r
@@ -78555,7 +78555,7 @@ prominently:
     - value: ˈpɹɒmɪnəntli
       variety: GB
     sense:
-    - id: 'prominently%4:02:00::'
+    - id: 'prominently%4:45:00::'
       pertainym:
       - prominent%5:00:00:conspicuous:00
       synset: 00209717-r
@@ -78581,11 +78581,11 @@ promiscuous:
 promiscuously:
   r:
     sense:
-    - id: 'promiscuously%4:02:01::'
+    - id: 'promiscuously%4:45:01::'
       pertainym:
       - promiscuous%5:00:00:indiscriminate:00
       synset: 00435256-r
-    - id: 'promiscuously%4:02:00::'
+    - id: 'promiscuously%4:45:00::'
       pertainym:
       - promiscuous%5:00:00:unchaste:00
       synset: 00390848-r
@@ -78714,7 +78714,7 @@ promising:
 promisingly:
   r:
     sense:
-    - id: 'promisingly%4:02:00::'
+    - id: 'promisingly%4:45:00::'
       pertainym:
       - promising%5:00:00:auspicious:00
       synset: 00435407-r
@@ -79024,15 +79024,15 @@ promptly:
     - value: ˈpɹɒmptli
       variety: GB
     sense:
-    - id: 'promptly%4:02:02::'
+    - id: 'promptly%4:49:02::'
       pertainym:
       - prompt%5:00:00:ready:00
       synset: 00106290-r
-    - id: 'promptly%4:02:00::'
+    - id: 'promptly%4:45:00::'
       pertainym:
       - prompt%5:00:00:punctual:00
       synset: 00106028-r
-    - id: 'promptly%4:02:01::'
+    - id: 'promptly%4:49:01::'
       synset: 00106154-r
 promptness:
   n:
@@ -79318,7 +79318,7 @@ pronto:
     - value: ˈpɹɑntoʊ
       variety: US
     sense:
-    - id: 'pronto%4:02:00::'
+    - id: 'pronto%4:45:00::'
       synset: 00106028-r
 pronucleus:
   n:
@@ -79947,15 +79947,15 @@ properly:
       variety: GB
     sense:
     - antonym:
-      - 'improperly%4:02:00::'
-      id: 'properly%4:02:00::'
+      - 'improperly%4:45:00::'
+      id: 'properly%4:45:00::'
       pertainym:
       - 'proper%3:00:00::'
       - proper%5:00:00:appropriate:00
       synset: 00197608-r
-    - id: 'properly%4:02:03::'
+    - id: 'properly%4:51:03::'
       synset: 00159432-r
-    - id: 'properly%4:02:02::'
+    - id: 'properly%4:45:02::'
       pertainym:
       - 'proper%3:00:00::'
       - proper%5:00:00:appropriate:00
@@ -79963,7 +79963,7 @@ properly:
 properly speaking:
   r:
     sense:
-    - id: 'properly_speaking%4:02:00::'
+    - id: 'properly_speaking%4:47:00::'
       synset: 00150568-r
 properness:
   n:
@@ -80158,7 +80158,7 @@ prophetical:
 prophetically:
   r:
     sense:
-    - id: 'prophetically%4:02:00::'
+    - id: 'prophetically%4:45:00::'
       pertainym:
       - 'prophetic%3:00:00::'
       synset: 00249728-r
@@ -80289,8 +80289,8 @@ propitiously:
   r:
     sense:
     - antonym:
-      - 'unpropitiously%4:02:00::'
-      id: 'propitiously%4:02:00::'
+      - 'unpropitiously%4:45:00::'
+      id: 'propitiously%4:45:00::'
       pertainym:
       - 'propitious%3:00:00::'
       synset: 00218914-r
@@ -80450,7 +80450,7 @@ proportionality:
 proportionally:
   r:
     sense:
-    - id: 'proportionally%4:02:00::'
+    - id: 'proportionally%4:51:00::'
       pertainym:
       - proportional%5:00:00:proportionate:00
       synset: 00319696-r
@@ -80477,18 +80477,18 @@ proportionately:
   r:
     sense:
     - antonym:
-      - 'disproportionately%4:02:00::'
-      id: 'proportionately%4:02:00::'
+      - 'disproportionately%4:51:00::'
+      id: 'proportionately%4:51:00::'
       pertainym:
       - proportionate%5:00:00:commensurate:00
       synset: 00319696-r
     - antonym:
-      - 'disproportionately%4:02:01::'
-      id: 'proportionately%4:02:01::'
+      - 'disproportionately%4:51:01::'
+      id: 'proportionately%4:45:01::'
       pertainym:
       - proportionate%5:00:00:balanced:00
       synset: 00320034-r
-    - id: 'proportionately%4:02:03::'
+    - id: 'proportionately%4:45:03::'
       pertainym:
       - proportionate%5:00:00:commensurate:00
       synset: 00261963-r
@@ -80944,7 +80944,7 @@ prosaic:
 prosaically:
   r:
     sense:
-    - id: 'prosaically%4:02:00::'
+    - id: 'prosaically%4:45:00::'
       pertainym:
       - prosaic%5:00:00:unexciting:00
       synset: 00435530-r
@@ -81193,7 +81193,7 @@ prosencephalon:
 prosily:
   r:
     sense:
-    - id: 'prosily%4:02:00::'
+    - id: 'prosily%4:45:00::'
       pertainym:
       - prosy%5:00:00:uninteresting:00
       synset: 00435684-r
@@ -81391,7 +81391,7 @@ prosperous:
 prosperously:
   r:
     sense:
-    - id: 'prosperously%4:02:01::'
+    - id: 'prosperously%4:45:01::'
       pertainym:
       - prosperous%5:00:00:rich:00
       synset: 00016322-r
@@ -81911,7 +81911,7 @@ protective tariff:
 protectively:
   r:
     sense:
-    - id: 'protectively%4:02:00::'
+    - id: 'protectively%4:45:00::'
       pertainym:
       - protective%5:00:00:tender:03
       synset: 00212695-r
@@ -82542,7 +82542,7 @@ protracted:
 protractedly:
   r:
     sense:
-    - id: 'protractedly%4:02:00::'
+    - id: 'protractedly%4:45:00::'
       pertainym:
       - protracted%5:00:00:long:02
       synset: 00393893-r
@@ -82736,7 +82736,7 @@ proudly:
     pronunciation:
     - value: ˈpɹaʊdli
     sense:
-    - id: 'proudly%4:02:00::'
+    - id: 'proudly%4:45:00::'
       pertainym:
       - 'proud%3:00:00::'
       synset: 00191358-r
@@ -82757,7 +82757,7 @@ provable:
 provably:
   r:
     sense:
-    - id: 'provably%4:02:00::'
+    - id: 'provably%4:47:00::'
       pertainym:
       - provable%5:00:00:obvious:00
       synset: 00309952-r
@@ -82906,7 +82906,7 @@ proverbial:
 proverbially:
   r:
     sense:
-    - id: 'proverbially%4:02:00::'
+    - id: 'proverbially%4:47:00::'
       pertainym:
       - proverbial%5:00:00:known:00
       synset: 00435802-r
@@ -83038,22 +83038,22 @@ providential:
 providentially:
   r:
     sense:
-    - id: 'providentially%4:02:01::'
+    - id: 'providentially%4:47:01::'
       pertainym:
       - providential%5:00:00:fortunate:00
       synset: 00436106-r
-    - id: 'providentially%4:02:00::'
+    - id: 'providentially%4:45:00::'
       pertainym:
       - 'providential%3:01:00::'
       synset: 00435956-r
-    - id: 'providentially%4:02:02::'
+    - id: 'providentially%4:45:02::'
       synset: 00371084-r
 providently:
   r:
     sense:
     - antonym:
-      - 'improvidently%4:02:00::'
-      id: 'providently%4:02:00::'
+      - 'improvidently%4:45:00::'
+      id: 'providently%4:45:00::'
       pertainym:
       - 'provident%3:00:00::'
       synset: 00370928-r
@@ -83129,7 +83129,7 @@ provincialism:
 provincially:
   r:
     sense:
-    - id: 'provincially%4:02:00::'
+    - id: 'provincially%4:52:00::'
       pertainym:
       - 'provincial%3:01:00::'
       synset: 00126242-r
@@ -83195,7 +83195,7 @@ provisional:
 provisionally:
   r:
     sense:
-    - id: 'provisionally%4:02:00::'
+    - id: 'provisionally%4:49:00::'
       pertainym:
       - provisional%5:00:00:conditional:00
       synset: 00089265-r
@@ -83294,7 +83294,7 @@ provocative:
 provocatively:
   r:
     sense:
-    - id: 'provocatively%4:02:00::'
+    - id: 'provocatively%4:45:00::'
       pertainym:
       - 'provocative%3:00:00::'
       synset: 00436247-r
@@ -83374,7 +83374,7 @@ provoking:
 provokingly:
   r:
     sense:
-    - id: 'provokingly%4:02:00::'
+    - id: 'provokingly%4:45:00::'
       pertainym:
       - provoking%5:00:00:provocative:00
       synset: 00436247-r
@@ -83585,8 +83585,8 @@ prudently:
   r:
     sense:
     - antonym:
-      - 'imprudently%4:02:00::'
-      id: 'prudently%4:02:00::'
+      - 'imprudently%4:45:00::'
+      id: 'prudently%4:45:00::'
       pertainym:
       - 'prudent%3:00:00::'
       synset: 00371084-r
@@ -83608,7 +83608,7 @@ prudish:
 prudishly:
   r:
     sense:
-    - id: 'prudishly%4:02:00::'
+    - id: 'prudishly%4:45:00::'
       pertainym:
       - prudish%5:00:00:proper:00
       synset: 00436397-r
@@ -83734,7 +83734,7 @@ prurient:
 pruriently:
   r:
     sense:
-    - id: 'pruriently%4:02:00::'
+    - id: 'pruriently%4:45:00::'
       pertainym:
       - prurient%5:00:00:sexy:00
       synset: 00436580-r
@@ -83832,7 +83832,7 @@ prying:
 pryingly:
   r:
     sense:
-    - id: 'pryingly%4:02:00::'
+    - id: 'pryingly%4:45:00::'
       pertainym:
       - prying%5:00:00:curious:00
       synset: 00436657-r
@@ -84400,7 +84400,7 @@ psychically:
     - value: ˈsaɪ.kɪk.li
       variety: GB
     sense:
-    - id: 'psychically%4:02:00::'
+    - id: 'psychically%4:52:00::'
       pertainym:
       - psychic%5:00:00:mental:00
       synset: 00208579-r
@@ -84658,11 +84658,11 @@ psychological warfare:
 psychologically:
   r:
     sense:
-    - id: 'psychologically%4:02:01::'
+    - id: 'psychologically%4:52:01::'
       pertainym:
       - psychological%5:00:00:mental:00
       synset: 00436814-r
-    - id: 'psychologically%4:02:00::'
+    - id: 'psychologically%4:52:00::'
       pertainym:
       - 'psychological%3:01:00::'
       synset: 00437035-r
@@ -85669,7 +85669,7 @@ publically:
     - exemplifies:
       - 'british_spelling%1:10:01::'
       - 'australian_spelling%1:10:01::'
-      id: 'publically%4:02:00::'
+      id: 'publically%4:50:00::'
       synset: 00163131-r
 publican:
   n:
@@ -85833,16 +85833,16 @@ publicly:
     - value: ˈpʌblɪkli
     sense:
     - antonym:
-      - 'privately%4:02:00::'
+      - 'privately%4:45:00::'
       exemplifies:
       - 'american_spelling%1:10:01::'
-      id: 'publicly%4:02:00::'
+      id: 'publicly%4:50:00::'
       pertainym:
       - 'public%3:00:00::'
       synset: 00163131-r
     - antonym:
-      - 'privately%4:02:01::'
-      id: 'publicly%4:02:01::'
+      - 'privately%4:45:01::'
+      id: 'publicly%4:52:01::'
       pertainym:
       - public%5:00:00:common:02
       synset: 00163964-r
@@ -86061,7 +86061,7 @@ puckish:
 puckishly:
   r:
     sense:
-    - id: 'puckishly%4:02:00::'
+    - id: 'puckishly%4:45:00::'
       pertainym:
       - puckish%5:00:00:playful:00
       synset: 00368902-r
@@ -86719,7 +86719,7 @@ pugnacious:
 pugnaciously:
   r:
     sense:
-    - id: 'pugnaciously%4:02:00::'
+    - id: 'pugnaciously%4:45:00::'
       pertainym:
       - pugnacious%5:00:00:aggressive:00
       synset: 00437154-r
@@ -88436,7 +88436,7 @@ punctilious:
 punctiliously:
   r:
     sense:
-    - id: 'punctiliously%4:02:00::'
+    - id: 'punctiliously%4:45:00::'
       pertainym:
       - punctilious%5:00:00:precise:00
       synset: 00437235-r
@@ -88473,7 +88473,7 @@ punctuality:
 punctually:
   r:
     sense:
-    - id: 'punctually%4:02:00::'
+    - id: 'punctually%4:49:00::'
       synset: 00172866-r
 punctuate:
   v:
@@ -88678,11 +88678,11 @@ pungent:
 pungently:
   r:
     sense:
-    - id: 'pungently%4:02:01::'
+    - id: 'pungently%4:45:01::'
       pertainym:
       - pungent%5:00:00:sarcastic:00
       synset: 00437559-r
-    - id: 'pungently%4:02:00::'
+    - id: 'pungently%4:45:00::'
       pertainym:
       - pungent%5:00:00:tasty:00
       synset: 00437439-r
@@ -88696,7 +88696,7 @@ punic:
 punily:
   r:
     sense:
-    - id: 'punily%4:02:00::'
+    - id: 'punily%4:45:00::'
       pertainym:
       - puny%5:00:00:weak:00
       synset: 00437696-r
@@ -88756,7 +88756,7 @@ punishing:
 punishingly:
   r:
     sense:
-    - id: 'punishingly%4:02:00::'
+    - id: 'punishingly%4:51:00::'
       pertainym:
       - 'punishing%3:44:00::'
       synset: 00437765-r
@@ -88788,14 +88788,14 @@ punitive damages:
 punitively:
   r:
     sense:
-    - id: 'punitively%4:02:00::'
+    - id: 'punitively%4:45:00::'
       pertainym:
       - 'punitive%3:00:00::'
       synset: 00437844-r
 punitorily:
   r:
     sense:
-    - id: 'punitorily%4:02:00::'
+    - id: 'punitorily%4:45:00::'
       pertainym:
       - 'punitory%3:00:00::'
       synset: 00437844-r
@@ -89431,7 +89431,7 @@ purely:
     - value: ˈpjɔːli
       variety: GB
     sense:
-    - id: 'purely%4:02:00::'
+    - id: 'purely%4:53:00::'
       synset: 00180598-r
 pureness:
   n:
@@ -89790,7 +89790,7 @@ puritanical:
 puritanically:
   r:
     sense:
-    - id: 'puritanically%4:02:00::'
+    - id: 'puritanically%4:45:00::'
       pertainym:
       - puritanical%5:00:00:proper:00
       synset: 00436397-r
@@ -90406,7 +90406,7 @@ purportedly:
     - value: pə(ɹ)ˈpɔː(ɹ).təd.li
       variety: GB
     sense:
-    - id: 'purportedly%4:02:01::'
+    - id: 'purportedly%4:47:01::'
       synset: 00155582-r
 purpose:
   n:
@@ -90470,7 +90470,7 @@ purposeful:
 purposefully:
   r:
     sense:
-    - id: 'purposefully%4:02:00::'
+    - id: 'purposefully%4:45:00::'
       pertainym:
       - 'purposeful%3:00:00::'
       synset: 00437981-r
@@ -90500,7 +90500,7 @@ purposeless:
 purposelessly:
   r:
     sense:
-    - id: 'purposelessly%4:02:00::'
+    - id: 'purposelessly%4:45:00::'
       pertainym:
       - 'purposeless%3:00:00::'
       synset: 00438175-r
@@ -90522,7 +90522,7 @@ purposely:
     - value: ˈpɜːpəsli
       variety: GB
     sense:
-    - id: 'purposely%4:02:00::'
+    - id: 'purposely%4:45:00::'
       synset: 00062868-r
 purposive:
   a:
@@ -91303,7 +91303,7 @@ pusillanimous:
 pusillanimously:
   r:
     sense:
-    - id: 'pusillanimously%4:02:00::'
+    - id: 'pusillanimously%4:45:00::'
       pertainym:
       - pusillanimous%5:00:00:cowardly:00
       synset: 00457002-r
@@ -91590,7 +91590,7 @@ put behind bars:
 put differently:
   r:
     sense:
-    - id: 'put_differently%4:02:00::'
+    - id: 'put_differently%4:47:00::'
       synset: 00180819-r
 put down:
   v:
@@ -92912,7 +92912,7 @@ pyramidical:
 pyramidically:
   r:
     sense:
-    - id: 'pyramidically%4:02:00::'
+    - id: 'pyramidically%4:45:00::'
       pertainym:
       - pyramidical%5:00:00:pointed:00
       synset: 00054622-r

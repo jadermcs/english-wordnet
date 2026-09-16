@@ -1222,12 +1222,12 @@ yea:
     pronunciation:
     - value: jeɪ
     sense:
-    - id: 'yea%4:02:00::'
+    - id: 'yea%4:47:00::'
       synset: 00499758-r
 yeah:
   r:
     sense:
-    - id: 'yeah%4:02:00::'
+    - id: 'yeah%4:47:00::'
       synset: 00499758-r
 year:
   n:
@@ -1327,7 +1327,7 @@ yearly:
     - value: ˈjɪəli
       variety: GB
     sense:
-    - id: 'yearly%4:02:00::'
+    - id: 'yearly%4:48:00::'
       synset: 00082087-r
 yearn:
   v:
@@ -1385,7 +1385,7 @@ yearningly:
     - value: ˈjɝnɪŋli
       variety: US
     sense:
-    - id: 'yearningly%4:02:00::'
+    - id: 'yearningly%4:45:00::'
       synset: 00391325-r
 years:
   n:
@@ -2554,9 +2554,9 @@ yesterday:
     - value: ˈjɛstɚdeɪ
       variety: US
     sense:
-    - id: 'yesterday%4:02:00::'
+    - id: 'yesterday%4:49:00::'
       synset: 00510249-r
-    - id: 'yesterday%4:02:01::'
+    - id: 'yesterday%4:49:01::'
       synset: 00510352-r
 yesteryear:
   n:
@@ -2571,17 +2571,17 @@ yesteryear:
 yet:
   r:
     sense:
-    - id: 'yet%4:02:02::'
+    - id: 'yet%4:49:02::'
       synset: 00028191-r
-    - id: 'yet%4:02:04::'
+    - id: 'yet%4:49:04::'
       synset: 00028314-r
-    - id: 'yet%4:02:03::'
+    - id: 'yet%4:53:03::'
       synset: 00018101-r
-    - id: 'yet%4:02:00::'
+    - id: 'yet%4:49:00::'
       synset: 00048179-r
-    - id: 'yet%4:02:05::'
+    - id: 'yet%4:49:05::'
       synset: 00028594-r
-    - id: 'yet%4:02:06::'
+    - id: 'yet%4:54:06::'
       synset: 00027761-r
 yeti:
   n:
@@ -2768,7 +2768,7 @@ yielding:
 yieldingly:
   r:
     sense:
-    - id: 'yieldingly%4:02:00::'
+    - id: 'yieldingly%4:45:00::'
       pertainym:
       - yielding%5:00:00:docile:00
       synset: 00318413-r
@@ -3110,7 +3110,7 @@ yon:
     - value: jɑn
       variety: US
     sense:
-    - id: 'yon%4:02:00::'
+    - id: 'yon%4:50:00::'
       synset: 00082658-r
 yonder:
   a:
@@ -3125,7 +3125,7 @@ yonder:
     - value: ˈjɒndə(ɹ)
       variety: GB
     sense:
-    - id: 'yonder%4:02:00::'
+    - id: 'yonder%4:50:00::'
       synset: 00082658-r
 yore:
   n:
@@ -3158,12 +3158,12 @@ yottaflop:
 you bet:
   r:
     sense:
-    - id: 'you_bet%4:02:00::'
+    - id: 'you_bet%4:51:00::'
       synset: 00153403-r
 you said it:
   r:
     sense:
-    - id: 'you_said_it%4:02:00::'
+    - id: 'you_said_it%4:51:00::'
       synset: 00153403-r
 you-drive:
   n:
@@ -3383,7 +3383,7 @@ youthful:
 youthfully:
   r:
     sense:
-    - id: 'youthfully%4:02:00::'
+    - id: 'youthfully%4:45:00::'
       pertainym:
       - youthful%5:00:00:young:00
       synset: 00499860-r
