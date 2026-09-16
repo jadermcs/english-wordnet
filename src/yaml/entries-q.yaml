@@ -1516,11 +1516,11 @@ quaintly:
     pronunciation:
     - value: ˈkweɪntli
     sense:
-    - id: 'quaintly%4:02:01::'
+    - id: 'quaintly%4:45:01::'
       pertainym:
       - quaint%5:00:00:strange:00
       synset: 00438424-r
-    - id: 'quaintly%4:02:00::'
+    - id: 'quaintly%4:45:00::'
       pertainym:
       - quaint%5:00:00:fashionable:00
       synset: 00438302-r
@@ -1791,7 +1791,7 @@ qualitative analysis:
 qualitatively:
   r:
     sense:
-    - id: 'qualitatively%4:02:00::'
+    - id: 'qualitatively%4:52:00::'
       pertainym:
       - 'qualitative%3:01:00::'
       synset: 00438569-r
@@ -2070,7 +2070,7 @@ quantitative relation:
 quantitatively:
   r:
     sense:
-    - id: 'quantitatively%4:02:00::'
+    - id: 'quantitatively%4:52:00::'
       pertainym:
       - 'quantitative%3:01:00::'
       synset: 00248026-r
@@ -2643,9 +2643,9 @@ quarterly:
       synset: 06606829-n
   r:
     sense:
-    - id: 'quarterly%4:02:01::'
+    - id: 'quarterly%4:45:01::'
       synset: 00438873-r
-    - id: 'quarterly%4:02:00::'
+    - id: 'quarterly%4:48:00::'
       pertainym:
       - 'quarterly%3:01:00::'
       synset: 00438741-r
@@ -3010,7 +3010,7 @@ quavering:
 quaveringly:
   r:
     sense:
-    - id: 'quaveringly%4:02:00::'
+    - id: 'quaveringly%4:45:00::'
       pertainym:
       - quavering%5:00:00:unsteady:00
       synset: 00511678-r
@@ -3032,7 +3032,7 @@ quayage:
 queasily:
   r:
     sense:
-    - id: 'queasily%4:02:00::'
+    - id: 'queasily%4:45:00::'
       pertainym:
       - queasy%5:00:00:ill:01
       synset: 00438995-r
@@ -3283,11 +3283,11 @@ queer duck:
 queerly:
   r:
     sense:
-    - id: 'queerly%4:02:01::'
+    - id: 'queerly%4:45:01::'
       pertainym:
       - queer%5:00:00:strange:00
       synset: 00439274-r
-    - id: 'queerly%4:02:00::'
+    - id: 'queerly%4:45:00::'
       synset: 00439139-r
 queerness:
   n:
@@ -3443,7 +3443,7 @@ querulously:
     - value: ˈkwɛɹ.ʊ.ləs.li
       variety: GB
     sense:
-    - id: 'querulously%4:02:00::'
+    - id: 'querulously%4:45:00::'
       pertainym:
       - querulous%5:00:00:complaining:00
       synset: 00421054-r
@@ -3715,7 +3715,7 @@ questionable:
 questionably:
   r:
     sense:
-    - id: 'questionably%4:02:00::'
+    - id: 'questionably%4:45:00::'
       pertainym:
       - 'questionable%3:00:00::'
       synset: 00439689-r
@@ -3751,11 +3751,11 @@ questioningly:
     pronunciation:
     - value: ˈkwɛstʃənɪŋli
     sense:
-    - id: 'questioningly%4:02:00::'
+    - id: 'questioningly%4:45:00::'
       pertainym:
       - questioning%5:00:00:curious:00
       synset: 00359488-r
-    - id: 'questioningly%4:02:01::'
+    - id: 'questioningly%4:45:01::'
       pertainym:
       - questioning%5:00:00:perplexed:00
       synset: 00439869-r
@@ -3938,7 +3938,7 @@ quick:
     pronunciation:
     - value: kwɪk
     sense:
-    - id: 'quick%4:02:00::'
+    - id: 'quick%4:49:00::'
       synset: 00106290-r
 quick assets:
   n:
@@ -4114,14 +4114,14 @@ quickening:
 quicker:
   r:
     sense:
-    - id: 'quicker%4:02:00::'
+    - id: 'quicker%4:45:00::'
       pertainym:
       - quick%5:00:00:fast:01
       synset: 00087016-r
 quickest:
   r:
     sense:
-    - id: 'quickest%4:02:00::'
+    - id: 'quickest%4:51:00::'
       pertainym:
       - quick%5:00:00:fast:01
       synset: 00087173-r
@@ -4143,16 +4143,16 @@ quickly:
     - value: ˈkwɪkli
     sense:
     - antonym:
-      - 'slowly%4:02:02::'
-      id: 'quickly%4:02:00::'
+      - 'slowly%4:45:02::'
+      id: 'quickly%4:45:00::'
       pertainym:
       - quick%5:00:00:fast:01
       synset: 00086161-r
-    - id: 'quickly%4:02:02::'
+    - id: 'quickly%4:49:02::'
       pertainym:
       - quick%5:00:00:fast:01
       synset: 00106290-r
-    - id: 'quickly%4:02:03::'
+    - id: 'quickly%4:45:03::'
       pertainym:
       - quick%5:00:00:hurried:00
       synset: 00292249-r
@@ -4389,7 +4389,7 @@ quiet:
       synset: 04911529-n
   r:
     sense:
-    - id: 'quiet%4:02:00::'
+    - id: 'quiet%4:45:00::'
       synset: 00231184-r
   v:
     pronunciation:
@@ -4469,21 +4469,21 @@ quietly:
     pronunciation:
     - value: ˈkwaɪ.ɪt.li
     sense:
-    - id: 'quietly%4:02:00::'
+    - id: 'quietly%4:45:00::'
       synset: 00070566-r
     - antonym:
-      - 'noisily%4:02:00::'
-      id: 'quietly%4:02:01::'
+      - 'noisily%4:45:00::'
+      id: 'quietly%4:45:01::'
       pertainym:
       - 'quiet%3:00:01::'
       synset: 00231015-r
     - antonym:
-      - 'unquietly%4:02:00::'
-      id: 'quietly%4:02:02::'
+      - 'unquietly%4:45:00::'
+      id: 'quietly%4:45:02::'
       pertainym:
       - 'quiet%3:00:02::'
       synset: 00231184-r
-    - id: 'quietly%4:02:05::'
+    - id: 'quietly%4:45:05::'
       synset: 00440039-r
 quietness:
   n:
@@ -5043,18 +5043,18 @@ quite:
     pronunciation:
     - value: kwaɪt
     sense:
-    - id: 'quite%4:02:02::'
+    - id: 'quite%4:51:02::'
       synset: 00019243-r
-    - id: 'quite%4:02:01::'
+    - id: 'quite%4:51:01::'
       synset: 00019039-r
-    - id: 'quite%4:02:03::'
+    - id: 'quite%4:51:03::'
       synset: 00019380-r
-    - id: 'quite%4:02:04::'
+    - id: 'quite%4:51:04::'
       synset: 00019643-r
 quite a:
   r:
     sense:
-    - id: 'quite_a%4:02:00::'
+    - id: 'quite_a%4:51:00::'
       synset: 00019380-r
 quite a little:
   n:
@@ -5064,7 +5064,7 @@ quite a little:
 quite an:
   r:
     sense:
-    - id: 'quite_an%4:02:00::'
+    - id: 'quite_an%4:51:00::'
       synset: 00019380-r
 quits:
   a:
@@ -5153,7 +5153,7 @@ quixotic:
 quixotically:
   r:
     sense:
-    - id: 'quixotically%4:02:00::'
+    - id: 'quixotically%4:45:00::'
       pertainym:
       - quixotic%5:00:00:impractical:00
       synset: 00440193-r
@@ -5225,7 +5225,7 @@ quizzical:
 quizzically:
   r:
     sense:
-    - id: 'quizzically%4:02:00::'
+    - id: 'quizzically%4:45:00::'
       pertainym:
       - quizzical%5:00:00:perplexed:00
       synset: 00439869-r

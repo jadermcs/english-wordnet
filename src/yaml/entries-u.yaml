@@ -2949,7 +2949,7 @@ ulteriority:
 ulteriorly:
   r:
     sense:
-    - id: 'ulteriorly%4:02:00::'
+    - id: 'ulteriorly%4:45:00::'
       pertainym:
       - ulterior%5:00:00:covert:00
       synset: 00518777-r
@@ -3005,7 +3005,7 @@ ultimately:
     pronunciation:
     - value: ˈʌltɪmətli
     sense:
-    - id: 'ultimately%4:02:01::'
+    - id: 'ultimately%4:49:01::'
       pertainym:
       - ultimate%5:00:00:last:00
       synset: 00048441-r
@@ -3047,7 +3047,7 @@ ultra vires:
       synset: 01350931-a
   r:
     sense:
-    - id: 'ultra_vires%4:02:00::'
+    - id: 'ultra_vires%4:52:00::'
       synset: 00484693-r
 ultra-lightweight concrete:
   n:
@@ -3205,7 +3205,7 @@ ultrasonic pulse velocity tester:
 ultrasonically:
   r:
     sense:
-    - id: 'ultrasonically%4:02:00::'
+    - id: 'ultrasonically%4:45:00::'
       pertainym:
       - ultrasonic%5:00:00:inaudible:00
       synset: 00007128-r
@@ -3671,7 +3671,7 @@ unabashedly:
     pronunciation:
     - value: ˌʌnəˈbæʃɪdli
     sense:
-    - id: 'unabashedly%4:02:00::'
+    - id: 'unabashedly%4:45:00::'
       pertainym:
       - unabashed%5:00:00:unashamed:00
       synset: 00005834-r
@@ -3776,8 +3776,8 @@ unacceptably:
   r:
     sense:
     - antonym:
-      - 'acceptably%4:02:00::'
-      id: 'unacceptably%4:02:00::'
+      - 'acceptably%4:45:00::'
+      id: 'unacceptably%4:51:00::'
       pertainym:
       - 'acceptable%3:00:00::'
       synset: 00056056-r
@@ -3815,7 +3815,7 @@ unaccompanied:
       synset: 02118766-s
   r:
     sense:
-    - id: 'unaccompanied%4:02:00::'
+    - id: 'unaccompanied%4:45:00::'
       pertainym:
       - 'unaccompanied%3:00:00::'
       synset: 00159090-r
@@ -3831,7 +3831,7 @@ unaccountable:
 unaccountably:
   r:
     sense:
-    - id: 'unaccountably%4:02:00::'
+    - id: 'unaccountably%4:47:00::'
       pertainym:
       - unaccountable%5:00:00:inexplicable:00
       synset: 00484790-r
@@ -3860,7 +3860,7 @@ unachievable:
 unachievably:
   r:
     sense:
-    - id: 'unachievably%4:02:00::'
+    - id: 'unachievably%4:51:00::'
       pertainym:
       - unachievable%5:00:00:impossible:00
       synset: 00485623-r
@@ -4003,7 +4003,7 @@ unadvised:
 unadvisedly:
   r:
     sense:
-    - id: 'unadvisedly%4:02:02::'
+    - id: 'unadvisedly%4:45:02::'
       pertainym:
       - 'unadvised%3:00:02::'
       synset: 00356577-r
@@ -4196,7 +4196,7 @@ unalterable:
 unalterably:
   r:
     sense:
-    - id: 'unalterably%4:02:00::'
+    - id: 'unalterably%4:45:00::'
       pertainym:
       - 'unalterable%3:00:00::'
       synset: 00484941-r
@@ -4234,12 +4234,12 @@ unambiguously:
   r:
     sense:
     - antonym:
-      - 'ambiguously%4:02:00::'
-      id: 'unambiguously%4:02:01::'
+      - 'ambiguously%4:45:00::'
+      id: 'unambiguously%4:45:01::'
       pertainym:
       - 'unambiguous%3:00:00::'
       synset: 00221970-r
-    - id: 'unambiguously%4:02:00::'
+    - id: 'unambiguously%4:45:00::'
       synset: 00176976-r
 unambitious:
   a:
@@ -4252,8 +4252,8 @@ unambitiously:
   r:
     sense:
     - antonym:
-      - 'ambitiously%4:02:00::'
-      id: 'unambitiously%4:02:00::'
+      - 'ambitiously%4:45:00::'
+      id: 'unambitiously%4:45:00::'
       pertainym:
       - 'unambitious%3:00:00::'
       synset: 00263834-r
@@ -4320,7 +4320,7 @@ unanimous:
 unanimously:
   r:
     sense:
-    - id: 'unanimously%4:02:00::'
+    - id: 'unanimously%4:45:00::'
       pertainym:
       - unanimous%5:00:00:accordant:00
       synset: 00107003-r
@@ -4389,8 +4389,8 @@ unappealingly:
   r:
     sense:
     - antonym:
-      - 'appealingly%4:02:00::'
-      id: 'unappealingly%4:02:00::'
+      - 'appealingly%4:45:00::'
+      id: 'unappealingly%4:51:00::'
       pertainym:
       - 'unappealing%3:00:00::'
       synset: 00263256-r
@@ -4459,8 +4459,8 @@ unappreciatively:
   r:
     sense:
     - antonym:
-      - 'appreciatively%4:02:00::'
-      id: 'unappreciatively%4:02:00::'
+      - 'appreciatively%4:45:00::'
+      id: 'unappreciatively%4:45:00::'
       pertainym:
       - unappreciative%5:00:00:ungrateful:00
       synset: 00272901-r
@@ -4502,7 +4502,7 @@ unarguable:
 unarguably:
   r:
     sense:
-    - id: 'unarguably%4:02:00::'
+    - id: 'unarguably%4:47:00::'
       pertainym:
       - unarguable%5:00:00:incontestable:00
       synset: 00485173-r
@@ -4634,8 +4634,8 @@ unashamedly:
     - value: ˌʌnəˈʃeɪmɪdli
     sense:
     - antonym:
-      - 'ashamedly%4:02:00::'
-      id: 'unashamedly%4:02:00::'
+      - 'ashamedly%4:45:00::'
+      id: 'unashamedly%4:45:00::'
       pertainym:
       - 'unashamed%3:00:00::'
       synset: 00210827-r
@@ -4665,7 +4665,7 @@ unassailably:
     pronunciation:
     - value: ˌʌnəˈseɪləbli
     sense:
-    - id: 'unassailably%4:02:00::'
+    - id: 'unassailably%4:45:00::'
       pertainym:
       - unassailable%5:00:00:incontestable:00
       synset: 00484941-r
@@ -4682,8 +4682,8 @@ unassertively:
   r:
     sense:
     - antonym:
-      - 'assertively%4:02:00::'
-      id: 'unassertively%4:02:00::'
+      - 'assertively%4:45:00::'
+      id: 'unassertively%4:45:00::'
       pertainym:
       - 'unassertive%3:00:00::'
       synset: 00268077-r
@@ -4729,7 +4729,7 @@ unassuming:
 unassumingly:
   r:
     sense:
-    - id: 'unassumingly%4:02:00::'
+    - id: 'unassumingly%4:45:00::'
       pertainym:
       - unassuming%5:00:00:modest:02
       synset: 00485492-r
@@ -4791,7 +4791,7 @@ unattainableness:
 unattainably:
   r:
     sense:
-    - id: 'unattainably%4:02:00::'
+    - id: 'unattainably%4:51:00::'
       pertainym:
       - unattainable%5:00:00:impossible:00
       synset: 00485623-r
@@ -4826,8 +4826,8 @@ unattractively:
   r:
     sense:
     - antonym:
-      - 'attractively%4:02:00::'
-      id: 'unattractively%4:02:00::'
+      - 'attractively%4:45:00::'
+      id: 'unattractively%4:45:00::'
       pertainym:
       - 'unattractive%3:00:00::'
       synset: 00243631-r
@@ -4934,7 +4934,7 @@ unavoidable casualty:
 unavoidably:
   r:
     sense:
-    - id: 'unavoidably%4:02:00::'
+    - id: 'unavoidably%4:45:00::'
       pertainym:
       - unavoidable%5:00:00:inevitable:00
       synset: 00209884-r
@@ -4982,11 +4982,11 @@ unawares:
     pronunciation:
     - value: ˌʌnəˈwɛə(ɹ)z
     sense:
-    - id: 'unawares%4:02:01::'
+    - id: 'unawares%4:45:01::'
       synset: 00486012-r
-    - id: 'unawares%4:02:00::'
+    - id: 'unawares%4:45:00::'
       synset: 00485809-r
-    - id: 'unawares%4:02:02::'
+    - id: 'unawares%4:45:02::'
       synset: 00454757-r
 unawed:
   a:
@@ -5103,7 +5103,7 @@ unbearable:
   a:
     sense:
     - derivation:
-      - 'unbearably%4:02:00::'
+      - 'unbearably%4:51:00::'
       id: 'unbearable%3:00:00::'
       synset: 02444489-a
 unbearably:
@@ -5111,7 +5111,7 @@ unbearably:
     sense:
     - derivation:
       - 'unbearable%3:00:00::'
-      id: 'unbearably%4:02:00::'
+      id: 'unbearably%4:51:00::'
       pertainym:
       - 'unbearable%3:00:00::'
       synset: 00486125-r
@@ -5139,7 +5139,7 @@ unbecoming:
 unbecomingly:
   r:
     sense:
-    - id: 'unbecomingly%4:02:00::'
+    - id: 'unbecomingly%4:45:00::'
       pertainym:
       - unbecoming%5:00:00:improper:00
       synset: 00306539-r
@@ -5181,7 +5181,7 @@ unbeknown:
       synset: 01380414-s
   r:
     sense:
-    - id: 'unbeknown%4:02:00::'
+    - id: 'unbeknown%4:47:00::'
       synset: 00486260-r
 unbeknownst:
   a:
@@ -5193,7 +5193,7 @@ unbeknownst:
     pronunciation:
     - value: ˌʌnbɪˈnoʊnst
     sense:
-    - id: 'unbeknownst%4:02:00::'
+    - id: 'unbeknownst%4:47:00::'
       synset: 00486260-r
 unbelief:
   n:
@@ -5218,14 +5218,14 @@ unbelievably:
   r:
     sense:
     - antonym:
-      - 'believably%4:02:00::'
-      id: 'unbelievably%4:02:03::'
+      - 'believably%4:45:00::'
+      id: 'unbelievably%4:47:03::'
       pertainym:
       - 'unbelievable%3:00:04::'
       synset: 00297139-r
     - antonym:
-      - 'believably%4:02:00::'
-      id: 'unbelievably%4:02:00::'
+      - 'believably%4:45:00::'
+      id: 'unbelievably%4:51:00::'
       pertainym:
       - 'unbelievable%3:00:04::'
       synset: 00246246-r
@@ -5242,8 +5242,8 @@ unbelievingly:
   r:
     sense:
     - antonym:
-      - 'believingly%4:02:00::'
-      id: 'unbelievingly%4:02:00::'
+      - 'believingly%4:45:00::'
+      id: 'unbelievingly%4:45:00::'
       pertainym:
       - unbelieving%5:00:00:incredulous:00
       synset: 00297679-r
@@ -5405,7 +5405,7 @@ unblinkingly:
     - value: ʌnˈblɪŋkɪŋli
       variety: GB
     sense:
-    - id: 'unblinkingly%4:02:00::'
+    - id: 'unblinkingly%4:45:00::'
       pertainym:
       - unblinking%5:00:00:unemotional:00
       synset: 00510900-r
@@ -5442,7 +5442,7 @@ unblushing:
 unblushingly:
   r:
     sense:
-    - id: 'unblushingly%4:02:00::'
+    - id: 'unblushingly%4:45:00::'
       pertainym:
       - unblushing%5:00:00:unashamed:00
       synset: 00486391-r
@@ -5770,7 +5770,7 @@ uncannily:
     pronunciation:
     - value: ʌŋˈkænɪli
     sense:
-    - id: 'uncannily%4:02:00::'
+    - id: 'uncannily%4:51:00::'
       pertainym:
       - uncanny%5:00:00:supernatural:00
       synset: 00486558-r
@@ -5870,7 +5870,7 @@ unceasing:
 unceasingly:
   r:
     sense:
-    - id: 'unceasingly%4:02:00::'
+    - id: 'unceasingly%4:45:00::'
       pertainym:
       - unceasing%5:00:00:continuous:01
       synset: 00284287-r
@@ -5899,8 +5899,8 @@ unceremoniously:
   r:
     sense:
     - antonym:
-      - 'ceremoniously%4:02:00::'
-      id: 'unceremoniously%4:02:00::'
+      - 'ceremoniously%4:45:00::'
+      id: 'unceremoniously%4:45:00::'
       pertainym:
       - unceremonious%5:00:00:discourteous:00
       synset: 00222304-r
@@ -5956,11 +5956,11 @@ uncertainly:
     - value: ʌnˈsɜːtn̩li
       variety: GB
     sense:
-    - id: 'uncertainly%4:02:01::'
+    - id: 'uncertainly%4:45:01::'
       pertainym:
       - 'uncertain%3:00:02::'
       synset: 00175718-r
-    - id: 'uncertainly%4:02:00::'
+    - id: 'uncertainly%4:45:00::'
       pertainym:
       - 'uncertain%3:00:02::'
       synset: 00486660-r
@@ -6064,7 +6064,7 @@ unchangeableness:
 unchangeably:
   r:
     sense:
-    - id: 'unchangeably%4:02:00::'
+    - id: 'unchangeably%4:45:00::'
       pertainym:
       - 'unchangeable%3:00:00::'
       synset: 00484941-r
@@ -6109,8 +6109,8 @@ uncharacteristically:
   r:
     sense:
     - antonym:
-      - 'characteristically%4:02:00::'
-      id: 'uncharacteristically%4:02:00::'
+      - 'characteristically%4:45:00::'
+      id: 'uncharacteristically%4:45:00::'
       pertainym:
       - 'uncharacteristic%3:00:00::'
       synset: 00249191-r
@@ -6197,8 +6197,8 @@ unchivalrously:
   r:
     sense:
     - antonym:
-      - 'chivalrously%4:02:00::'
-      id: 'unchivalrously%4:02:00::'
+      - 'chivalrously%4:45:00::'
+      id: 'unchivalrously%4:45:00::'
       pertainym:
       - unchivalrous%5:00:00:discourteous:00
       synset: 00486768-r
@@ -6277,8 +6277,8 @@ uncivilly:
   r:
     sense:
     - antonym:
-      - 'civilly%4:02:00::'
-      id: 'uncivilly%4:02:00::'
+      - 'civilly%4:45:00::'
+      id: 'uncivilly%4:45:00::'
       pertainym:
       - 'uncivil%3:00:00::'
       synset: 00339742-r
@@ -6408,7 +6408,7 @@ uncleared:
 unclearly:
   r:
     sense:
-    - id: 'unclearly%4:02:00::'
+    - id: 'unclearly%4:45:00::'
       pertainym:
       - 'unclear%3:00:00::'
       - 'unclear%3:00:04::'
@@ -6552,7 +6552,7 @@ uncluttered:
 unco:
   r:
     sense:
-    - id: 'unco%4:02:00::'
+    - id: 'unco%4:51:00::'
       synset: 00107917-r
 uncoated:
   a:
@@ -6677,8 +6677,8 @@ uncomfortably:
   r:
     sense:
     - antonym:
-      - 'comfortably%4:02:02::'
-      id: 'uncomfortably%4:02:00::'
+      - 'comfortably%4:45:02::'
+      id: 'uncomfortably%4:45:00::'
       pertainym:
       - 'uncomfortable%3:00:00::'
       synset: 00156320-r
@@ -6726,7 +6726,7 @@ uncommon:
 uncommonly:
   r:
     sense:
-    - id: 'uncommonly%4:02:00::'
+    - id: 'uncommonly%4:51:00::'
       pertainym:
       - 'uncommon%3:00:00::'
       synset: 00486999-r
@@ -6769,7 +6769,7 @@ uncomparable:
 uncomparably:
   r:
     sense:
-    - id: 'uncomparably%4:02:00::'
+    - id: 'uncomparably%4:51:00::'
       synset: 00372217-r
 uncompartmented:
   a:
@@ -6811,8 +6811,8 @@ uncomplainingly:
   r:
     sense:
     - antonym:
-      - 'complainingly%4:02:00::'
-      id: 'uncomplainingly%4:02:00::'
+      - 'complainingly%4:45:00::'
+      id: 'uncomplainingly%4:45:00::'
       pertainym:
       - 'uncomplaining%3:00:00::'
       synset: 00289406-r
@@ -6886,7 +6886,7 @@ uncompromising:
 uncompromisingly:
   r:
     sense:
-    - id: 'uncompromisingly%4:02:00::'
+    - id: 'uncompromisingly%4:45:00::'
       pertainym:
       - 'uncompromising%3:00:00::'
       synset: 00487120-r
@@ -6920,7 +6920,7 @@ unconcerned:
 unconcernedly:
   r:
     sense:
-    - id: 'unconcernedly%4:02:00::'
+    - id: 'unconcernedly%4:45:00::'
       pertainym:
       - 'unconcerned%3:00:00::'
       synset: 00487539-r
@@ -6947,10 +6947,10 @@ unconditionally:
   r:
     sense:
     - antonym:
-      - 'conditionally%4:02:00::'
-      id: 'unconditionally%4:02:02::'
+      - 'conditionally%4:45:00::'
+      id: 'unconditionally%4:45:02::'
       synset: 00294119-r
-    - id: 'unconditionally%4:02:00::'
+    - id: 'unconditionally%4:45:00::'
       pertainym:
       - 'unconditional%3:00:00::'
       synset: 00087676-r
@@ -7158,8 +7158,8 @@ unconsciously:
       variety: GB
     sense:
     - antonym:
-      - 'consciously%4:02:00::'
-      id: 'unconsciously%4:02:00::'
+      - 'consciously%4:45:00::'
+      id: 'unconsciously%4:45:00::'
       pertainym:
       - 'unconscious%3:00:00::'
       synset: 00244269-r
@@ -7216,8 +7216,8 @@ unconstitutionally:
   r:
     sense:
     - antonym:
-      - 'constitutionally%4:02:00::'
-      id: 'unconstitutionally%4:02:00::'
+      - 'constitutionally%4:52:00::'
+      id: 'unconstitutionally%4:45:00::'
       pertainym:
       - 'unconstitutional%3:00:00::'
       synset: 00123157-r
@@ -7299,7 +7299,7 @@ uncontrollable:
 uncontrollably:
   r:
     sense:
-    - id: 'uncontrollably%4:02:00::'
+    - id: 'uncontrollably%4:45:00::'
       pertainym:
       - 'uncontrolled%3:00:00::'
       synset: 00487702-r
@@ -7321,8 +7321,8 @@ uncontroversially:
   r:
     sense:
     - antonym:
-      - 'controversially%4:02:00::'
-      id: 'uncontroversially%4:02:00::'
+      - 'controversially%4:45:00::'
+      id: 'uncontroversially%4:47:00::'
       pertainym:
       - 'uncontroversial%3:00:00::'
       synset: 00304163-r
@@ -7363,8 +7363,8 @@ unconventionally:
   r:
     sense:
     - antonym:
-      - 'conventionally%4:02:00::'
-      id: 'unconventionally%4:02:00::'
+      - 'conventionally%4:45:00::'
+      id: 'unconventionally%4:45:00::'
       pertainym:
       - 'unconventional%3:00:00::'
       synset: 00024080-r
@@ -7398,8 +7398,8 @@ unconvincingly:
   r:
     sense:
     - antonym:
-      - 'convincingly%4:02:00::'
-      id: 'unconvincingly%4:02:00::'
+      - 'convincingly%4:45:00::'
+      id: 'unconvincingly%4:45:00::'
       pertainym:
       - 'unconvincing%3:00:00::'
       synset: 00194346-r
@@ -7521,7 +7521,7 @@ uncouth:
 uncouthly:
   r:
     sense:
-    - id: 'uncouthly%4:02:00::'
+    - id: 'uncouthly%4:45:00::'
       pertainym:
       - uncouth%5:00:00:unrefined:01
       synset: 00487818-r
@@ -7627,8 +7627,8 @@ uncritically:
   r:
     sense:
     - antonym:
-      - 'critically%4:02:00::'
-      id: 'uncritically%4:02:00::'
+      - 'critically%4:45:00::'
+      id: 'uncritically%4:45:00::'
       pertainym:
       - 'uncritical%3:00:01::'
       synset: 00186395-r
@@ -7719,7 +7719,7 @@ unctuous:
 unctuously:
   r:
     sense:
-    - id: 'unctuously%4:02:00::'
+    - id: 'unctuously%4:45:00::'
       pertainym:
       - unctuous%5:00:00:insincere:00
       synset: 00487963-r
@@ -7908,7 +7908,7 @@ undecipherable:
 undecipherably:
   r:
     sense:
-    - id: 'undecipherably%4:02:00::'
+    - id: 'undecipherably%4:45:00::'
       pertainym:
       - undecipherable%5:00:00:illegible:00
       synset: 00364251-r
@@ -8019,8 +8019,8 @@ undemocratically:
   r:
     sense:
     - antonym:
-      - 'democratically%4:02:00::'
-      id: 'undemocratically%4:02:00::'
+      - 'democratically%4:45:00::'
+      id: 'undemocratically%4:45:00::'
       pertainym:
       - 'undemocratic%3:00:00::'
       synset: 00123514-r
@@ -8041,7 +8041,7 @@ undeniable:
 undeniably:
   r:
     sense:
-    - id: 'undeniably%4:02:00::'
+    - id: 'undeniably%4:47:00::'
       pertainym:
       - 'undeniable%3:00:00::'
       synset: 00488100-r
@@ -8087,8 +8087,8 @@ undependably:
   r:
     sense:
     - antonym:
-      - 'dependably%4:02:00::'
-      id: 'undependably%4:02:00::'
+      - 'dependably%4:45:00::'
+      id: 'undependably%4:45:00::'
       pertainym:
       - 'undependable%3:00:00::'
       synset: 00225252-r
@@ -8117,26 +8117,26 @@ under:
     - value: ˈʌndɚ
       variety: US
     sense:
-    - id: 'under%4:02:05::'
+    - id: 'under%4:50:05::'
       synset: 00488707-r
-    - id: 'under%4:02:07::'
+    - id: 'under%4:50:07::'
       synset: 00488892-r
-    - id: 'under%4:02:06::'
+    - id: 'under%4:50:06::'
       synset: 00488803-r
-    - id: 'under%4:02:04::'
+    - id: 'under%4:50:04::'
       synset: 00488582-r
-    - id: 'under%4:02:03::'
+    - id: 'under%4:51:03::'
       synset: 00488494-r
-    - id: 'under%4:02:02::'
+    - id: 'under%4:50:02::'
       synset: 00488421-r
-    - id: 'under%4:02:01::'
+    - id: 'under%4:50:01::'
       synset: 00488355-r
-    - id: 'under%4:02:00::'
+    - id: 'under%4:50:00::'
       synset: 00488265-r
 under arms:
   r:
     sense:
-    - id: 'under_arms%4:02:00::'
+    - id: 'under_arms%4:50:00::'
       synset: 00389359-r
 under attack:
   a:
@@ -8153,7 +8153,7 @@ under fire:
 under the circumstances:
   r:
     sense:
-    - id: 'under_the_circumstances%4:02:00::'
+    - id: 'under_the_circumstances%4:47:00::'
       synset: 00174073-r
 under the weather:
   a:
@@ -8168,7 +8168,7 @@ under the weather:
 under way:
   r:
     sense:
-    - id: 'under_way%4:02:00::'
+    - id: 'under_way%4:49:00::'
       pertainym:
       - 'moving%3:00:02::'
       synset: 00240685-r
@@ -8253,7 +8253,7 @@ underarm:
       synset: 02480006-a
   r:
     sense:
-    - id: 'underarm%4:02:00::'
+    - id: 'underarm%4:45:00::'
       synset: 00488998-r
 underbelly:
   n:
@@ -8689,9 +8689,9 @@ underfoot:
     - value: ʌndəˈfʊt
       variety: GB
     sense:
-    - id: 'underfoot%4:02:00::'
+    - id: 'underfoot%4:50:00::'
       synset: 00246377-r
-    - id: 'underfoot%4:02:01::'
+    - id: 'underfoot%4:50:01::'
       synset: 00246494-r
 underframe:
   n:
@@ -8788,9 +8788,9 @@ underground:
     - value: ˌʌndɚˈɡɹaʊnd
       variety: US
     sense:
-    - id: 'underground%4:02:01::'
+    - id: 'underground%4:50:01::'
       synset: 00489216-r
-    - id: 'underground%4:02:00::'
+    - id: 'underground%4:50:00::'
       synset: 00489115-r
 underground press:
   n:
@@ -8824,9 +8824,9 @@ underhand:
     pronunciation:
     - value: ˈʌn.də(ɹ)ˌ(h)ænd
     sense:
-    - id: 'underhand%4:02:01::'
+    - id: 'underhand%4:45:01::'
       synset: 00489336-r
-    - id: 'underhand%4:02:00::'
+    - id: 'underhand%4:45:00::'
       synset: 00488998-r
 underhanded:
   a:
@@ -8838,7 +8838,7 @@ underhanded:
 underhandedly:
   r:
     sense:
-    - id: 'underhandedly%4:02:00::'
+    - id: 'underhandedly%4:45:00::'
       pertainym:
       - underhand%5:00:00:crooked:02
       synset: 00489336-r
@@ -9002,9 +9002,9 @@ underneath:
     - value: ʌndɚˈniθ
       variety: US
     sense:
-    - id: 'underneath%4:02:01::'
+    - id: 'underneath%4:50:01::'
       synset: 00489821-r
-    - id: 'underneath%4:02:00::'
+    - id: 'underneath%4:50:00::'
       synset: 00489606-r
 undernourish:
   v:
@@ -9464,7 +9464,7 @@ understandable:
 understandably:
   r:
     sense:
-    - id: 'understandably%4:02:00::'
+    - id: 'understandably%4:45:00::'
       pertainym:
       - 'comprehensible%3:00:00::'
       synset: 00203770-r
@@ -9501,7 +9501,7 @@ understanding:
 understandingly:
   r:
     sense:
-    - id: 'understandingly%4:02:00::'
+    - id: 'understandingly%4:45:00::'
       pertainym:
       - understanding%5:00:00:perceptive:00
       synset: 00211436-r
@@ -9842,8 +9842,8 @@ undeservedly:
   r:
     sense:
     - antonym:
-      - 'deservedly%4:02:00::'
-      id: 'undeservedly%4:02:00::'
+      - 'deservedly%4:47:00::'
+      id: 'undeservedly%4:47:00::'
       pertainym:
       - undeserved%5:00:00:unmerited:00
       synset: 00303026-r
@@ -9894,7 +9894,7 @@ undesirable:
 undesirably:
   r:
     sense:
-    - id: 'undesirably%4:02:00::'
+    - id: 'undesirably%4:45:00::'
       pertainym:
       - 'undesirable%3:00:00::'
       synset: 00487210-r
@@ -10048,8 +10048,8 @@ undiplomatically:
   r:
     sense:
     - antonym:
-      - 'diplomatically%4:02:00::'
-      id: 'undiplomatically%4:02:00::'
+      - 'diplomatically%4:45:00::'
+      id: 'undiplomatically%4:45:00::'
       pertainym:
       - 'diplomatic%3:00:00::'
       synset: 00204781-r
@@ -10143,7 +10143,7 @@ undisputed:
 undisputedly:
   r:
     sense:
-    - id: 'undisputedly%4:02:00::'
+    - id: 'undisputedly%4:47:00::'
       pertainym:
       - undisputed%5:00:00:uncontroversial:00
       synset: 00485173-r
@@ -10356,7 +10356,7 @@ undoubtedly:
     pronunciation:
     - value: ʌnˈdaʊtɪdli
     sense:
-    - id: 'undoubtedly%4:02:00::'
+    - id: 'undoubtedly%4:47:00::'
       synset: 00079373-r
 undrained:
   a:
@@ -10376,8 +10376,8 @@ undramatically:
   r:
     sense:
     - antonym:
-      - 'dramatically%4:02:00::'
-      id: 'undramatically%4:02:00::'
+      - 'dramatically%4:45:00::'
+      id: 'undramatically%4:45:00::'
       pertainym:
       - 'undramatic%3:00:00::'
       synset: 00139881-r
@@ -10584,7 +10584,7 @@ unduly:
     pronunciation:
     - value: ʌnˈdjuːli
     sense:
-    - id: 'unduly%4:02:00::'
+    - id: 'unduly%4:51:00::'
       pertainym:
       - 'undue%3:00:00::'
       synset: 00489957-r
@@ -10696,7 +10696,7 @@ unease:
 uneasily:
   r:
     sense:
-    - id: 'uneasily%4:02:00::'
+    - id: 'uneasily%4:45:00::'
       pertainym:
       - 'uneasy%3:00:00::'
       synset: 00187482-r
@@ -10864,8 +10864,8 @@ unemotionally:
   r:
     sense:
     - antonym:
-      - 'emotionally%4:02:01::'
-      id: 'unemotionally%4:02:00::'
+      - 'emotionally%4:45:01::'
+      id: 'unemotionally%4:45:00::'
       pertainym:
       - 'unemotional%3:00:00::'
       synset: 00187293-r
@@ -10967,7 +10967,7 @@ unending:
 unendingly:
   r:
     sense:
-    - id: 'unendingly%4:02:00::'
+    - id: 'unendingly%4:45:00::'
       pertainym:
       - unending%5:00:00:permanent:00
       synset: 00284287-r
@@ -10993,7 +10993,7 @@ unenergetic:
 unenergetically:
   r:
     sense:
-    - id: 'unenergetically%4:02:00::'
+    - id: 'unenergetically%4:45:00::'
       synset: 00390494-r
 unenforceable:
   a:
@@ -11068,8 +11068,8 @@ unenthusiastically:
   r:
     sense:
     - antonym:
-      - 'enthusiastically%4:02:00::'
-      id: 'unenthusiastically%4:02:00::'
+      - 'enthusiastically%4:45:00::'
+      id: 'unenthusiastically%4:45:00::'
       pertainym:
       - 'unenthusiastic%3:00:00::'
       synset: 00190462-r
@@ -11126,8 +11126,8 @@ unequally:
   r:
     sense:
     - antonym:
-      - 'equally%4:02:02::'
-      id: 'unequally%4:02:02::'
+      - 'equally%4:45:02::'
+      id: 'unequally%4:45:02::'
       pertainym:
       - 'unequal%3:00:00::'
       synset: 00334089-r
@@ -11164,7 +11164,7 @@ unequivocally:
     - value: ˌʌnɪ̈ˈkwɪvək(ə)li
       variety: US
     sense:
-    - id: 'unequivocally%4:02:01::'
+    - id: 'unequivocally%4:45:01::'
       pertainym:
       - 'unequivocal%3:00:00::'
       synset: 00221970-r
@@ -11201,7 +11201,7 @@ unerring:
 unerringly:
   r:
     sense:
-    - id: 'unerringly%4:02:00::'
+    - id: 'unerringly%4:45:00::'
       pertainym:
       - unerring%5:00:00:infallible:00
       synset: 00233788-r
@@ -11228,8 +11228,8 @@ unethically:
   r:
     sense:
     - antonym:
-      - 'ethically%4:02:00::'
-      id: 'unethically%4:02:00::'
+      - 'ethically%4:45:00::'
+      id: 'unethically%4:45:00::'
       pertainym:
       - 'unethical%3:00:00::'
       synset: 00332102-r
@@ -11272,16 +11272,16 @@ unevenly:
     - value: ʌnˈivənli
     sense:
     - antonym:
-      - 'evenly%4:02:00::'
-      id: 'unevenly%4:02:00::'
+      - 'evenly%4:45:00::'
+      id: 'unevenly%4:45:00::'
       pertainym:
       - 'uneven%3:00:00::'
       synset: 00332854-r
-    - id: 'unevenly%4:02:02::'
+    - id: 'unevenly%4:45:02::'
       synset: 00441018-r
     - antonym:
-      - 'evenly%4:02:01::'
-      id: 'unevenly%4:02:01::'
+      - 'evenly%4:45:01::'
+      id: 'unevenly%4:45:01::'
       pertainym:
       - uneven%5:00:00:unequal:00
       synset: 00334089-r
@@ -11311,7 +11311,7 @@ uneventful:
 uneventfully:
   r:
     sense:
-    - id: 'uneventfully%4:02:00::'
+    - id: 'uneventfully%4:45:00::'
       pertainym:
       - 'uneventful%3:00:00::'
       synset: 00490075-r
@@ -11395,8 +11395,8 @@ unexcitingly:
   r:
     sense:
     - antonym:
-      - 'excitingly%4:02:00::'
-      id: 'unexcitingly%4:02:00::'
+      - 'excitingly%4:45:00::'
+      id: 'unexcitingly%4:45:00::'
       pertainym:
       - 'unexciting%3:00:00::'
       synset: 00334630-r
@@ -11444,11 +11444,11 @@ unexpectedly:
     - value: ʌnɪkˈspɛktɪdli
       variety: US
     sense:
-    - id: 'unexpectedly%4:02:01::'
+    - id: 'unexpectedly%4:47:01::'
       pertainym:
       - 'unexpected%3:00:00::'
       synset: 00041131-r
-    - id: 'unexpectedly%4:02:00::'
+    - id: 'unexpectedly%4:45:00::'
       pertainym:
       - 'unexpected%3:00:00::'
       synset: 00040959-r
@@ -11579,7 +11579,7 @@ unfailing:
 unfailingly:
   r:
     sense:
-    - id: 'unfailingly%4:02:00::'
+    - id: 'unfailingly%4:51:00::'
       pertainym:
       - unfailing%5:00:00:infallible:00
       synset: 00114741-r
@@ -11603,8 +11603,8 @@ unfairly:
   r:
     sense:
     - antonym:
-      - 'fairly%4:02:03::'
-      id: 'unfairly%4:02:00::'
+      - 'fairly%4:45:03::'
+      id: 'unfairly%4:45:00::'
       pertainym:
       - 'unfair%3:00:00::'
       synset: 00286695-r
@@ -11652,8 +11652,8 @@ unfaithfully:
   r:
     sense:
     - antonym:
-      - 'faithfully%4:02:00::'
-      id: 'unfaithfully%4:02:00::'
+      - 'faithfully%4:45:00::'
+      id: 'unfaithfully%4:45:00::'
       pertainym:
       - 'unfaithful%3:00:00::'
       synset: 00225252-r
@@ -11676,7 +11676,7 @@ unfaltering:
 unfalteringly:
   r:
     sense:
-    - id: 'unfalteringly%4:02:00::'
+    - id: 'unfalteringly%4:45:00::'
       pertainym:
       - unfaltering%5:00:00:resolute:00
       synset: 00213506-r
@@ -11719,8 +11719,8 @@ unfashionably:
   r:
     sense:
     - antonym:
-      - 'fashionably%4:02:00::'
-      id: 'unfashionably%4:02:00::'
+      - 'fashionably%4:45:00::'
+      id: 'unfashionably%4:45:00::'
       pertainym:
       - 'unfashionable%3:00:00::'
       synset: 00339240-r
@@ -11853,8 +11853,8 @@ unfavorably:
   r:
     sense:
     - antonym:
-      - 'favorably%4:02:00::'
-      id: 'unfavorably%4:02:00::'
+      - 'favorably%4:45:00::'
+      id: 'unfavorably%4:45:00::'
       pertainym:
       - 'unfavorable%3:00:02::'
       synset: 00232197-r
@@ -11887,7 +11887,7 @@ unfavourableness:
 unfavourably:
   r:
     sense:
-    - id: 'unfavourably%4:02:00::'
+    - id: 'unfavourably%4:45:00::'
       synset: 00232197-r
 unfearing:
   a:
@@ -11939,12 +11939,12 @@ unfeelingly:
   r:
     sense:
     - antonym:
-      - 'feelingly%4:02:00::'
-      id: 'unfeelingly%4:02:00::'
+      - 'feelingly%4:45:00::'
+      id: 'unfeelingly%4:45:00::'
       pertainym:
       - unfeeling%5:00:00:uncompassionate:00
       synset: 00340873-r
-    - id: 'unfeelingly%4:02:01::'
+    - id: 'unfeelingly%4:45:01::'
       pertainym:
       - unfeeling%5:00:00:uncompassionate:00
       synset: 00240256-r
@@ -11963,7 +11963,7 @@ unfeigned:
 unfeignedly:
   r:
     sense:
-    - id: 'unfeignedly%4:02:00::'
+    - id: 'unfeignedly%4:45:00::'
       pertainym:
       - unfeigned%5:00:00:sincere:00
       synset: 00380195-r
@@ -12305,7 +12305,7 @@ unforgettable:
 unforgettably:
   r:
     sense:
-    - id: 'unforgettably%4:02:00::'
+    - id: 'unforgettably%4:45:00::'
       pertainym:
       - 'unforgettable%3:00:00::'
       synset: 00401443-r
@@ -12318,8 +12318,8 @@ unforgivably:
   r:
     sense:
     - antonym:
-      - 'forgivably%4:02:00::'
-      id: 'unforgivably%4:02:00::'
+      - 'forgivably%4:45:00::'
+      id: 'unforgivably%4:51:00::'
       pertainym:
       - unforgivable%5:00:00:unpardonable:00
       synset: 00335065-r
@@ -12336,8 +12336,8 @@ unforgivingly:
   r:
     sense:
     - antonym:
-      - 'forgivingly%4:02:00::'
-      id: 'unforgivingly%4:02:00::'
+      - 'forgivingly%4:45:00::'
+      id: 'unforgivingly%4:45:00::'
       pertainym:
       - 'unforgiving%3:00:00::'
       synset: 00344853-r
@@ -12403,8 +12403,8 @@ unfortunately:
       variety: US
     sense:
     - antonym:
-      - 'fortunately%4:02:00::'
-      id: 'unfortunately%4:02:00::'
+      - 'fortunately%4:47:00::'
+      id: 'unfortunately%4:47:00::'
       pertainym:
       - 'unfortunate%3:00:00::'
       synset: 00043179-r
@@ -12745,8 +12745,8 @@ ungracefully:
   r:
     sense:
     - antonym:
-      - 'gracefully%4:02:01::'
-      id: 'ungracefully%4:02:01::'
+      - 'gracefully%4:45:01::'
+      id: 'ungracefully%4:45:01::'
       pertainym:
       - ungraceful%5:00:00:awkward:00
       synset: 00196072-r
@@ -12772,8 +12772,8 @@ ungraciously:
   r:
     sense:
     - antonym:
-      - 'graciously%4:02:00::'
-      id: 'ungraciously%4:02:00::'
+      - 'graciously%4:45:00::'
+      id: 'ungraciously%4:45:00::'
       synset: 00196072-r
 ungraciousness:
   n:
@@ -12812,8 +12812,8 @@ ungrammatically:
   r:
     sense:
     - antonym:
-      - 'grammatically%4:02:00::'
-      id: 'ungrammatically%4:02:00::'
+      - 'grammatically%4:45:00::'
+      id: 'ungrammatically%4:45:00::'
       pertainym:
       - 'ungrammatical%3:00:00::'
       synset: 00490198-r
@@ -12844,8 +12844,8 @@ ungratefully:
   r:
     sense:
     - antonym:
-      - 'gratefully%4:02:01::'
-      id: 'ungratefully%4:02:00::'
+      - 'gratefully%4:45:01::'
+      id: 'ungratefully%4:45:00::'
       pertainym:
       - 'ungrateful%3:00:00::'
       synset: 00272901-r
@@ -12900,8 +12900,8 @@ ungrudgingly:
   r:
     sense:
     - antonym:
-      - 'grudgingly%4:02:00::'
-      id: 'ungrudgingly%4:02:00::'
+      - 'grudgingly%4:45:00::'
+      id: 'ungrudgingly%4:45:00::'
       pertainym:
       - ungrudging%5:00:00:generous:02
       synset: 00353714-r
@@ -13040,12 +13040,12 @@ unhappily:
   r:
     sense:
     - antonym:
-      - 'happily%4:02:01::'
-      id: 'unhappily%4:02:00::'
+      - 'happily%4:45:01::'
+      id: 'unhappily%4:45:00::'
       pertainym:
       - unhappy%5:00:00:unpleasant:00
       synset: 00051094-r
-    - id: 'unhappily%4:02:01::'
+    - id: 'unhappily%4:47:01::'
       synset: 00043024-r
 unhappiness:
   n:
@@ -13102,7 +13102,7 @@ unharmonious:
 unharmoniously:
   r:
     sense:
-    - id: 'unharmoniously%4:02:00::'
+    - id: 'unharmoniously%4:45:00::'
       synset: 00237891-r
 unharness:
   v:
@@ -13238,8 +13238,8 @@ unhelpfully:
   r:
     sense:
     - antonym:
-      - 'helpfully%4:02:00::'
-      id: 'unhelpfully%4:02:00::'
+      - 'helpfully%4:45:00::'
+      id: 'unhelpfully%4:45:00::'
       pertainym:
       - 'unhelpful%3:00:00::'
       synset: 00185617-r
@@ -13264,8 +13264,8 @@ unhesitatingly:
   r:
     sense:
     - antonym:
-      - 'hesitantly%4:02:00::'
-      id: 'unhesitatingly%4:02:00::'
+      - 'hesitantly%4:45:00::'
+      id: 'unhesitatingly%4:45:00::'
       pertainym:
       - unhesitating%5:00:00:decisive:01
       synset: 00147028-r
@@ -13410,8 +13410,8 @@ unhurriedly:
   r:
     sense:
     - antonym:
-      - 'hurriedly%4:02:00::'
-      id: 'unhurriedly%4:02:00::'
+      - 'hurriedly%4:45:00::'
+      id: 'unhurriedly%4:45:00::'
       pertainym:
       - 'unhurried%3:00:00::'
       synset: 00208076-r
@@ -13439,8 +13439,8 @@ unhygienically:
   r:
     sense:
     - antonym:
-      - 'hygienically%4:02:00::'
-      id: 'unhygienically%4:02:00::'
+      - 'hygienically%4:45:00::'
+      id: 'unhygienically%4:45:00::'
       pertainym:
       - unhygienic%5:00:00:unsanitary:00
       synset: 00362347-r
@@ -13730,7 +13730,7 @@ uniformly:
     - value: ˈjuːnɪfɔːmli
       variety: GB
     sense:
-    - id: 'uniformly%4:02:00::'
+    - id: 'uniformly%4:51:00::'
       pertainym:
       - uniform%5:00:00:homogeneous:00
       synset: 00251622-r
@@ -13861,8 +13861,8 @@ unilaterally:
   r:
     sense:
     - antonym:
-      - 'multilaterally%4:02:00::'
-      id: 'unilaterally%4:02:00::'
+      - 'multilaterally%4:45:00::'
+      id: 'unilaterally%4:45:00::'
       pertainym:
       - 'unilateral%3:00:00::'
       synset: 00254597-r
@@ -13884,7 +13884,7 @@ unimaginable:
 unimaginably:
   r:
     sense:
-    - id: 'unimaginably%4:02:00::'
+    - id: 'unimaginably%4:51:00::'
       pertainym:
       - unimaginable%5:00:00:unthinkable:00
       synset: 00490485-r
@@ -13900,11 +13900,11 @@ unimaginative:
 unimaginatively:
   r:
     sense:
-    - id: 'unimaginatively%4:02:02::'
+    - id: 'unimaginatively%4:45:02::'
       synset: 00435530-r
     - antonym:
-      - 'imaginatively%4:02:00::'
-      id: 'unimaginatively%4:02:00::'
+      - 'imaginatively%4:45:00::'
+      id: 'unimaginatively%4:45:00::'
       pertainym:
       - unimaginative%5:00:00:uncreative:00
       synset: 00210382-r
@@ -13944,7 +13944,7 @@ unimpeachable:
 unimpeachably:
   r:
     sense:
-    - id: 'unimpeachably%4:02:00::'
+    - id: 'unimpeachably%4:47:00::'
       pertainym:
       - unimpeachable%5:00:00:unquestionable:00
       synset: 00439469-r
@@ -14021,8 +14021,8 @@ unimpressively:
   r:
     sense:
     - antonym:
-      - 'impressively%4:02:00::'
-      id: 'unimpressively%4:02:00::'
+      - 'impressively%4:51:00::'
+      id: 'unimpressively%4:45:00::'
       pertainym:
       - 'unimpressive%3:00:00::'
       synset: 00214998-r
@@ -14101,8 +14101,8 @@ uninformatively:
   r:
     sense:
     - antonym:
-      - 'informatively%4:02:00::'
-      id: 'uninformatively%4:02:00::'
+      - 'informatively%4:45:00::'
+      id: 'uninformatively%4:45:00::'
       pertainym:
       - 'uninformative%3:00:00::'
       synset: 00376107-r
@@ -14235,8 +14235,8 @@ uninstructively:
   r:
     sense:
     - antonym:
-      - 'instructively%4:02:00::'
-      id: 'uninstructively%4:02:00::'
+      - 'instructively%4:45:00::'
+      id: 'uninstructively%4:45:00::'
       pertainym:
       - 'uninstructive%3:00:00::'
       synset: 00376107-r
@@ -14277,8 +14277,8 @@ unintelligently:
   r:
     sense:
     - antonym:
-      - 'intelligently%4:02:00::'
-      id: 'unintelligently%4:02:00::'
+      - 'intelligently%4:45:00::'
+      id: 'unintelligently%4:45:00::'
       pertainym:
       - 'unintelligent%3:00:00::'
       synset: 00203614-r
@@ -14314,8 +14314,8 @@ unintelligibly:
   r:
     sense:
     - antonym:
-      - 'intelligibly%4:02:00::'
-      id: 'unintelligibly%4:02:00::'
+      - 'intelligibly%4:45:00::'
+      id: 'unintelligibly%4:45:00::'
       pertainym:
       - 'unintelligible%3:00:00::'
       synset: 00203983-r
@@ -14337,8 +14337,8 @@ unintentionally:
   r:
     sense:
     - antonym:
-      - 'intentionally%4:02:00::'
-      id: 'unintentionally%4:02:00::'
+      - 'intentionally%4:45:00::'
+      id: 'unintentionally%4:45:00::'
       pertainym:
       - unintentional%5:00:00:unintended:00
       synset: 00063188-r
@@ -14368,8 +14368,8 @@ uninterestingly:
   r:
     sense:
     - antonym:
-      - 'interestingly%4:02:01::'
-      id: 'uninterestingly%4:02:00::'
+      - 'interestingly%4:47:01::'
+      id: 'uninterestingly%4:45:00::'
       pertainym:
       - 'uninteresting%3:00:00::'
       synset: 00216240-r
@@ -14393,7 +14393,7 @@ uninterrupted:
 uninterruptedly:
   r:
     sense:
-    - id: 'uninterruptedly%4:02:00::'
+    - id: 'uninterruptedly%4:45:00::'
       pertainym:
       - uninterrupted%5:00:00:unbroken:02
       synset: 00490601-r
@@ -14438,7 +14438,7 @@ uninvited:
 uninvitedly:
   r:
     sense:
-    - id: 'uninvitedly%4:02:00::'
+    - id: 'uninvitedly%4:45:00::'
       pertainym:
       - uninvited%5:00:00:unwelcome:00
       synset: 00487353-r
@@ -14695,7 +14695,7 @@ unique:
 uniquely:
   r:
     sense:
-    - id: 'uniquely%4:02:00::'
+    - id: 'uniquely%4:45:00::'
       pertainym:
       - unique%5:00:00:single:05
       synset: 00176976-r
@@ -14925,7 +14925,7 @@ united:
 unitedly:
   r:
     sense:
-    - id: 'unitedly%4:02:00::'
+    - id: 'unitedly%4:45:00::'
       synset: 00117495-r
 uniting:
   n:
@@ -15270,7 +15270,7 @@ universally:
     - value: ˌjuːnɪˈvɜːsəli
       variety: GB
     sense:
-    - id: 'universally%4:02:00::'
+    - id: 'universally%4:51:00::'
       synset: 00196734-r
 universe:
   n:
@@ -15360,8 +15360,8 @@ unjustifiably:
   r:
     sense:
     - antonym:
-      - 'justifiably%4:02:00::'
-      id: 'unjustifiably%4:02:00::'
+      - 'justifiably%4:45:00::'
+      id: 'unjustifiably%4:45:00::'
       pertainym:
       - unjustifiable%5:00:00:inexcusable:00
       synset: 00240521-r
@@ -15376,8 +15376,8 @@ unjustly:
     - value: ʌnˈd͡ʒʌstli
     sense:
     - antonym:
-      - 'justly%4:02:01::'
-      id: 'unjustly%4:02:00::'
+      - 'justly%4:47:01::'
+      id: 'unjustly%4:45:00::'
       pertainym:
       - 'unjust%3:00:00::'
       synset: 00206888-r
@@ -15454,8 +15454,8 @@ unkindly:
   r:
     sense:
     - antonym:
-      - 'kindly%4:02:00::'
-      id: 'unkindly%4:02:00::'
+      - 'kindly%4:45:00::'
+      id: 'unkindly%4:45:00::'
       pertainym:
       - 'unkind%3:00:00::'
       synset: 00004948-r
@@ -15510,8 +15510,8 @@ unknowingly:
     - value: ʌnˈnəʊ.ɪŋ.li
     sense:
     - antonym:
-      - 'knowingly%4:02:00::'
-      id: 'unknowingly%4:02:00::'
+      - 'knowingly%4:45:00::'
+      id: 'unknowingly%4:45:00::'
       synset: 00239560-r
 unknowingness:
   n:
@@ -15688,8 +15688,8 @@ unlawfully:
   r:
     sense:
     - antonym:
-      - 'lawfully%4:02:00::'
-      id: 'unlawfully%4:02:00::'
+      - 'lawfully%4:52:00::'
+      id: 'unlawfully%4:45:00::'
       pertainym:
       - unlawful%5:00:00:illegal:00
       synset: 00253459-r
@@ -16173,8 +16173,8 @@ unluckily:
   r:
     sense:
     - antonym:
-      - 'luckily%4:02:00::'
-      id: 'unluckily%4:02:00::'
+      - 'luckily%4:47:00::'
+      id: 'unluckily%4:47:00::'
       pertainym:
       - unlucky%5:00:00:unfortunate:00
       synset: 00043179-r
@@ -16281,8 +16281,8 @@ unmanageably:
   r:
     sense:
     - antonym:
-      - 'manageably%4:02:00::'
-      id: 'unmanageably%4:02:00::'
+      - 'manageably%4:51:00::'
+      id: 'unmanageably%4:51:00::'
       pertainym:
       - 'unmanageable%3:00:00::'
       synset: 00392325-r
@@ -16295,8 +16295,8 @@ unmanfully:
   r:
     sense:
     - antonym:
-      - 'manfully%4:02:00::'
-      id: 'unmanfully%4:02:00::'
+      - 'manfully%4:45:00::'
+      id: 'unmanfully%4:45:00::'
       pertainym:
       - 'unmanful%3:00:00::'
       synset: 00392720-r
@@ -16328,7 +16328,7 @@ unmanly:
       synset: 00267286-s
   r:
     sense:
-    - id: 'unmanly%4:02:00::'
+    - id: 'unmanly%4:45:00::'
       synset: 00392720-r
 unmanned:
   a:
@@ -16530,8 +16530,8 @@ unmelodiously:
   r:
     sense:
     - antonym:
-      - 'melodiously%4:02:00::'
-      id: 'unmelodiously%4:02:00::'
+      - 'melodiously%4:45:00::'
+      id: 'unmelodiously%4:45:00::'
       pertainym:
       - 'unmelodious%3:00:00::'
       synset: 00401016-r
@@ -16551,8 +16551,8 @@ unmemorably:
   r:
     sense:
     - antonym:
-      - 'memorably%4:02:00::'
-      id: 'unmemorably%4:02:00::'
+      - 'memorably%4:45:00::'
+      id: 'unmemorably%4:45:00::'
       pertainym:
       - unmemorable%5:00:00:forgettable:00
       synset: 00401612-r
@@ -16585,7 +16585,7 @@ unmerciful:
 unmercifully:
   r:
     sense:
-    - id: 'unmercifully%4:02:00::'
+    - id: 'unmercifully%4:45:00::'
       pertainym:
       - 'unmerciful%3:00:04::'
       synset: 00402381-r
@@ -16642,8 +16642,8 @@ unmindfully:
   r:
     sense:
     - antonym:
-      - 'mindfully%4:02:00::'
-      id: 'unmindfully%4:02:00::'
+      - 'mindfully%4:45:00::'
+      id: 'unmindfully%4:45:00::'
       pertainym:
       - 'unmindful%3:00:00::'
       synset: 00154998-r
@@ -16679,11 +16679,11 @@ unmistakable:
 unmistakably:
   r:
     sense:
-    - id: 'unmistakably%4:02:00::'
+    - id: 'unmistakably%4:47:00::'
       pertainym:
       - unmistakable%5:00:00:clear:00
       synset: 00213360-r
-    - id: 'unmistakably%4:02:01::'
+    - id: 'unmistakably%4:51:01::'
       synset: 00456645-r
 unmitigable:
   a:
@@ -16832,8 +16832,8 @@ unmusically:
   r:
     sense:
     - antonym:
-      - 'musically%4:02:01::'
-      id: 'unmusically%4:02:00::'
+      - 'musically%4:45:01::'
+      id: 'unmusically%4:45:00::'
       pertainym:
       - 'unmusical%3:00:01::'
       synset: 00407299-r
@@ -16899,16 +16899,16 @@ unnaturally:
   r:
     sense:
     - antonym:
-      - 'naturally%4:02:02::'
-      id: 'unnaturally%4:02:02::'
+      - 'naturally%4:45:02::'
+      id: 'unnaturally%4:45:02::'
       pertainym:
       - 'unnatural%3:00:04::'
       synset: 00490777-r
-    - id: 'unnaturally%4:02:00::'
+    - id: 'unnaturally%4:45:00::'
       synset: 00141600-r
     - antonym:
-      - 'naturally%4:02:00::'
-      id: 'unnaturally%4:02:03::'
+      - 'naturally%4:47:00::'
+      id: 'unnaturally%4:47:03::'
       pertainym:
       - 'unnatural%3:00:00::'
       synset: 00039161-r
@@ -16930,12 +16930,12 @@ unnecessarily:
   r:
     sense:
     - antonym:
-      - 'necessarily%4:02:00::'
-      id: 'unnecessarily%4:02:00::'
+      - 'necessarily%4:47:00::'
+      id: 'unnecessarily%4:45:00::'
       pertainym:
       - 'unnecessary%3:00:00::'
       synset: 00410408-r
-    - id: 'unnecessarily%4:02:01::'
+    - id: 'unnecessarily%4:47:01::'
       pertainym:
       - 'unnecessary%3:00:00::'
       synset: 00181163-r
@@ -17050,7 +17050,7 @@ unnoticeableness:
 unnoticeably:
   r:
     sense:
-    - id: 'unnoticeably%4:02:00::'
+    - id: 'unnoticeably%4:45:00::'
       pertainym:
       - 'unnoticeable%3:00:00::'
       synset: 00367210-r
@@ -17157,8 +17157,8 @@ unobtrusively:
     - value: ˌʌn.əbˈtɹuː.sɪv.li
     sense:
     - antonym:
-      - 'obtrusively%4:02:00::'
-      id: 'unobtrusively%4:02:00::'
+      - 'obtrusively%4:45:00::'
+      id: 'unobtrusively%4:45:00::'
       pertainym:
       - unobtrusive%5:00:00:unnoticeable:00
       synset: 00414897-r
@@ -17212,13 +17212,13 @@ unofficial:
 unofficially:
   r:
     sense:
-    - id: 'unofficially%4:02:01::'
+    - id: 'unofficially%4:53:01::'
       pertainym:
       - 'unofficial%3:00:00::'
       synset: 00245660-r
     - antonym:
-      - 'officially%4:02:00::'
-      id: 'unofficially%4:02:00::'
+      - 'officially%4:47:00::'
+      id: 'unofficially%4:45:00::'
       pertainym:
       - 'unofficial%3:00:00::'
       synset: 00115368-r
@@ -17311,7 +17311,7 @@ unoriginality:
 unoriginally:
   r:
     sense:
-    - id: 'unoriginally%4:02:00::'
+    - id: 'unoriginally%4:45:00::'
       pertainym:
       - 'unoriginal%3:00:00::'
       synset: 00155936-r
@@ -17470,8 +17470,8 @@ unpalatably:
   r:
     sense:
     - antonym:
-      - 'palatably%4:02:00::'
-      id: 'unpalatably%4:02:00::'
+      - 'palatably%4:45:00::'
+      id: 'unpalatably%4:51:00::'
       pertainym:
       - 'unpalatable%3:00:00::'
       synset: 00418765-r
@@ -17496,8 +17496,8 @@ unpardonably:
   r:
     sense:
     - antonym:
-      - 'pardonably%4:02:00::'
-      id: 'unpardonably%4:02:00::'
+      - 'pardonably%4:45:00::'
+      id: 'unpardonably%4:51:00::'
       pertainym:
       - 'unpardonable%3:00:00::'
       synset: 00335065-r
@@ -17553,8 +17553,8 @@ unpatriotically:
   r:
     sense:
     - antonym:
-      - 'patriotically%4:02:00::'
-      id: 'unpatriotically%4:02:00::'
+      - 'patriotically%4:45:00::'
+      id: 'unpatriotically%4:45:00::'
       pertainym:
       - 'unpatriotic%3:00:00::'
       synset: 00420451-r
@@ -17825,8 +17825,8 @@ unpleasantly:
   r:
     sense:
     - antonym:
-      - 'pleasantly%4:02:00::'
-      id: 'unpleasantly%4:02:00::'
+      - 'pleasantly%4:51:00::'
+      id: 'unpleasantly%4:45:00::'
       pertainym:
       - 'unpleasant%3:00:00::'
       synset: 00220983-r
@@ -18019,8 +18019,8 @@ unprecedentedly:
   r:
     sense:
     - antonym:
-      - 'precedentedly%4:02:00::'
-      id: 'unprecedentedly%4:02:00::'
+      - 'precedentedly%4:45:00::'
+      id: 'unprecedentedly%4:51:00::'
       pertainym:
       - 'unprecedented%3:00:00::'
       synset: 00491178-r
@@ -18056,7 +18056,7 @@ unpredictable:
 unpredictably:
   r:
     sense:
-    - id: 'unpredictably%4:02:00::'
+    - id: 'unpredictably%4:45:00::'
       pertainym:
       - 'unpredictable%3:00:00::'
       synset: 00108490-r
@@ -18143,8 +18143,8 @@ unpretentiously:
   r:
     sense:
     - antonym:
-      - 'pretentiously%4:02:00::'
-      id: 'unpretentiously%4:02:00::'
+      - 'pretentiously%4:45:00::'
+      id: 'unpretentiously%4:45:00::'
       pertainym:
       - 'unpretentious%3:00:00::'
       synset: 00432951-r
@@ -18238,8 +18238,8 @@ unproductively:
   r:
     sense:
     - antonym:
-      - 'productively%4:02:00::'
-      id: 'unproductively%4:02:00::'
+      - 'productively%4:45:00::'
+      id: 'unproductively%4:45:00::'
       pertainym:
       - 'unproductive%3:00:00::'
       synset: 00215382-r
@@ -18296,13 +18296,13 @@ unprofitableness:
 unprofitably:
   r:
     sense:
-    - id: 'unprofitably%4:02:01::'
+    - id: 'unprofitably%4:45:01::'
       pertainym:
       - 'unprofitable%3:00:00::'
       synset: 00435013-r
     - antonym:
-      - 'profitably%4:02:00::'
-      id: 'unprofitably%4:02:00::'
+      - 'profitably%4:45:00::'
+      id: 'unprofitably%4:45:00::'
       pertainym:
       - 'unprofitable%3:00:00::'
       synset: 00215382-r
@@ -18355,8 +18355,8 @@ unpropitiously:
   r:
     sense:
     - antonym:
-      - 'propitiously%4:02:00::'
-      id: 'unpropitiously%4:02:00::'
+      - 'propitiously%4:45:00::'
+      id: 'unpropitiously%4:45:00::'
       pertainym:
       - 'unpropitious%3:00:00::'
       synset: 00219120-r
@@ -18488,7 +18488,7 @@ unqualified:
 unqualifiedly:
   r:
     sense:
-    - id: 'unqualifiedly%4:02:00::'
+    - id: 'unqualifiedly%4:51:00::'
       pertainym:
       - 'unqualified%3:00:02::'
       synset: 00231579-r
@@ -18534,11 +18534,11 @@ unquestionableness:
 unquestionably:
   r:
     sense:
-    - id: 'unquestionably%4:02:00::'
+    - id: 'unquestionably%4:47:00::'
       pertainym:
       - 'unquestionable%3:00:00::'
       synset: 00439469-r
-    - id: 'unquestionably%4:02:01::'
+    - id: 'unquestionably%4:51:01::'
       pertainym:
       - 'unquestionable%3:00:00::'
       synset: 00037329-r
@@ -18557,7 +18557,7 @@ unquestioning:
 unquestioningly:
   r:
     sense:
-    - id: 'unquestioningly%4:02:00::'
+    - id: 'unquestioningly%4:45:00::'
       pertainym:
       - unquestioning%5:00:00:absolute:00
       synset: 00504312-r
@@ -18574,8 +18574,8 @@ unquietly:
   r:
     sense:
     - antonym:
-      - 'quietly%4:02:02::'
-      id: 'unquietly%4:02:00::'
+      - 'quietly%4:45:02::'
+      id: 'unquietly%4:45:00::'
       pertainym:
       - 'unquiet%3:00:00::'
       synset: 00231477-r
@@ -18695,7 +18695,7 @@ unreadable:
 unreadably:
   r:
     sense:
-    - id: 'unreadably%4:02:00::'
+    - id: 'unreadably%4:45:00::'
       pertainym:
       - unreadable%5:00:00:illegible:00
       synset: 00364251-r
@@ -18749,8 +18749,8 @@ unrealistically:
   r:
     sense:
     - antonym:
-      - 'realistically%4:02:01::'
-      id: 'unrealistically%4:02:00::'
+      - 'realistically%4:45:01::'
+      id: 'unrealistically%4:51:00::'
       pertainym:
       - 'unrealistic%3:00:00::'
       synset: 00216959-r
@@ -18802,14 +18802,14 @@ unreasonably:
   r:
     sense:
     - antonym:
-      - 'reasonably%4:02:01::'
-      id: 'unreasonably%4:02:01::'
+      - 'reasonably%4:45:01::'
+      id: 'unreasonably%4:45:01::'
       pertainym:
       - 'unreasonable%3:00:00::'
       synset: 00217398-r
     - antonym:
-      - 'reasonably%4:02:00::'
-      id: 'unreasonably%4:02:00::'
+      - 'reasonably%4:51:00::'
+      id: 'unreasonably%4:51:00::'
       pertainym:
       - unreasonable%5:00:00:immoderate:00
       synset: 00036472-r
@@ -18821,7 +18821,7 @@ unreasoning:
 unreasoningly:
   r:
     sense:
-    - id: 'unreasoningly%4:02:00::'
+    - id: 'unreasoningly%4:45:00::'
       synset: 00513908-r
 unreassuring:
   a:
@@ -18849,7 +18849,7 @@ unrecognisable:
       synset: 01276883-s
   r:
     sense:
-    - id: 'unrecognisable%4:02:00::'
+    - id: 'unrecognisable%4:51:00::'
       synset: 00426051-r
 unrecognised:
   a:
@@ -18867,8 +18867,8 @@ unrecognizably:
   r:
     sense:
     - antonym:
-      - 'recognizably%4:02:00::'
-      id: 'unrecognizably%4:02:00::'
+      - 'recognizably%4:51:00::'
+      id: 'unrecognizably%4:51:00::'
       pertainym:
       - unrecognizable%5:00:00:unidentifiable:00
       synset: 00426051-r
@@ -19083,7 +19083,7 @@ unrelenting:
 unrelentingly:
   r:
     sense:
-    - id: 'unrelentingly%4:02:00::'
+    - id: 'unrelentingly%4:45:00::'
       pertainym:
       - unrelenting%5:00:00:continual:00
       synset: 00219337-r
@@ -19136,8 +19136,8 @@ unreliably:
   r:
     sense:
     - antonym:
-      - 'reliably%4:02:00::'
-      id: 'unreliably%4:02:00::'
+      - 'reliably%4:45:00::'
+      id: 'unreliably%4:45:00::'
       pertainym:
       - 'unreliable%3:00:00::'
       synset: 00225252-r
@@ -19155,8 +19155,8 @@ unremarkably:
   r:
     sense:
     - antonym:
-      - 'remarkably%4:02:00::'
-      id: 'unremarkably%4:02:00::'
+      - 'remarkably%4:51:00::'
+      id: 'unremarkably%4:48:00::'
       pertainym:
       - unremarkable%5:00:00:ordinary:00
       synset: 00107608-r
@@ -19236,8 +19236,8 @@ unrepentantly:
   r:
     sense:
     - antonym:
-      - 'repentantly%4:02:00::'
-      id: 'unrepentantly%4:02:00::'
+      - 'repentantly%4:45:00::'
+      id: 'unrepentantly%4:45:00::'
       pertainym:
       - 'unrepentant%3:00:00::'
       synset: 00366712-r
@@ -19280,7 +19280,7 @@ unreproducible:
 unreproducibly:
   r:
     sense:
-    - id: 'unreproducibly%4:02:00::'
+    - id: 'unreproducibly%4:51:00::'
       pertainym:
       - 'unreproducible%3:00:00::'
       synset: 00377186-r
@@ -19317,7 +19317,7 @@ unreserved:
 unreservedly:
   r:
     sense:
-    - id: 'unreservedly%4:02:00::'
+    - id: 'unreservedly%4:47:00::'
       synset: 00491284-r
 unresistant:
   a:
@@ -19414,7 +19414,7 @@ unrestrained:
 unrestrainedly:
   r:
     sense:
-    - id: 'unrestrainedly%4:02:00::'
+    - id: 'unrestrainedly%4:45:00::'
       pertainym:
       - 'unrestrained%3:00:00::'
       synset: 00491393-r
@@ -19548,8 +19548,8 @@ unrighteously:
   r:
     sense:
     - antonym:
-      - 'righteously%4:02:00::'
-      id: 'unrighteously%4:02:00::'
+      - 'righteously%4:45:00::'
+      id: 'unrighteously%4:45:00::'
       pertainym:
       - 'unrighteous%3:00:00::'
       synset: 00445963-r
@@ -19611,8 +19611,8 @@ unromantically:
   r:
     sense:
     - antonym:
-      - 'romantically%4:02:02::'
-      id: 'unromantically%4:02:00::'
+      - 'romantically%4:45:02::'
+      id: 'unromantically%4:45:00::'
       synset: 00472665-r
 unroofed:
   a:
@@ -19804,9 +19804,9 @@ unsatiable:
 unsatiably:
   r:
     sense:
-    - id: 'unsatiably%4:02:01::'
+    - id: 'unsatiably%4:51:01::'
       synset: 00378591-r
-    - id: 'unsatiably%4:02:00::'
+    - id: 'unsatiably%4:45:00::'
       synset: 00378403-r
 unsatiated:
   a:
@@ -19817,8 +19817,8 @@ unsatisfactorily:
   r:
     sense:
     - antonym:
-      - 'satisfactorily%4:02:00::'
-      id: 'unsatisfactorily%4:02:00::'
+      - 'satisfactorily%4:45:00::'
+      id: 'unsatisfactorily%4:45:00::'
       pertainym:
       - 'unsatisfactory%3:00:00::'
       synset: 00016168-r
@@ -19972,7 +19972,7 @@ unscientific:
 unscientifically:
   r:
     sense:
-    - id: 'unscientifically%4:02:00::'
+    - id: 'unscientifically%4:45:00::'
       pertainym:
       - 'unscientific%3:00:00::'
       synset: 00110835-r
@@ -20025,7 +20025,7 @@ unscrupulous:
 unscrupulously:
   r:
     sense:
-    - id: 'unscrupulously%4:02:00::'
+    - id: 'unscrupulously%4:45:00::'
       pertainym:
       - 'unscrupulous%3:00:00::'
       synset: 00491479-r
@@ -20100,8 +20100,8 @@ unseasonably:
   r:
     sense:
     - antonym:
-      - 'seasonably%4:02:01::'
-      id: 'unseasonably%4:02:00::'
+      - 'seasonably%4:49:01::'
+      id: 'unseasonably%4:51:00::'
       pertainym:
       - 'unseasonable%3:00:00::'
       synset: 00275453-r
@@ -20253,8 +20253,8 @@ unselfconsciously:
   r:
     sense:
     - antonym:
-      - 'self-consciously%4:02:00::'
-      id: 'unselfconsciously%4:02:00::'
+      - 'self-consciously%4:45:00::'
+      id: 'unselfconsciously%4:45:00::'
       pertainym:
       - unselfconscious%5:00:00:unaffected:01
       synset: 00450486-r
@@ -20286,8 +20286,8 @@ unselfishly:
   r:
     sense:
     - antonym:
-      - 'selfishly%4:02:00::'
-      id: 'unselfishly%4:02:00::'
+      - 'selfishly%4:45:00::'
+      id: 'unselfishly%4:45:00::'
       pertainym:
       - 'unselfish%3:00:00::'
       synset: 00328642-r
@@ -20329,8 +20329,8 @@ unsentimentally:
   r:
     sense:
     - antonym:
-      - 'sentimentally%4:02:00::'
-      id: 'unsentimentally%4:02:00::'
+      - 'sentimentally%4:45:00::'
+      id: 'unsentimentally%4:45:00::'
       pertainym:
       - unsentimental%5:00:00:tough:03
       synset: 00451658-r
@@ -20434,7 +20434,7 @@ unshakable:
 unshakably:
   r:
     sense:
-    - id: 'unshakably%4:02:00::'
+    - id: 'unshakably%4:45:00::'
       pertainym:
       - unshakable%5:00:00:resolute:00
       synset: 00213506-r
@@ -20682,8 +20682,8 @@ unsmilingly:
   r:
     sense:
     - antonym:
-      - 'smilingly%4:02:00::'
-      id: 'unsmilingly%4:02:00::'
+      - 'smilingly%4:45:00::'
+      id: 'unsmilingly%4:45:00::'
       pertainym:
       - unsmiling%5:00:00:joyless:00
       synset: 00461491-r
@@ -20753,8 +20753,8 @@ unsociably:
   r:
     sense:
     - antonym:
-      - 'sociably%4:02:00::'
-      id: 'unsociably%4:02:00::'
+      - 'sociably%4:45:00::'
+      id: 'unsociably%4:45:00::'
       pertainym:
       - 'unsociable%3:00:00::'
       synset: 00462902-r
@@ -20935,7 +20935,7 @@ unsparing:
 unsparingly:
   r:
     sense:
-    - id: 'unsparingly%4:02:00::'
+    - id: 'unsparingly%4:45:00::'
       pertainym:
       - unsparing%5:00:00:inclement:01
       synset: 00448330-r
@@ -20951,7 +20951,7 @@ unspeakable:
 unspeakably:
   r:
     sense:
-    - id: 'unspeakably%4:02:00::'
+    - id: 'unspeakably%4:51:00::'
       pertainym:
       - unspeakable%5:00:00:inexpressible:00
       synset: 00373649-r
@@ -21037,8 +21037,8 @@ unsportingly:
   r:
     sense:
     - antonym:
-      - 'sportingly%4:02:00::'
-      id: 'unsportingly%4:02:00::'
+      - 'sportingly%4:45:00::'
+      id: 'unsportingly%4:45:00::'
       pertainym:
       - unsporting%5:00:00:unfair:00
       synset: 00466293-r
@@ -21145,8 +21145,8 @@ unsteadily:
   r:
     sense:
     - antonym:
-      - 'steadily%4:02:00::'
-      id: 'unsteadily%4:02:00::'
+      - 'steadily%4:45:00::'
+      id: 'unsteadily%4:45:00::'
       pertainym:
       - 'unsteady%3:00:00::'
       synset: 00175718-r
@@ -21220,7 +21220,7 @@ unstinting:
 unstintingly:
   r:
     sense:
-    - id: 'unstintingly%4:02:00::'
+    - id: 'unstintingly%4:45:00::'
       pertainym:
       - unstinting%5:00:00:generous:01
       synset: 00491623-r
@@ -21448,8 +21448,8 @@ unsuccessfully:
   r:
     sense:
     - antonym:
-      - 'successfully%4:02:00::'
-      id: 'unsuccessfully%4:02:00::'
+      - 'successfully%4:45:00::'
+      id: 'unsuccessfully%4:45:00::'
       pertainym:
       - 'unsuccessful%3:00:00::'
       synset: 00169098-r
@@ -21459,7 +21459,7 @@ unsufferable:
     - value: ʌnˈsʌfəɹəbəl
     sense:
     - derivation:
-      - 'unsufferably%4:02:00::'
+      - 'unsufferably%4:51:00::'
       id: unsufferable%5:00:01:intolerable:00
       synset: 02444906-s
 unsufferably:
@@ -21467,7 +21467,7 @@ unsufferably:
     sense:
     - derivation:
       - unsufferable%5:00:01:intolerable:00
-      id: 'unsufferably%4:02:00::'
+      id: 'unsufferably%4:51:00::'
       pertainym:
       - unsufferable%5:00:01:intolerable:00
       synset: 00519841-r
@@ -21521,8 +21521,8 @@ unsuitably:
   r:
     sense:
     - antonym:
-      - 'suitably%4:02:00::'
-      id: 'unsuitably%4:02:00::'
+      - 'suitably%4:45:00::'
+      id: 'unsuitably%4:45:00::'
       synset: 00140793-r
 unsuited:
   a:
@@ -21655,7 +21655,7 @@ unsuspecting:
 unsuspectingly:
   r:
     sense:
-    - id: 'unsuspectingly%4:02:00::'
+    - id: 'unsuspectingly%4:45:00::'
       pertainym:
       - unsuspecting%5:00:00:unaware:00
       synset: 00466398-r
@@ -21700,11 +21700,11 @@ unswerving:
 unswervingly:
   r:
     sense:
-    - id: 'unswervingly%4:02:01::'
+    - id: 'unswervingly%4:51:01::'
       pertainym:
       - unswerving%5:00:00:constant:00
       synset: 00491868-r
-    - id: 'unswervingly%4:02:00::'
+    - id: 'unswervingly%4:45:00::'
       pertainym:
       - unswerving%5:00:00:direct:00
       synset: 00491705-r
@@ -21745,7 +21745,7 @@ unsymmetrical:
 unsymmetrically:
   r:
     sense:
-    - id: 'unsymmetrically%4:02:00::'
+    - id: 'unsymmetrically%4:45:00::'
       synset: 00177264-r
 unsympathetic:
   a:
@@ -21768,8 +21768,8 @@ unsympathetically:
   r:
     sense:
     - antonym:
-      - 'sympathetically%4:02:01::'
-      id: 'unsympathetically%4:02:00::'
+      - 'sympathetically%4:45:01::'
+      id: 'unsympathetically%4:45:00::'
       pertainym:
       - 'unsympathetic%3:00:00::'
       synset: 00194040-r
@@ -21814,8 +21814,8 @@ unsystematically:
   r:
     sense:
     - antonym:
-      - 'systematically%4:02:00::'
-      id: 'unsystematically%4:02:00::'
+      - 'systematically%4:45:00::'
+      id: 'unsystematically%4:45:00::'
       pertainym:
       - 'unsystematic%3:00:00::'
       synset: 00121562-r
@@ -22050,7 +22050,7 @@ unthinkable:
 unthinkably:
   r:
     sense:
-    - id: 'unthinkably%4:02:00::'
+    - id: 'unthinkably%4:51:00::'
       pertainym:
       - 'unthinkable%3:00:00::'
       synset: 00490485-r
@@ -22065,12 +22065,12 @@ unthinking:
       synset: 00443289-s
   r:
     sense:
-    - id: 'unthinking%4:02:00::'
+    - id: 'unthinking%4:45:00::'
       synset: 00218725-r
 unthinkingly:
   r:
     sense:
-    - id: 'unthinkingly%4:02:00::'
+    - id: 'unthinkingly%4:45:00::'
       pertainym:
       - unthinking%5:00:00:thoughtless:00
       synset: 00218725-r
@@ -22108,7 +22108,7 @@ unthreatening:
 untidily:
   r:
     sense:
-    - id: 'untidily%4:02:00::'
+    - id: 'untidily%4:45:00::'
       pertainym:
       - 'untidy%3:00:00::'
       synset: 00402908-r
@@ -22195,7 +22195,7 @@ untier:
 until now:
   r:
     sense:
-    - id: 'until_now%4:02:00::'
+    - id: 'until_now%4:49:00::'
       synset: 00028314-r
 untilled:
   a:
@@ -22237,7 +22237,7 @@ untimely:
       synset: 00818569-s
   r:
     sense:
-    - id: 'untimely%4:02:00::'
+    - id: 'untimely%4:49:00::'
       pertainym:
       - untimely%5:00:00:early:00
       synset: 00431857-r
@@ -22481,7 +22481,7 @@ untrue:
 untruly:
   r:
     sense:
-    - id: 'untruly%4:02:00::'
+    - id: 'untruly%4:45:00::'
       pertainym:
       - untrue%5:00:00:false:00
       synset: 00491990-r
@@ -22544,8 +22544,8 @@ untruthfully:
   r:
     sense:
     - antonym:
-      - 'truthfully%4:02:01::'
-      id: 'untruthfully%4:02:00::'
+      - 'truthfully%4:47:01::'
+      id: 'untruthfully%4:45:00::'
       pertainym:
       - 'untruthful%3:00:00::'
       synset: 00401884-r
@@ -22648,7 +22648,7 @@ untypicality:
 untypically:
   r:
     sense:
-    - id: 'untypically%4:02:00::'
+    - id: 'untypically%4:45:00::'
       pertainym:
       - 'untypical%3:00:00::'
       synset: 00129174-r
@@ -22660,7 +22660,7 @@ ununbium:
 ununderstandably:
   r:
     sense:
-    - id: 'ununderstandably%4:02:00::'
+    - id: 'ununderstandably%4:45:00::'
       synset: 00203983-r
 ununderstood:
   a:
@@ -22757,7 +22757,7 @@ unusually:
     pronunciation:
     - value: ʌnˈjuːʒuəli
     sense:
-    - id: 'unusually%4:02:00::'
+    - id: 'unusually%4:51:00::'
       pertainym:
       - 'unusual%3:00:00::'
       synset: 00107917-r
@@ -22789,7 +22789,7 @@ unutterable:
 unutterably:
   r:
     sense:
-    - id: 'unutterably%4:02:00::'
+    - id: 'unutterably%4:51:00::'
       pertainym:
       - unutterable%5:00:00:inexpressible:00
       synset: 00373649-r
@@ -22999,7 +22999,7 @@ unwanted:
 unwantedly:
   r:
     sense:
-    - id: 'unwantedly%4:02:00::'
+    - id: 'unwantedly%4:45:00::'
       pertainym:
       - 'unwanted%3:00:00::'
       synset: 00487210-r
@@ -23007,8 +23007,8 @@ unwarily:
   r:
     sense:
     - antonym:
-      - 'warily%4:02:00::'
-      id: 'unwarily%4:02:00::'
+      - 'warily%4:45:00::'
+      id: 'unwarily%4:45:00::'
       pertainym:
       - 'unwary%3:00:00::'
       synset: 00227874-r
@@ -23034,7 +23034,7 @@ unwarrantable:
 unwarrantably:
   r:
     sense:
-    - id: 'unwarrantably%4:02:00::'
+    - id: 'unwarrantably%4:51:00::'
       pertainym:
       - unwarrantable%5:00:00:inexcusable:00
       synset: 00492170-r
@@ -23078,7 +23078,7 @@ unwavering:
 unwaveringly:
   r:
     sense:
-    - id: 'unwaveringly%4:02:00::'
+    - id: 'unwaveringly%4:51:00::'
       pertainym:
       - unwavering%5:00:00:resolute:00
       synset: 00051355-r
@@ -23261,8 +23261,8 @@ unwillingly:
   r:
     sense:
     - antonym:
-      - 'willingly%4:02:00::'
-      id: 'unwillingly%4:02:00::'
+      - 'willingly%4:45:00::'
+      id: 'unwillingly%4:45:00::'
       pertainym:
       - 'unwilling%3:00:00::'
       synset: 00306817-r
@@ -23329,7 +23329,7 @@ unwise:
 unwisely:
   r:
     sense:
-    - id: 'unwisely%4:02:00::'
+    - id: 'unwisely%4:45:00::'
       synset: 00203162-r
 unwiseness:
   n:
@@ -23368,8 +23368,8 @@ unwittingly:
       variety: US
     sense:
     - antonym:
-      - 'wittingly%4:02:00::'
-      id: 'unwittingly%4:02:00::'
+      - 'wittingly%4:45:00::'
+      id: 'unwittingly%4:45:00::'
       pertainym:
       - unwitting%5:00:00:unintended:00
       synset: 00239560-r
@@ -23395,7 +23395,7 @@ unwontedly:
     pronunciation:
     - value: ʊnˈwoʊnt.ɪd.li
     sense:
-    - id: 'unwontedly%4:02:00::'
+    - id: 'unwontedly%4:45:00::'
       pertainym:
       - unwonted%5:00:00:uncommon:00
       synset: 00487462-r
@@ -23433,7 +23433,7 @@ unworried:
 unworthily:
   r:
     sense:
-    - id: 'unworthily%4:02:00::'
+    - id: 'unworthily%4:45:00::'
       pertainym:
       - 'unworthy%3:00:00::'
       synset: 00492424-r
@@ -23609,20 +23609,20 @@ up:
       variety: AU
     sense:
     - antonym:
-      - 'down%4:02:00::'
-      id: 'up%4:02:00::'
+      - 'down%4:50:00::'
+      id: 'up%4:50:00::'
       synset: 00096883-r
     - antonym:
-      - 'down%4:02:05::'
-      id: 'up%4:02:05::'
+      - 'down%4:45:05::'
+      id: 'up%4:51:05::'
       synset: 00097561-r
-    - id: 'up%4:02:03::'
+    - id: 'up%4:50:03::'
       synset: 00097471-r
     - antonym:
-      - 'down%4:02:02::'
-      id: 'up%4:02:02::'
+      - 'down%4:50:02::'
+      id: 'up%4:50:02::'
       synset: 00097310-r
-    - id: 'up%4:02:01::'
+    - id: 'up%4:49:01::'
       synset: 00097186-r
   v:
     form:
@@ -23643,14 +23643,14 @@ up:
 up and down:
   r:
     sense:
-    - id: 'up_and_down%4:02:01::'
+    - id: 'up_and_down%4:50:01::'
       synset: 00076778-r
-    - id: 'up_and_down%4:02:03::'
+    - id: 'up_and_down%4:45:03::'
       synset: 00226219-r
 up here:
   r:
     sense:
-    - id: 'up_here%4:02:00::'
+    - id: 'up_here%4:50:00::'
       synset: 00262429-r
 up in the air:
   a:
@@ -23673,7 +23673,7 @@ up quark:
 up the stairs:
   r:
     sense:
-    - id: 'up_the_stairs%4:02:00::'
+    - id: 'up_the_stairs%4:50:00::'
       synset: 00095095-r
 up to:
   a:
@@ -23713,9 +23713,9 @@ up to my neck:
 up to now:
   r:
     sense:
-    - id: 'up_to_now%4:02:00::'
+    - id: 'up_to_now%4:49:00::'
       synset: 00028314-r
-    - id: 'up_to_now%4:02:01::'
+    - id: 'up_to_now%4:49:01::'
       synset: 00173583-r
 up to our necks:
   a:
@@ -23745,7 +23745,7 @@ up-bow:
 up-country:
   r:
     sense:
-    - id: 'up-country%4:02:00::'
+    - id: 'up-country%4:50:00::'
       synset: 00492502-r
 up-tick:
   n:
@@ -23855,7 +23855,7 @@ upcountry:
       synset: 00465950-s
   r:
     sense:
-    - id: 'upcountry%4:02:01::'
+    - id: 'upcountry%4:50:01::'
       synset: 00492502-r
 upcurved:
   a:
@@ -24075,9 +24075,9 @@ uphill:
       synset: 09489808-n
   r:
     sense:
-    - id: 'uphill%4:02:01::'
+    - id: 'uphill%4:50:01::'
       synset: 00492696-r
-    - id: 'uphill%4:02:00::'
+    - id: 'uphill%4:50:00::'
       synset: 00492608-r
 uphold:
   v:
@@ -24493,9 +24493,9 @@ uppermost:
     - value: ˈʌpɚˌmoʊst
       variety: US
     sense:
-    - id: 'uppermost%4:02:01::'
+    - id: 'uppermost%4:50:01::'
       synset: 00492876-r
-    - id: 'uppermost%4:02:00::'
+    - id: 'uppermost%4:50:00::'
       synset: 00492777-r
 uppish:
   a:
@@ -24507,7 +24507,7 @@ uppish:
 uppishly:
   r:
     sense:
-    - id: 'uppishly%4:02:00::'
+    - id: 'uppishly%4:45:00::'
       pertainym:
       - uppish%5:00:00:proud:00
       synset: 00462432-r
@@ -24580,11 +24580,11 @@ upright piano:
 uprightly:
   r:
     sense:
-    - id: 'uprightly%4:02:01::'
+    - id: 'uprightly%4:45:01::'
       pertainym:
       - upright%5:00:00:righteous:00
       synset: 00493074-r
-    - id: 'uprightly%4:02:00::'
+    - id: 'uprightly%4:45:00::'
       pertainym:
       - upright%5:00:00:vertical:00
       synset: 00492996-r
@@ -24654,8 +24654,8 @@ upriver:
   r:
     sense:
     - antonym:
-      - 'downriver%4:02:00::'
-      id: 'upriver%4:02:00::'
+      - 'downriver%4:50:00::'
+      id: 'upriver%4:50:00::'
       synset: 00097658-r
 uproar:
   n:
@@ -24688,7 +24688,7 @@ uproarious:
 uproariously:
   r:
     sense:
-    - id: 'uproariously%4:02:00::'
+    - id: 'uproariously%4:51:00::'
       pertainym:
       - uproarious%5:00:00:humorous:00
       synset: 00184128-r
@@ -24877,7 +24877,7 @@ upside:
 upside down:
   r:
     sense:
-    - id: 'upside_down%4:02:00::'
+    - id: 'upside_down%4:50:00::'
       synset: 00221121-r
 upside-down:
   a:
@@ -24921,8 +24921,8 @@ upstage:
     - value: ʌpˈsteɪd͡ʒ
     sense:
     - antonym:
-      - 'downstage%4:02:00::'
-      id: 'upstage%4:02:00::'
+      - 'downstage%4:50:00::'
+      id: 'upstage%4:50:00::'
       synset: 00265458-r
   v:
     pronunciation:
@@ -24996,10 +24996,10 @@ upstairs:
       variety: GB
     sense:
     - antonym:
-      - 'downstairs%4:02:00::'
-      id: 'upstairs%4:02:00::'
+      - 'downstairs%4:50:00::'
+      id: 'upstairs%4:50:00::'
       synset: 00095095-r
-    - id: 'upstairs%4:02:01::'
+    - id: 'upstairs%4:50:01::'
       synset: 00095225-r
 upstanding:
   a:
@@ -25023,7 +25023,7 @@ upstart:
 upstate:
   r:
     sense:
-    - id: 'upstate%4:02:00::'
+    - id: 'upstate%4:50:00::'
       synset: 00174678-r
 upstream:
   a:
@@ -25035,8 +25035,8 @@ upstream:
   r:
     sense:
     - antonym:
-      - 'downstream%4:02:00::'
-      id: 'upstream%4:02:00::'
+      - 'downstream%4:50:00::'
+      id: 'upstream%4:50:00::'
       synset: 00097658-r
 upstroke:
   n:
@@ -25104,8 +25104,8 @@ uptown:
   r:
     sense:
     - antonym:
-      - 'downtown%4:02:00::'
-      id: 'uptown%4:02:00::'
+      - 'downtown%4:50:00::'
+      id: 'uptown%4:50:00::'
       synset: 00189276-r
 upturn:
   n:
@@ -25161,19 +25161,19 @@ upward:
       variety: GB
     sense:
     - antonym:
-      - 'downward%4:02:00::'
+      - 'downward%4:50:00::'
       exemplifies:
       - 'american_english%1:10:00::'
-      id: 'upward%4:02:00::'
+      id: 'upward%4:50:00::'
       synset: 00096883-r
-    - id: 'upward%4:02:01::'
+    - id: 'upward%4:49:01::'
       synset: 00097186-r
 upwardly:
   r:
     sense:
     - antonym:
-      - 'downwardly%4:02:00::'
-      id: 'upwardly%4:02:00::'
+      - 'downwardly%4:50:00::'
+      id: 'upwardly%4:50:00::'
       synset: 00096883-r
 upwards:
   r:
@@ -25184,12 +25184,12 @@ upwards:
       variety: US
     sense:
     - antonym:
-      - 'downwards%4:02:00::'
+      - 'downwards%4:50:00::'
       exemplifies:
       - 'british_english%1:10:01::'
-      id: 'upwards%4:02:00::'
+      id: 'upwards%4:50:00::'
       synset: 00096883-r
-    - id: 'upwards%4:02:01::'
+    - id: 'upwards%4:49:01::'
       synset: 00097186-r
 upwind:
   a:
@@ -25203,12 +25203,12 @@ upwind:
     - value: ʌpˈwɪnd
     sense:
     - antonym:
-      - 'downwind%4:02:01::'
-      id: 'upwind%4:02:01::'
+      - 'downwind%4:50:01::'
+      id: 'upwind%4:50:01::'
       synset: 00095742-r
     - antonym:
-      - 'downwind%4:02:00::'
-      id: 'upwind%4:02:00::'
+      - 'downwind%4:50:00::'
+      id: 'upwind%4:50:00::'
       synset: 00095443-r
 uracil:
   n:
@@ -25407,7 +25407,7 @@ urbane:
 urbanely:
   r:
     sense:
-    - id: 'urbanely%4:02:00::'
+    - id: 'urbanely%4:45:00::'
       pertainym:
       - urbane%5:00:00:sophisticated:00
       synset: 00493348-r
@@ -25766,7 +25766,7 @@ urgent:
 urgently:
   r:
     sense:
-    - id: 'urgently%4:02:00::'
+    - id: 'urgently%4:45:00::'
       pertainym:
       - urgent%5:00:00:imperative:00
       synset: 00073249-r
@@ -26443,8 +26443,8 @@ usefully:
   r:
     sense:
     - antonym:
-      - 'uselessly%4:02:00::'
-      id: 'usefully%4:02:00::'
+      - 'uselessly%4:45:00::'
+      id: 'usefully%4:45:00::'
       pertainym:
       - 'useful%3:00:00::'
       synset: 00493490-r
@@ -26474,8 +26474,8 @@ uselessly:
   r:
     sense:
     - antonym:
-      - 'usefully%4:02:00::'
-      id: 'uselessly%4:02:00::'
+      - 'usefully%4:45:00::'
+      id: 'uselessly%4:45:00::'
       pertainym:
       - 'useless%3:00:00::'
       synset: 00493636-r
@@ -26609,7 +26609,7 @@ usually:
     pronunciation:
     - value: ˈjuːʒ(ʊə)li
     sense:
-    - id: 'usually%4:02:00::'
+    - id: 'usually%4:48:00::'
       pertainym:
       - 'usual%3:00:00::'
       synset: 00107608-r
@@ -26678,7 +26678,7 @@ usurious:
 usuriously:
   r:
     sense:
-    - id: 'usuriously%4:02:00::'
+    - id: 'usuriously%4:51:00::'
       pertainym:
       - usurious%5:00:00:immoderate:00
       synset: 00335337-r
@@ -27213,7 +27213,7 @@ utterly:
     - value: ˈʌt.ə(ɹ).li
       variety: GB
     sense:
-    - id: 'utterly%4:02:00::'
+    - id: 'utterly%4:51:00::'
       pertainym:
       - utter%5:00:00:unmitigated:00
       synset: 00009459-r
@@ -27364,7 +27364,7 @@ uxorious:
 uxoriously:
   r:
     sense:
-    - id: 'uxoriously%4:02:00::'
+    - id: 'uxoriously%4:45:00::'
       pertainym:
       - uxorious%5:00:00:loving:00
       synset: 00493775-r

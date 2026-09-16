@@ -12,16 +12,6 @@ Example:
 Sentence: "He danced stupidly."
 Paraphrase: "He danced in a stupid manner."
 
-## Subject-Oriented (adverb.subject_oriented)
-
-Attributes a property or attitude to the subject of the sentence in relation to the event.
-
-Paraphrase Test: Can it be rephrased as "It was [X] of [SUBJECT] to [VERB]"?
-
-Example:
-Sentence: "Stupidly, he walked into traffic."
-Paraphrase: "It was stupid of him to walk into traffic."
-
 ## Speaker-Oriented (adverb.speaker_oriented)
 
 Expresses the speaker's stance, evaluation, or attitude toward the proposition or the act of speaking.

@@ -5141,7 +5141,7 @@ God Almighty:
 God knows how:
   r:
     sense:
-    - id: 'god_knows_how%4:02:00::'
+    - id: 'god_knows_how%4:47:00::'
       synset: 00191723-r
 God the Father:
   n:
@@ -9285,7 +9285,7 @@ gaily:
     pronunciation:
     - value: ˈɡeɪli
     sense:
-    - id: 'gaily%4:02:00::'
+    - id: 'gaily%4:45:00::'
       pertainym:
       - gay%5:00:00:joyous:00
       synset: 00164435-r
@@ -9421,7 +9421,7 @@ gainful:
 gainfully:
   r:
     sense:
-    - id: 'gainfully%4:02:00::'
+    - id: 'gainfully%4:45:00::'
       pertainym:
       - gainful%5:00:00:profitable:00
       synset: 00348511-r
@@ -9438,7 +9438,7 @@ gaining control:
 gainlessly:
   r:
     sense:
-    - id: 'gainlessly%4:02:00::'
+    - id: 'gainlessly%4:45:00::'
       synset: 00435013-r
 gainly:
   a:
@@ -9757,7 +9757,7 @@ gallant:
 gallantly:
   r:
     sense:
-    - id: 'gallantly%4:02:00::'
+    - id: 'gallantly%4:45:00::'
       pertainym:
       - gallant%5:00:00:courteous:00
       synset: 00285918-r
@@ -10624,7 +10624,7 @@ gamelan:
 gamely:
   r:
     sense:
-    - id: 'gamely%4:02:00::'
+    - id: 'gamely%4:45:00::'
       pertainym:
       - game%5:00:00:brave:00
       synset: 00348618-r
@@ -11923,7 +11923,7 @@ garish:
 garishly:
   r:
     sense:
-    - id: 'garishly%4:02:00::'
+    - id: 'garishly%4:45:00::'
       pertainym:
       - garish%5:00:00:tasteless:02
       synset: 00348805-r
@@ -12390,7 +12390,7 @@ garrulous:
 garrulously:
   r:
     sense:
-    - id: 'garrulously%4:02:00::'
+    - id: 'garrulously%4:45:00::'
       pertainym:
       - garrulous%5:00:00:voluble:00
       synset: 00394779-r
@@ -13719,7 +13719,7 @@ gaudery:
 gaudily:
   r:
     sense:
-    - id: 'gaudily%4:02:00::'
+    - id: 'gaudily%4:45:00::'
       pertainym:
       - gaudy%5:00:00:tasteless:02
       synset: 00348805-r
@@ -14075,7 +14075,7 @@ gayly:
     pronunciation:
     - value: ˈɡeɪli
     sense:
-    - id: 'gayly%4:02:00::'
+    - id: 'gayly%4:45:00::'
       pertainym:
       - gay%5:00:02:joyous:00
       synset: 00050835-r
@@ -14897,7 +14897,7 @@ genealogical:
 genealogically:
   r:
     sense:
-    - id: 'genealogically%4:02:00::'
+    - id: 'genealogically%4:52:00::'
       pertainym:
       - 'genealogical%3:01:00::'
       synset: 00349012-r
@@ -15360,15 +15360,15 @@ generally:
     pronunciation:
     - value: d͡ʒɛn.əɹ.ə.li
     sense:
-    - id: 'generally%4:02:02::'
+    - id: 'generally%4:47:02::'
       synset: 00156754-r
     - antonym:
-      - 'specifically%4:02:00::'
-      id: 'generally%4:02:01::'
+      - 'specifically%4:53:00::'
+      id: 'generally%4:45:01::'
       pertainym:
       - 'general%3:00:00::'
       synset: 00042364-r
-    - id: 'generally%4:02:00::'
+    - id: 'generally%4:45:00::'
       pertainym:
       - 'general%3:00:00::'
       synset: 00223063-r
@@ -15592,11 +15592,11 @@ generic wine:
 generically:
   r:
     sense:
-    - id: 'generically%4:02:01::'
+    - id: 'generically%4:45:01::'
       pertainym:
       - generic%5:00:00:nonproprietary:00
       synset: 00349270-r
-    - id: 'generically%4:02:00::'
+    - id: 'generically%4:52:00::'
       pertainym:
       - 'generic%3:01:00::'
       synset: 00349142-r
@@ -15642,7 +15642,7 @@ generous:
 generously:
   r:
     sense:
-    - id: 'generously%4:02:00::'
+    - id: 'generously%4:45:00::'
       pertainym:
       - 'generous%3:00:01::'
       synset: 00198104-r
@@ -15802,7 +15802,7 @@ genetical:
 genetically:
   r:
     sense:
-    - id: 'genetically%4:02:00::'
+    - id: 'genetically%4:45:00::'
       pertainym:
       - 'genetic%3:01:00::'
       synset: 00124808-r
@@ -15863,7 +15863,7 @@ genially:
     pronunciation:
     - value: ˈdʒiːniəli
     sense:
-    - id: 'genially%4:02:00::'
+    - id: 'genially%4:45:00::'
       pertainym:
       - genial%5:00:00:friendly:01
       synset: 00221532-r
@@ -16189,7 +16189,7 @@ genteel:
 genteelly:
   r:
     sense:
-    - id: 'genteelly%4:02:00::'
+    - id: 'genteelly%4:45:00::'
       pertainym:
       - genteel%5:00:00:refined:01
       synset: 00349398-r
@@ -16415,15 +16415,15 @@ gently:
     pronunciation:
     - value: ˈdʒɛntli
     sense:
-    - id: 'gently%4:02:00::'
+    - id: 'gently%4:45:00::'
       pertainym:
       - gentle%5:00:00:gradual:02
       synset: 00183062-r
-    - id: 'gently%4:02:01::'
+    - id: 'gently%4:45:01::'
       pertainym:
       - gentle%5:00:00:soft:04
       synset: 00504939-r
-    - id: 'gently%4:02:03::'
+    - id: 'gently%4:45:03::'
       pertainym:
       - gentle%5:00:00:light:08
       synset: 00181765-r
@@ -16542,11 +16542,11 @@ genuine:
 genuinely:
   r:
     sense:
-    - id: 'genuinely%4:02:00::'
+    - id: 'genuinely%4:51:00::'
       pertainym:
       - genuine%5:00:00:true:00
       synset: 00037620-r
-    - id: 'genuinely%4:02:01::'
+    - id: 'genuinely%4:51:01::'
       pertainym:
       - 'genuine%3:00:00::'
       synset: 00270584-r
@@ -35063,7 +35063,7 @@ geographical zone:
 geographically:
   r:
     sense:
-    - id: 'geographically%4:02:00::'
+    - id: 'geographically%4:52:00::'
       pertainym:
       - 'geographic%3:01:00::'
       synset: 00233903-r
@@ -35171,7 +35171,7 @@ geological time:
 geologically:
   r:
     sense:
-    - id: 'geologically%4:02:00::'
+    - id: 'geologically%4:52:00::'
       pertainym:
       - 'geological%3:01:00::'
       synset: 00349513-r
@@ -35292,13 +35292,13 @@ geometrical regularity:
 geometrically:
   r:
     sense:
-    - id: 'geometrically%4:02:03::'
+    - id: 'geometrically%4:52:03::'
       pertainym:
       - 'geometric%3:01:00::'
       synset: 00142809-r
     - antonym:
-      - 'linearly%4:02:00::'
-      id: 'geometrically%4:02:00::'
+      - 'linearly%4:45:00::'
+      id: 'geometrically%4:51:00::'
       pertainym:
       - 'geometric%3:01:00::'
       synset: 00090591-r
@@ -35527,7 +35527,7 @@ geothermal industry:
 geothermally:
   r:
     sense:
-    - id: 'geothermally%4:02:00::'
+    - id: 'geothermally%4:45:00::'
       pertainym:
       - 'geothermal%3:01:00::'
       synset: 00128836-r
@@ -38121,7 +38121,7 @@ gibibyte:
 gibingly:
   r:
     sense:
-    - id: 'gibingly%4:02:00::'
+    - id: 'gibingly%4:45:00::'
       synset: 00349656-r
 giblet:
   n:
@@ -38138,7 +38138,7 @@ giblets:
 giddily:
   r:
     sense:
-    - id: 'giddily%4:02:00::'
+    - id: 'giddily%4:45:00::'
       pertainym:
       - giddy%5:00:00:ill:01
       synset: 00083273-r
@@ -38887,7 +38887,7 @@ gingerly:
     - value: ˈdʒɪndʒəɹli
       variety: US
     sense:
-    - id: 'gingerly%4:02:00::'
+    - id: 'gingerly%4:45:00::'
       pertainym:
       - gingerly%5:00:00:cautious:00
       synset: 00349786-r
@@ -39201,7 +39201,7 @@ girlish:
 girlishly:
   r:
     sense:
-    - id: 'girlishly%4:02:00::'
+    - id: 'girlishly%4:45:00::'
       pertainym:
       - girlish%5:00:00:young:00
       synset: 00108663-r
@@ -39747,7 +39747,7 @@ give one's best:
 give or take:
   r:
     sense:
-    - id: 'give_or_take%4:02:00::'
+    - id: 'give_or_take%4:51:00::'
       synset: 00258220-r
 give out:
   v:
@@ -40195,7 +40195,7 @@ glacially:
     - value: ˈɡleɪʃɪəli
       variety: GB
     sense:
-    - id: 'glacially%4:02:00::'
+    - id: 'glacially%4:45:00::'
       pertainym:
       - 'glacial%3:01:00::'
       synset: 00142936-r
@@ -40414,7 +40414,7 @@ gladly:
     pronunciation:
     - value: ˈɡlædli
     sense:
-    - id: 'gladly%4:02:00::'
+    - id: 'gladly%4:45:00::'
       pertainym:
       - glad%5:00:00:willing:00
       synset: 00349906-r
@@ -40835,7 +40835,7 @@ glaringly:
     - value: ˈɡlɛɹɪŋli
       variety: US
     sense:
-    - id: 'glaringly%4:02:00::'
+    - id: 'glaringly%4:51:00::'
       pertainym:
       - glaring%5:00:00:conspicuous:00
       synset: 00143036-r
@@ -41363,7 +41363,7 @@ gleeful:
 gleefully:
   r:
     sense:
-    - id: 'gleefully%4:02:00::'
+    - id: 'gleefully%4:45:00::'
       pertainym:
       - gleeful%5:00:00:joyous:00
       synset: 00350043-r
@@ -41449,7 +41449,7 @@ glibly:
     pronunciation:
     - value: ˈɡlɪbli
     sense:
-    - id: 'glibly%4:02:00::'
+    - id: 'glibly%4:45:00::'
       pertainym:
       - glib%5:00:00:plausible:00
       synset: 00240144-r
@@ -41754,7 +41754,7 @@ glissando:
       synset: 06870172-n
   r:
     sense:
-    - id: 'glissando%4:02:00::'
+    - id: 'glissando%4:45:00::'
       synset: 00350388-r
 glisten:
   n:
@@ -41946,7 +41946,7 @@ gloating:
 gloatingly:
   r:
     sense:
-    - id: 'gloatingly%4:02:00::'
+    - id: 'gloatingly%4:45:00::'
       synset: 00350578-r
 glob:
   n:
@@ -42062,11 +42062,11 @@ globally:
     - value: ˈɡləʊbəli
       variety: GB
     sense:
-    - id: 'globally%4:02:01::'
+    - id: 'globally%4:52:01::'
       pertainym:
       - global%5:00:00:international:00
       synset: 00113197-r
-    - id: 'globally%4:02:00::'
+    - id: 'globally%4:50:00::'
       pertainym:
       - global%5:00:00:international:00
       synset: 00113022-r
@@ -42335,7 +42335,7 @@ gloomful:
 gloomily:
   r:
     sense:
-    - id: 'gloomily%4:02:00::'
+    - id: 'gloomily%4:45:00::'
       pertainym:
       - gloomy%5:00:00:dejected:00
       synset: 00234045-r
@@ -42513,11 +42513,11 @@ glorious:
 gloriously:
   r:
     sense:
-    - id: 'gloriously%4:02:01::'
+    - id: 'gloriously%4:45:01::'
       pertainym:
       - 'glorious%3:00:00::'
       synset: 00350849-r
-    - id: 'gloriously%4:02:00::'
+    - id: 'gloriously%4:51:00::'
       synset: 00350707-r
 glory:
   n:
@@ -42684,7 +42684,7 @@ glossary:
 glossily:
   r:
     sense:
-    - id: 'glossily%4:02:00::'
+    - id: 'glossily%4:45:00::'
       pertainym:
       - glossy%5:00:00:glazed:00
       synset: 00350995-r
@@ -43057,7 +43057,7 @@ glowering:
 gloweringly:
   r:
     sense:
-    - id: 'gloweringly%4:02:00::'
+    - id: 'gloweringly%4:45:00::'
       pertainym:
       - glowering%5:00:00:ill-natured:00
       synset: 00351383-r
@@ -43083,7 +43083,7 @@ glowing:
 glowingly:
   r:
     sense:
-    - id: 'glowingly%4:02:00::'
+    - id: 'glowingly%4:45:00::'
       pertainym:
       - glowing%5:00:00:enthusiastic:00
       synset: 00351515-r
@@ -43253,7 +43253,7 @@ glumly:
     pronunciation:
     - value: ˈɡlʌmli
     sense:
-    - id: 'glumly%4:02:00::'
+    - id: 'glumly%4:45:00::'
       pertainym:
       - glum%5:00:00:ill-natured:00
       synset: 00243780-r
@@ -43508,7 +43508,7 @@ gluttonous:
 gluttonously:
   r:
     sense:
-    - id: 'gluttonously%4:02:00::'
+    - id: 'gluttonously%4:45:00::'
       pertainym:
       - 'gluttonous%3:00:00::'
       synset: 00351651-r
@@ -45494,7 +45494,7 @@ goddam:
       synset: 00673178-s
   r:
     sense:
-    - id: 'goddam%4:02:00::'
+    - id: 'goddam%4:51:00::'
       synset: 00351763-r
 goddamn:
   a:
@@ -45505,7 +45505,7 @@ goddamn:
       synset: 00673178-s
   r:
     sense:
-    - id: 'goddamn%4:02:00::'
+    - id: 'goddamn%4:51:00::'
       synset: 00351763-r
 goddamned:
   a:
@@ -45514,7 +45514,7 @@ goddamned:
       synset: 00673178-s
   r:
     sense:
-    - id: 'goddamned%4:02:00::'
+    - id: 'goddamned%4:51:00::'
       synset: 00351763-r
 goddaughter:
   n:
@@ -47153,9 +47153,9 @@ good:
       synset: 03080712-n
   r:
     sense:
-    - id: 'good%4:02:00::'
+    - id: 'good%4:45:00::'
       synset: 00011555-r
-    - id: 'good%4:02:01::'
+    - id: 'good%4:51:01::'
       synset: 00057926-r
 good Samaritan:
   n:
@@ -47517,7 +47517,7 @@ good-natured:
 good-naturedly:
   r:
     sense:
-    - id: 'good-naturedly%4:02:00::'
+    - id: 'good-naturedly%4:45:00::'
       pertainym:
       - 'good-natured%3:00:00::'
       synset: 00351874-r
@@ -48132,7 +48132,7 @@ gorgeous:
 gorgeously:
   r:
     sense:
-    - id: 'gorgeously%4:02:00::'
+    - id: 'gorgeously%4:45:00::'
       pertainym:
       - gorgeous%5:00:00:beautiful:00
       synset: 00351959-r
@@ -48874,7 +48874,7 @@ governmental:
 governmentally:
   r:
     sense:
-    - id: 'governmentally%4:02:00::'
+    - id: 'governmentally%4:52:00::'
       pertainym:
       - governmental%5:00:00:political:00
       synset: 00131099-r
@@ -49179,14 +49179,14 @@ gracefully:
     - value: ˈɡɹeɪsfəli
     sense:
     - antonym:
-      - 'gracelessly%4:02:00::'
-      id: 'gracefully%4:02:00::'
+      - 'gracelessly%4:45:00::'
+      id: 'gracefully%4:45:00::'
       pertainym:
       - 'graceful%3:00:00::'
       synset: 00181293-r
     - antonym:
-      - 'ungracefully%4:02:01::'
-      id: 'gracefully%4:02:01::'
+      - 'ungracefully%4:45:01::'
+      id: 'gracefully%4:45:01::'
       pertainym:
       - graceful%5:00:00:gracious:00
       synset: 00195866-r
@@ -49217,13 +49217,13 @@ graceless:
 gracelessly:
   r:
     sense:
-    - id: 'gracelessly%4:02:01::'
+    - id: 'gracelessly%4:45:01::'
       pertainym:
       - graceless%5:00:00:inelegant:00
       synset: 00196072-r
     - antonym:
-      - 'gracefully%4:02:00::'
-      id: 'gracelessly%4:02:00::'
+      - 'gracefully%4:45:00::'
+      id: 'gracelessly%4:45:00::'
       pertainym:
       - graceless%5:00:00:ungracious:00
       synset: 00181414-r
@@ -49298,8 +49298,8 @@ graciously:
     - value: ˈɡɹeɪʃəsli
     sense:
     - antonym:
-      - 'ungraciously%4:02:00::'
-      id: 'graciously%4:02:00::'
+      - 'ungraciously%4:45:00::'
+      id: 'graciously%4:45:00::'
       pertainym:
       - 'gracious%3:00:00::'
       synset: 00195866-r
@@ -49646,7 +49646,7 @@ gradually:
     pronunciation:
     - value: ˈɡɹædʒuəli
     sense:
-    - id: 'gradually%4:02:00::'
+    - id: 'gradually%4:45:00::'
       pertainym:
       - 'gradual%3:00:01::'
       synset: 00108755-r
@@ -50222,8 +50222,8 @@ grammatically:
   r:
     sense:
     - antonym:
-      - 'ungrammatically%4:02:00::'
-      id: 'grammatically%4:02:00::'
+      - 'ungrammatically%4:45:00::'
+      id: 'grammatically%4:45:00::'
       pertainym:
       - 'grammatical%3:00:00::'
       synset: 00490341-r
@@ -50533,7 +50533,7 @@ grandiloquent:
 grandiloquently:
   r:
     sense:
-    - id: 'grandiloquently%4:02:00::'
+    - id: 'grandiloquently%4:45:00::'
       pertainym:
       - grandiloquent%5:00:00:rhetorical:00
       synset: 00396196-r
@@ -50551,7 +50551,7 @@ grandiose:
 grandiosely:
   r:
     sense:
-    - id: 'grandiosely%4:02:00::'
+    - id: 'grandiosely%4:51:00::'
       pertainym:
       - grandiose%5:00:00:impressive:00
       synset: 00271019-r
@@ -50565,7 +50565,7 @@ grandiosity:
 grandly:
   r:
     sense:
-    - id: 'grandly%4:02:00::'
+    - id: 'grandly%4:51:00::'
       pertainym:
       - grand%5:00:00:impressive:00
       synset: 00352189-r
@@ -51379,13 +51379,13 @@ graphical user interface:
 graphically:
   r:
     sense:
-    - id: 'graphically%4:02:03::'
+    - id: 'graphically%4:45:03::'
       synset: 00312240-r
-    - id: 'graphically%4:02:02::'
+    - id: 'graphically%4:52:02::'
       pertainym:
       - 'graphic%3:01:01::'
       synset: 00133607-r
-    - id: 'graphically%4:02:00::'
+    - id: 'graphically%4:45:00::'
       pertainym:
       - 'graphic%3:01:00::'
       synset: 00124922-r
@@ -51963,12 +51963,12 @@ gratefully:
     - value: ˈɡɹeɪtfəli
     sense:
     - antonym:
-      - 'ungratefully%4:02:00::'
-      id: 'gratefully%4:02:01::'
+      - 'ungratefully%4:45:00::'
+      id: 'gratefully%4:45:01::'
       pertainym:
       - 'grateful%3:00:00::'
       synset: 00272695-r
-    - id: 'gratefully%4:02:00::'
+    - id: 'gratefully%4:45:00::'
       pertainym:
       - 'grateful%3:00:00::'
       synset: 00201415-r
@@ -52061,7 +52061,7 @@ gratifying:
 gratifyingly:
   r:
     sense:
-    - id: 'gratifyingly%4:02:00::'
+    - id: 'gratifyingly%4:51:00::'
       pertainym:
       - gratifying%5:00:00:pleasant:00
       synset: 00184950-r
@@ -52087,7 +52087,7 @@ grating:
 gratingly:
   r:
     sense:
-    - id: 'gratingly%4:02:00::'
+    - id: 'gratingly%4:45:00::'
       pertainym:
       - grating%5:00:00:cacophonous:00
       synset: 00352317-r
@@ -52109,7 +52109,7 @@ gratis:
     - value: ˈɡɹætɪs
       variety: US
     sense:
-    - id: 'gratis%4:02:00::'
+    - id: 'gratis%4:45:00::'
       synset: 00259685-r
 gratitude:
   n:
@@ -52142,7 +52142,7 @@ gratuitously:
     - value: ɡɹəˈtu.ə.təs.li
       variety: US
     sense:
-    - id: 'gratuitously%4:02:00::'
+    - id: 'gratuitously%4:45:00::'
       pertainym:
       - gratuitous%5:00:00:unmerited:00
       synset: 00352500-r
@@ -52283,11 +52283,11 @@ gravely:
     pronunciation:
     - value: ˈɡɹeɪvli
     sense:
-    - id: 'gravely%4:02:00::'
+    - id: 'gravely%4:45:00::'
       pertainym:
       - grave%5:00:00:serious:00
       synset: 00185309-r
-    - id: 'gravely%4:02:01::'
+    - id: 'gravely%4:51:01::'
       pertainym:
       - grave%5:00:00:critical:03
       synset: 00016415-r
@@ -52571,7 +52571,7 @@ gravitational theory:
 gravitationally:
   r:
     sense:
-    - id: 'gravitationally%4:02:00::'
+    - id: 'gravitationally%4:52:00::'
       pertainym:
       - 'gravitational%3:01:00::'
       synset: 00143139-r
@@ -53002,7 +53002,7 @@ graylag goose:
 grayly:
   r:
     sense:
-    - id: 'grayly%4:02:00::'
+    - id: 'grayly%4:45:00::'
       pertainym:
       - gray%5:00:00:achromatic:00
       synset: 00352836-r
@@ -53229,7 +53229,7 @@ greasewood:
 greasily:
   r:
     sense:
-    - id: 'greasily%4:02:00::'
+    - id: 'greasily%4:45:00::'
       pertainym:
       - greasy%5:00:00:fatty:00
       synset: 00352615-r
@@ -53721,7 +53721,7 @@ greatly:
     pronunciation:
     - value: ˈɡɹeɪtli
     sense:
-    - id: 'greatly%4:02:00::'
+    - id: 'greatly%4:51:00::'
       pertainym:
       - great%5:00:01:extraordinary:00
       synset: 00057077-r
@@ -53772,7 +53772,7 @@ greed:
 greedily:
   r:
     sense:
-    - id: 'greedily%4:02:00::'
+    - id: 'greedily%4:45:00::'
       pertainym:
       - greedy%5:00:00:acquisitive:00
       synset: 00277821-r
@@ -54429,7 +54429,7 @@ greenling:
 greenly:
   r:
     sense:
-    - id: 'greenly%4:02:00::'
+    - id: 'greenly%4:45:00::'
       pertainym:
       - green%5:00:00:chromatic:00
       synset: 00244420-r
@@ -54635,7 +54635,7 @@ gregarious:
 gregariously:
   r:
     sense:
-    - id: 'gregariously%4:02:00::'
+    - id: 'gregariously%4:45:00::'
       pertainym:
       - 'gregarious%3:00:00::'
       synset: 00352726-r
@@ -55068,7 +55068,7 @@ greylag goose:
 greyly:
   r:
     sense:
-    - id: 'greyly%4:02:00::'
+    - id: 'greyly%4:45:00::'
       pertainym:
       - grey%5:00:00:achromatic:00
       synset: 00352836-r
@@ -55229,7 +55229,7 @@ grievous bodily harm:
 grievously:
   r:
     sense:
-    - id: 'grievously%4:02:00::'
+    - id: 'grievously%4:51:00::'
       pertainym:
       - grievous%5:00:00:critical:03
       synset: 00353034-r
@@ -55435,7 +55435,7 @@ griminess:
 grimly:
   r:
     sense:
-    - id: 'grimly%4:02:00::'
+    - id: 'grimly%4:45:00::'
       pertainym:
       - grim%5:00:00:implacable:00
       synset: 00108905-r
@@ -56412,7 +56412,7 @@ groping:
 gropingly:
   r:
     sense:
-    - id: 'gropingly%4:02:00::'
+    - id: 'gropingly%4:45:00::'
       pertainym:
       - groping%5:00:00:uncertain:02
       synset: 00353252-r
@@ -56579,7 +56579,7 @@ grossly:
     - value: ˈɡɹəʊsli
       variety: GB
     sense:
-    - id: 'grossly%4:02:00::'
+    - id: 'grossly%4:51:00::'
       pertainym:
       - gross%5:00:00:conspicuous:00
       synset: 00006415-r
@@ -56633,7 +56633,7 @@ grotesque:
 grotesquely:
   r:
     sense:
-    - id: 'grotesquely%4:02:00::'
+    - id: 'grotesquely%4:51:00::'
       pertainym:
       - grotesque%5:00:00:ugly:00
       synset: 00353338-r
@@ -56703,7 +56703,7 @@ grouch:
 grouchily:
   r:
     sense:
-    - id: 'grouchily%4:02:00::'
+    - id: 'grouchily%4:45:00::'
       pertainym:
       - grouchy%5:00:00:ill-natured:00
       synset: 00294964-r
@@ -58022,7 +58022,7 @@ grub up:
 grubbily:
   r:
     sense:
-    - id: 'grubbily%4:02:00::'
+    - id: 'grubbily%4:45:00::'
       pertainym:
       - grubby%5:00:00:dirty:01
       synset: 00502424-r
@@ -58117,8 +58117,8 @@ grudgingly:
   r:
     sense:
     - antonym:
-      - 'ungrudgingly%4:02:00::'
-      id: 'grudgingly%4:02:00::'
+      - 'ungrudgingly%4:45:00::'
+      id: 'grudgingly%4:45:00::'
       pertainym:
       - grudging%5:00:00:unwilling:00
       synset: 00353559-r
@@ -58154,7 +58154,7 @@ gruesome:
 gruesomely:
   r:
     sense:
-    - id: 'gruesomely%4:02:00::'
+    - id: 'gruesomely%4:45:00::'
       pertainym:
       - gruesome%5:00:00:alarming:00
       synset: 00353928-r
@@ -58181,7 +58181,7 @@ gruff:
 gruffly:
   r:
     sense:
-    - id: 'gruffly%4:02:00::'
+    - id: 'gruffly%4:45:00::'
       pertainym:
       - gruff%5:00:00:ill-natured:00
       synset: 00354034-r
@@ -58346,7 +58346,7 @@ grump:
 grumpily:
   r:
     sense:
-    - id: 'grumpily%4:02:00::'
+    - id: 'grumpily%4:45:00::'
       pertainym:
       - grumpy%5:00:00:ill-natured:00
       synset: 00294964-r
@@ -58382,7 +58382,7 @@ grunge:
 grungily:
   r:
     sense:
-    - id: 'grungily%4:02:00::'
+    - id: 'grungily%4:45:00::'
       pertainym:
       - grungy%5:00:00:dirty:01
       synset: 00502424-r
@@ -58812,7 +58812,7 @@ guarded:
 guardedly:
   r:
     sense:
-    - id: 'guardedly%4:02:00::'
+    - id: 'guardedly%4:45:00::'
       pertainym:
       - guarded%5:00:00:cautious:00
       synset: 00293817-r
@@ -59571,7 +59571,7 @@ guiltily:
     - value: ˈɡɪltˌɪli
       variety: GB
     sense:
-    - id: 'guiltily%4:02:00::'
+    - id: 'guiltily%4:45:00::'
       pertainym:
       - guilty%5:00:00:ashamed:00
       synset: 00354133-r
@@ -60767,7 +60767,7 @@ gushing:
 gushingly:
   r:
     sense:
-    - id: 'gushingly%4:02:00::'
+    - id: 'gushingly%4:45:00::'
       pertainym:
       - gushing%5:00:00:demonstrative:00
       synset: 00354278-r
@@ -61112,7 +61112,7 @@ guttural consonant:
 gutturally:
   r:
     sense:
-    - id: 'gutturally%4:02:00::'
+    - id: 'gutturally%4:45:00::'
       pertainym:
       - 'guttural%3:01:00::'
       synset: 00143261-r

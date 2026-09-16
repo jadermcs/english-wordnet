@@ -7578,7 +7578,7 @@ daft:
 daftly:
   r:
     sense:
-    - id: 'daftly%4:02:00::'
+    - id: 'daftly%4:45:00::'
       pertainym:
       - daft%5:00:00:insane:00
       synset: 00305302-r
@@ -7700,11 +7700,11 @@ daily:
       synset: 06278217-n
   r:
     sense:
-    - id: 'daily%4:02:00::'
+    - id: 'daily%4:48:00::'
       pertainym:
       - daily%5:00:00:periodic:00
       synset: 00081836-r
-    - id: 'daily%4:02:01::'
+    - id: 'daily%4:49:01::'
       synset: 00179304-r
 daily bread:
   n:
@@ -7754,11 +7754,11 @@ daintily:
     - value: ˈdeɪntɪli
       variety: GB
     sense:
-    - id: 'daintily%4:02:00::'
+    - id: 'daintily%4:45:00::'
       pertainym:
       - dainty%5:00:00:fastidious:00
       synset: 00305545-r
-    - id: 'daintily%4:02:01::'
+    - id: 'daintily%4:45:01::'
       pertainym:
       - dainty%5:00:00:delicate:00
       synset: 00305669-r
@@ -8334,7 +8334,7 @@ damn:
     pronunciation:
     - value: dæm
     sense:
-    - id: 'damn%4:02:00::'
+    - id: 'damn%4:51:00::'
       synset: 00025503-r
   v:
     pronunciation:
@@ -8365,7 +8365,7 @@ damnably:
     pronunciation:
     - value: ˈdæmnəbli
     sense:
-    - id: 'damnably%4:02:00::'
+    - id: 'damnably%4:51:00::'
       pertainym:
       - damnable%5:00:00:cursed:00
       synset: 00298819-r
@@ -8410,7 +8410,7 @@ damned:
     pronunciation:
     - value: dæmd
     sense:
-    - id: 'damned%4:02:00::'
+    - id: 'damned%4:51:00::'
       synset: 00298819-r
 damning:
   a:
@@ -8612,7 +8612,7 @@ damply:
     pronunciation:
     - value: ˈdæmpli
     sense:
-    - id: 'damply%4:02:00::'
+    - id: 'damply%4:45:00::'
       pertainym:
       - damp%5:00:00:wet:01
       synset: 00298995-r
@@ -8901,7 +8901,7 @@ dandify:
 dandily:
   r:
     sense:
-    - id: 'dandily%4:02:00::'
+    - id: 'dandily%4:45:00::'
       pertainym:
       - dandy%5:00:00:good:01
       synset: 00505761-r
@@ -9036,7 +9036,7 @@ dangerous undertaking:
 dangerously:
   r:
     sense:
-    - id: 'dangerously%4:02:00::'
+    - id: 'dangerously%4:51:00::'
       pertainym:
       - 'dangerous%3:00:00::'
       synset: 00090716-r
@@ -9350,11 +9350,11 @@ daring:
 daringly:
   r:
     sense:
-    - id: 'daringly%4:02:01::'
+    - id: 'daringly%4:45:01::'
       pertainym:
       - daring%5:00:00:original:00
       synset: 00305947-r
-    - id: 'daringly%4:02:00::'
+    - id: 'daringly%4:45:00::'
       pertainym:
       - daring%5:00:00:adventurous:00
       synset: 00305811-r
@@ -9654,11 +9654,11 @@ darkling groung beetle:
 darkly:
   r:
     sense:
-    - id: 'darkly%4:02:00::'
+    - id: 'darkly%4:45:00::'
       pertainym:
       - 'dark%3:00:01::'
       synset: 00207471-r
-    - id: 'darkly%4:02:01::'
+    - id: 'darkly%4:45:01::'
       pertainym:
       - dark%5:00:00:ill-natured:00
       synset: 00207598-r
@@ -10034,7 +10034,7 @@ dashing hopes:
 dashingly:
   r:
     sense:
-    - id: 'dashingly%4:02:00::'
+    - id: 'dashingly%4:45:00::'
       pertainym:
       - dashing%5:00:00:fashionable:00
       synset: 00306058-r
@@ -10631,7 +10631,7 @@ daunting:
 dauntingly:
   r:
     sense:
-    - id: 'dauntingly%4:02:00::'
+    - id: 'dauntingly%4:51:00::'
       pertainym:
       - daunting%5:00:00:discouraging:00
       synset: 00299197-r
@@ -10647,7 +10647,7 @@ dauntless:
 dauntlessly:
   r:
     sense:
-    - id: 'dauntlessly%4:02:00::'
+    - id: 'dauntlessly%4:45:00::'
       pertainym:
       - dauntless%5:00:00:bold:00
       synset: 00201116-r
@@ -10852,7 +10852,7 @@ day:
 day after day:
   r:
     sense:
-    - id: 'day_after_day%4:02:00::'
+    - id: 'day_after_day%4:48:00::'
       synset: 00179412-r
 day bed:
   n:
@@ -10877,7 +10877,7 @@ day book:
 day by day:
   r:
     sense:
-    - id: 'day_by_day%4:02:00::'
+    - id: 'day_by_day%4:49:00::'
       synset: 00179304-r
 day camp:
   n:
@@ -10904,12 +10904,12 @@ day game:
 day in and day out:
   r:
     sense:
-    - id: 'day_in_and_day_out%4:02:00::'
+    - id: 'day_in_and_day_out%4:48:00::'
       synset: 00158123-r
 day in day out:
   r:
     sense:
-    - id: 'day_in_day_out%4:02:00::'
+    - id: 'day_in_day_out%4:48:00::'
       synset: 00179412-r
 day jessamine:
   n:
@@ -11188,7 +11188,7 @@ daylong:
       synset: 01441946-s
   r:
     sense:
-    - id: 'daylong%4:02:00::'
+    - id: 'daylong%4:49:00::'
       synset: 00306173-r
 days:
   n:
@@ -11269,7 +11269,7 @@ dazedly:
     pronunciation:
     - value: ˈdeɪzədli
     sense:
-    - id: 'dazedly%4:02:00::'
+    - id: 'dazedly%4:45:00::'
       pertainym:
       - dazed%5:00:00:lethargic:00
       synset: 00299316-r
@@ -11319,7 +11319,7 @@ dazzling:
 dazzlingly:
   r:
     sense:
-    - id: 'dazzlingly%4:02:00::'
+    - id: 'dazzlingly%4:51:00::'
       pertainym:
       - dazzling%5:00:01:impressive:00
       synset: 00082389-r
@@ -11392,7 +11392,7 @@ de facto:
     - value: ˌdeɪˈfæktoʊ
       variety: US
     sense:
-    - id: 'de_facto%4:02:00::'
+    - id: 'de_facto%4:47:00::'
       synset: 00060735-r
 de facto segregation:
   n:
@@ -11413,7 +11413,7 @@ de jure:
       synset: 00697410-a
   r:
     sense:
-    - id: 'de_jure%4:02:00::'
+    - id: 'de_jure%4:52:00::'
       synset: 00253289-r
 de jure segregation:
   n:
@@ -11443,7 +11443,7 @@ de novo:
     - value: deɪˈnoʊvoʊ
       variety: US
     sense:
-    - id: 'de_novo%4:02:00::'
+    - id: 'de_novo%4:45:00::'
       synset: 00113930-r
 de rigueur:
   a:
@@ -11777,14 +11777,14 @@ dead:
     pronunciation:
     - value: dɛd
     sense:
-    - id: 'dead%4:02:00::'
+    - id: 'dead%4:51:00::'
       synset: 00009459-r
-    - id: 'dead%4:02:01::'
+    - id: 'dead%4:45:01::'
       synset: 81484980-r
 dead ahead:
   r:
     sense:
-    - id: 'dead_ahead%4:02:00::'
+    - id: 'dead_ahead%4:50:00::'
       synset: 00158237-r
 dead air:
   n:
@@ -12171,11 +12171,11 @@ deadly:
     pronunciation:
     - value: ˈdɛd.li
     sense:
-    - id: 'deadly%4:02:02::'
+    - id: 'deadly%4:45:02::'
       pertainym:
       - 'dead%3:00:02::'
       synset: 00306284-r
-    - id: 'deadly%4:02:00::'
+    - id: 'deadly%4:51:00::'
       synset: 00047177-r
 deadly nightshade:
   n:
@@ -12224,7 +12224,7 @@ deadpan:
     pronunciation:
     - value: ˈdɛdpæn
     sense:
-    - id: 'deadpan%4:02:00::'
+    - id: 'deadpan%4:45:00::'
       synset: 00158333-r
 deadwood:
   n:
@@ -12755,9 +12755,9 @@ dear:
       synset: 10263569-n
   r:
     sense:
-    - id: 'dear%4:02:01::'
+    - id: 'dear%4:51:01::'
       synset: 00078013-r
-    - id: 'dear%4:02:00::'
+    - id: 'dear%4:51:00::'
       synset: 00077885-r
 dearest:
   n:
@@ -12787,15 +12787,15 @@ dearly:
     - value: ˈdɪəli
       variety: GB
     sense:
-    - id: 'dearly%4:02:02::'
+    - id: 'dearly%4:51:02::'
       pertainym:
       - dear%5:00:00:sincere:00
       synset: 00078178-r
-    - id: 'dearly%4:02:00::'
+    - id: 'dearly%4:51:00::'
       pertainym:
       - dear%5:00:00:expensive:00
       synset: 00077885-r
-    - id: 'dearly%4:02:01::'
+    - id: 'dearly%4:51:01::'
       pertainym:
       - dear%5:00:00:loved:00
       synset: 00078013-r
@@ -13060,9 +13060,9 @@ deathly:
     - value: ˈdɛθli
       variety: GB
     sense:
-    - id: 'deathly%4:02:00::'
+    - id: 'deathly%4:51:00::'
       synset: 00256007-r
-    - id: 'deathly%4:02:01::'
+    - id: 'deathly%4:51:01::'
       synset: 00046739-r
 deathrate:
   n:
@@ -14447,7 +14447,7 @@ deceitfully:
     - value: dɪˈsiːtf(ə)li
       variety: GB
     sense:
-    - id: 'deceitfully%4:02:00::'
+    - id: 'deceitfully%4:45:00::'
       pertainym:
       - deceitful%5:00:01:dishonest:00
       synset: 00315990-r
@@ -14513,7 +14513,7 @@ deceivingly:
     pronunciation:
     - value: dɪˈsiːvɪŋli
     sense:
-    - id: 'deceivingly%4:02:00::'
+    - id: 'deceivingly%4:45:00::'
       synset: 00082498-r
 decelerate:
   v:
@@ -14637,7 +14637,7 @@ decent:
       synset: 01128566-s
   r:
     sense:
-    - id: 'decent%4:02:00::'
+    - id: 'decent%4:45:00::'
       synset: 00197608-r
 decentering:
   n:
@@ -14651,12 +14651,12 @@ decently:
       variety: GB
     sense:
     - antonym:
-      - 'indecently%4:02:00::'
-      id: 'decently%4:02:00::'
+      - 'indecently%4:45:00::'
+      id: 'decently%4:45:00::'
       pertainym:
       - decent%5:00:00:respectable:00
       synset: 00248673-r
-    - id: 'decently%4:02:02::'
+    - id: 'decently%4:45:02::'
       synset: 00197608-r
 decentralisation:
   n:
@@ -14812,7 +14812,7 @@ deceptively:
     - value: dɪˈsɛptɪvli
       variety: GB
     sense:
-    - id: 'deceptively%4:02:00::'
+    - id: 'deceptively%4:45:00::'
       pertainym:
       - deceptive%5:00:00:unreal:02
       synset: 00082498-r
@@ -14936,7 +14936,7 @@ decidedly:
     - value: dɪˈsaɪdɪdli
       variety: GB
     sense:
-    - id: 'decidedly%4:02:00::'
+    - id: 'decidedly%4:51:00::'
       pertainym:
       - decided%5:00:00:definite:00
       synset: 00037329-r
@@ -15269,7 +15269,7 @@ decipherable:
 decipherably:
   r:
     sense:
-    - id: 'decipherably%4:02:00::'
+    - id: 'decipherably%4:45:00::'
       pertainym:
       - decipherable%5:00:00:legible:00
       synset: 00364072-r
@@ -15377,18 +15377,18 @@ decisively:
       variety: GB
     sense:
     - antonym:
-      - 'indecisively%4:02:01::'
-      id: 'decisively%4:02:01::'
+      - 'indecisively%4:45:01::'
+      id: 'decisively%4:45:01::'
       pertainym:
       - 'decisive%3:00:01::'
       synset: 00300019-r
     - antonym:
-      - 'indecisively%4:02:00::'
-      id: 'decisively%4:02:00::'
+      - 'indecisively%4:45:00::'
+      id: 'decisively%4:45:00::'
       pertainym:
       - 'decisive%3:00:00::'
       synset: 00299667-r
-    - id: 'decisively%4:02:02::'
+    - id: 'decisively%4:45:02::'
       pertainym:
       - decisive%5:00:00:definite:00
       synset: 00299520-r
@@ -16644,7 +16644,7 @@ decoratively:
     - value: ˈdɜkɹətɪvli
       variety: GB
     sense:
-    - id: 'decoratively%4:02:00::'
+    - id: 'decoratively%4:45:00::'
       pertainym:
       - decorative%5:00:00:nonfunctional:00
       synset: 00078596-r
@@ -16695,8 +16695,8 @@ decorously:
       variety: GB
     sense:
     - antonym:
-      - 'indecorously%4:02:00::'
-      id: 'decorously%4:02:00::'
+      - 'indecorously%4:45:00::'
+      id: 'decorously%4:45:00::'
       pertainym:
       - decorous%5:00:00:proper:00
       synset: 00306378-r
@@ -17579,11 +17579,11 @@ deep:
     pronunciation:
     - value: diːp
     sense:
-    - id: 'deep%4:02:00::'
+    - id: 'deep%4:51:00::'
       synset: 00306956-r
-    - id: 'deep%4:02:01::'
+    - id: 'deep%4:49:01::'
       synset: 00307214-r
-    - id: 'deep%4:02:02::'
+    - id: 'deep%4:50:02::'
       pertainym:
       - deep%5:00:00:distant:01
       synset: 00307076-r
@@ -17600,7 +17600,7 @@ deep cervical vein:
 deep down:
   r:
     sense:
-    - id: 'deep_down%4:02:00::'
+    - id: 'deep_down%4:52:00::'
       synset: 00104786-r
 deep fat fryer:
   n:
@@ -17843,11 +17843,11 @@ deeply:
     pronunciation:
     - value: ˈdiːpli
     sense:
-    - id: 'deeply%4:02:00::'
+    - id: 'deeply%4:51:00::'
       pertainym:
       - 'deep%3:00:02::'
       synset: 00174785-r
-    - id: 'deeply%4:02:03::'
+    - id: 'deeply%4:51:03::'
       pertainym:
       - 'deep%3:00:01::'
       synset: 00306956-r
@@ -18370,7 +18370,7 @@ defectively:
     - value: dɪˈfɛktɪvli
       variety: GB
     sense:
-    - id: 'defectively%4:02:00::'
+    - id: 'defectively%4:45:00::'
       pertainym:
       - defective%5:00:00:imperfect:00
       synset: 00502302-r
@@ -18545,14 +18545,14 @@ defenceless:
       synset: 00144644-s
   r:
     sense:
-    - id: 'defenceless%4:02:00::'
+    - id: 'defenceless%4:45:00::'
       pertainym:
       - defenceless%5:00:00:vulnerable:00
       synset: 00307452-r
 defencelessly:
   r:
     sense:
-    - id: 'defencelessly%4:02:00::'
+    - id: 'defencelessly%4:45:00::'
       synset: 00307452-r
 defencelessness:
   n:
@@ -18861,7 +18861,7 @@ defenseless:
       synset: 00144644-s
   r:
     sense:
-    - id: 'defenseless%4:02:00::'
+    - id: 'defenseless%4:45:00::'
       pertainym:
       - defenseless%5:00:00:vulnerable:00
       synset: 00307452-r
@@ -18871,7 +18871,7 @@ defenselessly:
     - value: dɪˈfɛnsləsli
       variety: GB
     sense:
-    - id: 'defenselessly%4:02:00::'
+    - id: 'defenselessly%4:45:00::'
       synset: 00307452-r
 defenselessness:
   n:
@@ -18960,13 +18960,13 @@ defensively:
     - value: dɪˈfɛnsɪvli
       variety: GB
     sense:
-    - id: 'defensively%4:02:01::'
+    - id: 'defensively%4:45:01::'
       pertainym:
       - defensive%5:00:00:apologetic:00
       synset: 00307913-r
     - antonym:
-      - 'offensively%4:02:00::'
-      id: 'defensively%4:02:00::'
+      - 'offensively%4:45:00::'
+      id: 'defensively%4:45:00::'
       pertainym:
       - 'defensive%3:00:00::'
       synset: 00307661-r
@@ -19056,11 +19056,11 @@ deferentially:
     - value: ˌdɛfəˈɹənʃəli
       variety: GB
     sense:
-    - id: 'deferentially%4:02:01::'
+    - id: 'deferentially%4:45:01::'
       pertainym:
       - deferential%5:00:00:respectful:00
       synset: 00309424-r
-    - id: 'deferentially%4:02:00::'
+    - id: 'deferentially%4:45:00::'
       pertainym:
       - deferential%5:00:00:respectful:00
       synset: 00309299-r
@@ -19171,7 +19171,7 @@ defiantly:
     - value: dɪˈfaɪ(j)əntli
       variety: GB
     sense:
-    - id: 'defiantly%4:02:00::'
+    - id: 'defiantly%4:45:00::'
       pertainym:
       - 'defiant%3:00:00::'
       synset: 00200090-r
@@ -19455,7 +19455,7 @@ definitely:
     pronunciation:
     - value: ˈdɛf.ɪnɪt.li
     sense:
-    - id: 'definitely%4:02:00::'
+    - id: 'definitely%4:51:00::'
       synset: 00037329-r
 definiteness:
   n:
@@ -20151,11 +20151,11 @@ deftly:
     pronunciation:
     - value: ˈdɛftli
     sense:
-    - id: 'deftly%4:02:01::'
+    - id: 'deftly%4:45:01::'
       pertainym:
       - deft%5:00:02:adroit:00
       synset: 00311926-r
-    - id: 'deftly%4:02:00::'
+    - id: 'deftly%4:45:00::'
       pertainym:
       - deft%5:00:02:adroit:00
       synset: 00300313-r
@@ -21095,7 +21095,7 @@ dejectedly:
     - value: dɪˈdʒɛktədli
       variety: GB
     sense:
-    - id: 'dejectedly%4:02:00::'
+    - id: 'dejectedly%4:45:00::'
       pertainym:
       - 'dejected%3:00:00::'
       synset: 00300415-r
@@ -21539,13 +21539,13 @@ deliberately:
     - value: dɪˈlɪb(ə)ɹətli
     sense:
     - antonym:
-      - 'accidentally%4:02:00::'
-      - 'accidentally%4:02:02::'
-      id: 'deliberately%4:02:00::'
+      - 'accidentally%4:45:00::'
+      - 'accidentally%4:45:02::'
+      id: 'deliberately%4:45:00::'
       pertainym:
       - deliberate%5:00:00:intended:00
       synset: 00062868-r
-    - id: 'deliberately%4:02:01::'
+    - id: 'deliberately%4:45:01::'
       pertainym:
       - deliberate%5:00:00:unhurried:00
       synset: 00509856-r
@@ -21647,7 +21647,7 @@ delicately:
     pronunciation:
     - value: ˈdɛlɪkətli
     sense:
-    - id: 'delicately%4:02:00::'
+    - id: 'delicately%4:45:00::'
       pertainym:
       - 'delicate%3:00:00::'
       synset: 00103013-r
@@ -21680,11 +21680,11 @@ delicious:
 deliciously:
   r:
     sense:
-    - id: 'deliciously%4:02:00::'
+    - id: 'deliciously%4:45:00::'
       pertainym:
       - delicious%5:00:00:pleasing:00
       synset: 00230162-r
-    - id: 'deliciously%4:02:01::'
+    - id: 'deliciously%4:51:01::'
       pertainym:
       - delicious%5:00:00:tasty:00
       synset: 00395592-r
@@ -21764,7 +21764,7 @@ delighted:
 delightedly:
   r:
     sense:
-    - id: 'delightedly%4:02:00::'
+    - id: 'delightedly%4:45:00::'
       pertainym:
       - delighted%5:00:00:pleased:00
       synset: 00300588-r
@@ -21776,7 +21776,7 @@ delightful:
 delightfully:
   r:
     sense:
-    - id: 'delightfully%4:02:00::'
+    - id: 'delightfully%4:45:00::'
       pertainym:
       - delightful%5:00:00:pleasing:00
       synset: 00300702-r
@@ -22023,11 +22023,11 @@ delirious:
 deliriously:
   r:
     sense:
-    - id: 'deliriously%4:02:00::'
+    - id: 'deliriously%4:45:00::'
       pertainym:
       - delirious%5:00:00:ill:01
       synset: 00309593-r
-    - id: 'deliriously%4:02:01::'
+    - id: 'deliriously%4:51:01::'
       pertainym:
       - delirious%5:00:00:wild:02
       synset: 00309700-r
@@ -22498,7 +22498,7 @@ delusive:
 delusively:
   r:
     sense:
-    - id: 'delusively%4:02:00::'
+    - id: 'delusively%4:45:00::'
       pertainym:
       - delusive%5:00:00:unrealistic:00
       synset: 00309820-r
@@ -22804,7 +22804,7 @@ demanding:
 demandingly:
   r:
     sense:
-    - id: 'demandingly%4:02:00::'
+    - id: 'demandingly%4:45:00::'
       pertainym:
       - 'demanding%3:00:01::'
       synset: 00504539-r
@@ -22935,7 +22935,7 @@ demeaning:
 demeaningly:
   r:
     sense:
-    - id: 'demeaningly%4:02:00::'
+    - id: 'demeaningly%4:51:00::'
       pertainym:
       - demeaning%5:00:00:undignified:00
       synset: 00212529-r
@@ -22971,7 +22971,7 @@ demented:
 dementedly:
   r:
     sense:
-    - id: 'dementedly%4:02:00::'
+    - id: 'dementedly%4:45:00::'
       pertainym:
       - demented%5:00:00:insane:00
       synset: 00081240-r
@@ -23440,8 +23440,8 @@ democratically:
     - value: dɛməˈkɹætɪkəli
     sense:
     - antonym:
-      - 'undemocratically%4:02:00::'
-      id: 'democratically%4:02:00::'
+      - 'undemocratically%4:45:00::'
+      id: 'democratically%4:45:00::'
       pertainym:
       - 'democratic%3:00:00::'
       synset: 00123311-r
@@ -23784,7 +23784,7 @@ demoniacal:
 demoniacally:
   r:
     sense:
-    - id: 'demoniacally%4:02:00::'
+    - id: 'demoniacally%4:45:00::'
       synset: 00106723-r
 demonic:
   a:
@@ -23882,7 +23882,7 @@ demonstrable:
 demonstrably:
   r:
     sense:
-    - id: 'demonstrably%4:02:00::'
+    - id: 'demonstrably%4:47:00::'
       pertainym:
       - demonstrable%5:00:00:obvious:00
       synset: 00309952-r
@@ -24008,7 +24008,7 @@ demonstrative pronoun:
 demonstratively:
   r:
     sense:
-    - id: 'demonstratively%4:02:00::'
+    - id: 'demonstratively%4:45:00::'
       pertainym:
       - 'demonstrative%3:00:00::'
       synset: 00328361-r
@@ -24313,7 +24313,7 @@ demure:
 demurely:
   r:
     sense:
-    - id: 'demurely%4:02:00::'
+    - id: 'demurely%4:45:00::'
       pertainym:
       - demure%5:00:00:modest:01
       synset: 00300857-r
@@ -24942,7 +24942,7 @@ denominationalism:
 denominationally:
   r:
     sense:
-    - id: 'denominationally%4:02:00::'
+    - id: 'denominationally%4:52:00::'
       pertainym:
       - 'denominational%3:01:00::'
       synset: 00094039-r
@@ -25118,11 +25118,11 @@ densely:
     pronunciation:
     - value: ˈdɛnsli
     sense:
-    - id: 'densely%4:02:01::'
+    - id: 'densely%4:45:01::'
       pertainym:
       - dense%5:00:00:stupid:00
       synset: 00324708-r
-    - id: 'densely%4:02:00::'
+    - id: 'densely%4:51:00::'
       synset: 00301007-r
 denseness:
   n:
@@ -26070,7 +26070,7 @@ departmental:
 departmentally:
   r:
     sense:
-    - id: 'departmentally%4:02:00::'
+    - id: 'departmentally%4:52:00::'
       pertainym:
       - 'departmental%3:01:00::'
       synset: 00513476-r
@@ -26217,8 +26217,8 @@ dependably:
   r:
     sense:
     - antonym:
-      - 'undependably%4:02:00::'
-      id: 'dependably%4:02:00::'
+      - 'undependably%4:45:00::'
+      id: 'dependably%4:45:00::'
       pertainym:
       - 'dependable%3:00:00::'
       synset: 00225012-r
@@ -26679,7 +26679,7 @@ deplorable:
 deplorably:
   r:
     sense:
-    - id: 'deplorably%4:02:00::'
+    - id: 'deplorably%4:47:00::'
       pertainym:
       - deplorable%5:00:00:bad:00
       synset: 00093820-r
@@ -27209,7 +27209,7 @@ deprecative:
 deprecatively:
   r:
     sense:
-    - id: 'deprecatively%4:02:00::'
+    - id: 'deprecatively%4:45:00::'
       pertainym:
       - deprecative%5:00:00:critical:01
       synset: 00082842-r
@@ -27449,7 +27449,7 @@ depressing:
 depressingly:
   r:
     sense:
-    - id: 'depressingly%4:02:00::'
+    - id: 'depressingly%4:51:00::'
       pertainym:
       - 'depressing%3:00:00::'
       synset: 00082925-r
@@ -28099,14 +28099,14 @@ derisively:
     pronunciation:
     - value: dɪˈɹaɪsɪvli
     sense:
-    - id: 'derisively%4:02:00::'
+    - id: 'derisively%4:45:00::'
       pertainym:
       - derisive%5:00:00:disrespectful:00
       synset: 00302540-r
 derisorily:
   r:
     sense:
-    - id: 'derisorily%4:02:00::'
+    - id: 'derisorily%4:45:00::'
       synset: 00302540-r
 derisory:
   a:
@@ -28501,7 +28501,7 @@ derp:
       synset: 90003182-n
   r:
     sense:
-    - id: 'derp%4:02:01::'
+    - id: 'derp%4:45:01::'
       synset: 90003183-r
 derrick:
   n:
@@ -28974,7 +28974,7 @@ descriptive linguistics:
 descriptively:
   r:
     sense:
-    - id: 'descriptively%4:02:00::'
+    - id: 'descriptively%4:45:00::'
       pertainym:
       - 'descriptive%3:00:02::'
       synset: 00302726-r
@@ -29432,8 +29432,8 @@ deservedly:
       variety: GB
     sense:
     - antonym:
-      - 'undeservedly%4:02:00::'
-      id: 'deservedly%4:02:00::'
+      - 'undeservedly%4:47:00::'
+      id: 'deservedly%4:47:00::'
       synset: 00302867-r
 deserving:
   a:
@@ -29830,7 +29830,7 @@ designed:
 designedly:
   r:
     sense:
-    - id: 'designedly%4:02:00::'
+    - id: 'designedly%4:45:00::'
       synset: 00062868-r
 designer:
   n:
@@ -30155,7 +30155,7 @@ desolate:
 desolately:
   r:
     sense:
-    - id: 'desolately%4:02:00::'
+    - id: 'desolately%4:45:00::'
       synset: 00310160-r
 desolation:
   n:
@@ -30269,7 +30269,7 @@ despairingly:
     pronunciation:
     - value: dɪˈspɛəɹ.ɪŋ.li
     sense:
-    - id: 'despairingly%4:02:00::'
+    - id: 'despairingly%4:45:00::'
       pertainym:
       - despairing%5:00:00:hopeless:00
       synset: 00303212-r
@@ -30370,11 +30370,11 @@ desperately:
     pronunciation:
     - value: ˈdɛsp(ə)ɹətli
     sense:
-    - id: 'desperately%4:02:00::'
+    - id: 'desperately%4:45:00::'
       pertainym:
       - desperate%5:00:00:imperative:00
       synset: 00073249-r
-    - id: 'desperately%4:02:01::'
+    - id: 'desperately%4:45:01::'
       pertainym:
       - desperate%5:00:00:hopeless:00
       synset: 00509340-r
@@ -30416,7 +30416,7 @@ despicableness:
 despicably:
   r:
     sense:
-    - id: 'despicably%4:02:00::'
+    - id: 'despicably%4:45:00::'
       pertainym:
       - despicable%5:00:00:evil:00
       synset: 00310642-r
@@ -30475,7 +30475,7 @@ despiteful:
 despitefully:
   r:
     sense:
-    - id: 'despitefully%4:02:00::'
+    - id: 'despitefully%4:45:00::'
       pertainym:
       - despiteful%5:00:00:malicious:00
       synset: 00310744-r
@@ -30589,7 +30589,7 @@ despondent:
 despondently:
   r:
     sense:
-    - id: 'despondently%4:02:00::'
+    - id: 'despondently%4:45:00::'
       pertainym:
       - despondent%5:00:00:hopeless:00
       synset: 00303212-r
@@ -31123,7 +31123,7 @@ destructive-metabolic:
 destructively:
   r:
     sense:
-    - id: 'destructively%4:02:00::'
+    - id: 'destructively%4:45:00::'
       pertainym:
       - 'destructive%3:00:00::'
       synset: 00310908-r
@@ -32022,11 +32022,11 @@ determined:
 determinedly:
   r:
     sense:
-    - id: 'determinedly%4:02:00::'
+    - id: 'determinedly%4:45:00::'
       pertainym:
       - determined%5:00:00:resolute:00
       synset: 00213506-r
-    - id: 'determinedly%4:02:01::'
+    - id: 'determinedly%4:45:01::'
       pertainym:
       - determined%5:00:00:ambitious:00
       synset: 00263637-r
@@ -32173,7 +32173,7 @@ detestable:
 detestably:
   r:
     sense:
-    - id: 'detestably%4:02:00::'
+    - id: 'detestably%4:45:00::'
       pertainym:
       - detestable%5:00:00:offensive:01
       synset: 00311025-r
@@ -32526,7 +32526,7 @@ detrimental:
 detrimentally:
   r:
     sense:
-    - id: 'detrimentally%4:02:00::'
+    - id: 'detrimentally%4:45:00::'
       pertainym:
       - detrimental%5:00:00:harmful:00
       synset: 00311268-r
@@ -32596,7 +32596,7 @@ deucedly:
     - value: ˈdusɨdli
       variety: US
     sense:
-    - id: 'deucedly%4:02:00::'
+    - id: 'deucedly%4:51:00::'
       synset: 00047177-r
 deus ex machina:
   n:
@@ -33070,7 +33070,7 @@ developmental psychology:
 developmentally:
   r:
     sense:
-    - id: 'developmentally%4:02:00::'
+    - id: 'developmentally%4:52:00::'
       pertainym:
       - 'developmental%3:01:00::'
       synset: 00303375-r
@@ -33473,20 +33473,20 @@ devilish:
     pronunciation:
     - value: ˈdɛvəlɪʃ
     sense:
-    - id: 'devilish%4:02:00::'
+    - id: 'devilish%4:51:00::'
       synset: 00303492-r
 devilishly:
   r:
     sense:
-    - id: 'devilishly%4:02:03::'
+    - id: 'devilishly%4:51:03::'
       pertainym:
       - devilish%5:00:00:evil:00
       synset: 00310309-r
-    - id: 'devilishly%4:02:00::'
+    - id: 'devilishly%4:51:00::'
       pertainym:
       - devilish%5:00:00:evil:00
       synset: 00303492-r
-    - id: 'devilishly%4:02:02::'
+    - id: 'devilishly%4:51:02::'
       synset: 00047177-r
 devilishness:
   n:
@@ -33564,7 +33564,7 @@ devious:
 deviously:
   r:
     sense:
-    - id: 'deviously%4:02:00::'
+    - id: 'deviously%4:45:00::'
       pertainym:
       - devious%5:00:00:indirect:02
       synset: 00311562-r
@@ -33856,7 +33856,7 @@ devoted:
 devotedly:
   r:
     sense:
-    - id: 'devotedly%4:02:00::'
+    - id: 'devotedly%4:45:00::'
       pertainym:
       - devoted%5:00:02:dedicated:00
       synset: 00311683-r
@@ -33972,7 +33972,7 @@ devout:
 devoutly:
   r:
     sense:
-    - id: 'devoutly%4:02:00::'
+    - id: 'devoutly%4:51:00::'
       pertainym:
       - devout%5:00:00:religious:00
       synset: 00311786-r
@@ -34093,7 +34093,7 @@ dexterously:
     pronunciation:
     - value: ˈdɛkst(ə)ɹəsli
     sense:
-    - id: 'dexterously%4:02:00::'
+    - id: 'dexterously%4:45:00::'
       pertainym:
       - dexterous%5:00:00:adroit:00
       synset: 00311926-r
@@ -34184,7 +34184,7 @@ dextrous:
 dextrously:
   r:
     sense:
-    - id: 'dextrously%4:02:00::'
+    - id: 'dextrously%4:45:00::'
       pertainym:
       - dextrous%5:00:00:adroit:00
       synset: 00311926-r
@@ -34356,7 +34356,7 @@ diabolical:
 diabolically:
   r:
     sense:
-    - id: 'diabolically%4:02:00::'
+    - id: 'diabolically%4:51:00::'
       pertainym:
       - diabolic%5:00:00:evil:00
       synset: 00310309-r
@@ -34704,7 +34704,7 @@ diagonally:
     - value: ˈdaɪ.æɡ.nə.li
       variety: GB
     sense:
-    - id: 'diagonally%4:02:00::'
+    - id: 'diagonally%4:50:00::'
       pertainym:
       - diagonal%5:00:02:oblique:00
       synset: 00312113-r
@@ -34752,7 +34752,7 @@ diagrammatical:
 diagrammatically:
   r:
     sense:
-    - id: 'diagrammatically%4:02:00::'
+    - id: 'diagrammatically%4:45:00::'
       pertainym:
       - diagrammatic%5:00:00:delineated:00
       synset: 00312240-r
@@ -34893,7 +34893,7 @@ dialectical materialism:
 dialectically:
   r:
     sense:
-    - id: 'dialectically%4:02:00::'
+    - id: 'dialectically%4:52:00::'
       pertainym:
       - 'dialectic%3:01:00::'
       synset: 00249583-r
@@ -35135,7 +35135,7 @@ diametrically:
     - value: ˌdaɪ.ə.ˈmɛt.ɹɪk.li
       variety: GB
     sense:
-    - id: 'diametrically%4:02:00::'
+    - id: 'diametrically%4:45:00::'
       pertainym:
       - diametric%5:00:02:different:00
       synset: 00312450-r
@@ -35919,7 +35919,7 @@ dichotomous:
 dichotomously:
   r:
     sense:
-    - id: 'dichotomously%4:02:00::'
+    - id: 'dichotomously%4:45:00::'
       pertainym:
       - dichotomous%5:00:00:divided:00
       synset: 00083032-r
@@ -36288,7 +36288,7 @@ dictatorial:
 dictatorially:
   r:
     sense:
-    - id: 'dictatorially%4:02:00::'
+    - id: 'dictatorially%4:45:00::'
       pertainym:
       - dictatorial%5:00:00:domineering:00
       synset: 00312823-r
@@ -36400,7 +36400,7 @@ didactical:
 didactically:
   r:
     sense:
-    - id: 'didactically%4:02:00::'
+    - id: 'didactically%4:52:00::'
       pertainym:
       - didactic%5:00:00:instructive:00
       synset: 00313044-r
@@ -37233,7 +37233,7 @@ differential threshold:
 differentially:
   r:
     sense:
-    - id: 'differentially%4:02:00::'
+    - id: 'differentially%4:45:00::'
       pertainym:
       - 'differential%3:01:00::'
       synset: 00313196-r
@@ -37361,7 +37361,7 @@ differently:
     pronunciation:
     - value: ˈdifɹəntli
     sense:
-    - id: 'differently%4:02:00::'
+    - id: 'differently%4:45:00::'
       pertainym:
       - different%5:00:00:other:00
       synset: 00114003-r
@@ -37428,7 +37428,7 @@ diffidently:
     pronunciation:
     - value: ˈdɪf.ɪ.dənt.li
     sense:
-    - id: 'diffidently%4:02:00::'
+    - id: 'diffidently%4:45:00::'
       pertainym:
       - 'diffident%3:00:00::'
       synset: 00310504-r
@@ -37530,7 +37530,7 @@ diffused:
 diffusely:
   r:
     sense:
-    - id: 'diffusely%4:02:00::'
+    - id: 'diffusely%4:45:00::'
       pertainym:
       - diffuse%5:00:00:distributed:00
       synset: 00191978-r
@@ -38235,11 +38235,11 @@ digitalize:
 digitally:
   r:
     sense:
-    - id: 'digitally%4:02:01::'
+    - id: 'digitally%4:45:01::'
       pertainym:
       - 'digital%3:01:00::'
       synset: 00123996-r
-    - id: 'digitally%4:02:00::'
+    - id: 'digitally%4:45:00::'
       pertainym:
       - 'digital%3:01:01::'
       synset: 00123884-r
@@ -38253,7 +38253,7 @@ digitate:
 digitately:
   r:
     sense:
-    - id: 'digitately%4:02:00::'
+    - id: 'digitately%4:45:00::'
       pertainym:
       - digitate%5:00:00:fingered:00
       synset: 00083115-r
@@ -38834,7 +38834,7 @@ diligent:
 diligently:
   r:
     sense:
-    - id: 'diligently%4:02:00::'
+    - id: 'diligently%4:45:00::'
       pertainym:
       - 'diligent%3:00:00::'
       synset: 00313420-r
@@ -39334,13 +39334,13 @@ dimly:
     pronunciation:
     - value: ˈdɪmli
     sense:
-    - id: 'dimly%4:02:00::'
+    - id: 'dimly%4:45:00::'
       pertainym:
       - dim%5:00:00:indistinct:00
       synset: 00213113-r
-    - id: 'dimly%4:02:01::'
+    - id: 'dimly%4:51:01::'
       synset: 00419049-r
-    - id: 'dimly%4:02:02::'
+    - id: 'dimly%4:45:02::'
       pertainym:
       - dim%5:00:00:dark:01
       synset: 00213262-r
@@ -39638,7 +39638,7 @@ dingbat:
 dingdong:
   r:
     sense:
-    - id: 'dingdong%4:02:00::'
+    - id: 'dingdong%4:45:00::'
       synset: 00091520-r
   v:
     sense:
@@ -39681,7 +39681,7 @@ dingily:
     - value: ˈdɪndʒɪli
       variety: GB
     sense:
-    - id: 'dingily%4:02:00::'
+    - id: 'dingily%4:45:00::'
       pertainym:
       - dingy%5:00:00:dirty:01
       synset: 00502424-r
@@ -40491,8 +40491,8 @@ diplomatically:
   r:
     sense:
     - antonym:
-      - 'undiplomatically%4:02:00::'
-      id: 'diplomatically%4:02:00::'
+      - 'undiplomatically%4:45:00::'
+      id: 'diplomatically%4:45:00::'
       pertainym:
       - 'diplomatic%3:00:00::'
       synset: 00204629-r
@@ -40703,7 +40703,7 @@ direct:
     pronunciation:
     - value: d(a)ɪˈɹɛkt
     sense:
-    - id: 'direct%4:02:00::'
+    - id: 'direct%4:50:00::'
       synset: 00052386-r
   v:
     pronunciation:
@@ -41122,19 +41122,19 @@ directly:
     pronunciation:
     - value: dɪˈɹɛk(t)li
     sense:
-    - id: 'directly%4:02:00::'
+    - id: 'directly%4:50:00::'
       pertainym:
       - 'direct%3:00:00::'
       synset: 00052386-r
-    - id: 'directly%4:02:05::'
+    - id: 'directly%4:45:05::'
       pertainym:
       - direct%5:00:00:immediate:00
       synset: 00506737-r
-    - id: 'directly%4:02:07::'
+    - id: 'directly%4:49:07::'
       synset: 00049277-r
     - antonym:
-      - 'indirectly%4:02:00::'
-      id: 'directly%4:02:01::'
+      - 'indirectly%4:45:00::'
+      id: 'directly%4:45:01::'
       pertainym:
       - 'direct%3:00:02::'
       synset: 00058666-r
@@ -41227,7 +41227,7 @@ direful:
 direfully:
   r:
     sense:
-    - id: 'direfully%4:02:00::'
+    - id: 'direfully%4:45:00::'
       pertainym:
       - direful%5:00:01:alarming:00
       synset: 00313645-r
@@ -41352,9 +41352,9 @@ dirt track:
 dirtily:
   r:
     sense:
-    - id: 'dirtily%4:02:01::'
+    - id: 'dirtily%4:45:01::'
       synset: 00313913-r
-    - id: 'dirtily%4:02:00::'
+    - id: 'dirtily%4:45:00::'
       pertainym:
       - 'dirty%3:00:01::'
       synset: 00313770-r
@@ -41729,8 +41729,8 @@ disadvantageously:
   r:
     sense:
     - antonym:
-      - 'advantageously%4:02:00::'
-      id: 'disadvantageously%4:02:00::'
+      - 'advantageously%4:45:00::'
+      id: 'disadvantageously%4:45:00::'
       pertainym:
       - 'disadvantageous%3:00:00::'
       synset: 00014476-r
@@ -41855,8 +41855,8 @@ disagreeably:
   r:
     sense:
     - antonym:
-      - 'agreeably%4:02:00::'
-      id: 'disagreeably%4:02:00::'
+      - 'agreeably%4:51:00::'
+      id: 'disagreeably%4:45:00::'
       pertainym:
       - 'disagreeable%3:00:00::'
       synset: 00313996-r
@@ -42046,7 +42046,7 @@ disappointed:
 disappointedly:
   r:
     sense:
-    - id: 'disappointedly%4:02:00::'
+    - id: 'disappointedly%4:45:00::'
       pertainym:
       - disappointed%5:00:00:unsuccessful:00
       synset: 00314168-r
@@ -42058,7 +42058,7 @@ disappointing:
 disappointingly:
   r:
     sense:
-    - id: 'disappointingly%4:02:00::'
+    - id: 'disappointingly%4:47:00::'
       pertainym:
       - disappointing%5:00:00:unsatisfactory:00
       synset: 00314318-r
@@ -42148,8 +42148,8 @@ disapprovingly:
   r:
     sense:
     - antonym:
-      - 'approvingly%4:02:00::'
-      id: 'disapprovingly%4:02:00::'
+      - 'approvingly%4:45:00::'
+      id: 'disapprovingly%4:45:00::'
       synset: 00263521-r
 disarm:
   v:
@@ -42397,7 +42397,7 @@ disastrous:
 disastrously:
   r:
     sense:
-    - id: 'disastrously%4:02:00::'
+    - id: 'disastrously%4:51:00::'
       pertainym:
       - disastrous%5:00:00:unfortunate:00
       synset: 00314485-r
@@ -42522,7 +42522,7 @@ disbelieving:
 disbelievingly:
   r:
     sense:
-    - id: 'disbelievingly%4:02:00::'
+    - id: 'disbelievingly%4:45:00::'
       pertainym:
       - disbelieving%5:00:00:incredulous:00
       synset: 00297679-r
@@ -43572,7 +43572,7 @@ disconcertingly:
     - value: ˌdɪskənˈsɝtɪŋli
       variety: US
     sense:
-    - id: 'disconcertingly%4:02:00::'
+    - id: 'disconcertingly%4:51:00::'
       pertainym:
       - disconcerting%5:00:00:displeasing:00
       synset: 00314656-r
@@ -43689,7 +43689,7 @@ disconsolate:
 disconsolately:
   r:
     sense:
-    - id: 'disconsolately%4:02:00::'
+    - id: 'disconsolately%4:45:00::'
       pertainym:
       - 'disconsolate%3:00:04::'
       synset: 00310160-r
@@ -43754,7 +43754,7 @@ discontented:
 discontentedly:
   r:
     sense:
-    - id: 'discontentedly%4:02:00::'
+    - id: 'discontentedly%4:45:00::'
       pertainym:
       - 'discontented%3:00:00::'
       synset: 00314829-r
@@ -43929,7 +43929,7 @@ discordant:
 discordantly:
   r:
     sense:
-    - id: 'discordantly%4:02:00::'
+    - id: 'discordantly%4:45:00::'
       pertainym:
       - 'discordant%3:00:00::'
       synset: 00237891-r
@@ -44117,8 +44117,8 @@ discouragingly:
   r:
     sense:
     - antonym:
-      - 'encouragingly%4:02:00::'
-      id: 'discouragingly%4:02:00::'
+      - 'encouragingly%4:45:00::'
+      id: 'discouragingly%4:51:00::'
       pertainym:
       - 'discouraging%3:00:00::'
       synset: 00330223-r
@@ -44174,8 +44174,8 @@ discourteously:
   r:
     sense:
     - antonym:
-      - 'courteously%4:02:00::'
-      id: 'discourteously%4:02:00::'
+      - 'courteously%4:45:00::'
+      id: 'discourteously%4:45:00::'
       pertainym:
       - discourteous%5:00:00:impolite:00
       synset: 00220161-r
@@ -44371,7 +44371,7 @@ discreditable:
 discreditably:
   r:
     sense:
-    - id: 'discreditably%4:02:00::'
+    - id: 'discreditably%4:51:00::'
       pertainym:
       - discreditable%5:00:00:disreputable:00
       synset: 00315026-r
@@ -44405,8 +44405,8 @@ discreetly:
   r:
     sense:
     - antonym:
-      - 'indiscreetly%4:02:00::'
-      id: 'discreetly%4:02:00::'
+      - 'indiscreetly%4:45:00::'
+      id: 'discreetly%4:45:00::'
       pertainym:
       - 'discreet%3:00:00::'
       synset: 00374490-r
@@ -44661,7 +44661,7 @@ discursive:
 discursively:
   r:
     sense:
-    - id: 'discursively%4:02:00::'
+    - id: 'discursively%4:45:00::'
       pertainym:
       - discursive%5:00:00:indirect:02
       synset: 00502553-r
@@ -44793,11 +44793,11 @@ disdainful:
 disdainfully:
   r:
     sense:
-    - id: 'disdainfully%4:02:02::'
+    - id: 'disdainfully%4:45:02::'
       pertainym:
       - disdainful%5:00:00:proud:00
       synset: 00284129-r
-    - id: 'disdainfully%4:02:00::'
+    - id: 'disdainfully%4:45:00::'
       pertainym:
       - disdainful%5:00:00:disrespectful:00
       synset: 00080884-r
@@ -45469,7 +45469,7 @@ disgraceful:
 disgracefully:
   r:
     sense:
-    - id: 'disgracefully%4:02:00::'
+    - id: 'disgracefully%4:51:00::'
       pertainym:
       - disgraceful%5:00:00:dishonorable:00
       synset: 00315026-r
@@ -45607,7 +45607,7 @@ disgusted:
 disgustedly:
   r:
     sense:
-    - id: 'disgustedly%4:02:00::'
+    - id: 'disgustedly%4:45:00::'
       pertainym:
       - disgusted%5:00:00:displeased:00
       synset: 00315374-r
@@ -45628,7 +45628,7 @@ disgusting:
 disgustingly:
   r:
     sense:
-    - id: 'disgustingly%4:02:00::'
+    - id: 'disgustingly%4:51:00::'
       pertainym:
       - disgusting%5:00:00:offensive:01
       synset: 00315534-r
@@ -45895,8 +45895,8 @@ dishonestly:
   r:
     sense:
     - antonym:
-      - 'honestly%4:02:01::'
-      id: 'dishonestly%4:02:00::'
+      - 'honestly%4:45:01::'
+      id: 'dishonestly%4:45:00::'
       pertainym:
       - 'dishonest%3:00:00::'
       synset: 00315990-r
@@ -46006,18 +46006,18 @@ dishonorably:
   r:
     sense:
     - antonym:
-      - 'honorably%4:02:02::'
-      id: 'dishonorably%4:02:02::'
+      - 'honorably%4:45:02::'
+      id: 'dishonorably%4:45:02::'
       pertainym:
       - 'dishonorable%3:00:00::'
       synset: 00493222-r
     - antonym:
-      - 'honorably%4:02:00::'
-      id: 'dishonorably%4:02:01::'
+      - 'honorably%4:45:00::'
+      id: 'dishonorably%4:45:01::'
       pertainym:
       - 'dishonorable%3:00:00::'
       synset: 00316726-r
-    - id: 'dishonorably%4:02:00::'
+    - id: 'dishonorably%4:51:00::'
       pertainym:
       - 'dishonorable%3:00:00::'
       synset: 00315026-r
@@ -46106,7 +46106,7 @@ dishonourableness:
 dishonourably:
   r:
     sense:
-    - id: 'dishonourably%4:02:00::'
+    - id: 'dishonourably%4:51:00::'
       pertainym:
       - 'dishonorable%3:00:00::'
       synset: 00315026-r
@@ -46403,7 +46403,7 @@ disingenuously:
     pronunciation:
     - value: ˌdɪs.ɪnˈdʒɛn.ju.əs.li
     sense:
-    - id: 'disingenuously%4:02:00::'
+    - id: 'disingenuously%4:45:00::'
       pertainym:
       - 'disingenuous%3:00:00::'
       synset: 00316988-r
@@ -46565,7 +46565,7 @@ disinterestedly:
     - value: dɪsˈɪnt(ə)ɹɛstɪdli
       variety: GB
     sense:
-    - id: 'disinterestedly%4:02:00::'
+    - id: 'disinterestedly%4:45:00::'
       pertainym:
       - disinterested%5:00:00:impartial:00
       synset: 00317174-r
@@ -46707,7 +46707,7 @@ disjointed:
 disjointedly:
   r:
     sense:
-    - id: 'disjointedly%4:02:00::'
+    - id: 'disjointedly%4:45:00::'
       pertainym:
       - disjointed%5:00:00:incoherent:00
       synset: 00317312-r
@@ -47068,8 +47068,8 @@ disloyally:
   r:
     sense:
     - antonym:
-      - 'loyally%4:02:00::'
-      id: 'disloyally%4:02:00::'
+      - 'loyally%4:45:00::'
+      id: 'disloyally%4:45:00::'
       pertainym:
       - 'disloyal%3:00:00::'
       synset: 00317712-r
@@ -47096,11 +47096,11 @@ dismally:
     - value: ˈdɪz.mə.li
       variety: GB
     sense:
-    - id: 'dismally%4:02:01::'
+    - id: 'dismally%4:45:01::'
       pertainym:
       - dismal%5:00:00:depressing:00
       synset: 00318128-r
-    - id: 'dismally%4:02:00::'
+    - id: 'dismally%4:45:00::'
       synset: 00317880-r
 dismantle:
   v:
@@ -47389,8 +47389,8 @@ disobediently:
   r:
     sense:
     - antonym:
-      - 'obediently%4:02:00::'
-      id: 'disobediently%4:02:00::'
+      - 'obediently%4:45:00::'
+      id: 'disobediently%4:45:00::'
       pertainym:
       - 'disobedient%3:00:00::'
       synset: 00318598-r
@@ -47776,7 +47776,7 @@ disparaging:
 disparagingly:
   r:
     sense:
-    - id: 'disparagingly%4:02:00::'
+    - id: 'disparagingly%4:45:00::'
       pertainym:
       - disparaging%5:00:00:uncomplimentary:00
       synset: 00318955-r
@@ -47841,7 +47841,7 @@ dispassionate:
 dispassionately:
   r:
     sense:
-    - id: 'dispassionately%4:02:00::'
+    - id: 'dispassionately%4:45:00::'
       pertainym:
       - dispassionate%5:00:00:impartial:00
       synset: 00318783-r
@@ -48257,7 +48257,7 @@ dispirited:
 dispiritedly:
   r:
     sense:
-    - id: 'dispiritedly%4:02:00::'
+    - id: 'dispiritedly%4:45:00::'
       pertainym:
       - dispirited%5:00:00:dejected:00
       synset: 00319159-r
@@ -48412,7 +48412,7 @@ display window:
 displaying incompetence:
   r:
     sense:
-    - id: 'displaying_incompetence%4:02:00::'
+    - id: 'displaying_incompetence%4:45:00::'
       synset: 00186886-r
 displease:
   v:
@@ -48452,7 +48452,7 @@ displeasing:
 displeasingly:
   r:
     sense:
-    - id: 'displeasingly%4:02:00::'
+    - id: 'displeasingly%4:45:00::'
       pertainym:
       - 'displeasing%3:00:00::'
       synset: 00319394-r
@@ -48722,14 +48722,14 @@ disproportionately:
   r:
     sense:
     - antonym:
-      - 'proportionately%4:02:01::'
-      id: 'disproportionately%4:02:01::'
+      - 'proportionately%4:45:01::'
+      id: 'disproportionately%4:51:01::'
       pertainym:
       - 'disproportionate%3:00:00::'
       synset: 00319894-r
     - antonym:
-      - 'proportionately%4:02:00::'
-      id: 'disproportionately%4:02:00::'
+      - 'proportionately%4:51:00::'
+      id: 'disproportionately%4:51:00::'
       pertainym:
       - disproportionate%5:00:00:incommensurate:00
       synset: 00319536-r
@@ -48807,7 +48807,7 @@ disputatious:
 disputatiously:
   r:
     sense:
-    - id: 'disputatiously%4:02:00::'
+    - id: 'disputatiously%4:45:00::'
       pertainym:
       - disputatious%5:00:00:argumentative:00
       synset: 00320223-r
@@ -48998,7 +48998,7 @@ disquieting:
 disquietingly:
   r:
     sense:
-    - id: 'disquietingly%4:02:00::'
+    - id: 'disquietingly%4:51:00::'
       pertainym:
       - disquieting%5:00:00:uncomfortable:01
       synset: 00320344-r
@@ -49088,12 +49088,12 @@ disregarded:
 disregarding:
   r:
     sense:
-    - id: 'disregarding%4:02:00::'
+    - id: 'disregarding%4:54:00::'
       synset: 00119427-r
 disregardless:
   r:
     sense:
-    - id: 'disregardless%4:02:00::'
+    - id: 'disregardless%4:54:00::'
       synset: 00119427-r
 disrepair:
   n:
@@ -49142,8 +49142,8 @@ disreputably:
   r:
     sense:
     - antonym:
-      - 'reputably%4:02:00::'
-      id: 'disreputably%4:02:00::'
+      - 'reputably%4:45:00::'
+      id: 'disreputably%4:45:00::'
       pertainym:
       - 'disreputable%3:00:00::'
       synset: 00320472-r
@@ -49224,8 +49224,8 @@ disrespectfully:
   r:
     sense:
     - antonym:
-      - 'respectfully%4:02:00::'
-      id: 'disrespectfully%4:02:00::'
+      - 'respectfully%4:47:00::'
+      id: 'disrespectfully%4:45:00::'
       pertainym:
       - 'disrespectful%3:00:00::'
       synset: 00320875-r
@@ -49331,7 +49331,7 @@ disruptive:
 disruptively:
   r:
     sense:
-    - id: 'disruptively%4:02:00::'
+    - id: 'disruptively%4:45:00::'
       pertainym:
       - disruptive%5:00:00:unquiet:00
       synset: 00083192-r
@@ -50061,7 +50061,7 @@ dissolute:
 dissolutely:
   r:
     sense:
-    - id: 'dissolutely%4:02:00::'
+    - id: 'dissolutely%4:45:00::'
       pertainym:
       - dissolute%5:00:00:immoral:00
       synset: 00502645-r
@@ -50410,7 +50410,7 @@ distal muscular dystrophy:
 distally:
   r:
     sense:
-    - id: 'distally%4:02:00::'
+    - id: 'distally%4:50:00::'
       pertainym:
       - 'distal%3:00:01::'
       synset: 00177739-r
@@ -50496,7 +50496,7 @@ distant:
 distantly:
   r:
     sense:
-    - id: 'distantly%4:02:00::'
+    - id: 'distantly%4:45:00::'
       pertainym:
       - 'distant%3:00:01::'
       synset: 00321028-r
@@ -50524,11 +50524,11 @@ distasteful:
 distastefully:
   r:
     sense:
-    - id: 'distastefully%4:02:02::'
+    - id: 'distastefully%4:45:02::'
       pertainym:
       - distasteful%5:00:00:offensive:01
       synset: 00321158-r
-    - id: 'distastefully%4:02:00::'
+    - id: 'distastefully%4:51:00::'
       pertainym:
       - distasteful%5:00:00:offensive:01
       synset: 00315534-r
@@ -50908,7 +50908,7 @@ distinctive feature:
 distinctively:
   r:
     sense:
-    - id: 'distinctively%4:02:00::'
+    - id: 'distinctively%4:51:00::'
       pertainym:
       - distinctive%5:00:00:identifiable:00
       synset: 00503666-r
@@ -50930,15 +50930,15 @@ distinctly:
     pronunciation:
     - value: dɪsˈtɪŋktli
     sense:
-    - id: 'distinctly%4:02:00::'
+    - id: 'distinctly%4:51:00::'
       pertainym:
       - 'distinct%3:00:00::'
       synset: 00183387-r
-    - id: 'distinctly%4:02:01::'
+    - id: 'distinctly%4:51:01::'
       pertainym:
       - distinct%5:00:00:different:00
       synset: 00309032-r
-    - id: 'distinctly%4:02:03::'
+    - id: 'distinctly%4:51:03::'
       pertainym:
       - 'distinct%3:00:00::'
       synset: 00308872-r
@@ -51168,7 +51168,7 @@ distracted:
 distractedly:
   r:
     sense:
-    - id: 'distractedly%4:02:00::'
+    - id: 'distractedly%4:45:00::'
       pertainym:
       - distracted%5:00:00:inattentive:00
       synset: 00309183-r
@@ -51303,7 +51303,7 @@ distressful:
 distressfully:
   r:
     sense:
-    - id: 'distressfully%4:02:00::'
+    - id: 'distressfully%4:45:00::'
       pertainym:
       - distressful%5:00:00:heavy:02
       synset: 00321324-r
@@ -51326,7 +51326,7 @@ distressing:
 distressingly:
   r:
     sense:
-    - id: 'distressingly%4:02:00::'
+    - id: 'distressingly%4:51:00::'
       pertainym:
       - distressing%5:00:00:bad:00
       synset: 00115516-r
@@ -51527,11 +51527,11 @@ distributive shock:
 distributively:
   r:
     sense:
-    - id: 'distributively%4:02:01::'
+    - id: 'distributively%4:45:01::'
       pertainym:
       - 'distributive%3:00:00::'
       synset: 00321630-r
-    - id: 'distributively%4:02:00::'
+    - id: 'distributively%4:45:00::'
       pertainym:
       - 'distributed%3:00:00::'
       synset: 00321467-r
@@ -51659,8 +51659,8 @@ distrustfully:
   r:
     sense:
     - antonym:
-      - 'trustfully%4:02:00::'
-      id: 'distrustfully%4:02:00::'
+      - 'trustfully%4:45:00::'
+      id: 'distrustfully%4:45:00::'
       pertainym:
       - 'distrustful%3:00:00::'
       synset: 00321801-r
@@ -51778,7 +51778,7 @@ disturbing:
 disturbingly:
   r:
     sense:
-    - id: 'disturbingly%4:02:00::'
+    - id: 'disturbingly%4:51:00::'
       pertainym:
       - disturbing%5:00:00:heavy:02
       synset: 00322170-r
@@ -52491,7 +52491,7 @@ diverse:
 diversely:
   r:
     sense:
-    - id: 'diversely%4:02:00::'
+    - id: 'diversely%4:45:00::'
       pertainym:
       - diverse%5:00:00:different:00
       synset: 00052769-r
@@ -52723,7 +52723,7 @@ diverting:
 divertingly:
   r:
     sense:
-    - id: 'divertingly%4:02:00::'
+    - id: 'divertingly%4:45:00::'
       pertainym:
       - diverting%5:00:00:interesting:00
       synset: 00094727-r
@@ -53050,7 +53050,7 @@ divine service:
 divinely:
   r:
     sense:
-    - id: 'divinely%4:02:00::'
+    - id: 'divinely%4:45:00::'
       pertainym:
       - divine%5:00:00:heavenly:00
       synset: 00191587-r
@@ -53547,7 +53547,7 @@ dizygous:
 dizzily:
   r:
     sense:
-    - id: 'dizzily%4:02:00::'
+    - id: 'dizzily%4:45:00::'
       pertainym:
       - dizzy%5:00:00:ill:01
       synset: 00083273-r
@@ -54317,7 +54317,7 @@ doctrinal:
 doctrinally:
   r:
     sense:
-    - id: 'doctrinally%4:02:00::'
+    - id: 'doctrinally%4:52:00::'
       pertainym:
       - 'doctrinal%3:01:00::'
       synset: 00322327-r
@@ -55043,7 +55043,7 @@ doggedly:
     - value: ˈdɒɡɪdli
       variety: GB
     sense:
-    - id: 'doggedly%4:02:00::'
+    - id: 'doggedly%4:45:00::'
       pertainym:
       - dogged%5:00:00:stubborn:00
       synset: 00237428-r
@@ -55085,7 +55085,7 @@ dogging:
 doggo:
   r:
     sense:
-    - id: 'doggo%4:02:00::'
+    - id: 'doggo%4:45:00::'
       synset: 00253718-r
 doggy:
   n:
@@ -55193,7 +55193,7 @@ dogmatical:
 dogmatically:
   r:
     sense:
-    - id: 'dogmatically%4:02:00::'
+    - id: 'dogmatically%4:45:00::'
       pertainym:
       - dogmatic%5:00:00:narrow-minded:00
       synset: 00322408-r
@@ -55405,7 +55405,7 @@ dolabriform:
 dolce:
   r:
     sense:
-    - id: 'dolce%4:02:00::'
+    - id: 'dolce%4:45:00::'
       synset: 00515781-r
 dolce far niente:
   n:
@@ -55461,7 +55461,7 @@ doleful:
 dolefully:
   r:
     sense:
-    - id: 'dolefully%4:02:00::'
+    - id: 'dolefully%4:45:00::'
       pertainym:
       - doleful%5:00:00:sad:00
       synset: 00322558-r
@@ -55776,7 +55776,7 @@ doltish:
 doltishly:
   r:
     sense:
-    - id: 'doltishly%4:02:00::'
+    - id: 'doltishly%4:45:00::'
       pertainym:
       - doltish%5:00:00:stupid:00
       synset: 00176830-r
@@ -55979,11 +55979,11 @@ domestic violence:
 domestically:
   r:
     sense:
-    - id: 'domestically%4:02:01::'
+    - id: 'domestically%4:52:01::'
       pertainym:
       - 'domestic%3:00:00::'
       synset: 00322917-r
-    - id: 'domestically%4:02:00::'
+    - id: 'domestically%4:52:00::'
       pertainym:
       - 'domestic%3:00:01::'
       synset: 00322759-r
@@ -56324,7 +56324,7 @@ domineering:
 domineeringly:
   r:
     sense:
-    - id: 'domineeringly%4:02:00::'
+    - id: 'domineeringly%4:45:00::'
       pertainym:
       - 'domineering%3:00:00::'
       synset: 00323100-r
@@ -57236,7 +57236,7 @@ dorsal vertebra:
 dorsally:
   r:
     sense:
-    - id: 'dorsally%4:02:00::'
+    - id: 'dorsally%4:50:00::'
       pertainym:
       - 'dorsal%3:00:00::'
       synset: 00083430-r
@@ -57253,7 +57253,7 @@ dorsoventral:
 dorsoventrally:
   r:
     sense:
-    - id: 'dorsoventrally%4:02:00::'
+    - id: 'dorsoventrally%4:45:00::'
       pertainym:
       - dorsoventral%5:00:00:ventral:00
       synset: 00083518-r
@@ -57601,7 +57601,7 @@ dotterel:
 dottily:
   r:
     sense:
-    - id: 'dottily%4:02:00::'
+    - id: 'dottily%4:45:00::'
       pertainym:
       - dotty%5:00:00:insane:00
       synset: 00305302-r
@@ -57671,11 +57671,11 @@ double:
     pronunciation:
     - value: ˈdʌb.əl
     sense:
-    - id: 'double%4:02:02::'
+    - id: 'double%4:45:02::'
       synset: 00323299-r
-    - id: 'double%4:02:01::'
+    - id: 'double%4:51:01::'
       synset: 00323217-r
-    - id: 'double%4:02:00::'
+    - id: 'double%4:51:00::'
       synset: 00083743-r
   v:
     pronunciation:
@@ -58058,7 +58058,7 @@ double pneumonia:
 double quick:
   r:
     sense:
-    - id: 'double_quick%4:02:00::'
+    - id: 'double_quick%4:51:00::'
       synset: 00323386-r
 double quotes:
   n:
@@ -58170,7 +58170,7 @@ double time:
       synset: 13300936-n
   r:
     sense:
-    - id: 'double_time%4:02:00::'
+    - id: 'double_time%4:51:00::'
       synset: 00323386-r
 double tongue:
   v:
@@ -58566,11 +58566,11 @@ doubly:
     pronunciation:
     - value: ˈdʌb.li
     sense:
-    - id: 'doubly%4:02:00::'
+    - id: 'doubly%4:51:00::'
       pertainym:
       - double%5:00:01:multiple:00
       synset: 00083743-r
-    - id: 'doubly%4:02:01::'
+    - id: 'doubly%4:51:01::'
       synset: 00084297-r
 doubly transitive verb:
   n:
@@ -58657,7 +58657,7 @@ doubtful:
 doubtfully:
   r:
     sense:
-    - id: 'doubtfully%4:02:00::'
+    - id: 'doubtfully%4:45:00::'
       pertainym:
       - doubtful%5:00:00:uncertain:02
       synset: 00323505-r
@@ -58690,12 +58690,12 @@ doubtless:
     pronunciation:
     - value: ˈdaʊ̯tləs
     sense:
-    - id: 'doubtless%4:02:00::'
+    - id: 'doubtless%4:47:00::'
       synset: 00079373-r
 doubtlessly:
   r:
     sense:
-    - id: 'doubtlessly%4:02:00::'
+    - id: 'doubtlessly%4:47:00::'
       synset: 00079373-r
 douche:
   n:
@@ -58863,7 +58863,7 @@ dourah:
 dourly:
   r:
     sense:
-    - id: 'dourly%4:02:00::'
+    - id: 'dourly%4:45:00::'
       pertainym:
       - dour%5:00:00:ill-natured:00
       synset: 00243780-r
@@ -59028,7 +59028,7 @@ dowager's hump:
 dowdily:
   r:
     sense:
-    - id: 'dowdily%4:02:00::'
+    - id: 'dowdily%4:45:00::'
       pertainym:
       - dowdy%5:00:00:unfashionable:00
       synset: 00323648-r
@@ -59181,22 +59181,22 @@ down:
   r:
     sense:
     - antonym:
-      - 'up%4:02:00::'
-      id: 'down%4:02:00::'
+      - 'up%4:50:00::'
+      id: 'down%4:50:00::'
       synset: 00095870-r
     - antonym:
-      - 'up%4:02:02::'
-      id: 'down%4:02:02::'
+      - 'up%4:50:02::'
+      id: 'down%4:50:02::'
       synset: 00096162-r
-    - id: 'down%4:02:03::'
+    - id: 'down%4:50:03::'
       synset: 00096391-r
-    - id: 'down%4:02:06::'
+    - id: 'down%4:50:06::'
       synset: 00096782-r
     - antonym:
-      - 'up%4:02:05::'
-      id: 'down%4:02:05::'
+      - 'up%4:51:05::'
+      id: 'down%4:45:05::'
       synset: 00096639-r
-    - id: 'down%4:02:04::'
+    - id: 'down%4:50:04::'
       synset: 00096496-r
   v:
     sense:
@@ -59269,7 +59269,7 @@ down quark:
 down the stairs:
   r:
     sense:
-    - id: 'down_the_stairs%4:02:00::'
+    - id: 'down_the_stairs%4:50:00::'
       synset: 00094946-r
 down town:
   n:
@@ -59367,7 +59367,7 @@ downfield:
       synset: 02502490-s
   r:
     sense:
-    - id: 'downfield%4:02:00::'
+    - id: 'downfield%4:50:00::'
       synset: 00097908-r
 downgrade:
   n:
@@ -59417,9 +59417,9 @@ downhill:
       synset: 07478829-n
   r:
     sense:
-    - id: 'downhill%4:02:01::'
+    - id: 'downhill%4:45:01::'
       synset: 00323926-r
-    - id: 'downhill%4:02:00::'
+    - id: 'downhill%4:50:00::'
       synset: 00323816-r
 downiness:
   n:
@@ -59488,7 +59488,7 @@ downright:
     pronunciation:
     - value: ˈdaʊnˌɹaɪt
     sense:
-    - id: 'downright%4:02:00::'
+    - id: 'downright%4:51:00::'
       synset: 00098072-r
 downrightness:
   n:
@@ -59501,8 +59501,8 @@ downriver:
   r:
     sense:
     - antonym:
-      - 'upriver%4:02:00::'
-      id: 'downriver%4:02:00::'
+      - 'upriver%4:50:00::'
+      id: 'downriver%4:50:00::'
       synset: 00097781-r
 downscale:
   a:
@@ -59569,8 +59569,8 @@ downstage:
   r:
     sense:
     - antonym:
-      - 'upstage%4:02:00::'
-      id: 'downstage%4:02:00::'
+      - 'upstage%4:50:00::'
+      id: 'downstage%4:50:00::'
       synset: 00265610-r
 downstair:
   a:
@@ -59597,8 +59597,8 @@ downstairs:
       variety: GB
     sense:
     - antonym:
-      - 'upstairs%4:02:00::'
-      id: 'downstairs%4:02:00::'
+      - 'upstairs%4:50:00::'
+      id: 'downstairs%4:50:00::'
       synset: 00094946-r
 downstream:
   a:
@@ -59610,8 +59610,8 @@ downstream:
   r:
     sense:
     - antonym:
-      - 'upstream%4:02:00::'
-      id: 'downstream%4:02:00::'
+      - 'upstream%4:50:00::'
+      id: 'downstream%4:50:00::'
       synset: 00097781-r
 downstroke:
   n:
@@ -59659,8 +59659,8 @@ downtown:
   r:
     sense:
     - antonym:
-      - 'uptown%4:02:00::'
-      id: 'downtown%4:02:00::'
+      - 'uptown%4:50:00::'
+      id: 'downtown%4:50:00::'
       synset: 00189364-r
 downtrodden:
   a:
@@ -59694,10 +59694,10 @@ downward:
       variety: GB
     sense:
     - antonym:
-      - 'upward%4:02:00::'
+      - 'upward%4:50:00::'
       exemplifies:
       - 'american_english%1:10:00::'
-      id: 'downward%4:02:00::'
+      id: 'downward%4:50:00::'
       synset: 00095870-r
 downward-arching:
   a:
@@ -59713,8 +59713,8 @@ downwardly:
   r:
     sense:
     - antonym:
-      - 'upwardly%4:02:00::'
-      id: 'downwardly%4:02:00::'
+      - 'upwardly%4:50:00::'
+      id: 'downwardly%4:50:00::'
       synset: 00095870-r
 downwards:
   r:
@@ -59725,10 +59725,10 @@ downwards:
       variety: US
     sense:
     - antonym:
-      - 'upwards%4:02:00::'
+      - 'upwards%4:50:00::'
       exemplifies:
       - 'british_english%1:10:01::'
-      id: 'downwards%4:02:00::'
+      id: 'downwards%4:50:00::'
       synset: 00095870-r
 downwind:
   a:
@@ -59741,12 +59741,12 @@ downwind:
       variety: CA
     sense:
     - antonym:
-      - 'upwind%4:02:00::'
-      id: 'downwind%4:02:00::'
+      - 'upwind%4:50:00::'
+      id: 'downwind%4:50:00::'
       synset: 00095315-r
     - antonym:
-      - 'upwind%4:02:01::'
-      id: 'downwind%4:02:01::'
+      - 'upwind%4:50:01::'
+      id: 'downwind%4:50:01::'
       synset: 00095613-r
 downy:
   a:
@@ -60097,7 +60097,7 @@ draba:
 drably:
   r:
     sense:
-    - id: 'drably%4:02:00::'
+    - id: 'drably%4:45:00::'
       pertainym:
       - drab%5:00:00:colorless:02
       synset: 00324059-r
@@ -60597,7 +60597,7 @@ dragging:
 draggingly:
   r:
     sense:
-    - id: 'draggingly%4:02:00::'
+    - id: 'draggingly%4:45:00::'
       pertainym:
       - dragging%5:00:00:effortful:00
       synset: 00515852-r
@@ -61004,17 +61004,17 @@ dramatic work:
 dramatically:
   r:
     sense:
-    - id: 'dramatically%4:02:02::'
+    - id: 'dramatically%4:51:02::'
       pertainym:
       - dramatic%5:00:00:impressive:00
       synset: 00248281-r
     - antonym:
-      - 'undramatically%4:02:00::'
-      id: 'dramatically%4:02:00::'
+      - 'undramatically%4:45:00::'
+      id: 'dramatically%4:45:00::'
       pertainym:
       - 'dramatic%3:00:00::'
       synset: 00139755-r
-    - id: 'dramatically%4:02:01::'
+    - id: 'dramatically%4:51:01::'
       pertainym:
       - 'dramatic%3:01:00::'
       synset: 00189865-r
@@ -61277,7 +61277,7 @@ drastic:
 drastically:
   r:
     sense:
-    - id: 'drastically%4:02:02::'
+    - id: 'drastically%4:51:02::'
       pertainym:
       - drastic%5:00:00:forceful:00
       synset: 00057190-r
@@ -62220,11 +62220,11 @@ dreadfully:
     pronunciation:
     - value: ˈdɹɛd.fʊl.i
     sense:
-    - id: 'dreadfully%4:02:00::'
+    - id: 'dreadfully%4:51:00::'
       pertainym:
       - dreadful%5:00:00:alarming:00
       synset: 00056878-r
-    - id: 'dreadfully%4:02:01::'
+    - id: 'dreadfully%4:45:01::'
       pertainym:
       - dreadful%5:00:00:bad:00
       synset: 00317880-r
@@ -62366,12 +62366,12 @@ dreamer:
 dreamfully:
   r:
     sense:
-    - id: 'dreamfully%4:02:00::'
+    - id: 'dreamfully%4:45:00::'
       synset: 00324150-r
 dreamily:
   r:
     sense:
-    - id: 'dreamily%4:02:00::'
+    - id: 'dreamily%4:45:00::'
       pertainym:
       - dreamy%5:00:00:inattentive:00
       synset: 00324150-r
@@ -62443,7 +62443,7 @@ drear:
 drearily:
   r:
     sense:
-    - id: 'drearily%4:02:00::'
+    - id: 'drearily%4:45:00::'
       pertainym:
       - dreary%5:00:00:depressing:00
       synset: 00318128-r
@@ -63564,7 +63564,7 @@ drilling rig:
 drily:
   r:
     sense:
-    - id: 'drily%4:02:00::'
+    - id: 'drily%4:45:00::'
       pertainym:
       - dry%5:00:00:humorous:00
       synset: 00233186-r
@@ -63880,7 +63880,7 @@ drippage:
 drippily:
   r:
     sense:
-    - id: 'drippily%4:02:00::'
+    - id: 'drippily%4:45:00::'
       pertainym:
       - drippy%5:00:00:emotional:00
       synset: 00398104-r
@@ -63906,7 +63906,7 @@ dripping:
       synset: 07397923-n
   r:
     sense:
-    - id: 'dripping%4:02:00::'
+    - id: 'dripping%4:51:00::'
       synset: 00463703-r
 dripping pan:
   n:
@@ -64874,7 +64874,7 @@ drooping juniper:
 droopingly:
   r:
     sense:
-    - id: 'droopingly%4:02:00::'
+    - id: 'droopingly%4:45:00::'
       pertainym:
       - drooping%5:00:00:lax:01
       synset: 00324332-r
@@ -65323,7 +65323,7 @@ drop zone:
 drop-dead:
   r:
     sense:
-    - id: 'drop-dead%4:02:00::'
+    - id: 'drop-dead%4:51:00::'
       synset: 00046987-r
 drop-down menu:
   n:
@@ -65662,7 +65662,7 @@ drowse off:
 drowsily:
   r:
     sense:
-    - id: 'drowsily%4:02:00::'
+    - id: 'drowsily%4:45:00::'
       pertainym:
       - drowsy%5:00:00:inattentive:00
       synset: 00324442-r
@@ -66217,7 +66217,7 @@ drunken revelry:
 drunkenly:
   r:
     sense:
-    - id: 'drunkenly%4:02:00::'
+    - id: 'drunkenly%4:45:00::'
       pertainym:
       - drunken%5:00:02:intoxicated:00
       synset: 00200649-r
@@ -66738,7 +66738,7 @@ dryly:
     pronunciation:
     - value: ˈdɹaɪ.li
     sense:
-    - id: 'dryly%4:02:00::'
+    - id: 'dryly%4:45:00::'
       pertainym:
       - dry%5:00:00:humorous:00
       synset: 00233186-r
@@ -66960,11 +66960,11 @@ dubious:
 dubiously:
   r:
     sense:
-    - id: 'dubiously%4:02:01::'
+    - id: 'dubiously%4:45:01::'
       pertainym:
       - dubious%5:00:00:questionable:00
       synset: 00439689-r
-    - id: 'dubiously%4:02:00::'
+    - id: 'dubiously%4:45:00::'
       pertainym:
       - dubious%5:00:00:uncertain:02
       synset: 00323505-r
@@ -67397,7 +67397,7 @@ due:
       variety: US
     - value: dʒʉː
     sense:
-    - id: 'due%4:02:00::'
+    - id: 'due%4:50:00::'
       synset: 00052690-r
 due care:
   n:
@@ -67889,11 +67889,11 @@ dullness:
 dully:
   r:
     sense:
-    - id: 'dully%4:02:00::'
+    - id: 'dully%4:45:00::'
       pertainym:
       - 'dull%3:00:03::'
       synset: 00238021-r
-    - id: 'dully%4:02:02::'
+    - id: 'dully%4:45:02::'
       pertainym:
       - 'dull%3:00:02::'
       synset: 00238120-r
@@ -67914,7 +67914,7 @@ duly:
     - value: ˈdʒʉːli
       variety: NZ
     sense:
-    - id: 'duly%4:02:01::'
+    - id: 'duly%4:45:01::'
       synset: 00140318-r
 dumb:
   a:
@@ -67992,11 +67992,11 @@ dumbly:
     pronunciation:
     - value: ˈdʌmli
     sense:
-    - id: 'dumbly%4:02:01::'
+    - id: 'dumbly%4:45:01::'
       pertainym:
       - dumb%5:00:00:stupid:00
       synset: 00324708-r
-    - id: 'dumbly%4:02:00::'
+    - id: 'dumbly%4:45:00::'
       pertainym:
       - dumb%5:00:02:inarticulate:00
       synset: 00324586-r
@@ -69310,7 +69310,7 @@ dutiful:
 dutifully:
   r:
     sense:
-    - id: 'dutifully%4:02:00::'
+    - id: 'dutifully%4:45:00::'
       pertainym:
       - dutiful%5:00:00:obedient:00
       synset: 00324912-r
@@ -70001,7 +70001,7 @@ dynamical system:
 dynamically:
   r:
     sense:
-    - id: 'dynamically%4:02:00::'
+    - id: 'dynamically%4:45:00::'
       pertainym:
       - 'dynamic%3:00:00::'
       synset: 00325059-r

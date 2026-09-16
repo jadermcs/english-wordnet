@@ -6873,7 +6873,7 @@ naively:
     pronunciation:
     - value: naɪˈivli
     sense:
-    - id: 'naively%4:02:00::'
+    - id: 'naively%4:45:00::'
       pertainym:
       - 'naive%3:00:00::'
       synset: 00408067-r
@@ -6974,11 +6974,11 @@ naked-tailed:
 nakedly:
   r:
     sense:
-    - id: 'nakedly%4:02:02::'
+    - id: 'nakedly%4:45:02::'
       pertainym:
       - naked%5:00:00:unprotected:00
       synset: 00408380-r
-    - id: 'nakedly%4:02:00::'
+    - id: 'nakedly%4:45:00::'
       pertainym:
       - naked%5:00:00:unclothed:00
       synset: 00408198-r
@@ -7218,7 +7218,7 @@ namely:
     pronunciation:
     - value: ˈneɪmli
     sense:
-    - id: 'namely%4:02:00::'
+    - id: 'namely%4:53:00::'
       synset: 00190022-r
 nameplate:
   n:
@@ -8200,8 +8200,8 @@ narrow-mindedly:
   r:
     sense:
     - antonym:
-      - 'broad-mindedly%4:02:00::'
-      id: 'narrow-mindedly%4:02:00::'
+      - 'broad-mindedly%4:45:00::'
+      id: 'narrow-mindedly%4:45:00::'
       pertainym:
       - 'narrow-minded%3:00:00::'
       synset: 00408548-r
@@ -8274,8 +8274,8 @@ narrowly:
       variety: GB
     sense:
     - antonym:
-      - 'broadly%4:02:00::'
-      id: 'narrowly%4:02:00::'
+      - 'broadly%4:45:00::'
+      id: 'narrowly%4:45:00::'
       pertainym:
       - narrow%5:00:00:limited:00
       synset: 00222909-r
@@ -8516,7 +8516,7 @@ nasally:
     pronunciation:
     - value: ˈneɪzəli
     sense:
-    - id: 'nasally%4:02:00::'
+    - id: 'nasally%4:45:00::'
       pertainym:
       - 'nasal%3:01:00::'
       synset: 00144401-r
@@ -8604,7 +8604,7 @@ nastika:
 nastily:
   r:
     sense:
-    - id: 'nastily%4:02:00::'
+    - id: 'nastily%4:45:00::'
       pertainym:
       - 'nasty%3:00:00::'
       synset: 00408963-r
@@ -9071,11 +9071,11 @@ nationalize:
 nationally:
   r:
     sense:
-    - id: 'nationally%4:02:02::'
+    - id: 'nationally%4:50:02::'
       pertainym:
       - 'national%3:00:00::'
       synset: 00136477-r
-    - id: 'nationally%4:02:00::'
+    - id: 'nationally%4:50:00::'
       pertainym:
       - 'national%3:01:00::'
       synset: 00409125-r
@@ -9095,7 +9095,7 @@ nationwide:
     pronunciation:
     - value: ˌneɪ.ʃənˈwaɪd
     sense:
-    - id: 'nationwide%4:02:00::'
+    - id: 'nationwide%4:50:00::'
       synset: 00409125-r
 native:
   a:
@@ -9333,7 +9333,7 @@ natterjack:
 nattily:
   r:
     sense:
-    - id: 'nattily%4:02:00::'
+    - id: 'nattily%4:45:00::'
       pertainym:
       - natty%5:00:00:fashionable:00
       synset: 00409329-r
@@ -9840,20 +9840,20 @@ naturally:
     - value: ˈnætʃ(ə)ɹəli
     sense:
     - antonym:
-      - 'unnaturally%4:02:03::'
-      id: 'naturally%4:02:00::'
+      - 'unnaturally%4:47:03::'
+      id: 'naturally%4:47:00::'
       synset: 00039019-r
     - antonym:
-      - 'artificially%4:02:00::'
-      id: 'naturally%4:02:01::'
+      - 'artificially%4:45:00::'
+      id: 'naturally%4:45:01::'
       pertainym:
       - 'natural%3:00:02::'
       synset: 00141437-r
-    - id: 'naturally%4:02:03::'
+    - id: 'naturally%4:52:03::'
       synset: 00507808-r
     - antonym:
-      - 'unnaturally%4:02:02::'
-      id: 'naturally%4:02:02::'
+      - 'unnaturally%4:45:02::'
+      id: 'naturally%4:45:02::'
       synset: 00490971-r
 naturally occurring:
   a:
@@ -9964,7 +9964,7 @@ naught:
 naughtily:
   r:
     sense:
-    - id: 'naughtily%4:02:00::'
+    - id: 'naughtily%4:45:00::'
       pertainym:
       - naughty%5:00:00:bad:00
       synset: 00017140-r
@@ -10515,7 +10515,7 @@ nay:
     pronunciation:
     - value: neɪ
     sense:
-    - id: 'nay%4:02:00::'
+    - id: 'nay%4:54:00::'
       synset: 00409589-r
 naysayer:
   n:
@@ -10566,7 +10566,7 @@ ne'er:
     - value: ˈnɛʔɚ
       variety: US
     sense:
-    - id: 'ne''er%4:02:00::'
+    - id: 'ne''er%4:48:00::'
       synset: 00021214-r
 ne'er-do-well:
   n:
@@ -10637,9 +10637,9 @@ near:
     - value: nɪɹ
       variety: US
     sense:
-    - id: 'near%4:02:01::'
+    - id: 'near%4:49:01::'
       synset: 00411619-r
-    - id: 'near%4:02:03::'
+    - id: 'near%4:51:03::'
       synset: 00073433-r
   v:
     pronunciation:
@@ -10700,17 +10700,17 @@ nearby:
     pronunciation:
     - value: ˌnɪə(ɹ)ˈbaɪ
     sense:
-    - id: 'nearby%4:02:00::'
+    - id: 'nearby%4:50:00::'
       synset: 00071721-r
 nearer:
   r:
     sense:
-    - id: 'nearer%4:02:00::'
+    - id: 'nearer%4:50:00::'
       synset: 00409712-r
 nearest:
   r:
     sense:
-    - id: 'nearest%4:02:00::'
+    - id: 'nearest%4:51:00::'
       synset: 00409931-r
 nearly:
   r:
@@ -10720,9 +10720,9 @@ nearly:
     - value: ˈnɪɹli
       variety: US
     sense:
-    - id: 'nearly%4:02:00::'
+    - id: 'nearly%4:51:00::'
       synset: 00073433-r
-    - id: 'nearly%4:02:02::'
+    - id: 'nearly%4:51:02::'
       synset: 00161858-r
 nearness:
   n:
@@ -10795,7 +10795,7 @@ neatly:
     pronunciation:
     - value: ˈniːtli
     sense:
-    - id: 'neatly%4:02:00::'
+    - id: 'neatly%4:45:00::'
       pertainym:
       - neat%5:00:03:tidy:00
       synset: 00181543-r
@@ -10925,7 +10925,7 @@ nebulously:
     pronunciation:
     - value: ˈnɛb.jʊ.ləs.li
     sense:
-    - id: 'nebulously%4:02:00::'
+    - id: 'nebulously%4:45:00::'
       pertainym:
       - nebulous%5:00:00:indefinite:00
       synset: 00514358-r
@@ -10935,16 +10935,16 @@ necessarily:
     - value: ˌnɛsəˈsɛɹəli
     sense:
     - antonym:
-      - 'unnecessarily%4:02:00::'
-      id: 'necessarily%4:02:00::'
+      - 'unnecessarily%4:45:00::'
+      id: 'necessarily%4:47:00::'
       pertainym:
       - 'necessary%3:00:00::'
       synset: 00410115-r
-    - id: 'necessarily%4:02:03::'
+    - id: 'necessarily%4:51:03::'
       pertainym:
       - necessary%5:00:00:inevitable:00
       synset: 00113314-r
-    - id: 'necessarily%4:02:01::'
+    - id: 'necessarily%4:47:01::'
       synset: 00410285-r
 necessary:
   a:
@@ -11062,7 +11062,7 @@ neck and neck:
       synset: 00553636-s
   r:
     sense:
-    - id: 'neck_and_neck%4:02:00::'
+    - id: 'neck_and_neck%4:45:00::'
       pertainym:
       - neck_and_neck%5:00:00:inconclusive:00
       synset: 00410542-r
@@ -11534,7 +11534,7 @@ needful:
 needfully:
   r:
     sense:
-    - id: 'needfully%4:02:00::'
+    - id: 'needfully%4:47:00::'
       pertainym:
       - needful%5:00:00:necessary:00
       synset: 00410115-r
@@ -11716,7 +11716,7 @@ needless:
 needlessly:
   r:
     sense:
-    - id: 'needlessly%4:02:00::'
+    - id: 'needlessly%4:45:00::'
       pertainym:
       - needless%5:00:00:unnecessary:00
       synset: 00197191-r
@@ -11745,7 +11745,7 @@ needleworker:
 needs:
   r:
     sense:
-    - id: 'needs%4:02:00::'
+    - id: 'needs%4:51:00::'
       synset: 00113314-r
 needy:
   a:
@@ -11808,7 +11808,7 @@ nefarious:
 nefariously:
   r:
     sense:
-    - id: 'nefariously%4:02:00::'
+    - id: 'nefariously%4:45:00::'
       pertainym:
       - nefarious%5:00:00:wicked:00
       synset: 00410775-r
@@ -12042,11 +12042,11 @@ negative stimulus:
 negatively:
   r:
     sense:
-    - id: 'negatively%4:02:01::'
+    - id: 'negatively%4:45:01::'
       pertainym:
       - negative%5:00:00:bad:00
       synset: 00004669-r
-    - id: 'negatively%4:02:00::'
+    - id: 'negatively%4:45:00::'
       pertainym:
       - 'negative%3:00:02::'
       synset: 00004565-r
@@ -12237,7 +12237,7 @@ neglectful:
 neglectfully:
   r:
     sense:
-    - id: 'neglectfully%4:02:00::'
+    - id: 'neglectfully%4:45:00::'
       pertainym:
       - neglectful%5:00:00:negligent:00
       synset: 00410919-r
@@ -12286,7 +12286,7 @@ negligent:
 negligently:
   r:
     sense:
-    - id: 'negligently%4:02:00::'
+    - id: 'negligently%4:45:00::'
       pertainym:
       - 'negligent%3:00:00::'
       synset: 00411000-r
@@ -12691,7 +12691,7 @@ nelson:
 nem con:
   r:
     sense:
-    - id: 'nem_con%4:02:00::'
+    - id: 'nem_con%4:45:00::'
       synset: 00107003-r
 nematode:
   n:
@@ -12730,7 +12730,7 @@ nemesis:
 nemine contradicente:
   r:
     sense:
-    - id: 'nemine_contradicente%4:02:00::'
+    - id: 'nemine_contradicente%4:45:00::'
       synset: 00107003-r
 nemophila:
   n:
@@ -13610,7 +13610,7 @@ nerveless:
 nervelessly:
   r:
     sense:
-    - id: 'nervelessly%4:02:00::'
+    - id: 'nervelessly%4:45:00::'
       pertainym:
       - nerveless%5:00:00:composed:00
       synset: 00296859-r
@@ -13651,7 +13651,7 @@ nervii olfactorii:
 nervily:
   r:
     sense:
-    - id: 'nervily%4:02:00::'
+    - id: 'nervily%4:45:00::'
       pertainym:
       - nervy%5:00:00:forward:02
       synset: 00285748-r
@@ -13734,11 +13734,11 @@ nervous tissue:
 nervously:
   r:
     sense:
-    - id: 'nervously%4:02:00::'
+    - id: 'nervously%4:45:00::'
       pertainym:
       - nervous%5:00:00:tense:03
       synset: 00411110-r
-    - id: 'nervously%4:02:01::'
+    - id: 'nervously%4:45:01::'
       pertainym:
       - nervous%5:00:00:excitable:00
       synset: 00411369-r
@@ -14581,7 +14581,7 @@ neurobiological:
       synset: 02676999-a
   r:
     sense:
-    - id: 'neurobiological%4:02:00::'
+    - id: 'neurobiological%4:52:00::'
       pertainym:
       - 'neurobiological%3:01:00::'
       synset: 00134663-r
@@ -15055,7 +15055,7 @@ neurotic depression:
 neurotically:
   r:
     sense:
-    - id: 'neurotically%4:02:00::'
+    - id: 'neurotically%4:45:00::'
       pertainym:
       - 'neurotic%3:00:00::'
       synset: 00411237-r
@@ -15506,13 +15506,13 @@ never:
       variety: US
     sense:
     - antonym:
-      - 'ever%4:02:00::'
-      id: 'never%4:02:00::'
+      - 'ever%4:48:00::'
+      id: 'never%4:48:00::'
       synset: 00021214-r
 never again:
   r:
     sense:
-    - id: 'never_again%4:02:00::'
+    - id: 'never_again%4:48:00::'
       synset: 00411507-r
 never-ending:
   a:
@@ -15537,7 +15537,7 @@ never-say-die:
 nevermore:
   r:
     sense:
-    - id: 'nevermore%4:02:00::'
+    - id: 'nevermore%4:48:00::'
       synset: 00411507-r
 nevertheless:
   r:
@@ -15547,7 +15547,7 @@ nevertheless:
     - value: ˈnɛvɚðəlɛs
       variety: US
     sense:
-    - id: 'nevertheless%4:02:00::'
+    - id: 'nevertheless%4:54:00::'
       synset: 00027761-r
 nevirapine:
   n:
@@ -15614,7 +15614,7 @@ new:
     - value: n(j)u
       variety: US
     sense:
-    - id: 'new%4:02:00::'
+    - id: 'new%4:49:00::'
       synset: 00113522-r
 new ballgame:
   n:
@@ -15777,7 +15777,7 @@ newly:
     - value: ˈnjuːli
       variety: GB
     sense:
-    - id: 'newly%4:02:00::'
+    - id: 'newly%4:49:00::'
       synset: 00113522-r
 newlywed:
   n:
@@ -16191,12 +16191,12 @@ next:
     pronunciation:
     - value: nɛkst
     sense:
-    - id: 'next%4:02:00::'
+    - id: 'next%4:49:00::'
       synset: 00054750-r
 next door:
   r:
     sense:
-    - id: 'next_door%4:02:00::'
+    - id: 'next_door%4:50:00::'
       synset: 00241809-r
 next friend:
   n:
@@ -16354,7 +16354,7 @@ nicely:
     - value: ˈnʌɪsli
       variety: GB
     sense:
-    - id: 'nicely%4:02:00::'
+    - id: 'nicely%4:45:00::'
       pertainym:
       - 'nice%3:00:00::'
       synset: 00188540-r
@@ -16850,19 +16850,19 @@ nigh:
     pronunciation:
     - value: naɪ
     sense:
-    - id: 'nigh%4:02:00::'
+    - id: 'nigh%4:49:00::'
       synset: 00411619-r
-    - id: 'nigh%4:02:01::'
+    - id: 'nigh%4:51:01::'
       synset: 00073433-r
 nigher:
   r:
     sense:
-    - id: 'nigher%4:02:00::'
+    - id: 'nigher%4:50:00::'
       synset: 00409712-r
 nighest:
   r:
     sense:
-    - id: 'nighest%4:02:00::'
+    - id: 'nighest%4:51:00::'
       synset: 00409931-r
 night:
   n:
@@ -17186,7 +17186,7 @@ nightly:
       synset: 01975417-s
   r:
     sense:
-    - id: 'nightly%4:02:00::'
+    - id: 'nightly%4:48:00::'
       synset: 00412120-r
 nightmare:
   n:
@@ -17417,7 +17417,7 @@ nimblewill:
 nimbly:
   r:
     sense:
-    - id: 'nimbly%4:02:00::'
+    - id: 'nimbly%4:45:00::'
       pertainym:
       - nimble%5:00:00:active:01
       synset: 00191127-r
@@ -17489,7 +17489,7 @@ nine iron:
 nine times:
   r:
     sense:
-    - id: 'nine_times%4:02:00::'
+    - id: 'nine_times%4:51:00::'
       synset: 00412227-r
 nine-banded armadillo:
   n:
@@ -17523,7 +17523,7 @@ ninefold:
       synset: 02227957-s
   r:
     sense:
-    - id: 'ninefold%4:02:00::'
+    - id: 'ninefold%4:51:00::'
       synset: 00412227-r
 ninepence:
   n:
@@ -17790,7 +17790,7 @@ nip and tuck:
       synset: 00675401-n
   r:
     sense:
-    - id: 'nip_and_tuck%4:02:00::'
+    - id: 'nip_and_tuck%4:45:00::'
       pertainym:
       - nip_and_tuck%5:00:00:inconclusive:00
       synset: 00410542-r
@@ -18412,11 +18412,11 @@ nm:
       synset: 07219764-n
   r:
     sense:
-    - id: 'no%4:02:02::'
+    - id: 'no%4:51:02::'
       synset: 00051219-r
-    - id: 'no%4:02:01::'
+    - id: 'no%4:51:01::'
       synset: 00024946-r
-    - id: 'no%4:02:00::'
+    - id: 'no%4:47:00::'
       synset: 00024715-r
 no ball:
   n:
@@ -18426,12 +18426,12 @@ no ball:
 no doubt:
   r:
     sense:
-    - id: 'no_doubt%4:02:00::'
+    - id: 'no_doubt%4:47:00::'
       synset: 00151192-r
 no end:
   r:
     sense:
-    - id: 'no_end%4:02:00::'
+    - id: 'no_end%4:51:00::'
       synset: 00170319-r
 no fault automobile insurance:
   n:
@@ -18447,8 +18447,8 @@ no longer:
   r:
     sense:
     - antonym:
-      - 'still%4:02:01::'
-      id: 'no_longer%4:02:00::'
+      - 'still%4:49:01::'
+      id: 'no_longer%4:49:00::'
       synset: 00031911-r
 no man's land:
   n:
@@ -18465,19 +18465,19 @@ no man's land:
 no matter:
   r:
     sense:
-    - id: 'no_matter%4:02:00::'
+    - id: 'no_matter%4:54:00::'
       synset: 00119427-r
 no matter what happens:
   r:
     sense:
-    - id: 'no_matter_what_happens%4:02:00::'
+    - id: 'no_matter_what_happens%4:54:00::'
       synset: 00157956-r
 no more:
   r:
     sense:
-    - id: 'no_more%4:02:01::'
+    - id: 'no_more%4:49:01::'
       synset: 00031911-r
-    - id: 'no_more%4:02:05::'
+    - id: 'no_more%4:51:05::'
       synset: 00051219-r
 no-account:
   a:
@@ -18778,7 +18778,7 @@ nobly:
     - value: ˈnoʊbli
       variety: US
     sense:
-    - id: 'nobly%4:02:00::'
+    - id: 'nobly%4:45:00::'
       pertainym:
       - 'noble%3:00:01::'
       synset: 00412336-r
@@ -18890,7 +18890,7 @@ nocturnal emission:
 nocturnally:
   r:
     sense:
-    - id: 'nocturnally%4:02:00::'
+    - id: 'nocturnally%4:49:00::'
       pertainym:
       - 'nocturnal%3:01:01::'
       synset: 00144491-r
@@ -19140,7 +19140,7 @@ nogging:
 nohow:
   r:
     sense:
-    - id: 'nohow%4:02:00::'
+    - id: 'nohow%4:51:00::'
       synset: 00412430-r
 noise:
   n:
@@ -19205,7 +19205,7 @@ noiseless:
 noiselessly:
   r:
     sense:
-    - id: 'noiselessly%4:02:00::'
+    - id: 'noiselessly%4:45:00::'
       pertainym:
       - noiseless%5:00:00:quiet:01
       synset: 00464818-r
@@ -19225,8 +19225,8 @@ noisily:
   r:
     sense:
     - antonym:
-      - 'quietly%4:02:01::'
-      id: 'noisily%4:02:00::'
+      - 'quietly%4:45:01::'
+      id: 'noisily%4:45:00::'
       pertainym:
       - 'noisy%3:00:00::'
       synset: 00230871-r
@@ -19501,7 +19501,7 @@ nominally:
     - value: ˈnɑmɪnəli
       variety: US
     sense:
-    - id: 'nominally%4:02:00::'
+    - id: 'nominally%4:52:00::'
       pertainym:
       - 'nominal%3:01:01::'
       synset: 00125896-r
@@ -19667,7 +19667,7 @@ nomothetic:
 non:
   r:
     sense:
-    - id: 'non%4:02:00::'
+    - id: 'non%4:51:00::'
       synset: 00024432-r
 non compos mentis:
   a:
@@ -19931,7 +19931,7 @@ non-standard speech:
 non-verbally:
   r:
     sense:
-    - id: 'non-verbally%4:02:00::'
+    - id: 'non-verbally%4:45:00::'
       synset: 00129647-r
 non-volatile storage:
   n:
@@ -20290,11 +20290,11 @@ nonchalant:
 nonchalantly:
   r:
     sense:
-    - id: 'nonchalantly%4:02:01::'
+    - id: 'nonchalantly%4:45:01::'
       pertainym:
       - nonchalant%5:00:00:unconcerned:00
       synset: 00296859-r
-    - id: 'nonchalantly%4:02:00::'
+    - id: 'nonchalantly%4:45:00::'
       pertainym:
       - nonchalant%5:00:00:unconcerned:00
       synset: 00244545-r
@@ -20447,8 +20447,8 @@ noncompetitively:
   r:
     sense:
     - antonym:
-      - 'competitively%4:02:00::'
-      id: 'noncompetitively%4:02:00::'
+      - 'competitively%4:45:00::'
+      id: 'noncompetitively%4:45:00::'
       pertainym:
       - 'noncompetitive%3:00:00::'
       synset: 00244907-r
@@ -20483,8 +20483,8 @@ noncomprehensively:
   r:
     sense:
     - antonym:
-      - 'comprehensively%4:02:00::'
-      id: 'noncomprehensively%4:02:00::'
+      - 'comprehensively%4:45:00::'
+      id: 'noncomprehensively%4:45:00::'
       pertainym:
       - 'noncomprehensive%3:00:00::'
       synset: 00289871-r
@@ -20761,7 +20761,7 @@ none:
     pronunciation:
     - value: nʌn
     sense:
-    - id: 'none%4:02:00::'
+    - id: 'none%4:51:00::'
       synset: 00025041-r
 nonechoic:
   a:
@@ -20859,7 +20859,7 @@ nonetheless:
     pronunciation:
     - value: ˌnʌnðəˈlɛs
     sense:
-    - id: 'nonetheless%4:02:00::'
+    - id: 'nonetheless%4:54:00::'
       synset: 00027761-r
 nonevent:
   n:
@@ -21302,7 +21302,7 @@ nonlexical:
 nonlexically:
   r:
     sense:
-    - id: 'nonlexically%4:02:00::'
+    - id: 'nonlexically%4:45:00::'
       pertainym:
       - 'nonlexical%3:01:00::'
       synset: 00137571-r
@@ -22323,7 +22323,7 @@ nonspecific urethritis:
 nonspecifically:
   r:
     sense:
-    - id: 'nonspecifically%4:02:00::'
+    - id: 'nonspecifically%4:45:00::'
       pertainym:
       - 'nonspecific%3:00:00::'
       synset: 00042544-r
@@ -22409,7 +22409,7 @@ nonstop:
       synset: 00302827-n
   r:
     sense:
-    - id: 'nonstop%4:02:00::'
+    - id: 'nonstop%4:49:00::'
       synset: 00412530-r
 nonstop flight:
   n:
@@ -22675,7 +22675,7 @@ nonverbal intelligence:
 nonverbally:
   r:
     sense:
-    - id: 'nonverbally%4:02:00::'
+    - id: 'nonverbally%4:45:00::'
       pertainym:
       - nonverbal%5:00:01:communicative:00
       synset: 00129647-r
@@ -22714,8 +22714,8 @@ nonviolently:
   r:
     sense:
     - antonym:
-      - 'violently%4:02:00::'
-      id: 'nonviolently%4:02:00::'
+      - 'violently%4:45:00::'
+      id: 'nonviolently%4:45:00::'
       pertainym:
       - 'nonviolent%3:00:00::'
       synset: 00225596-r
@@ -22888,7 +22888,7 @@ nor'-east:
       synset: 13854042-n
   r:
     sense:
-    - id: 'nor''-east%4:02:00::'
+    - id: 'nor''-east%4:50:00::'
       synset: 00413571-r
 nor'-nor'-east:
   n:
@@ -22897,7 +22897,7 @@ nor'-nor'-east:
       synset: 13853771-n
   r:
     sense:
-    - id: 'nor''-nor''-east%4:02:00::'
+    - id: 'nor''-nor''-east%4:50:00::'
       synset: 00413759-r
 nor'-nor'-west:
   n:
@@ -22906,7 +22906,7 @@ nor'-nor'-west:
       synset: 13857362-n
   r:
     sense:
-    - id: 'nor''-nor''-west%4:02:00::'
+    - id: 'nor''-nor''-west%4:50:00::'
       synset: 00413857-r
 nor'-west:
   n:
@@ -22915,7 +22915,7 @@ nor'-west:
       synset: 13857084-n
   r:
     sense:
-    - id: 'nor''-west%4:02:00::'
+    - id: 'nor''-west%4:50:00::'
       synset: 00413665-r
 noradrenaline:
   n:
@@ -23186,7 +23186,7 @@ normalizer:
 normally:
   r:
     sense:
-    - id: 'normally%4:02:00::'
+    - id: 'normally%4:48:00::'
       synset: 00107608-r
 normative:
   a:
@@ -23258,7 +23258,7 @@ north:
     - value: noːθ
       variety: AU
     sense:
-    - id: 'north%4:02:00::'
+    - id: 'north%4:50:00::'
       synset: 00245502-r
 north by east:
   n:
@@ -23305,17 +23305,17 @@ north-central:
 north-east:
   r:
     sense:
-    - id: 'north-east%4:02:00::'
+    - id: 'north-east%4:50:00::'
       synset: 00413571-r
 north-northeast:
   r:
     sense:
-    - id: 'north-northeast%4:02:00::'
+    - id: 'north-northeast%4:50:00::'
       synset: 00413759-r
 north-northwest:
   r:
     sense:
-    - id: 'north-northwest%4:02:00::'
+    - id: 'north-northwest%4:50:00::'
       synset: 00413857-r
 north-polar:
   a:
@@ -23337,7 +23337,7 @@ north-south direction:
 north-west:
   r:
     sense:
-    - id: 'north-west%4:02:00::'
+    - id: 'north-west%4:50:00::'
       synset: 00413665-r
 northbound:
   a:
@@ -23361,7 +23361,7 @@ northeast:
       synset: 08578767-n
   r:
     sense:
-    - id: 'northeast%4:02:00::'
+    - id: 'northeast%4:50:00::'
       synset: 00413571-r
 northeast by east:
   n:
@@ -23412,14 +23412,14 @@ northeastward:
       synset: 13854042-n
   r:
     sense:
-    - id: 'northeastward%4:02:00::'
+    - id: 'northeastward%4:50:00::'
       pertainym:
       - northeastward%5:00:00:north:00
       synset: 00514450-r
 northeastwardly:
   r:
     sense:
-    - id: 'northeastwardly%4:02:00::'
+    - id: 'northeastwardly%4:50:00::'
       pertainym:
       - northeastward%5:00:00:north:00
       synset: 00514450-r
@@ -23460,7 +23460,7 @@ northerly:
     - value: ˈnɔːðəli
       variety: GB
     sense:
-    - id: 'northerly%4:02:00::'
+    - id: 'northerly%4:50:00::'
       pertainym:
       - northerly%5:00:02:north:00
       synset: 00245502-r
@@ -23708,14 +23708,14 @@ northward:
     sense:
     - exemplifies:
       - 'american_english%1:10:00::'
-      id: 'northward%4:02:00::'
+      id: 'northward%4:50:00::'
       synset: 00245502-r
 northwards:
   r:
     sense:
     - exemplifies:
       - 'british_english%1:10:01::'
-      id: 'northwards%4:02:00::'
+      id: 'northwards%4:50:00::'
       synset: 00245502-r
 northwest:
   a:
@@ -23744,7 +23744,7 @@ northwest:
       synset: 08579483-n
   r:
     sense:
-    - id: 'northwest%4:02:00::'
+    - id: 'northwest%4:50:00::'
       synset: 00413665-r
 northwest by north:
   n:
@@ -23803,14 +23803,14 @@ northwestward:
       synset: 13857084-n
   r:
     sense:
-    - id: 'northwestward%4:02:00::'
+    - id: 'northwestward%4:50:00::'
       pertainym:
       - northwestward%5:00:00:north:00
       synset: 00514619-r
 northwestwardly:
   r:
     sense:
-    - id: 'northwestwardly%4:02:00::'
+    - id: 'northwestwardly%4:50:00::'
       pertainym:
       - northwestward%5:00:00:north:00
       synset: 00514619-r
@@ -24167,7 +24167,7 @@ nostalgic:
 nostalgically:
   r:
     sense:
-    - id: 'nostalgically%4:02:00::'
+    - id: 'nostalgically%4:45:00::'
       synset: 00412630-r
 nostoc:
   n:
@@ -24219,7 +24219,7 @@ not:
     pronunciation:
     - value: nɒt
     sense:
-    - id: 'not%4:02:00::'
+    - id: 'not%4:51:00::'
       synset: 00024432-r
 not bad:
   a:
@@ -24230,12 +24230,12 @@ not bad:
 not by a blame sight:
   r:
     sense:
-    - id: 'not_by_a_blame_sight%4:02:00::'
+    - id: 'not_by_a_blame_sight%4:51:00::'
       synset: 00057580-r
 not by a long sight:
   r:
     sense:
-    - id: 'not_by_a_long_sight%4:02:00::'
+    - id: 'not_by_a_long_sight%4:51:00::'
       synset: 00057580-r
 not guilty:
   a:
@@ -24255,7 +24255,7 @@ not surprised:
 not to mention:
   r:
     sense:
-    - id: 'not_to_mention%4:02:00::'
+    - id: 'not_to_mention%4:53:00::'
       synset: 00063907-r
 not-for-profit:
   n:
@@ -24308,9 +24308,9 @@ notable:
 notably:
   r:
     sense:
-    - id: 'notably%4:02:00::'
+    - id: 'notably%4:52:00::'
       synset: 00140076-r
-    - id: 'notably%4:02:01::'
+    - id: 'notably%4:51:01::'
       synset: 00107917-r
 notarise:
   v:
@@ -24599,7 +24599,7 @@ nothing:
     pronunciation:
     - value: ˈnʌθɪŋ
     sense:
-    - id: 'nothing%4:02:00::'
+    - id: 'nothing%4:51:00::'
       synset: 00024616-r
 nothingness:
   n:
@@ -24748,7 +24748,7 @@ noticeableness:
 noticeably:
   r:
     sense:
-    - id: 'noticeably%4:02:00::'
+    - id: 'noticeably%4:51:00::'
       pertainym:
       - 'noticeable%3:00:00::'
       synset: 00367464-r
@@ -24891,7 +24891,7 @@ notoriously:
     - value: nəˈtɔːɹɪəsli
       variety: GB
     sense:
-    - id: 'notoriously%4:02:00::'
+    - id: 'notoriously%4:47:00::'
       synset: 00412791-r
 notornis:
   n:
@@ -24916,7 +24916,7 @@ notwithstanding:
     - value: ˌnɑtwɪθˈstændɪŋ
       variety: US
     sense:
-    - id: 'notwithstanding%4:02:00::'
+    - id: 'notwithstanding%4:54:00::'
       synset: 00027761-r
 nougat:
   n:
@@ -25273,36 +25273,36 @@ now:
       synset: 15144861-n
   r:
     sense:
-    - id: 'now%4:02:05::'
+    - id: 'now%4:49:05::'
       synset: 00049971-r
-    - id: 'now%4:02:00::'
+    - id: 'now%4:49:00::'
       synset: 00049013-r
-    - id: 'now%4:02:02::'
+    - id: 'now%4:49:02::'
       synset: 00049640-r
-    - id: 'now%4:02:04::'
+    - id: 'now%4:49:04::'
       synset: 00049758-r
-    - id: 'now%4:02:01::'
+    - id: 'now%4:49:01::'
       synset: 00049277-r
-    - id: 'now%4:02:07::'
+    - id: 'now%4:49:07::'
       synset: 00050296-r
-    - id: 'now%4:02:06::'
+    - id: 'now%4:49:06::'
       synset: 00050223-r
 now and again:
   r:
     sense:
-    - id: 'now_and_again%4:02:00::'
+    - id: 'now_and_again%4:48:00::'
       synset: 00021667-r
 now and then:
   r:
     pronunciation:
     - value: ˌnaʊ ən(d) ˈðɛn
     sense:
-    - id: 'now_and_then%4:02:00::'
+    - id: 'now_and_then%4:48:00::'
       synset: 00021667-r
 now now:
   r:
     sense:
-    - id: 'now_now%4:02:00::'
+    - id: 'now_now%4:47:00::'
       synset: 00050427-r
 nowadays:
   n:
@@ -25313,7 +25313,7 @@ nowadays:
     pronunciation:
     - value: ˈnaʊ.ə.deɪz
     sense:
-    - id: 'nowadays%4:02:00::'
+    - id: 'nowadays%4:49:00::'
       synset: 00049013-r
 nowhere:
   n:
@@ -25332,7 +25332,7 @@ nowhere:
     - value: ˈnəʊ.wɛə
       variety: GB
     sense:
-    - id: 'nowhere%4:02:00::'
+    - id: 'nowhere%4:50:00::'
       synset: 00025873-r
 nowise:
   r:
@@ -25342,7 +25342,7 @@ nowise:
     - value: ˈnəʊwaɪz
       variety: GB
     sense:
-    - id: 'nowise%4:02:00::'
+    - id: 'nowise%4:51:00::'
       synset: 00413480-r
 nowness:
   n:
@@ -25364,7 +25364,7 @@ noxious:
 noxiously:
   r:
     sense:
-    - id: 'noxiously%4:02:00::'
+    - id: 'noxiously%4:45:00::'
       pertainym:
       - 'noxious%3:00:00::'
       synset: 00311268-r
@@ -26493,7 +26493,7 @@ numbing:
 numbly:
   r:
     sense:
-    - id: 'numbly%4:02:00::'
+    - id: 'numbly%4:45:00::'
       pertainym:
       - numb%5:00:00:insensible:00
       synset: 00413337-r
@@ -26673,7 +26673,7 @@ numerical value:
 numerically:
   r:
     sense:
-    - id: 'numerically%4:02:00::'
+    - id: 'numerically%4:52:00::'
       pertainym:
       - numerical%5:00:00:quantitative:00
       synset: 00413081-r
@@ -27470,7 +27470,7 @@ nutritional:
 nutritionally:
   r:
     sense:
-    - id: 'nutritionally%4:02:00::'
+    - id: 'nutritionally%4:52:00::'
       pertainym:
       - 'nutritional%3:01:00::'
       synset: 00412955-r
@@ -27569,7 +27569,7 @@ nutter:
 nuttily:
   r:
     sense:
-    - id: 'nuttily%4:02:00::'
+    - id: 'nuttily%4:45:00::'
       pertainym:
       - nutty%5:00:00:insane:00
       synset: 00305302-r

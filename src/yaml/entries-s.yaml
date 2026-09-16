@@ -19253,7 +19253,7 @@ sacred writing:
 sacredly:
   r:
     sense:
-    - id: 'sacredly%4:02:00::'
+    - id: 'sacredly%4:52:00::'
       pertainym:
       - 'sacred%3:00:00::'
       synset: 00179946-r
@@ -19395,7 +19395,7 @@ sacrilegious:
 sacrilegiously:
   r:
     sense:
-    - id: 'sacrilegiously%4:02:00::'
+    - id: 'sacrilegiously%4:45:00::'
       pertainym:
       - sacrilegious%5:00:00:irreverent:00
       synset: 00126997-r
@@ -19742,16 +19742,16 @@ sadly:
       variety: GB
     sense:
     - antonym:
-      - 'happily%4:02:00::'
-      id: 'sadly%4:02:00::'
+      - 'happily%4:47:00::'
+      id: 'sadly%4:47:00::'
       pertainym:
       - 'sad%3:00:00::'
       synset: 00043024-r
-    - id: 'sadly%4:02:03::'
+    - id: 'sadly%4:45:03::'
       pertainym:
       - sad%5:00:00:sorrowful:00
       synset: 00406411-r
-    - id: 'sadly%4:02:01::'
+    - id: 'sadly%4:47:01::'
       pertainym:
       - sad%5:00:00:bad:00
       synset: 00093820-r
@@ -19945,7 +19945,7 @@ safely:
     pronunciation:
     - value: ˈseɪfli
     sense:
-    - id: 'safely%4:02:00::'
+    - id: 'safely%4:45:00::'
       synset: 00155346-r
 safeness:
   n:
@@ -20266,7 +20266,7 @@ sagacious:
 sagaciously:
   r:
     sense:
-    - id: 'sagaciously%4:02:00::'
+    - id: 'sagaciously%4:45:00::'
       pertainym:
       - sagacious%5:00:00:wise:00
       synset: 00274018-r
@@ -20378,7 +20378,7 @@ sagely:
     pronunciation:
     - value: ˈseɪdʒli
     sense:
-    - id: 'sagely%4:02:00::'
+    - id: 'sagely%4:45:00::'
       pertainym:
       - sage%5:00:00:wise:00
       synset: 00202999-r
@@ -20906,7 +20906,7 @@ salacious:
 salaciously:
   r:
     sense:
-    - id: 'salaciously%4:02:00::'
+    - id: 'salaciously%4:45:00::'
       pertainym:
       - salacious%5:00:00:sexy:00
       synset: 00388378-r
@@ -22858,7 +22858,7 @@ sanctimonious:
 sanctimoniously:
   r:
     sense:
-    - id: 'sanctimoniously%4:02:00::'
+    - id: 'sanctimoniously%4:45:00::'
       pertainym:
       - sanctimonious%5:00:00:pious:00
       synset: 00448011-r
@@ -23717,13 +23717,13 @@ sane:
 sanely:
   r:
     sense:
-    - id: 'sanely%4:02:00::'
+    - id: 'sanely%4:45:00::'
       pertainym:
       - sane%5:00:00:rational:00
       synset: 00217109-r
     - antonym:
-      - 'insanely%4:02:01::'
-      id: 'sanely%4:02:01::'
+      - 'insanely%4:45:01::'
+      id: 'sanely%4:45:01::'
       pertainym:
       - 'sane%3:00:00::'
       synset: 00081544-r
@@ -24202,7 +24202,7 @@ sapiential book:
 sapiently:
   r:
     sense:
-    - id: 'sapiently%4:02:00::'
+    - id: 'sapiently%4:45:00::'
       pertainym:
       - sapient%5:00:00:wise:00
       synset: 00274018-r
@@ -24559,7 +24559,7 @@ sarcastic:
 sarcastically:
   r:
     sense:
-    - id: 'sarcastically%4:02:00::'
+    - id: 'sarcastically%4:45:00::'
       pertainym:
       - 'sarcastic%3:00:00::'
       synset: 00447828-r
@@ -24745,7 +24745,7 @@ sardonic:
 sardonically:
   r:
     sense:
-    - id: 'sardonically%4:02:00::'
+    - id: 'sardonically%4:45:00::'
       pertainym:
       - sardonic%5:00:00:sarcastic:00
       synset: 00447828-r
@@ -25321,7 +25321,7 @@ satirical:
 satirically:
   r:
     sense:
-    - id: 'satirically%4:02:00::'
+    - id: 'satirically%4:45:00::'
       pertainym:
       - satirical%5:00:00:sarcastic:00
       synset: 00211651-r
@@ -25383,8 +25383,8 @@ satisfactorily:
     - value: sætɪsˈfækt(ə)ɹɪli
     sense:
     - antonym:
-      - 'unsatisfactorily%4:02:00::'
-      id: 'satisfactorily%4:02:00::'
+      - 'unsatisfactorily%4:45:00::'
+      id: 'satisfactorily%4:45:00::'
       pertainym:
       - 'satisfactory%3:00:00::'
       synset: 00015830-r
@@ -25515,7 +25515,7 @@ satisfying:
 satisfyingly:
   r:
     sense:
-    - id: 'satisfyingly%4:02:00::'
+    - id: 'satisfyingly%4:51:00::'
       synset: 00184950-r
 satori:
   n:
@@ -25843,7 +25843,7 @@ saucer-shaped:
 saucily:
   r:
     sense:
-    - id: 'saucily%4:02:01::'
+    - id: 'saucily%4:45:01::'
       pertainym:
       - saucy%5:00:00:forward:02
       synset: 00368286-r
@@ -26154,11 +26154,11 @@ savage:
 savagely:
   r:
     sense:
-    - id: 'savagely%4:02:00::'
+    - id: 'savagely%4:45:00::'
       pertainym:
       - savage%5:00:00:inhumane:00
       synset: 00202624-r
-    - id: 'savagely%4:02:02::'
+    - id: 'savagely%4:45:02::'
       pertainym:
       - savage%5:00:00:wild:01
       synset: 00202896-r
@@ -28235,7 +28235,7 @@ scandalous:
 scandalously:
   r:
     sense:
-    - id: 'scandalously%4:02:00::'
+    - id: 'scandalously%4:45:00::'
       pertainym:
       - scandalous%5:00:00:immoral:00
       synset: 00448184-r
@@ -28327,7 +28327,7 @@ scantily:
     pronunciation:
     - value: ˈskæntɪli
     sense:
-    - id: 'scantily%4:02:01::'
+    - id: 'scantily%4:45:01::'
       pertainym:
       - scanty%5:00:00:revealing:00
       synset: 00458236-r
@@ -28557,9 +28557,9 @@ scarce:
     - value: ˈskɛɚs
       variety: US
     sense:
-    - id: 'scarce%4:02:00::'
+    - id: 'scarce%4:51:00::'
       synset: 00002669-r
-    - id: 'scarce%4:02:01::'
+    - id: 'scarce%4:48:01::'
       synset: 00003317-r
 scarcely:
   r:
@@ -28569,9 +28569,9 @@ scarcely:
     - value: ˈskɛɹsli
       variety: US
     sense:
-    - id: 'scarcely%4:02:00::'
+    - id: 'scarcely%4:51:00::'
       synset: 00002669-r
-    - id: 'scarcely%4:02:02::'
+    - id: 'scarcely%4:48:02::'
       pertainym:
       - 'scarce%3:00:00::'
       synset: 00003317-r
@@ -28784,7 +28784,7 @@ scarify:
 scarily:
   r:
     sense:
-    - id: 'scarily%4:02:00::'
+    - id: 'scarily%4:51:00::'
       pertainym:
       - scary%5:00:00:alarming:00
       synset: 00347587-r
@@ -29026,7 +29026,7 @@ scathing:
 scathingly:
   r:
     sense:
-    - id: 'scathingly%4:02:00::'
+    - id: 'scathingly%4:45:00::'
       pertainym:
       - scathing%5:00:00:critical:01
       synset: 00448330-r
@@ -29416,7 +29416,7 @@ scenic railway:
 scenically:
   r:
     sense:
-    - id: 'scenically%4:02:00::'
+    - id: 'scenically%4:52:00::'
       pertainym:
       - 'scenic%3:01:00::'
       synset: 00127082-r
@@ -29602,7 +29602,7 @@ sceptical:
 sceptically:
   r:
     sense:
-    - id: 'sceptically%4:02:00::'
+    - id: 'sceptically%4:45:00::'
       pertainym:
       - sceptical%5:00:00:distrustful:00
       synset: 00448486-r
@@ -29799,7 +29799,7 @@ schematic drawing:
 schematically:
   r:
     sense:
-    - id: 'schematically%4:02:00::'
+    - id: 'schematically%4:45:00::'
       pertainym:
       - schematic%5:00:00:nonrepresentational:00
       synset: 00448628-r
@@ -30014,7 +30014,7 @@ schismatical:
 schismatically:
   r:
     sense:
-    - id: 'schismatically%4:02:00::'
+    - id: 'schismatically%4:45:00::'
       pertainym:
       - 'schismatic%3:01:00::'
       synset: 00513817-r
@@ -30445,7 +30445,7 @@ scholastically:
     pronunciation:
     - value: skəˈlæstɪkli
     sense:
-    - id: 'scholastically%4:02:00::'
+    - id: 'scholastically%4:52:00::'
       pertainym:
       - 'scholastic%3:01:00::'
       synset: 00127191-r
@@ -30995,7 +30995,7 @@ science teacher:
 scienter:
   r:
     sense:
-    - id: 'scienter%4:02:00::'
+    - id: 'scienter%4:45:00::'
       pertainym:
       - deliberate%5:00:00:intended:00
       synset: 00239791-r
@@ -31065,7 +31065,7 @@ scientific theory:
 scientifically:
   r:
     sense:
-    - id: 'scientifically%4:02:00::'
+    - id: 'scientifically%4:52:00::'
       pertainym:
       - 'scientific%3:01:00::'
       synset: 00110692-r
@@ -31579,7 +31579,7 @@ scoffing:
 scoffingly:
   r:
     sense:
-    - id: 'scoffingly%4:02:00::'
+    - id: 'scoffingly%4:45:00::'
       synset: 00302540-r
 scofflaw:
   n:
@@ -32040,7 +32040,7 @@ scorching:
       synset: 01252927-s
   r:
     sense:
-    - id: 'scorching%4:02:00::'
+    - id: 'scorching%4:51:00::'
       pertainym:
       - scorching%5:00:01:hot:01
       synset: 00448735-r
@@ -32330,7 +32330,7 @@ scornful:
 scornfully:
   r:
     sense:
-    - id: 'scornfully%4:02:00::'
+    - id: 'scornfully%4:45:00::'
       pertainym:
       - scornful%5:00:00:disrespectful:00
       synset: 00080884-r
@@ -32419,12 +32419,12 @@ scot and lot:
 scot free:
   r:
     sense:
-    - id: 'scot_free%4:02:00::'
+    - id: 'scot_free%4:45:00::'
       synset: 00262266-r
 scot-free:
   r:
     sense:
-    - id: 'scot-free%4:02:00::'
+    - id: 'scot-free%4:45:00::'
       synset: 00262266-r
 scotch:
   a:
@@ -33238,7 +33238,7 @@ scrapper:
 scrappily:
   r:
     sense:
-    - id: 'scrappily%4:02:00::'
+    - id: 'scrappily%4:45:00::'
       pertainym:
       - scrappy%5:00:00:aggressive:00
       synset: 00288522-r
@@ -33592,7 +33592,7 @@ screak:
 screakily:
   r:
     sense:
-    - id: 'screakily%4:02:00::'
+    - id: 'screakily%4:45:00::'
       pertainym:
       - screaky%5:00:00:noisy:00
       synset: 00304748-r
@@ -33715,7 +33715,7 @@ screaming meemies:
 screamingly:
   r:
     sense:
-    - id: 'screamingly%4:02:00::'
+    - id: 'screamingly%4:51:00::'
       pertainym:
       - screaming%5:00:00:humorous:00
       synset: 00448839-r
@@ -34929,7 +34929,7 @@ scrumptious:
 scrumptiously:
   r:
     sense:
-    - id: 'scrumptiously%4:02:00::'
+    - id: 'scrumptiously%4:51:00::'
       pertainym:
       - scrumptious%5:00:00:tasty:00
       synset: 00395592-r
@@ -35088,7 +35088,7 @@ scrupulously:
     pronunciation:
     - value: ˈskɹuːpjʊləsli
     sense:
-    - id: 'scrupulously%4:02:00::'
+    - id: 'scrupulously%4:48:00::'
       pertainym:
       - scrupulous%5:00:00:careful:00
       synset: 00180072-r
@@ -35722,7 +35722,7 @@ scurrilous:
 scurrilously:
   r:
     sense:
-    - id: 'scurrilously%4:02:00::'
+    - id: 'scurrilously%4:45:00::'
       pertainym:
       - scurrilous%5:00:00:offensive:02
       synset: 00448938-r
@@ -35763,7 +35763,7 @@ scurrying:
 scurvily:
   r:
     sense:
-    - id: 'scurvily%4:02:00::'
+    - id: 'scurvily%4:45:00::'
       pertainym:
       - scurvy%5:00:00:contemptible:00
       synset: 00399624-r
@@ -37248,7 +37248,7 @@ searching fire:
 searchingly:
   r:
     sense:
-    - id: 'searchingly%4:02:00::'
+    - id: 'searchingly%4:45:00::'
       pertainym:
       - searching%5:00:00:intelligent:00
       synset: 00449130-r
@@ -37431,12 +37431,12 @@ seasonably:
   r:
     sense:
     - antonym:
-      - 'unseasonably%4:02:00::'
-      id: 'seasonably%4:02:01::'
+      - 'unseasonably%4:51:00::'
+      id: 'seasonably%4:49:01::'
       pertainym:
       - 'seasonable%3:00:00::'
       synset: 00275323-r
-    - id: 'seasonably%4:02:00::'
+    - id: 'seasonably%4:49:00::'
       pertainym:
       - seasonable%5:00:00:opportune:00
       synset: 00275183-r
@@ -37468,7 +37468,7 @@ seasonal worker:
 seasonally:
   r:
     sense:
-    - id: 'seasonally%4:02:00::'
+    - id: 'seasonally%4:49:00::'
       pertainym:
       - 'seasonal%3:00:00::'
       synset: 00449290-r
@@ -37696,12 +37696,12 @@ seaward:
       synset: 13852283-n
   r:
     sense:
-    - id: 'seaward%4:02:00::'
+    - id: 'seaward%4:50:00::'
       synset: 00449471-r
 seawards:
   r:
     sense:
-    - id: 'seawards%4:02:00::'
+    - id: 'seawards%4:50:00::'
       synset: 00449471-r
 seawater:
   n:
@@ -38012,7 +38012,7 @@ second:
     - value: ˈsɛkɪnd
       variety: CA
     sense:
-    - id: 'second%4:02:00::'
+    - id: 'second%4:47:00::'
       synset: 00103431-r
   v-1:
     pronunciation:
@@ -38099,7 +38099,7 @@ second class:
       synset: 02936077-n
   r:
     sense:
-    - id: 'second_class%4:02:00::'
+    - id: 'second_class%4:45:00::'
       synset: 00449663-r
 second cousin:
   n:
@@ -38154,7 +38154,7 @@ second hand:
       synset: 04171818-n
   r:
     sense:
-    - id: 'second_hand%4:02:00::'
+    - id: 'second_hand%4:45:00::'
       pertainym:
       - secondhand%5:00:00:old:01
       synset: 00506948-r
@@ -38267,7 +38267,7 @@ second-best:
       synset: 00230722-s
   r:
     sense:
-    - id: 'second-best%4:02:00::'
+    - id: 'second-best%4:45:00::'
       synset: 00449581-r
 second-class:
   a:
@@ -38346,8 +38346,8 @@ secondarily:
   r:
     sense:
     - antonym:
-      - 'primarily%4:02:00::'
-      id: 'secondarily%4:02:00::'
+      - 'primarily%4:51:00::'
+      id: 'secondarily%4:45:00::'
       pertainym:
       - 'secondary%3:00:01::'
       synset: 00139101-r
@@ -38488,7 +38488,7 @@ secondhand:
       synset: 01644709-s
   r:
     sense:
-    - id: 'secondhand%4:02:00::'
+    - id: 'secondhand%4:45:00::'
       pertainym:
       - secondhand%5:00:00:secondary:01
       synset: 00059361-r
@@ -38505,7 +38505,7 @@ secondly:
     - value: ˈsɛkəndli
       variety: GB
     sense:
-    - id: 'secondly%4:02:00::'
+    - id: 'secondly%4:47:00::'
       synset: 00103431-r
 secondment:
   n:
@@ -38844,7 +38844,7 @@ secretive:
 secretively:
   r:
     sense:
-    - id: 'secretively%4:02:00::'
+    - id: 'secretively%4:45:00::'
       pertainym:
       - secretive%5:00:00:uncommunicative:00
       synset: 00449758-r
@@ -38864,9 +38864,9 @@ secretly:
     pronunciation:
     - value: ˈsi.kɹət.li
     sense:
-    - id: 'secretly%4:02:00::'
+    - id: 'secretly%4:45:00::'
       synset: 00167727-r
-    - id: 'secretly%4:02:02::'
+    - id: 'secretly%4:45:02::'
       pertainym:
       - secret%5:00:00:inward:00
       synset: 00163672-r
@@ -39372,23 +39372,23 @@ securely:
     - value: səˈkjʊəli
       variety: GB
     sense:
-    - id: 'securely%4:02:00::'
+    - id: 'securely%4:45:00::'
       pertainym:
       - 'secure%3:00:03::'
       synset: 00226317-r
     - antonym:
-      - 'insecurely%4:02:01::'
-      id: 'securely%4:02:03::'
+      - 'insecurely%4:45:01::'
+      id: 'securely%4:45:03::'
       pertainym:
       - 'secure%3:00:01::'
       synset: 00379352-r
     - antonym:
-      - 'insecurely%4:02:00::'
-      id: 'securely%4:02:02::'
+      - 'insecurely%4:45:00::'
+      id: 'securely%4:45:02::'
       pertainym:
       - 'secure%3:00:02::'
       synset: 00378927-r
-    - id: 'securely%4:02:01::'
+    - id: 'securely%4:45:01::'
       pertainym:
       - secure%5:00:00:invulnerable:00
       synset: 00378713-r
@@ -39602,7 +39602,7 @@ sedate:
 sedately:
   r:
     sense:
-    - id: 'sedately%4:02:00::'
+    - id: 'sedately%4:45:00::'
       synset: 00449959-r
 sedateness:
   n:
@@ -39852,7 +39852,7 @@ seductive:
 seductively:
   r:
     sense:
-    - id: 'seductively%4:02:00::'
+    - id: 'seductively%4:45:00::'
       pertainym:
       - 'seductive%3:00:00::'
       synset: 00450023-r
@@ -39884,7 +39884,7 @@ sedulous:
 sedulously:
   r:
     sense:
-    - id: 'sedulously%4:02:00::'
+    - id: 'sedulously%4:45:00::'
       pertainym:
       - sedulous%5:00:00:diligent:00
       synset: 00229174-r
@@ -40610,7 +40610,7 @@ seemingly:
     pronunciation:
     - value: ˈsiːmɪŋli
     sense:
-    - id: 'seemingly%4:02:00::'
+    - id: 'seemingly%4:47:00::'
       pertainym:
       - seeming%5:00:00:superficial:00
       synset: 00040353-r
@@ -41305,7 +41305,7 @@ seldom:
     pronunciation:
     - value: ˈsɛldəm
     sense:
-    - id: 'seldom%4:02:00::'
+    - id: 'seldom%4:48:00::'
       synset: 00035772-r
 select:
   a:
@@ -41415,7 +41415,7 @@ selective-serotonin reuptake inhibitor:
 selectively:
   r:
     sense:
-    - id: 'selectively%4:02:00::'
+    - id: 'selectively%4:45:00::'
       pertainym:
       - selective%5:00:00:discriminating:00
       synset: 00450175-r
@@ -41760,7 +41760,7 @@ self-conceited:
 self-conceitedly:
   r:
     sense:
-    - id: 'self-conceitedly%4:02:00::'
+    - id: 'self-conceitedly%4:45:00::'
       pertainym:
       - self-conceited%5:00:00:proud:00
       synset: 00290736-r
@@ -41809,8 +41809,8 @@ self-consciously:
   r:
     sense:
     - antonym:
-      - 'unselfconsciously%4:02:00::'
-      id: 'self-consciously%4:02:00::'
+      - 'unselfconsciously%4:45:00::'
+      id: 'self-consciously%4:45:00::'
       pertainym:
       - self-conscious%5:00:00:uncomfortable:01
       synset: 00450311-r
@@ -42112,7 +42112,7 @@ self-evident truth:
 self-evidently:
   r:
     sense:
-    - id: 'self-evidently%4:02:00::'
+    - id: 'self-evidently%4:47:00::'
       pertainym:
       - self-evident%5:00:00:obvious:00
       synset: 00450666-r
@@ -42307,7 +42307,7 @@ self-indulgent:
 self-indulgently:
   r:
     sense:
-    - id: 'self-indulgently%4:02:00::'
+    - id: 'self-indulgently%4:45:00::'
       pertainym:
       - self-indulgent%5:00:00:indulgent:00
       synset: 00116998-r
@@ -42648,7 +42648,7 @@ self-righteous:
 self-righteously:
   r:
     sense:
-    - id: 'self-righteously%4:02:00::'
+    - id: 'self-righteously%4:45:00::'
       pertainym:
       - self-righteous%5:00:00:pious:00
       synset: 00448011-r
@@ -42859,8 +42859,8 @@ selfishly:
   r:
     sense:
     - antonym:
-      - 'unselfishly%4:02:00::'
-      id: 'selfishly%4:02:00::'
+      - 'unselfishly%4:45:00::'
+      id: 'selfishly%4:45:00::'
       pertainym:
       - 'selfish%3:00:00::'
       synset: 00328482-r
@@ -42886,7 +42886,7 @@ selfless:
 selflessly:
   r:
     sense:
-    - id: 'selflessly%4:02:00::'
+    - id: 'selflessly%4:45:00::'
       pertainym:
       - 'selfless%3:00:00::'
       synset: 00272405-r
@@ -43239,7 +43239,7 @@ semantic role:
 semantically:
   r:
     sense:
-    - id: 'semantically%4:02:00::'
+    - id: 'semantically%4:52:00::'
       pertainym:
       - 'semantic%3:01:00::'
       synset: 00131423-r
@@ -43536,7 +43536,7 @@ semiannual:
 semiannually:
   r:
     sense:
-    - id: 'semiannually%4:02:00::'
+    - id: 'semiannually%4:48:00::'
       pertainym:
       - semiannual%5:00:00:periodic:00
       synset: 00256795-r
@@ -43845,7 +43845,7 @@ semimonthly:
       synset: 06606580-n
   r:
     sense:
-    - id: 'semimonthly%4:02:00::'
+    - id: 'semimonthly%4:48:00::'
       pertainym:
       - semimonthly%5:00:00:periodic:00
       synset: 00256661-r
@@ -44151,7 +44151,7 @@ semiweekly:
       synset: 06606334-n
   r:
     sense:
-    - id: 'semiweekly%4:02:00::'
+    - id: 'semiweekly%4:48:00::'
       pertainym:
       - semiweekly%5:00:00:periodic:00
       synset: 00256331-r
@@ -44818,7 +44818,7 @@ sensationalistic:
 sensationally:
   r:
     sense:
-    - id: 'sensationally%4:02:00::'
+    - id: 'sensationally%4:51:00::'
       pertainym:
       - sensational%5:00:00:impressive:00
       synset: 00450751-r
@@ -45037,11 +45037,11 @@ senseless:
 senselessly:
   r:
     sense:
-    - id: 'senselessly%4:02:01::'
+    - id: 'senselessly%4:45:01::'
       pertainym:
       - senseless%5:00:00:unreasonable:00
       synset: 00450909-r
-    - id: 'senselessly%4:02:00::'
+    - id: 'senselessly%4:45:00::'
       pertainym:
       - senseless%5:00:00:unreasonable:00
       synset: 00403618-r
@@ -45145,7 +45145,7 @@ sensibly:
     pronunciation:
     - value: ˈsɛnsəbli
     sense:
-    - id: 'sensibly%4:02:00::'
+    - id: 'sensibly%4:45:00::'
       pertainym:
       - 'sensible%3:00:04::'
       synset: 00217109-r
@@ -45348,8 +45348,8 @@ sensitively:
   r:
     sense:
     - antonym:
-      - 'insensitively%4:02:00::'
-      id: 'sensitively%4:02:00::'
+      - 'insensitively%4:45:00::'
+      id: 'sensitively%4:45:00::'
       pertainym:
       - 'sensitive%3:00:02::'
       synset: 00379694-r
@@ -45702,7 +45702,7 @@ sensualize:
 sensually:
   r:
     sense:
-    - id: 'sensually%4:02:00::'
+    - id: 'sensually%4:45:00::'
       pertainym:
       - sensual%5:00:00:hot:02
       synset: 00451334-r
@@ -45727,7 +45727,7 @@ sensuous:
 sensuously:
   r:
     sense:
-    - id: 'sensuously%4:02:00::'
+    - id: 'sensuously%4:45:00::'
       pertainym:
       - sensuous%5:00:00:aesthetic:00
       synset: 00451059-r
@@ -45834,7 +45834,7 @@ sententious:
 sententiously:
   r:
     sense:
-    - id: 'sententiously%4:02:00::'
+    - id: 'sententiously%4:45:00::'
       pertainym:
       - sententious%5:00:00:concise:00
       synset: 00426848-r
@@ -46023,8 +46023,8 @@ sentimentally:
   r:
     sense:
     - antonym:
-      - 'unsentimentally%4:02:00::'
-      id: 'sentimentally%4:02:00::'
+      - 'unsentimentally%4:45:00::'
+      id: 'sentimentally%4:45:00::'
       pertainym:
       - sentimental%5:00:00:emotional:00
       synset: 00451502-r
@@ -46115,8 +46115,8 @@ separably:
   r:
     sense:
     - antonym:
-      - 'inseparably%4:02:00::'
-      id: 'separably%4:02:00::'
+      - 'inseparably%4:45:00::'
+      id: 'separably%4:45:00::'
       pertainym:
       - separable%5:00:01:divisible:00
       synset: 00451818-r
@@ -46275,7 +46275,7 @@ separately:
     pronunciation:
     - value: ˈsɛpɹətli
     sense:
-    - id: 'separately%4:02:02::'
+    - id: 'separately%4:53:02::'
       pertainym:
       - 'separate%3:00:00::'
       synset: 00208995-r
@@ -46772,7 +46772,7 @@ sequential operation:
 sequentially:
   r:
     sense:
-    - id: 'sequentially%4:02:00::'
+    - id: 'sequentially%4:45:00::'
       pertainym:
       - sequential%5:00:00:ordered:00
       synset: 00293663-r
@@ -46997,7 +46997,7 @@ serene:
 serenely:
   r:
     sense:
-    - id: 'serenely%4:02:00::'
+    - id: 'serenely%4:45:00::'
       pertainym:
       - serene%5:00:00:composed:00
       synset: 00452127-r
@@ -47251,7 +47251,7 @@ serialize:
 serially:
   r:
     sense:
-    - id: 'serially%4:02:00::'
+    - id: 'serially%4:45:00::'
       pertainym:
       - 'serial%3:01:02::'
       synset: 00127311-r
@@ -47261,7 +47261,7 @@ seriatim:
     - value: sɪəɹɪˈeɪtɪm
       variety: GB
     sense:
-    - id: 'seriatim%4:02:00::'
+    - id: 'seriatim%4:45:00::'
       synset: 00237364-r
 sericea lespedeza:
   n:
@@ -47464,11 +47464,11 @@ seriously:
     - value: ˈsɪɹi.əsli
       variety: US
     sense:
-    - id: 'seriously%4:02:00::'
+    - id: 'seriously%4:45:00::'
       pertainym:
       - 'serious%3:00:00::'
       synset: 00166233-r
-    - id: 'seriously%4:02:01::'
+    - id: 'seriously%4:51:01::'
       pertainym:
       - serious%5:00:00:critical:03
       synset: 00016415-r
@@ -48400,7 +48400,7 @@ servile:
 servilely:
   r:
     sense:
-    - id: 'servilely%4:02:00::'
+    - id: 'servilely%4:45:00::'
       pertainym:
       - 'servile%3:00:00::'
       synset: 00414319-r
@@ -49860,7 +49860,7 @@ sevenfold:
       synset: 02227734-s
   r:
     sense:
-    - id: 'sevenfold%4:02:00::'
+    - id: 'sevenfold%4:51:00::'
       synset: 00452275-r
 sevens:
   n:
@@ -49946,7 +49946,7 @@ seventh heaven:
 seventhly:
   r:
     sense:
-    - id: 'seventhly%4:02:00::'
+    - id: 'seventhly%4:47:00::'
       pertainym:
       - seventh%5:00:00:ordinal:00
       synset: 00452400-r
@@ -50138,11 +50138,11 @@ severally:
     pronunciation:
     - value: ˈsɛv(ə)ɹəli
     sense:
-    - id: 'severally%4:02:01::'
+    - id: 'severally%4:45:01::'
       synset: 00452540-r
-    - id: 'severally%4:02:00::'
+    - id: 'severally%4:53:00::'
       synset: 00208995-r
-    - id: 'severally%4:02:03::'
+    - id: 'severally%4:53:03::'
       synset: 00138725-r
 severalty:
   n:
@@ -50227,15 +50227,15 @@ severed:
 severely:
   r:
     sense:
-    - id: 'severely%4:02:01::'
+    - id: 'severely%4:51:01::'
       pertainym:
       - severe%5:00:00:intense:00
       synset: 00016415-r
-    - id: 'severely%4:02:02::'
+    - id: 'severely%4:45:02::'
       pertainym:
       - severe%5:00:02:nonindulgent:00
       synset: 00242552-r
-    - id: 'severely%4:02:03::'
+    - id: 'severely%4:51:03::'
       pertainym:
       - severe%5:00:01:bad:00
       synset: 00092328-r
@@ -51055,11 +51055,11 @@ sexualize:
 sexually:
   r:
     sense:
-    - id: 'sexually%4:02:01::'
+    - id: 'sexually%4:52:01::'
       pertainym:
       - 'sexual%3:01:01::'
       synset: 00137371-r
-    - id: 'sexually%4:02:00::'
+    - id: 'sexually%4:45:00::'
       pertainym:
       - 'sexual%3:00:00::'
       synset: 00137279-r
@@ -51118,11 +51118,11 @@ sgraffito:
 shabbily:
   r:
     sense:
-    - id: 'shabbily%4:02:01::'
+    - id: 'shabbily%4:45:01::'
       pertainym:
       - shabby%5:00:00:worn:00
       synset: 00452786-r
-    - id: 'shabbily%4:02:00::'
+    - id: 'shabbily%4:45:00::'
       pertainym:
       - shabby%5:00:00:dishonorable:00
       synset: 00452646-r
@@ -51722,7 +51722,7 @@ shagged:
 shaggily:
   r:
     sense:
-    - id: 'shaggily%4:02:00::'
+    - id: 'shaggily%4:45:00::'
       pertainym:
       - shaggy%5:00:00:ungroomed:00
       synset: 00452917-r
@@ -52051,11 +52051,11 @@ shakeup:
 shakily:
   r:
     sense:
-    - id: 'shakily%4:02:01::'
+    - id: 'shakily%4:45:01::'
       pertainym:
       - shaky%5:00:00:unstable:00
       synset: 00453184-r
-    - id: 'shakily%4:02:00::'
+    - id: 'shakily%4:45:00::'
       pertainym:
       - shaky%5:00:00:unsteady:00
       synset: 00453015-r
@@ -52240,7 +52240,7 @@ shallow-draught:
 shallowly:
   r:
     sense:
-    - id: 'shallowly%4:02:00::'
+    - id: 'shallowly%4:45:00::'
       pertainym:
       - 'shallow%3:00:01::'
       synset: 00453331-r
@@ -52450,7 +52450,7 @@ shambolically:
     - value: ʃæmˈbɔlɪkli
       variety: AU
     sense:
-    - id: 'shambolically%4:02:00::'
+    - id: 'shambolically%4:45:00::'
       pertainym:
       - 'shambolic%3:01:00::'
       synset: 00453406-r
@@ -52548,7 +52548,7 @@ shamefaced:
 shamefacedly:
   r:
     sense:
-    - id: 'shamefacedly%4:02:00::'
+    - id: 'shamefacedly%4:45:00::'
       pertainym:
       - shamefaced%5:00:01:ashamed:00
       synset: 00453487-r
@@ -52579,7 +52579,7 @@ shamefully:
     pronunciation:
     - value: ˈʃeɪmfəli
     sense:
-    - id: 'shamefully%4:02:00::'
+    - id: 'shamefully%4:51:00::'
       pertainym:
       - shameful%5:00:00:dishonorable:00
       synset: 00315026-r
@@ -52601,7 +52601,7 @@ shameless:
 shamelessly:
   r:
     sense:
-    - id: 'shamelessly%4:02:00::'
+    - id: 'shamelessly%4:45:00::'
       pertainym:
       - shameless%5:00:00:unashamed:00
       synset: 00210827-r
@@ -52927,7 +52927,7 @@ shapeless:
 shapelessly:
   r:
     sense:
-    - id: 'shapelessly%4:02:00::'
+    - id: 'shapelessly%4:45:00::'
       pertainym:
       - shapeless%5:00:00:unformed:00
       synset: 00453699-r
@@ -53317,7 +53317,7 @@ sharp:
     - value: ʃɑɹp
       variety: US
     sense:
-    - id: 'sharp%4:02:00::'
+    - id: 'sharp%4:45:00::'
       synset: 00505194-r
 sharp tongue:
   n:
@@ -53508,17 +53508,17 @@ sharply:
     - value: ʃɑːpli
       variety: GB
     sense:
-    - id: 'sharply%4:02:00::'
+    - id: 'sharply%4:45:00::'
       synset: 00050485-r
-    - id: 'sharply%4:02:01::'
+    - id: 'sharply%4:51:01::'
       pertainym:
       - sharp%5:00:00:distinct:00
       synset: 00212949-r
-    - id: 'sharply%4:02:02::'
+    - id: 'sharply%4:45:02::'
       pertainym:
       - sharp%5:00:00:sudden:00
       synset: 00505194-r
-    - id: 'sharply%4:02:03::'
+    - id: 'sharply%4:45:03::'
       synset: 00431427-r
 sharpness:
   n:
@@ -54298,7 +54298,7 @@ sheepishly:
     pronunciation:
     - value: ˈʃiː.pɪʃ.li
     sense:
-    - id: 'sheepishly%4:02:00::'
+    - id: 'sheepishly%4:45:00::'
       pertainym:
       - sheepish%5:00:00:ashamed:00
       synset: 00453825-r
@@ -54393,9 +54393,9 @@ sheer:
       synset: 02422186-s
   r:
     sense:
-    - id: 'sheer%4:02:01::'
+    - id: 'sheer%4:45:01::'
       synset: 00454019-r
-    - id: 'sheer%4:02:00::'
+    - id: 'sheer%4:45:00::'
       synset: 00453945-r
   v:
     sense:
@@ -55512,7 +55512,7 @@ shifter:
 shiftily:
   r:
     sense:
-    - id: 'shiftily%4:02:00::'
+    - id: 'shiftily%4:45:00::'
       pertainym:
       - shifty%5:00:00:untrustworthy:00
       synset: 00454106-r
@@ -57295,13 +57295,13 @@ shocking:
 shockingly:
   r:
     sense:
-    - id: 'shockingly%4:02:00::'
+    - id: 'shockingly%4:51:00::'
       synset: 00454436-r
-    - id: 'shockingly%4:02:02::'
+    - id: 'shockingly%4:45:02::'
       pertainym:
       - shocking%5:00:00:immoral:00
       synset: 00454522-r
-    - id: 'shockingly%4:02:01::'
+    - id: 'shockingly%4:45:01::'
       synset: 00454221-r
 shod:
   a:
@@ -57322,7 +57322,7 @@ shodden:
 shoddily:
   r:
     sense:
-    - id: 'shoddily%4:02:00::'
+    - id: 'shoddily%4:45:00::'
       pertainym:
       - shoddy%5:00:00:inferior:02
       synset: 00454631-r
@@ -58491,19 +58491,19 @@ short:
     - value: ʃoːt
       variety: AU
     sense:
-    - id: 'short%4:02:06::'
+    - id: 'short%4:45:06::'
       synset: 00455064-r
-    - id: 'short%4:02:07::'
+    - id: 'short%4:45:07::'
       synset: 00455142-r
-    - id: 'short%4:02:05::'
+    - id: 'short%4:51:05::'
       synset: 00454943-r
-    - id: 'short%4:02:03::'
+    - id: 'short%4:45:03::'
       synset: 00454841-r
-    - id: 'short%4:02:02::'
+    - id: 'short%4:45:02::'
       synset: 00454757-r
-    - id: 'short%4:02:00::'
+    - id: 'short%4:45:00::'
       synset: 00298575-r
-    - id: 'short%4:02:08::'
+    - id: 'short%4:45:08::'
       synset: 81484980-r
   v:
     pronunciation:
@@ -59124,17 +59124,17 @@ shortly:
     - value: ʃɔːɹtli
       variety: US
     sense:
-    - id: 'shortly%4:02:01::'
+    - id: 'shortly%4:49:01::'
       synset: 00034576-r
-    - id: 'shortly%4:02:00::'
+    - id: 'shortly%4:49:00::'
       synset: 00034309-r
-    - id: 'shortly%4:02:02::'
+    - id: 'shortly%4:45:02::'
       pertainym:
       - short%5:00:00:discourteous:00
       synset: 00298575-r
-    - id: 'shortly%4:02:04::'
+    - id: 'shortly%4:45:04::'
       synset: 00291174-r
-    - id: 'shortly%4:02:03::'
+    - id: 'shortly%4:50:03::'
       synset: 00034695-r
 shortness:
   n:
@@ -59476,7 +59476,7 @@ shoulder vise:
 shoulder-to-shoulder:
   r:
     sense:
-    - id: 'shoulder-to-shoulder%4:02:00::'
+    - id: 'shoulder-to-shoulder%4:45:00::'
       pertainym:
       - 'close%3:00:01::'
       synset: 00034887-r
@@ -60172,11 +60172,11 @@ showgirl:
 showily:
   r:
     sense:
-    - id: 'showily%4:02:00::'
+    - id: 'showily%4:45:00::'
       pertainym:
       - showy%5:00:00:ostentatious:00
       synset: 00417187-r
-    - id: 'showily%4:02:01::'
+    - id: 'showily%4:45:01::'
       pertainym:
       - showy%5:00:00:ostentatious:00
       synset: 00342775-r
@@ -60408,7 +60408,7 @@ shrewd:
 shrewdly:
   r:
     sense:
-    - id: 'shrewdly%4:02:00::'
+    - id: 'shrewdly%4:45:00::'
       pertainym:
       - shrewd%5:00:00:smart:00
       synset: 00274018-r
@@ -60430,7 +60430,7 @@ shrewish:
 shrewishly:
   r:
     sense:
-    - id: 'shrewishly%4:02:00::'
+    - id: 'shrewishly%4:45:00::'
       pertainym:
       - shrewish%5:00:00:ill-natured:00
       synset: 00503261-r
@@ -60562,7 +60562,7 @@ shrillness:
 shrilly:
   r:
     sense:
-    - id: 'shrilly%4:02:00::'
+    - id: 'shrilly%4:45:00::'
       pertainym:
       - shrill%5:00:00:high:03
       synset: 00050613-r
@@ -61109,7 +61109,7 @@ shuddering:
 shudderingly:
   r:
     sense:
-    - id: 'shudderingly%4:02:00::'
+    - id: 'shudderingly%4:45:00::'
       synset: 00455322-r
 shuddery:
   a:
@@ -61727,7 +61727,7 @@ shylock:
 shyly:
   r:
     sense:
-    - id: 'shyly%4:02:00::'
+    - id: 'shyly%4:45:00::'
       pertainym:
       - 'shy%3:00:00::'
       synset: 00230526-r
@@ -61917,7 +61917,7 @@ sibylline:
 sic:
   r:
     sense:
-    - id: 'sic%4:02:00::'
+    - id: 'sic%4:45:00::'
       synset: 00147536-r
   v:
     form:
@@ -62102,7 +62102,7 @@ sickening:
 sickeningly:
   r:
     sense:
-    - id: 'sickeningly%4:02:00::'
+    - id: 'sickeningly%4:51:00::'
       pertainym:
       - sickening%5:00:00:unwholesome:00
       synset: 00315534-r
@@ -62451,7 +62451,7 @@ sidearm:
       synset: 03156397-a
   r:
     sense:
-    - id: 'sidearm%4:02:00::'
+    - id: 'sidearm%4:45:00::'
       pertainym:
       - 'sidearm%3:01:00::'
       synset: 00517501-r
@@ -62533,11 +62533,11 @@ sidelong:
       synset: 01238441-s
   r:
     sense:
-    - id: 'sidelong%4:02:02::'
+    - id: 'sidelong%4:50:02::'
       synset: 00455985-r
-    - id: 'sidelong%4:02:01::'
+    - id: 'sidelong%4:50:01::'
       synset: 00455853-r
-    - id: 'sidelong%4:02:00::'
+    - id: 'sidelong%4:45:00::'
       synset: 00455713-r
 sidereal:
   a:
@@ -62639,7 +62639,7 @@ sidesaddle:
       synset: 04222220-n
   r:
     sense:
-    - id: 'sidesaddle%4:02:00::'
+    - id: 'sidesaddle%4:45:00::'
       synset: 00455466-r
 sideshow:
   n:
@@ -62673,7 +62673,7 @@ sidesplitting:
 sidesplittingly:
   r:
     sense:
-    - id: 'sidesplittingly%4:02:00::'
+    - id: 'sidesplittingly%4:51:00::'
       pertainym:
       - sidesplitting%5:00:00:humorous:00
       synset: 00387120-r
@@ -62748,21 +62748,21 @@ sidewall:
 sideward:
   r:
     sense:
-    - id: 'sideward%4:02:00::'
+    - id: 'sideward%4:50:00::'
       synset: 00456072-r
 sidewards:
   r:
     sense:
-    - id: 'sidewards%4:02:00::'
+    - id: 'sidewards%4:50:00::'
       synset: 00456072-r
 sideway:
   r:
     sense:
-    - id: 'sideway%4:02:01::'
+    - id: 'sideway%4:50:01::'
       synset: 00456477-r
-    - id: 'sideway%4:02:00::'
+    - id: 'sideway%4:45:00::'
       synset: 00456343-r
-    - id: 'sideway%4:02:02::'
+    - id: 'sideway%4:45:02::'
       synset: 00456164-r
 sideways:
   a:
@@ -62775,13 +62775,13 @@ sideways:
     pronunciation:
     - value: ˈsaɪdweɪz
     sense:
-    - id: 'sideways%4:02:02::'
+    - id: 'sideways%4:50:02::'
       synset: 00456477-r
-    - id: 'sideways%4:02:01::'
+    - id: 'sideways%4:45:01::'
       synset: 00456343-r
-    - id: 'sideways%4:02:03::'
+    - id: 'sideways%4:45:03::'
       synset: 00456164-r
-    - id: 'sideways%4:02:00::'
+    - id: 'sideways%4:45:00::'
       synset: 00455713-r
 sidewinder:
   n:
@@ -62793,11 +62793,11 @@ sidewinder:
 sidewise:
   r:
     sense:
-    - id: 'sidewise%4:02:03::'
+    - id: 'sidewise%4:45:03::'
       synset: 00456164-r
-    - id: 'sidewise%4:02:02::'
+    - id: 'sidewise%4:50:02::'
       synset: 00456477-r
-    - id: 'sidewise%4:02:01::'
+    - id: 'sidewise%4:45:01::'
       synset: 00456343-r
 siding:
   n:
@@ -63829,9 +63829,9 @@ signalling:
 signally:
   r:
     sense:
-    - id: 'signally%4:02:01::'
+    - id: 'signally%4:45:01::'
       synset: 00456780-r
-    - id: 'signally%4:02:00::'
+    - id: 'signally%4:51:00::'
       pertainym:
       - signal%5:00:00:impressive:00
       synset: 00456645-r
@@ -63995,18 +63995,18 @@ significant other:
 significantly:
   r:
     sense:
-    - id: 'significantly%4:02:04::'
+    - id: 'significantly%4:51:04::'
       pertainym:
       - 'significant%3:00:01::'
       synset: 00512503-r
     - antonym:
-      - 'insignificantly%4:02:00::'
-      id: 'significantly%4:02:03::'
+      - 'insignificantly%4:51:00::'
+      id: 'significantly%4:51:03::'
       pertainym:
       - significant%5:00:00:considerable:00
       - 'significant%3:00:00::'
       synset: 00006640-r
-    - id: 'significantly%4:02:02::'
+    - id: 'significantly%4:47:02::'
       pertainym:
       - 'significant%3:00:00::'
       synset: 00369664-r
@@ -64329,7 +64329,7 @@ silently:
     pronunciation:
     - value: ˈsaɪləntli
     sense:
-    - id: 'silently%4:02:00::'
+    - id: 'silently%4:45:00::'
       pertainym:
       - silent%5:00:00:uncommunicative:00
       synset: 00112833-r
@@ -64613,7 +64613,7 @@ silkgrass:
 silkily:
   r:
     sense:
-    - id: 'silkily%4:02:00::'
+    - id: 'silkily%4:45:00::'
       synset: 00456885-r
 silkiness:
   n:
@@ -65714,7 +65714,7 @@ similarly:
     - value: ˈsɪmələli
       variety: GB
     sense:
-    - id: 'similarly%4:02:00::'
+    - id: 'similarly%4:45:00::'
       pertainym:
       - 'similar%3:00:00::'
       synset: 00138870-r
@@ -65851,7 +65851,7 @@ simperer:
 simperingly:
   r:
     sense:
-    - id: 'simperingly%4:02:00::'
+    - id: 'simperingly%4:45:00::'
       synset: 00457002-r
 simple:
   a:
@@ -66167,15 +66167,15 @@ simply:
     pronunciation:
     - value: ˈsɪmpli
     sense:
-    - id: 'simply%4:02:00::'
+    - id: 'simply%4:53:00::'
       pertainym:
       - simple%5:00:02:plain:01
       synset: 00005103-r
-    - id: 'simply%4:02:03::'
+    - id: 'simply%4:51:03::'
       synset: 00247755-r
-    - id: 'simply%4:02:02::'
+    - id: 'simply%4:51:02::'
       synset: 00005348-r
-    - id: 'simply%4:02:01::'
+    - id: 'simply%4:45:01::'
       synset: 00005436-r
 simulacrum:
   n:
@@ -66309,7 +66309,7 @@ simultaneously:
     - value: ˌsaɪməlˈteɪnɪəsli
       variety: US
     sense:
-    - id: 'simultaneously%4:02:00::'
+    - id: 'simultaneously%4:49:00::'
       pertainym:
       - simultaneous%5:00:00:synchronous:00
       synset: 00120979-r
@@ -66375,7 +66375,7 @@ sinapism:
 since a long time ago:
   r:
     sense:
-    - id: 'since_a_long_time_ago%4:02:00::'
+    - id: 'since_a_long_time_ago%4:49:00::'
       synset: 00161376-r
 sincere:
   a:
@@ -66402,17 +66402,17 @@ sincerely:
       variety: GB
     sense:
     - antonym:
-      - 'insincerely%4:02:00::'
-      id: 'sincerely%4:02:00::'
+      - 'insincerely%4:45:00::'
+      id: 'sincerely%4:45:00::'
       pertainym:
       - 'sincere%3:00:00::'
       synset: 00380195-r
-    - id: 'sincerely%4:02:03::'
+    - id: 'sincerely%4:47:03::'
       synset: 00161285-r
 sincerely yours:
   r:
     sense:
-    - id: 'sincerely_yours%4:02:00::'
+    - id: 'sincerely_yours%4:47:00::'
       synset: 00161285-r
 sincerity:
   n:
@@ -66463,7 +66463,7 @@ sine die:
     - value: ˈsʌɪni ˈdʌɪiː
       variety: GB
     sense:
-    - id: 'sine_die%4:02:00::'
+    - id: 'sine_die%4:49:00::'
       synset: 00258865-r
 sine qua non:
   n:
@@ -66949,12 +66949,12 @@ single-handed:
       synset: 00733220-s
   r:
     sense:
-    - id: 'single-handed%4:02:00::'
+    - id: 'single-handed%4:45:00::'
       synset: 00457163-r
 single-handedly:
   r:
     sense:
-    - id: 'single-handedly%4:02:00::'
+    - id: 'single-handedly%4:45:00::'
       synset: 00457163-r
 single-humped:
   a:
@@ -67000,7 +67000,7 @@ single-minded:
 single-mindedly:
   r:
     sense:
-    - id: 'single-mindedly%4:02:00::'
+    - id: 'single-mindedly%4:45:00::'
       pertainym:
       - single-minded%5:00:00:resolute:00
       synset: 00457279-r
@@ -67111,12 +67111,12 @@ singly:
   r:
     sense:
     - antonym:
-      - 'multiply%4:02:00::'
-      id: 'singly%4:02:00::'
+      - 'multiply%4:48:00::'
+      id: 'singly%4:45:00::'
       pertainym:
       - 'single%3:00:00::'
       synset: 00083891-r
-    - id: 'singly%4:02:01::'
+    - id: 'singly%4:53:01::'
       pertainym:
       - 'single%3:00:00::'
       synset: 00208995-r
@@ -67276,7 +67276,7 @@ singularly:
     - value: ˈsɪŋɡjʊləli
       variety: GB
     sense:
-    - id: 'singularly%4:02:00::'
+    - id: 'singularly%4:51:00::'
       pertainym:
       - singular%5:00:00:extraordinary:00
       synset: 00457366-r
@@ -67589,7 +67589,7 @@ sinuous:
 sinuously:
   r:
     sense:
-    - id: 'sinuously%4:02:00::'
+    - id: 'sinuously%4:45:00::'
       pertainym:
       - sinuous%5:00:00:curved:00
       synset: 00517605-r
@@ -67690,7 +67690,7 @@ sinusoidal projection:
 sinusoidally:
   r:
     sense:
-    - id: 'sinusoidally%4:02:00::'
+    - id: 'sinusoidally%4:45:00::'
       pertainym:
       - sinusoidal%5:00:00:curved:00
       synset: 00517680-r
@@ -68478,7 +68478,7 @@ six pack:
 six times:
   r:
     sense:
-    - id: 'six_times%4:02:00::'
+    - id: 'six_times%4:51:00::'
       synset: 00457641-r
 six-fold:
   a:
@@ -68547,7 +68547,7 @@ sixfold:
       synset: 02227628-s
   r:
     sense:
-    - id: 'sixfold%4:02:00::'
+    - id: 'sixfold%4:51:00::'
       synset: 00457641-r
 sixpack:
   n:
@@ -68646,7 +68646,7 @@ sixth-former:
 sixthly:
   r:
     sense:
-    - id: 'sixthly%4:02:00::'
+    - id: 'sixthly%4:47:00::'
       pertainym:
       - sixth%5:00:00:ordinal:00
       synset: 00457801-r
@@ -69245,7 +69245,7 @@ skeptical:
 skeptically:
   r:
     sense:
-    - id: 'skeptically%4:02:00::'
+    - id: 'skeptically%4:45:00::'
       synset: 00448486-r
 skepticism:
   n:
@@ -69356,7 +69356,7 @@ sketcher:
 sketchily:
   r:
     sense:
-    - id: 'sketchily%4:02:00::'
+    - id: 'sketchily%4:45:00::'
       pertainym:
       - sketchy%5:00:00:incomplete:00
       synset: 00457913-r
@@ -69424,7 +69424,7 @@ skew-whiff:
       synset: 02320130-s
   r:
     sense:
-    - id: 'skew-whiff%4:02:00::'
+    - id: 'skew-whiff%4:45:00::'
       synset: 00273600-r
 skewed:
   a:
@@ -69787,7 +69787,7 @@ skilful:
 skilfully:
   r:
     sense:
-    - id: 'skilfully%4:02:00::'
+    - id: 'skilfully%4:45:00::'
       synset: 00458066-r
 skill:
   n:
@@ -69869,7 +69869,7 @@ skillful:
 skillfully:
   r:
     sense:
-    - id: 'skillfully%4:02:00::'
+    - id: 'skillfully%4:45:00::'
       pertainym:
       - skillful%5:00:00:skilled:00
       synset: 00458066-r
@@ -70089,7 +70089,7 @@ skimp over:
 skimpily:
   r:
     sense:
-    - id: 'skimpily%4:02:00::'
+    - id: 'skimpily%4:45:00::'
       pertainym:
       - skimpy%5:00:00:revealing:00
       synset: 00458236-r
@@ -70798,7 +70798,7 @@ skittish:
 skittishly:
   r:
     sense:
-    - id: 'skittishly%4:02:00::'
+    - id: 'skittishly%4:45:00::'
       pertainym:
       - skittish%5:00:00:excitable:00
       synset: 00458502-r
@@ -71113,11 +71113,11 @@ sky-blue:
 sky-high:
   r:
     sense:
-    - id: 'sky-high%4:02:02::'
+    - id: 'sky-high%4:51:02::'
       synset: 00458908-r
-    - id: 'sky-high%4:02:01::'
+    - id: 'sky-high%4:51:01::'
       synset: 00458782-r
-    - id: 'sky-high%4:02:00::'
+    - id: 'sky-high%4:51:00::'
       synset: 00458618-r
 skybox:
   n:
@@ -71281,12 +71281,12 @@ skyward:
       synset: 02500849-s
   r:
     sense:
-    - id: 'skyward%4:02:00::'
+    - id: 'skyward%4:50:00::'
       synset: 00262350-r
 skywards:
   r:
     sense:
-    - id: 'skywards%4:02:00::'
+    - id: 'skywards%4:50:00::'
       synset: 00262350-r
 skyway:
   n:
@@ -71533,7 +71533,7 @@ slackline:
 slackly:
   r:
     sense:
-    - id: 'slackly%4:02:00::'
+    - id: 'slackly%4:45:00::'
       pertainym:
       - slack%5:00:00:lax:01
       synset: 00180928-r
@@ -71759,11 +71759,11 @@ slam-bang:
       synset: 02522852-s
   r:
     sense:
-    - id: 'slam-bang%4:02:02::'
+    - id: 'slam-bang%4:45:02::'
       synset: 00459843-r
-    - id: 'slam-bang%4:02:01::'
+    - id: 'slam-bang%4:51:01::'
       synset: 00459726-r
-    - id: 'slam-bang%4:02:00::'
+    - id: 'slam-bang%4:45:00::'
       synset: 00459586-r
 slam-dunk:
   v:
@@ -71850,7 +71850,7 @@ slanderous:
 slanderously:
   r:
     sense:
-    - id: 'slanderously%4:02:00::'
+    - id: 'slanderously%4:45:00::'
       pertainym:
       - slanderous%5:00:00:harmful:00
       synset: 00459088-r
@@ -71919,7 +71919,7 @@ slang word:
 slangily:
   r:
     sense:
-    - id: 'slangily%4:02:00::'
+    - id: 'slangily%4:45:00::'
       pertainym:
       - slangy%5:00:00:informal:02
       synset: 00459252-r
@@ -72023,19 +72023,19 @@ slanting:
 slantingly:
   r:
     sense:
-    - id: 'slantingly%4:02:00::'
+    - id: 'slantingly%4:45:00::'
       pertainym:
       - slanting%5:00:00:inclined:01
       synset: 00459370-r
 slantways:
   r:
     sense:
-    - id: 'slantways%4:02:00::'
+    - id: 'slantways%4:45:00::'
       synset: 00459469-r
 slantwise:
   r:
     sense:
-    - id: 'slantwise%4:02:00::'
+    - id: 'slantwise%4:45:00::'
       synset: 00459469-r
 slap:
   n:
@@ -72054,7 +72054,7 @@ slap:
     pronunciation:
     - value: slæp
     sense:
-    - id: 'slap%4:02:00::'
+    - id: 'slap%4:45:00::'
       synset: 00279015-r
   v:
     form:
@@ -72101,9 +72101,9 @@ slap together:
 slap-bang:
   r:
     sense:
-    - id: 'slap-bang%4:02:01::'
+    - id: 'slap-bang%4:50:01::'
       synset: 00459960-r
-    - id: 'slap-bang%4:02:00::'
+    - id: 'slap-bang%4:45:00::'
       synset: 00459586-r
 slap-up:
   a:
@@ -72121,9 +72121,9 @@ slapdash:
     pronunciation:
     - value: ˈslæpdæʃ
     sense:
-    - id: 'slapdash%4:02:00::'
+    - id: 'slapdash%4:45:00::'
       synset: 00459843-r
-    - id: 'slapdash%4:02:01::'
+    - id: 'slapdash%4:45:01::'
       synset: 00279015-r
 slaphappy:
   a:
@@ -72695,7 +72695,7 @@ slavish:
 slavishly:
   r:
     sense:
-    - id: 'slavishly%4:02:00::'
+    - id: 'slavishly%4:45:00::'
       pertainym:
       - slavish%5:00:00:servile:00
       synset: 00460055-r
@@ -72950,7 +72950,7 @@ sleekly:
     pronunciation:
     - value: sliːk.li
     sense:
-    - id: 'sleekly%4:02:00::'
+    - id: 'sleekly%4:45:00::'
       pertainym:
       - sleek%5:00:00:bright:00
       synset: 00460182-r
@@ -73171,7 +73171,7 @@ sleeper nest:
 sleepily:
   r:
     sense:
-    - id: 'sleepily%4:02:00::'
+    - id: 'sleepily%4:45:00::'
       pertainym:
       - sleepy%5:00:00:asleep:00
       synset: 00460296-r
@@ -73291,7 +73291,7 @@ sleepless person:
 sleeplessly:
   r:
     sense:
-    - id: 'sleeplessly%4:02:00::'
+    - id: 'sleeplessly%4:45:00::'
       pertainym:
       - sleepless%5:00:00:awake:00
       synset: 00460439-r
@@ -73596,11 +73596,11 @@ slenderize:
 slenderly:
   r:
     sense:
-    - id: 'slenderly%4:02:00::'
+    - id: 'slenderly%4:45:00::'
       pertainym:
       - slender%5:00:00:thin:03
       synset: 00460568-r
-    - id: 'slenderly%4:02:01::'
+    - id: 'slenderly%4:51:01::'
       pertainym:
       - slender%5:00:00:small:00
       synset: 00398603-r
@@ -73934,7 +73934,7 @@ slicker:
 slickly:
   r:
     sense:
-    - id: 'slickly%4:02:00::'
+    - id: 'slickly%4:45:00::'
       synset: 00240144-r
 slickness:
   n:
@@ -74203,7 +74203,7 @@ slighting:
 slightingly:
   r:
     sense:
-    - id: 'slightingly%4:02:00::'
+    - id: 'slightingly%4:45:00::'
       pertainym:
       - slighting%5:00:00:uncomplimentary:00
       synset: 00318955-r
@@ -74212,9 +74212,9 @@ slightly:
     pronunciation:
     - value: ˈslaɪtli
     sense:
-    - id: 'slightly%4:02:01::'
+    - id: 'slightly%4:51:01::'
       synset: 00036695-r
-    - id: 'slightly%4:02:02::'
+    - id: 'slightly%4:45:02::'
       pertainym:
       - slight%5:00:00:thin:03
       synset: 00460568-r
@@ -74351,7 +74351,7 @@ sliminess:
 slimly:
   r:
     sense:
-    - id: 'slimly%4:02:00::'
+    - id: 'slimly%4:45:00::'
       pertainym:
       - slim%5:00:00:thin:03
       synset: 00460568-r
@@ -75405,7 +75405,7 @@ sloping trough:
 slopingly:
   r:
     sense:
-    - id: 'slopingly%4:02:00::'
+    - id: 'slopingly%4:45:00::'
       pertainym:
       - sloping%5:00:00:inclined:01
       synset: 00459370-r
@@ -75417,7 +75417,7 @@ slopped:
 sloppily:
   r:
     sense:
-    - id: 'sloppily%4:02:00::'
+    - id: 'sloppily%4:45:00::'
       pertainym:
       - sloppy%5:00:00:untidy:00
       synset: 00460908-r
@@ -75661,14 +75661,14 @@ sloucher:
 slouchily:
   r:
     sense:
-    - id: 'slouchily%4:02:00::'
+    - id: 'slouchily%4:45:00::'
       pertainym:
       - slouchy%5:00:00:untidy:00
       synset: 00461134-r
 slouchingly:
   r:
     sense:
-    - id: 'slouchingly%4:02:00::'
+    - id: 'slouchingly%4:45:00::'
       synset: 00461019-r
 slouchy:
   a:
@@ -75826,9 +75826,9 @@ slow:
     - value: sloʊ
       variety: US
     sense:
-    - id: 'slow%4:02:00::'
+    - id: 'slow%4:45:00::'
       synset: 00162829-r
-    - id: 'slow%4:02:01::'
+    - id: 'slow%4:49:01::'
       synset: 00224359-r
   v:
     pronunciation:
@@ -76000,14 +76000,14 @@ slowdown:
 slower:
   r:
     sense:
-    - id: 'slower%4:02:00::'
+    - id: 'slower%4:45:00::'
       pertainym:
       - 'slow%3:00:01::'
       synset: 00087109-r
 slowest:
   r:
     sense:
-    - id: 'slowest%4:02:00::'
+    - id: 'slowest%4:51:00::'
       pertainym:
       - 'slow%3:00:01::'
       synset: 00087268-r
@@ -76033,12 +76033,12 @@ slowly:
       variety: US
     sense:
     - antonym:
-      - 'quickly%4:02:00::'
-      id: 'slowly%4:02:02::'
+      - 'quickly%4:45:00::'
+      id: 'slowly%4:45:02::'
       pertainym:
       - 'slow%3:00:01::'
       synset: 00162829-r
-    - id: 'slowly%4:02:01::'
+    - id: 'slowly%4:45:01::'
       pertainym:
       - 'slow%3:00:02::'
       synset: 00390398-r
@@ -76222,7 +76222,7 @@ sluggish:
 sluggishly:
   r:
     sense:
-    - id: 'sluggishly%4:02:00::'
+    - id: 'sluggishly%4:45:00::'
       pertainym:
       - sluggish%5:00:01:slow:01
       synset: 00207256-r
@@ -76684,7 +76684,7 @@ slyly:
     pronunciation:
     - value: ˈslaɪli
     sense:
-    - id: 'slyly%4:02:00::'
+    - id: 'slyly%4:45:00::'
       pertainym:
       - sly%5:00:00:artful:00
       synset: 00295240-r
@@ -76720,7 +76720,7 @@ smack:
       synset: 00134488-n
   r:
     sense:
-    - id: 'smack%4:02:00::'
+    - id: 'smack%4:45:00::'
       synset: 00279015-r
   v:
     sense:
@@ -76854,8 +76854,8 @@ small:
       variety: AU
     sense:
     - antonym:
-      - 'big%4:02:02::'
-      id: 'small%4:02:00::'
+      - 'big%4:45:02::'
+      id: 'small%4:45:00::'
       synset: 00227588-r
 small beer:
   n:
@@ -77107,7 +77107,7 @@ small-minded:
 small-mindedly:
   r:
     sense:
-    - id: 'small-mindedly%4:02:00::'
+    - id: 'small-mindedly%4:45:00::'
       pertainym:
       - small-minded%5:00:00:narrow-minded:00
       synset: 00408548-r
@@ -77265,7 +77265,7 @@ smarm:
 smarmily:
   r:
     sense:
-    - id: 'smarmily%4:02:00::'
+    - id: 'smarmily%4:45:00::'
       pertainym:
       - smarmy%5:00:00:insincere:00
       synset: 00487963-r
@@ -77413,15 +77413,15 @@ smarting:
 smartly:
   r:
     sense:
-    - id: 'smartly%4:02:02::'
+    - id: 'smartly%4:45:02::'
       pertainym:
       - clever%5:00:00:smart:00
       synset: 00188967-r
-    - id: 'smartly%4:02:01::'
+    - id: 'smartly%4:45:01::'
       pertainym:
       - vigorous%5:00:00:energetic:00
       synset: 00183234-r
-    - id: 'smartly%4:02:00::'
+    - id: 'smartly%4:45:00::'
       pertainym:
       - smart%5:00:00:stylish:00
       synset: 00007257-r
@@ -77480,7 +77480,7 @@ smash:
       synset: 00065324-n
   r:
     sense:
-    - id: 'smash%4:02:00::'
+    - id: 'smash%4:45:00::'
       synset: 00461230-r
   v:
     pronunciation:
@@ -77622,7 +77622,7 @@ smashing:
 smashingly:
   r:
     sense:
-    - id: 'smashingly%4:02:00::'
+    - id: 'smashingly%4:45:00::'
       synset: 00461230-r
 smatter:
   v:
@@ -78031,8 +78031,8 @@ smilingly:
   r:
     sense:
     - antonym:
-      - 'unsmilingly%4:02:00::'
-      id: 'smilingly%4:02:00::'
+      - 'unsmilingly%4:45:00::'
+      id: 'smilingly%4:45:00::'
       synset: 00461334-r
 smilo:
   n:
@@ -78556,7 +78556,7 @@ smoldering:
 smolderingly:
   r:
     sense:
-    - id: 'smolderingly%4:02:00::'
+    - id: 'smolderingly%4:45:00::'
       pertainym:
       - smoldering%5:00:00:angry:00
       synset: 00505596-r
@@ -78919,11 +78919,11 @@ smoothly:
     pronunciation:
     - value: ˈsmuːðli
     sense:
-    - id: 'smoothly%4:02:00::'
+    - id: 'smoothly%4:45:00::'
       pertainym:
       - smooth%5:00:00:easy:01
       synset: 00211755-r
-    - id: 'smoothly%4:02:01::'
+    - id: 'smoothly%4:45:01::'
       pertainym:
       - smooth%5:00:00:diplomatic:00
       synset: 00460752-r
@@ -79070,7 +79070,7 @@ smouldering:
 smoulderingly:
   r:
     sense:
-    - id: 'smoulderingly%4:02:00::'
+    - id: 'smoulderingly%4:45:00::'
       pertainym:
       - smouldering%5:00:00:angry:00
       synset: 00505596-r
@@ -79163,7 +79163,7 @@ smuggling:
 smugly:
   r:
     sense:
-    - id: 'smugly%4:02:00::'
+    - id: 'smugly%4:45:00::'
       pertainym:
       - smug%5:00:00:contented:00
       synset: 00461643-r
@@ -79272,7 +79272,7 @@ smutch:
 smuttily:
   r:
     sense:
-    - id: 'smuttily%4:02:00::'
+    - id: 'smuttily%4:45:00::'
       pertainym:
       - smutty%5:00:00:dirty:02
       synset: 00461819-r
@@ -80096,7 +80096,7 @@ snappish:
 snappishly:
   r:
     sense:
-    - id: 'snappishly%4:02:00::'
+    - id: 'snappishly%4:45:00::'
       pertainym:
       - snappish%5:00:00:ill-natured:00
       synset: 00461921-r
@@ -80544,7 +80544,7 @@ sneaker:
 sneakily:
   r:
     sense:
-    - id: 'sneakily%4:02:00::'
+    - id: 'sneakily%4:45:00::'
       pertainym:
       - sneaky%5:00:00:concealed:00
       synset: 00473730-r
@@ -80565,7 +80565,7 @@ sneaking:
 sneakingly:
   r:
     sense:
-    - id: 'sneakingly%4:02:00::'
+    - id: 'sneakingly%4:45:00::'
       pertainym:
       - sneaking%5:00:00:concealed:00
       synset: 00462062-r
@@ -80653,7 +80653,7 @@ sneering:
 sneeringly:
   r:
     sense:
-    - id: 'sneeringly%4:02:00::'
+    - id: 'sneeringly%4:45:00::'
       pertainym:
       - sneering%5:00:00:uncomplimentary:00
       synset: 00462203-r
@@ -80797,7 +80797,7 @@ snide:
 snidely:
   r:
     sense:
-    - id: 'snidely%4:02:00::'
+    - id: 'snidely%4:45:00::'
       pertainym:
       - snide%5:00:00:uncomplimentary:00
       synset: 00462203-r
@@ -81248,7 +81248,7 @@ snobbish:
 snobbishly:
   r:
     sense:
-    - id: 'snobbishly%4:02:00::'
+    - id: 'snobbishly%4:45:00::'
       pertainym:
       - snobbish%5:00:00:private:00
       synset: 00462432-r
@@ -81412,7 +81412,7 @@ snoot:
 snootily:
   r:
     sense:
-    - id: 'snootily%4:02:00::'
+    - id: 'snootily%4:45:00::'
       pertainym:
       - snooty%5:00:00:proud:00
       synset: 00462432-r
@@ -82490,15 +82490,15 @@ snugly:
     pronunciation:
     - value: ˈsnʌɡli
     sense:
-    - id: 'snugly%4:02:00::'
+    - id: 'snugly%4:45:00::'
       pertainym:
       - snug%5:00:00:tight:01
       synset: 00195026-r
-    - id: 'snugly%4:02:01::'
+    - id: 'snugly%4:45:01::'
       pertainym:
       - snug%5:00:00:protected:00
       synset: 00195117-r
-    - id: 'snugly%4:02:02::'
+    - id: 'snugly%4:45:02::'
       pertainym:
       - snug%5:00:00:comfortable:00
       synset: 00195221-r
@@ -82525,34 +82525,34 @@ so:
     - value: soʊ
       variety: US
     sense:
-    - id: 'so%4:02:02::'
+    - id: 'so%4:51:02::'
       synset: 00147630-r
-    - id: 'so%4:02:06::'
+    - id: 'so%4:45:06::'
       synset: 00119259-r
-    - id: 'so%4:02:05::'
+    - id: 'so%4:45:05::'
       synset: 00147962-r
-    - id: 'so%4:02:07::'
+    - id: 'so%4:51:07::'
       synset: 00148162-r
-    - id: 'so%4:02:08::'
+    - id: 'so%4:53:08::'
       synset: 00148308-r
-    - id: 'so%4:02:04::'
+    - id: 'so%4:45:04::'
       synset: 00122019-r
-    - id: 'so%4:02:03::'
+    - id: 'so%4:51:03::'
       synset: 00147799-r
-    - id: 'so%4:02:09::'
+    - id: 'so%4:49:09::'
       synset: 00118527-r
-    - id: 'so%4:02:10::'
+    - id: 'so%4:47:10::'
       synset: 00043413-r
-    - id: 'so%4:02:00::'
+    - id: 'so%4:47:00::'
       synset: 00038035-r
 so far:
   r:
     sense:
-    - id: 'so_far%4:02:00::'
+    - id: 'so_far%4:49:00::'
       synset: 00028314-r
-    - id: 'so_far%4:02:02::'
+    - id: 'so_far%4:51:02::'
       synset: 00099509-r
-    - id: 'so_far%4:02:01::'
+    - id: 'so_far%4:49:01::'
       synset: 00028594-r
 so long:
   n:
@@ -82562,14 +82562,14 @@ so long:
 so to speak:
   r:
     sense:
-    - id: 'so_to_speak%4:02:00::'
+    - id: 'so_to_speak%4:47:00::'
       synset: 00153834-r
-    - id: 'so_to_speak%4:02:01::'
+    - id: 'so_to_speak%4:47:01::'
       synset: 00153940-r
 so yeah:
   r:
     sense:
-    - id: 'so_yeah%4:02:01::'
+    - id: 'so_yeah%4:47:01::'
       synset: 91000331-r
 so-and-so:
   n:
@@ -82598,7 +82598,7 @@ so-so:
     pronunciation:
     - value: ˈsəʊˌsəʊ
     sense:
-    - id: 'so-so%4:02:00::'
+    - id: 'so-so%4:45:00::'
       synset: 00055850-r
 soak:
   n:
@@ -82752,7 +82752,7 @@ soaking:
       synset: 00257368-n
   r:
     sense:
-    - id: 'soaking%4:02:00::'
+    - id: 'soaking%4:51:00::'
       synset: 00463703-r
 soaking syrup:
   n:
@@ -83081,7 +83081,7 @@ sobbing:
 sobbingly:
   r:
     sense:
-    - id: 'sobbingly%4:02:00::'
+    - id: 'sobbingly%4:45:00::'
       synset: 00462637-r
 sober:
   a:
@@ -83143,7 +83143,7 @@ sobering:
 soberly:
   r:
     sense:
-    - id: 'soberly%4:02:00::'
+    - id: 'soberly%4:45:00::'
       pertainym:
       - sober%5:00:00:serious:00
       synset: 00185309-r
@@ -83280,13 +83280,13 @@ sociableness:
 sociably:
   r:
     sense:
-    - id: 'sociably%4:02:01::'
+    - id: 'sociably%4:45:01::'
       pertainym:
       - 'sociable%3:00:00::'
       synset: 00352726-r
     - antonym:
-      - 'unsociably%4:02:00::'
-      id: 'sociably%4:02:00::'
+      - 'unsociably%4:45:00::'
+      id: 'sociably%4:45:00::'
       pertainym:
       - 'sociable%3:00:00::'
       synset: 00462737-r
@@ -83899,11 +83899,11 @@ socializing:
 socially:
   r:
     sense:
-    - id: 'socially%4:02:00::'
+    - id: 'socially%4:52:00::'
       pertainym:
       - 'social%3:01:00::'
       synset: 00127411-r
-    - id: 'socially%4:02:01::'
+    - id: 'socially%4:52:01::'
       pertainym:
       - 'social%3:00:00::'
       synset: 00127522-r
@@ -83959,7 +83959,7 @@ sociobiological:
 sociobiologically:
   r:
     sense:
-    - id: 'sociobiologically%4:02:00::'
+    - id: 'sociobiologically%4:52:00::'
       pertainym:
       - 'sociobiological%3:01:00::'
       synset: 00134529-r
@@ -83997,7 +83997,7 @@ socioeconomic:
 socioeconomically:
   r:
     sense:
-    - id: 'socioeconomically%4:02:00::'
+    - id: 'socioeconomically%4:52:00::'
       pertainym:
       - 'socioeconomic%3:01:00::'
       synset: 00204954-r
@@ -84027,7 +84027,7 @@ sociolinguistically:
     - value: ˌsoʊsi.oʊlɪŋˈɡwɪstɪk(ə)li
       variety: US
     sense:
-    - id: 'sociolinguistically%4:02:00::'
+    - id: 'sociolinguistically%4:52:00::'
       pertainym:
       - 'sociolinguistic%3:01:00::'
       synset: 00131795-r
@@ -84061,7 +84061,7 @@ sociological theory:
 sociologically:
   r:
     sense:
-    - id: 'sociologically%4:02:00::'
+    - id: 'sociologically%4:52:00::'
       pertainym:
       - 'sociological%3:01:00::'
       synset: 00463045-r
@@ -84703,7 +84703,7 @@ soft:
       variety: US
     - value: sɑft
     sense:
-    - id: 'soft%4:02:00::'
+    - id: 'soft%4:45:00::'
       pertainym:
       - soft%5:00:00:easy:01
       synset: 00149175-r
@@ -85194,16 +85194,16 @@ softly:
       variety: GB
     sense:
     - antonym:
-      - 'loudly%4:02:00::'
-      id: 'softly%4:02:00::'
+      - 'loudly%4:45:00::'
+      id: 'softly%4:45:00::'
       pertainym:
       - 'soft%3:00:04::'
       synset: 00070566-r
-    - id: 'softly%4:02:04::'
+    - id: 'softly%4:45:04::'
       synset: 00506401-r
-    - id: 'softly%4:02:02::'
+    - id: 'softly%4:45:02::'
       synset: 00181765-r
-    - id: 'softly%4:02:03::'
+    - id: 'softly%4:45:03::'
       synset: 00345456-r
 softness:
   n:
@@ -86177,7 +86177,7 @@ solely:
     - value: ˈsoʊl.li
       variety: US
     sense:
-    - id: 'solely%4:02:00::'
+    - id: 'solely%4:51:00::'
       pertainym:
       - sole%5:00:00:unshared:00
       synset: 00009062-r
@@ -86314,7 +86314,7 @@ solemnly:
     - value: ˈsɑləmli
       variety: US
     sense:
-    - id: 'solemnly%4:02:00::'
+    - id: 'solemnly%4:45:00::'
       pertainym:
       - solemn%5:00:00:serious:00
       synset: 00191472-r
@@ -86472,7 +86472,7 @@ solicitous:
 solicitously:
   r:
     sense:
-    - id: 'solicitously%4:02:00::'
+    - id: 'solicitously%4:45:00::'
       pertainym:
       - solicitous%5:00:00:concerned:00
       synset: 00463192-r
@@ -86762,11 +86762,11 @@ solidity:
 solidly:
   r:
     sense:
-    - id: 'solidly%4:02:02::'
+    - id: 'solidly%4:45:02::'
       pertainym:
       - solid%5:00:00:undiversified:00
       synset: 00233065-r
-    - id: 'solidly%4:02:00::'
+    - id: 'solidly%4:45:00::'
       pertainym:
       - solid%5:00:00:sound:01
       synset: 00232867-r
@@ -86870,7 +86870,7 @@ solitaire:
 solitarily:
   r:
     sense:
-    - id: 'solitarily%4:02:00::'
+    - id: 'solitarily%4:45:00::'
       pertainym:
       - solitary%5:00:01:unsocial:00
       synset: 00463343-r
@@ -87059,7 +87059,7 @@ solo:
     - value: ˈsəʊ.ləʊ
       variety: GB
     sense:
-    - id: 'solo%4:02:00::'
+    - id: 'solo%4:45:00::'
       synset: 00159090-r
   v:
     pronunciation:
@@ -87521,7 +87521,7 @@ somber:
 somberly:
   r:
     sense:
-    - id: 'somberly%4:02:00::'
+    - id: 'somberly%4:45:00::'
       pertainym:
       - somber%5:00:00:depressing:00
       synset: 00463450-r
@@ -87568,7 +87568,7 @@ sombre:
 sombrely:
   r:
     sense:
-    - id: 'sombrely%4:02:00::'
+    - id: 'sombrely%4:45:00::'
       synset: 00463450-r
 sombreness:
   n:
@@ -87614,7 +87614,7 @@ some:
     - value: sʌm
       variety: US
     sense:
-    - id: 'some%4:02:00::'
+    - id: 'some%4:49:00::'
       synset: 00007414-r
 some other:
   a:
@@ -87634,16 +87634,16 @@ somebody:
 someday:
   r:
     sense:
-    - id: 'someday%4:02:00::'
+    - id: 'someday%4:49:00::'
       synset: 00190913-r
 somehow:
   r:
     pronunciation:
     - value: ˈsʌmhaʊ
     sense:
-    - id: 'somehow%4:02:00::'
+    - id: 'somehow%4:45:00::'
       synset: 00026546-r
-    - id: 'somehow%4:02:01::'
+    - id: 'somehow%4:47:01::'
       synset: 00026794-r
 someone:
   n:
@@ -87657,7 +87657,7 @@ someplace:
     pronunciation:
     - value: ˈsʌmˌpleɪs
     sense:
-    - id: 'someplace%4:02:00::'
+    - id: 'someplace%4:50:00::'
       synset: 00025968-r
 somersault:
   n:
@@ -87728,14 +87728,14 @@ sometime:
     pronunciation:
     - value: ˈsʌmˌtaɪm
     sense:
-    - id: 'sometime%4:02:00::'
+    - id: 'sometime%4:49:00::'
       synset: 00022156-r
 sometimes:
   r:
     pronunciation:
     - value: ˈsʌmtaɪmz
     sense:
-    - id: 'sometimes%4:02:01::'
+    - id: 'sometimes%4:48:01::'
       synset: 00022332-r
 someway:
   r:
@@ -87743,7 +87743,7 @@ someway:
     - value: ˈsʌmweɪ
       variety: GB
     sense:
-    - id: 'someway%4:02:00::'
+    - id: 'someway%4:45:00::'
       synset: 00026546-r
 someways:
   r:
@@ -87751,7 +87751,7 @@ someways:
     - value: ˈsʌmweɪz
       variety: GB
     sense:
-    - id: 'someways%4:02:00::'
+    - id: 'someways%4:45:00::'
       synset: 00026546-r
 somewhat:
   r:
@@ -87761,9 +87761,9 @@ somewhat:
     - value: ˈsʌmwʌt
       variety: US
     sense:
-    - id: 'somewhat%4:02:01::'
+    - id: 'somewhat%4:51:01::'
       synset: 00036695-r
-    - id: 'somewhat%4:02:00::'
+    - id: 'somewhat%4:51:00::'
       synset: 00036138-r
 somewhere:
   n:
@@ -87782,7 +87782,7 @@ somewhere:
     - value: ˈsʌm.wɛː
       variety: GB
     sense:
-    - id: 'somewhere%4:02:00::'
+    - id: 'somewhere%4:50:00::'
       synset: 00025968-r
 somite:
   n:
@@ -87897,7 +87897,7 @@ somnolent:
 somnolently:
   r:
     sense:
-    - id: 'somnolently%4:02:00::'
+    - id: 'somnolently%4:45:00::'
       pertainym:
       - somnolent%5:00:00:asleep:00
       synset: 00324442-r
@@ -88204,7 +88204,7 @@ sonorous:
 sonorously:
   r:
     sense:
-    - id: 'sonorously%4:02:00::'
+    - id: 'sonorously%4:45:00::'
       pertainym:
       - sonorous%5:00:00:full:01
       synset: 00447080-r
@@ -88240,12 +88240,12 @@ soon:
     pronunciation:
     - value: suːn
     sense:
-    - id: 'soon%4:02:00::'
+    - id: 'soon%4:49:00::'
       synset: 00034309-r
 soon enough:
   r:
     sense:
-    - id: 'soon_enough%4:02:00::'
+    - id: 'soon_enough%4:49:00::'
       synset: 00168839-r
 sooner:
   r:
@@ -88255,14 +88255,14 @@ sooner:
     - value: ˈsuːnə
       variety: GB
     sense:
-    - id: 'sooner%4:02:00::'
+    - id: 'sooner%4:49:00::'
       synset: 00260528-r
-    - id: 'sooner%4:02:01::'
+    - id: 'sooner%4:47:01::'
       synset: 00116461-r
 soonest:
   r:
     sense:
-    - id: 'soonest%4:02:00::'
+    - id: 'soonest%4:49:00::'
       synset: 00035028-r
 soot:
   n:
@@ -88343,7 +88343,7 @@ soothing syrup:
 soothingly:
   r:
     sense:
-    - id: 'soothingly%4:02:00::'
+    - id: 'soothingly%4:45:00::'
       pertainym:
       - soothing%5:00:00:reassuring:00
       synset: 00463581-r
@@ -88661,7 +88661,7 @@ soporific:
 sopping:
   r:
     sense:
-    - id: 'sopping%4:02:00::'
+    - id: 'sopping%4:51:00::'
       synset: 00463703-r
 soppy:
   a:
@@ -88864,7 +88864,7 @@ sordid:
 sordidly:
   r:
     sense:
-    - id: 'sordidly%4:02:00::'
+    - id: 'sordidly%4:45:00::'
       pertainym:
       - sordid%5:00:00:dirty:01
       synset: 00463804-r
@@ -88931,11 +88931,11 @@ sorely:
       variety: GB
     - value: ˈso(ː)ɹli
     sense:
-    - id: 'sorely%4:02:01::'
+    - id: 'sorely%4:51:01::'
       pertainym:
       - sore%5:00:00:unpleasant:00
       synset: 00463915-r
-    - id: 'sorely%4:02:02::'
+    - id: 'sorely%4:45:02::'
       pertainym:
       - sore%5:00:00:painful:00
       synset: 00512066-r
@@ -89113,11 +89113,11 @@ sorrowful:
 sorrowfully:
   r:
     sense:
-    - id: 'sorrowfully%4:02:01::'
+    - id: 'sorrowfully%4:45:01::'
       pertainym:
       - 'sorrowful%3:00:00::'
       synset: 00464053-r
-    - id: 'sorrowfully%4:02:00::'
+    - id: 'sorrowfully%4:45:00::'
       pertainym:
       - 'sorrowful%3:00:00::'
       synset: 00322558-r
@@ -89220,7 +89220,7 @@ sort of:
     - value: ˈsɔːt əv
       variety: GB
     sense:
-    - id: 'sort_of%4:02:00::'
+    - id: 'sort_of%4:51:00::'
       synset: 00018764-r
 sort out:
   v:
@@ -89361,7 +89361,7 @@ sottish:
 sottishly:
   r:
     sense:
-    - id: 'sottishly%4:02:00::'
+    - id: 'sottishly%4:45:00::'
       pertainym:
       - sottish%5:00:00:intoxicated:00
       synset: 00464239-r
@@ -89384,7 +89384,7 @@ sotto voce:
     - value: ˌsɑtoʊ ˈvoʊtʃi
       variety: US
     sense:
-    - id: 'sotto_voce%4:02:00::'
+    - id: 'sotto_voce%4:45:00::'
       synset: 00258945-r
 sou:
   n:
@@ -89398,7 +89398,7 @@ sou'-east:
       synset: 13855040-n
   r:
     sense:
-    - id: 'sou''-east%4:02:00::'
+    - id: 'sou''-east%4:50:00::'
       synset: 00464314-r
 sou'-sou'-east:
   n:
@@ -89407,7 +89407,7 @@ sou'-sou'-east:
       synset: 13855318-n
   r:
     sense:
-    - id: 'sou''-sou''-east%4:02:00::'
+    - id: 'sou''-sou''-east%4:50:00::'
       synset: 00464501-r
 sou'-sou'-west:
   n:
@@ -89416,7 +89416,7 @@ sou'-sou'-west:
       synset: 13855822-n
   r:
     sense:
-    - id: 'sou''-sou''-west%4:02:00::'
+    - id: 'sou''-sou''-west%4:50:00::'
       synset: 00464599-r
 sou'-west:
   n:
@@ -89431,7 +89431,7 @@ sou'easter:
 sou'west:
   r:
     sense:
-    - id: 'sou''west%4:02:00::'
+    - id: 'sou''west%4:50:00::'
       synset: 00464408-r
 sou'wester:
   n:
@@ -89503,7 +89503,7 @@ soughing:
 soughingly:
   r:
     sense:
-    - id: 'soughingly%4:02:00::'
+    - id: 'soughingly%4:45:00::'
       pertainym:
       - soughing%5:00:00:soft:04
       synset: 00513028-r
@@ -89611,7 +89611,7 @@ soulfully:
     pronunciation:
     - value: ˈsoʊlfəli
     sense:
-    - id: 'soulfully%4:02:00::'
+    - id: 'soulfully%4:45:00::'
       pertainym:
       - soulful%5:00:00:emotional:00
       synset: 00211546-r
@@ -89632,7 +89632,7 @@ soulless:
 soullessly:
   r:
     sense:
-    - id: 'soullessly%4:02:00::'
+    - id: 'soullessly%4:45:00::'
       pertainym:
       - soulless%5:00:00:insensitive:02
       synset: 00464697-r
@@ -90084,7 +90084,7 @@ soundless:
 soundlessly:
   r:
     sense:
-    - id: 'soundlessly%4:02:00::'
+    - id: 'soundlessly%4:45:00::'
       pertainym:
       - soundless%5:00:00:quiet:01
       synset: 00464818-r
@@ -90100,11 +90100,11 @@ soundly:
     pronunciation:
     - value: ˈsaʊnd.lɪ
     sense:
-    - id: 'soundly%4:02:01::'
+    - id: 'soundly%4:45:01::'
       pertainym:
       - sound%5:00:00:deep:02
       synset: 00058430-r
-    - id: 'soundly%4:02:00::'
+    - id: 'soundly%4:51:00::'
       pertainym:
       - sound%5:00:00:complete:00
       synset: 00057926-r
@@ -90591,7 +90591,7 @@ sourish:
 sourly:
   r:
     sense:
-    - id: 'sourly%4:02:00::'
+    - id: 'sourly%4:45:00::'
       pertainym:
       - sour%5:00:00:ill-natured:00
       synset: 00465016-r
@@ -90750,7 +90750,7 @@ south:
     pronunciation:
     - value: saʊθ
     sense:
-    - id: 'south%4:02:00::'
+    - id: 'south%4:50:00::'
       synset: 00245397-r
 south by east:
   n:
@@ -90795,7 +90795,7 @@ south-central:
 south-east:
   r:
     sense:
-    - id: 'south-east%4:02:00::'
+    - id: 'south-east%4:50:00::'
       synset: 00464314-r
 south-polar:
   a:
@@ -90812,17 +90812,17 @@ south-seeking pole:
 south-southeast:
   r:
     sense:
-    - id: 'south-southeast%4:02:00::'
+    - id: 'south-southeast%4:50:00::'
       synset: 00464501-r
 south-southwest:
   r:
     sense:
-    - id: 'south-southwest%4:02:00::'
+    - id: 'south-southwest%4:50:00::'
       synset: 00464599-r
 south-west:
   r:
     sense:
-    - id: 'south-west%4:02:00::'
+    - id: 'south-west%4:50:00::'
       synset: 00464408-r
 southbound:
   a:
@@ -90846,7 +90846,7 @@ southeast:
       synset: 08578999-n
   r:
     sense:
-    - id: 'southeast%4:02:00::'
+    - id: 'southeast%4:50:00::'
       synset: 00464314-r
 southeast by east:
   n:
@@ -90902,14 +90902,14 @@ southeastward:
       synset: 13855040-n
   r:
     sense:
-    - id: 'southeastward%4:02:00::'
+    - id: 'southeastward%4:50:00::'
       pertainym:
       - southeastward%5:00:00:south:00
       synset: 00514743-r
 southeastwardly:
   r:
     sense:
-    - id: 'southeastwardly%4:02:00::'
+    - id: 'southeastwardly%4:50:00::'
       pertainym:
       - southeastward%5:00:00:south:00
       synset: 00514743-r
@@ -90962,11 +90962,11 @@ southerly:
     - value: ˈsɐðɘliː
       variety: NZ
     sense:
-    - id: 'southerly%4:02:01::'
+    - id: 'southerly%4:50:01::'
       pertainym:
       - southerly%5:00:02:south:00
       synset: 00465252-r
-    - id: 'southerly%4:02:00::'
+    - id: 'southerly%4:50:00::'
       pertainym:
       - southerly%5:00:01:south:00
       synset: 00465157-r
@@ -91188,14 +91188,14 @@ southward:
     sense:
     - exemplifies:
       - 'american_english%1:10:00::'
-      id: 'southward%4:02:00::'
+      id: 'southward%4:50:00::'
       synset: 00465252-r
 southwards:
   r:
     sense:
     - exemplifies:
       - 'british_english%1:10:01::'
-      id: 'southwards%4:02:00::'
+      id: 'southwards%4:50:00::'
       synset: 00465252-r
 southwest:
   a:
@@ -91218,7 +91218,7 @@ southwest:
       synset: 08579251-n
   r:
     sense:
-    - id: 'southwest%4:02:00::'
+    - id: 'southwest%4:50:00::'
       synset: 00464408-r
 southwest by south:
   n:
@@ -91284,14 +91284,14 @@ southwestward:
       synset: 13856085-n
   r:
     sense:
-    - id: 'southwestward%4:02:00::'
+    - id: 'southwestward%4:50:00::'
       pertainym:
       - southwestward%5:00:00:south:00
       synset: 00514912-r
 southwestwardly:
   r:
     sense:
-    - id: 'southwestwardly%4:02:00::'
+    - id: 'southwestwardly%4:50:00::'
       pertainym:
       - southwestward%5:00:00:south:00
       synset: 00514912-r
@@ -91877,12 +91877,12 @@ spacewalker:
 spaceward:
   r:
     sense:
-    - id: 'spaceward%4:02:00::'
+    - id: 'spaceward%4:50:00::'
       synset: 00517761-r
 spacewards:
   r:
     sense:
-    - id: 'spacewards%4:02:00::'
+    - id: 'spacewards%4:50:00::'
       synset: 00517761-r
 spacewoman:
   n:
@@ -91934,7 +91934,7 @@ spacious:
 spaciously:
   r:
     sense:
-    - id: 'spaciously%4:02:00::'
+    - id: 'spaciously%4:45:00::'
       pertainym:
       - spacious%5:00:00:commodious:00
       synset: 00446725-r
@@ -92500,7 +92500,7 @@ sparing:
 sparingly:
   r:
     sense:
-    - id: 'sparingly%4:02:00::'
+    - id: 'sparingly%4:51:00::'
       pertainym:
       - sparing%5:00:00:thrifty:00
       synset: 00398603-r
@@ -92815,7 +92815,7 @@ sparse:
 sparsely:
   r:
     sense:
-    - id: 'sparsely%4:02:00::'
+    - id: 'sparsely%4:51:00::'
       pertainym:
       - sparse%5:00:00:distributed:00
       synset: 00458383-r
@@ -92873,11 +92873,11 @@ spasmodic laryngitis:
 spasmodically:
   r:
     sense:
-    - id: 'spasmodically%4:02:01::'
+    - id: 'spasmodically%4:45:01::'
       pertainym:
       - spasmodic%5:00:00:unsteady:00
       synset: 00465509-r
-    - id: 'spasmodically%4:02:00::'
+    - id: 'spasmodically%4:45:00::'
       pertainym:
       - spasmodic%5:00:00:sporadic:00
       synset: 00465378-r
@@ -93114,7 +93114,7 @@ spatiality:
 spatially:
   r:
     sense:
-    - id: 'spatially%4:02:00::'
+    - id: 'spatially%4:50:00::'
       pertainym:
       - 'spacial%3:01:00::'
       synset: 00131326-r
@@ -94069,11 +94069,11 @@ specially:
     pronunciation:
     - value: ˈspɛʃəli
     sense:
-    - id: 'specially%4:02:01::'
+    - id: 'specially%4:45:01::'
       pertainym:
       - special%5:00:00:extraordinary:00
       synset: 00504802-r
-    - id: 'specially%4:02:00::'
+    - id: 'specially%4:51:00::'
       pertainym:
       - special%5:00:00:uncommon:00
       synset: 00084573-r
@@ -94206,8 +94206,8 @@ specifically:
     - value: spəˈsɪf.ɪk.li
     sense:
     - antonym:
-      - 'generally%4:02:01::'
-      id: 'specifically%4:02:00::'
+      - 'generally%4:45:01::'
+      id: 'specifically%4:53:00::'
       pertainym:
       - 'specific%3:00:00::'
       synset: 00042168-r
@@ -94360,7 +94360,7 @@ specious argument:
 speciously:
   r:
     sense:
-    - id: 'speciously%4:02:00::'
+    - id: 'speciously%4:45:00::'
       pertainym:
       - specious%5:00:00:false:00
       synset: 00465693-r
@@ -94527,7 +94527,7 @@ spectacular:
 spectacularly:
   r:
     sense:
-    - id: 'spectacularly%4:02:00::'
+    - id: 'spectacularly%4:51:00::'
       pertainym:
       - spectacular%5:00:00:impressive:00
       synset: 00211285-r
@@ -94677,7 +94677,7 @@ spectrographic analysis:
 spectrographically:
   r:
     sense:
-    - id: 'spectrographically%4:02:00::'
+    - id: 'spectrographically%4:45:00::'
       pertainym:
       - 'spectrographic%3:01:00::'
       synset: 00465770-r
@@ -94879,7 +94879,7 @@ speculative:
 speculatively:
   r:
     sense:
-    - id: 'speculatively%4:02:00::'
+    - id: 'speculatively%4:45:00::'
       pertainym:
       - speculative%5:00:00:curious:00
       synset: 00243330-r
@@ -95104,7 +95104,7 @@ speechless:
 speechlessly:
   r:
     sense:
-    - id: 'speechlessly%4:02:00::'
+    - id: 'speechlessly%4:45:00::'
       pertainym:
       - speechless%5:00:00:inarticulate:00
       synset: 00465914-r
@@ -95375,7 +95375,7 @@ speedily:
     pronunciation:
     - value: ˈspiːdɪli
     sense:
-    - id: 'speedily%4:02:00::'
+    - id: 'speedily%4:45:00::'
       pertainym:
       - speedy%5:00:03:fast:01
       synset: 00086161-r
@@ -96221,7 +96221,7 @@ spherical trigonometry:
 spherically:
   r:
     sense:
-    - id: 'spherically%4:02:00::'
+    - id: 'spherically%4:45:00::'
       pertainym:
       - 'spherical%3:01:00::'
       synset: 00144655-r
@@ -96489,7 +96489,7 @@ spicery:
 spicily:
   r:
     sense:
-    - id: 'spicily%4:02:00::'
+    - id: 'spicily%4:45:00::'
       pertainym:
       - spicy%5:00:01:tasty:00
       synset: 00424855-r
@@ -97414,7 +97414,7 @@ spinal vein:
 spinally:
   r:
     sense:
-    - id: 'spinally%4:02:00::'
+    - id: 'spinally%4:50:00::'
       pertainym:
       - 'spinal%3:01:00::'
       synset: 00137187-r
@@ -97985,7 +97985,7 @@ spiralling:
 spirally:
   r:
     sense:
-    - id: 'spirally%4:02:00::'
+    - id: 'spirally%4:45:00::'
       pertainym:
       - spiral%5:00:00:coiled:00
       synset: 00466082-r
@@ -98199,7 +98199,7 @@ spirited:
 spiritedly:
   r:
     sense:
-    - id: 'spiritedly%4:02:00::'
+    - id: 'spiritedly%4:45:00::'
       pertainym:
       - 'spirited%3:00:00::'
       synset: 00035133-r
@@ -98483,7 +98483,7 @@ spiritualize:
 spiritually:
   r:
     sense:
-    - id: 'spiritually%4:02:00::'
+    - id: 'spiritually%4:52:00::'
       pertainym:
       - spiritual%5:00:00:incorporeal:00
       synset: 00212815-r
@@ -98721,11 +98721,11 @@ spiteful:
 spitefully:
   r:
     sense:
-    - id: 'spitefully%4:02:02::'
+    - id: 'spitefully%4:45:02::'
       pertainym:
       - spiteful%5:00:00:malicious:00
       synset: 00310744-r
-    - id: 'spitefully%4:02:00::'
+    - id: 'spitefully%4:45:00::'
       pertainym:
       - spiteful%5:00:00:malicious:00
       synset: 00202768-r
@@ -99200,11 +99200,11 @@ splendid:
 splendidly:
   r:
     sense:
-    - id: 'splendidly%4:02:00::'
+    - id: 'splendidly%4:45:00::'
       pertainym:
       - splendid%5:00:00:superior:02
       synset: 00183802-r
-    - id: 'splendidly%4:02:01::'
+    - id: 'splendidly%4:45:01::'
       pertainym:
       - splendid%5:00:00:beautiful:00
       synset: 00351959-r
@@ -100572,11 +100572,11 @@ spontaneously:
     - value: spɑnˈteɪ.ni.əs.li
       variety: US
     sense:
-    - id: 'spontaneously%4:02:00::'
+    - id: 'spontaneously%4:45:00::'
       pertainym:
       - 'spontaneous%3:00:00::'
       synset: 00193599-r
-    - id: 'spontaneously%4:02:01::'
+    - id: 'spontaneously%4:45:01::'
       synset: 00089143-r
 spontaneousness:
   n:
@@ -100637,7 +100637,7 @@ spookily:
     - value: ˈspuːk.ɪ.li
       variety: GB
     sense:
-    - id: 'spookily%4:02:00::'
+    - id: 'spookily%4:45:00::'
       synset: 00327195-r
 spooky:
   a:
@@ -100822,7 +100822,7 @@ sporadic:
 sporadically:
   r:
     sense:
-    - id: 'sporadically%4:02:00::'
+    - id: 'sporadically%4:48:00::'
       pertainym:
       - 'sporadic%3:00:00::'
       synset: 00214272-r
@@ -101095,8 +101095,8 @@ sportingly:
   r:
     sense:
     - antonym:
-      - 'unsportingly%4:02:00::'
-      id: 'sportingly%4:02:00::'
+      - 'unsportingly%4:45:00::'
+      id: 'sportingly%4:45:00::'
       pertainym:
       - sporting%5:00:00:fair:03
       synset: 00466176-r
@@ -101116,7 +101116,7 @@ sportive:
 sportively:
   r:
     sense:
-    - id: 'sportively%4:02:00::'
+    - id: 'sportively%4:45:00::'
       pertainym:
       - coltish%5:00:00:playful:00
       synset: 00035249-r
@@ -101541,7 +101541,7 @@ spotless:
 spotlessly:
   r:
     sense:
-    - id: 'spotlessly%4:02:00::'
+    - id: 'spotlessly%4:51:00::'
       pertainym:
       - spotless%5:00:00:clean:01
       synset: 00466561-r
@@ -103317,7 +103317,7 @@ spruced up:
 sprucely:
   r:
     sense:
-    - id: 'sprucely%4:02:00::'
+    - id: 'sprucely%4:45:00::'
       pertainym:
       - spruce%5:00:00:fashionable:00
       synset: 00007257-r
@@ -103601,7 +103601,7 @@ spurious wing:
 spuriously:
   r:
     sense:
-    - id: 'spuriously%4:02:00::'
+    - id: 'spuriously%4:45:00::'
       pertainym:
       - spurious%5:00:00:false:00
       synset: 00466752-r
@@ -103989,7 +103989,7 @@ squalid:
 squalidly:
   r:
     sense:
-    - id: 'squalidly%4:02:00::'
+    - id: 'squalidly%4:45:00::'
       pertainym:
       - squalid%5:00:00:dirty:01
       synset: 00463804-r
@@ -104202,11 +104202,11 @@ square:
       synset: 04298380-n
   r:
     sense:
-    - id: 'square%4:02:00::'
+    - id: 'square%4:45:00::'
       synset: 00052564-r
-    - id: 'square%4:02:02::'
+    - id: 'square%4:45:02::'
       synset: 00051978-r
-    - id: 'square%4:02:01::'
+    - id: 'square%4:45:01::'
       synset: 00051806-r
   v:
     pronunciation:
@@ -104576,19 +104576,19 @@ squarely:
     - value: ˈskwɛɹ.li
       variety: US
     sense:
-    - id: 'squarely%4:02:03::'
+    - id: 'squarely%4:45:03::'
       pertainym:
       - square%5:00:00:direct:02
       synset: 00052128-r
-    - id: 'squarely%4:02:05::'
+    - id: 'squarely%4:45:05::'
       synset: 00052564-r
-    - id: 'squarely%4:02:01::'
+    - id: 'squarely%4:45:01::'
       synset: 00051806-r
-    - id: 'squarely%4:02:02::'
+    - id: 'squarely%4:45:02::'
       pertainym:
       - 'square%3:00:00::'
       synset: 00051978-r
-    - id: 'squarely%4:02:00::'
+    - id: 'squarely%4:45:00::'
       synset: 00051555-r
 squareness:
   n:
@@ -105091,7 +105091,7 @@ squeamish:
 squeamishly:
   r:
     sense:
-    - id: 'squeamishly%4:02:00::'
+    - id: 'squeamishly%4:45:00::'
       pertainym:
       - squeamish%5:00:00:fastidious:00
       synset: 00466916-r
@@ -106233,11 +106233,11 @@ stabling:
 stably:
   r:
     sense:
-    - id: 'stably%4:02:01::'
+    - id: 'stably%4:45:01::'
       pertainym:
       - 'stable%3:00:00::'
       synset: 00517962-r
-    - id: 'stably%4:02:00::'
+    - id: 'stably%4:45:00::'
       pertainym:
       - stable%5:00:00:unchangeable:00
       synset: 00517831-r
@@ -106255,8 +106255,8 @@ staccato:
     - value: stəˈkɑːtoʊ
     sense:
     - antonym:
-      - 'legato%4:02:00::'
-      id: 'staccato%4:02:00::'
+      - 'legato%4:45:00::'
+      id: 'staccato%4:45:00::'
       synset: 00389998-r
 stachyose:
   n:
@@ -106881,7 +106881,7 @@ staggering:
 staggeringly:
   r:
     sense:
-    - id: 'staggeringly%4:02:00::'
+    - id: 'staggeringly%4:51:00::'
       synset: 00197952-r
 staggers:
   n:
@@ -106924,7 +106924,7 @@ staghound:
 stagily:
   r:
     sense:
-    - id: 'stagily%4:02:00::'
+    - id: 'stagily%4:45:00::'
       pertainym:
       - stagy%5:00:00:theatrical:00
       synset: 00467046-r
@@ -107078,7 +107078,7 @@ staid:
 staidly:
   r:
     sense:
-    - id: 'staidly%4:02:00::'
+    - id: 'staidly%4:45:00::'
       pertainym:
       - staid%5:00:00:decorous:00
       synset: 00185309-r
@@ -108157,7 +108157,7 @@ stanchion:
 stanchly:
   r:
     sense:
-    - id: 'stanchly%4:02:00::'
+    - id: 'stanchly%4:45:00::'
       synset: 00468043-r
 stand:
   n:
@@ -109008,7 +109008,7 @@ standoffish:
 standoffishly:
   r:
     sense:
-    - id: 'standoffishly%4:02:00::'
+    - id: 'standoffishly%4:45:00::'
       pertainym:
       - standoffish%5:00:00:unapproachable:00
       synset: 00467231-r
@@ -109794,7 +109794,7 @@ stark:
       synset: 01245624-s
   r:
     sense:
-    - id: 'stark%4:02:00::'
+    - id: 'stark%4:51:00::'
       synset: 00467379-r
 stark naked:
   a:
@@ -109812,15 +109812,15 @@ starkers:
 starkly:
   r:
     sense:
-    - id: 'starkly%4:02:02::'
+    - id: 'starkly%4:51:02::'
       pertainym:
       - stark%5:00:00:unmitigated:00
       synset: 00467685-r
-    - id: 'starkly%4:02:01::'
+    - id: 'starkly%4:45:01::'
       pertainym:
       - stark%5:00:00:plain:01
       synset: 00467557-r
-    - id: 'starkly%4:02:00::'
+    - id: 'starkly%4:51:00::'
       pertainym:
       - stark%5:00:00:unconditional:00
       synset: 00467456-r
@@ -110368,7 +110368,7 @@ startling:
 startlingly:
   r:
     sense:
-    - id: 'startlingly%4:02:00::'
+    - id: 'startlingly%4:51:00::'
       pertainym:
       - startling%5:00:00:surprising:00
       synset: 00467802-r
@@ -111127,7 +111127,7 @@ statistically:
     pronunciation:
     - value: stəˈtɪstɪkl̩i
     sense:
-    - id: 'statistically%4:02:00::'
+    - id: 'statistically%4:52:00::'
       pertainym:
       - 'statistical%3:01:00::'
       synset: 00079498-r
@@ -111321,7 +111321,7 @@ statute title:
 statutorily:
   r:
     sense:
-    - id: 'statutorily%4:02:00::'
+    - id: 'statutorily%4:52:00::'
       pertainym:
       - statutory%5:00:00:legal:00
       synset: 00467911-r
@@ -111386,7 +111386,7 @@ staunch:
 staunchly:
   r:
     sense:
-    - id: 'staunchly%4:02:00::'
+    - id: 'staunchly%4:45:00::'
       pertainym:
       - staunch%5:00:00:constant:00
       synset: 00468043-r
@@ -111717,7 +111717,7 @@ steadfast:
 steadfastly:
   r:
     sense:
-    - id: 'steadfastly%4:02:00::'
+    - id: 'steadfastly%4:51:00::'
       pertainym:
       - steadfast%5:00:00:resolute:00
       synset: 00051355-r
@@ -111742,13 +111742,13 @@ steadily:
     pronunciation:
     - value: ˈstɛdɪli
     sense:
-    - id: 'steadily%4:02:01::'
+    - id: 'steadily%4:45:01::'
       pertainym:
       - 'steady%3:00:00::'
       synset: 00050724-r
     - antonym:
-      - 'unsteadily%4:02:00::'
-      id: 'steadily%4:02:00::'
+      - 'unsteadily%4:45:00::'
+      id: 'steadily%4:45:00::'
       pertainym:
       - 'steady%3:00:00::'
       synset: 00175977-r
@@ -111811,7 +111811,7 @@ steady:
     pronunciation:
     - value: ˈstɛdi
     sense:
-    - id: 'steady%4:02:00::'
+    - id: 'steady%4:45:00::'
       synset: 00175977-r
   v:
     form:
@@ -112001,7 +112001,7 @@ stealthily:
     pronunciation:
     - value: ˈstɛlθɪli
     sense:
-    - id: 'stealthily%4:02:00::'
+    - id: 'stealthily%4:45:00::'
       pertainym:
       - stealthy%5:00:00:concealed:00
       synset: 00194696-r
@@ -112297,7 +112297,7 @@ steaming:
       synset: 02561287-s
   r:
     sense:
-    - id: 'steaming%4:02:00::'
+    - id: 'steaming%4:51:00::'
       synset: 00424753-r
 steampunk:
   n:
@@ -112789,7 +112789,7 @@ steeplejack:
 steeply:
   r:
     sense:
-    - id: 'steeply%4:02:00::'
+    - id: 'steeply%4:45:00::'
       pertainym:
       - 'steep%3:00:00::'
       synset: 00468169-r
@@ -113538,9 +113538,9 @@ step:
 step by step:
   r:
     sense:
-    - id: 'step_by_step%4:02:00::'
+    - id: 'step_by_step%4:45:00::'
       synset: 00108755-r
-    - id: 'step_by_step%4:02:01::'
+    - id: 'step_by_step%4:45:01::'
       synset: 00217576-r
 step dancing:
   n:
@@ -113810,7 +113810,7 @@ stepwise:
       synset: 01146491-s
   r:
     sense:
-    - id: 'stepwise%4:02:00::'
+    - id: 'stepwise%4:45:00::'
       synset: 00217576-r
 steradian:
   n:
@@ -114002,7 +114002,7 @@ stereotypical:
 stereotypically:
   r:
     sense:
-    - id: 'stereotypically%4:02:00::'
+    - id: 'stereotypically%4:45:00::'
       pertainym:
       - stereotypical%5:00:00:conventional:01
       synset: 00468284-r
@@ -114236,7 +114236,7 @@ sternly:
     - value: ˈstɜːnli
       variety: GB
     sense:
-    - id: 'sternly%4:02:00::'
+    - id: 'sternly%4:45:00::'
       pertainym:
       - stern%5:00:00:nonindulgent:00
       synset: 00242552-r
@@ -114406,7 +114406,7 @@ stertorously:
     - value: ˈstɝ.tɚ.əs.li
       variety: US
     sense:
-    - id: 'stertorously%4:02:00::'
+    - id: 'stertorously%4:45:00::'
       pertainym:
       - stertorous%5:00:00:noisy:00
       synset: 00468371-r
@@ -114911,7 +114911,7 @@ sticker:
 stickily:
   r:
     sense:
-    - id: 'stickily%4:02:00::'
+    - id: 'stickily%4:45:00::'
       pertainym:
       - sticky%5:00:00:adhesive:00
       synset: 00468495-r
@@ -115107,9 +115107,9 @@ stiff:
     pronunciation:
     - value: stɪf
     sense:
-    - id: 'stiff%4:02:01::'
+    - id: 'stiff%4:51:01::'
       synset: 00468690-r
-    - id: 'stiff%4:02:00::'
+    - id: 'stiff%4:45:00::'
       synset: 00187654-r
 stiff aster:
   n:
@@ -115206,11 +115206,11 @@ stiffly:
     pronunciation:
     - value: ˈstɪfli
     sense:
-    - id: 'stiffly%4:02:00::'
+    - id: 'stiffly%4:45:00::'
       pertainym:
       - stiff%5:00:00:immobile:00
       synset: 00187654-r
-    - id: 'stiffly%4:02:01::'
+    - id: 'stiffly%4:45:01::'
       pertainym:
       - stiff%5:00:01:inflexible:01
       synset: 00196288-r
@@ -115548,14 +115548,14 @@ still:
   r:
     sense:
     - antonym:
-      - 'no_longer%4:02:00::'
-      id: 'still%4:02:01::'
+      - 'no_longer%4:49:00::'
+      id: 'still%4:49:01::'
       synset: 00031700-r
-    - id: 'still%4:02:04::'
+    - id: 'still%4:54:04::'
       synset: 00027761-r
-    - id: 'still%4:02:00::'
+    - id: 'still%4:53:00::'
       synset: 00018101-r
-    - id: 'still%4:02:02::'
+    - id: 'still%4:45:02::'
       pertainym:
       - still%5:00:01:nonmoving:00
       synset: 00469307-r
@@ -115712,7 +115712,7 @@ stilted:
 stiltedly:
   r:
     sense:
-    - id: 'stiltedly%4:02:00::'
+    - id: 'stiltedly%4:45:00::'
       pertainym:
       - stilted%5:00:00:affected:01
       synset: 00468768-r
@@ -116017,7 +116017,7 @@ stinger:
 stingily:
   r:
     sense:
-    - id: 'stingily%4:02:00::'
+    - id: 'stingily%4:45:00::'
       pertainym:
       - 'stingy%3:00:00::'
       synset: 00468873-r
@@ -116687,7 +116687,7 @@ stirring:
 stirringly:
   r:
     sense:
-    - id: 'stirringly%4:02:00::'
+    - id: 'stirringly%4:45:00::'
       pertainym:
       - stirring%5:00:00:moving:01
       synset: 00469054-r
@@ -116817,7 +116817,7 @@ stochastically:
     pronunciation:
     - value: stəˈkæstɪkli
     sense:
-    - id: 'stochastically%4:02:00::'
+    - id: 'stochastically%4:45:00::'
       pertainym:
       - stochastic%5:00:00:random:00
       synset: 00469185-r
@@ -117139,7 +117139,7 @@ stock-still:
       synset: 01569274-s
   r:
     sense:
-    - id: 'stock-still%4:02:00::'
+    - id: 'stock-still%4:45:00::'
       synset: 00469307-r
 stock-take:
   n:
@@ -117278,7 +117278,7 @@ stockhorn:
 stockily:
   r:
     sense:
-    - id: 'stockily%4:02:00::'
+    - id: 'stockily%4:45:00::'
       pertainym:
       - stocky%5:00:00:short:03
       synset: 00470656-r
@@ -117456,7 +117456,7 @@ stodge:
 stodgily:
   r:
     sense:
-    - id: 'stodgily%4:02:00::'
+    - id: 'stodgily%4:45:00::'
       pertainym:
       - stodgy%5:00:00:conventional:00
       synset: 00471390-r
@@ -117544,7 +117544,7 @@ stoically:
     - value: ˈstoʊ.ɪk.əl.i
       variety: US
     sense:
-    - id: 'stoically%4:02:00::'
+    - id: 'stoically%4:45:00::'
       pertainym:
       - stoic%5:00:00:unemotional:00
       synset: 00470754-r
@@ -117656,7 +117656,7 @@ stolidity:
 stolidly:
   r:
     sense:
-    - id: 'stolidly%4:02:00::'
+    - id: 'stolidly%4:45:00::'
       pertainym:
       - stolid%5:00:00:unemotional:00
       synset: 00217685-r
@@ -118298,7 +118298,7 @@ stonewort:
 stonily:
   r:
     sense:
-    - id: 'stonily%4:02:00::'
+    - id: 'stonily%4:45:00::'
       pertainym:
       - stony%5:00:00:hardhearted:00
       synset: 00470883-r
@@ -119365,7 +119365,7 @@ stormbound:
 stormily:
   r:
     sense:
-    - id: 'stormily%4:02:00::'
+    - id: 'stormily%4:45:00::'
       pertainym:
       - stormy%5:00:00:unpeaceful:00
       synset: 00035332-r
@@ -119520,7 +119520,7 @@ stoutheartedness:
 stoutly:
   r:
     sense:
-    - id: 'stoutly%4:02:00::'
+    - id: 'stoutly%4:45:00::'
       pertainym:
       - stout%5:00:00:resolute:00
       synset: 00205095-r
@@ -119773,7 +119773,7 @@ straggling:
 stragglingly:
   r:
     sense:
-    - id: 'stragglingly%4:02:00::'
+    - id: 'stragglingly%4:45:00::'
       synset: 00440888-r
 straggly:
   a:
@@ -119861,13 +119861,13 @@ straight:
     pronunciation:
     - value: stɹeɪt
     sense:
-    - id: 'straight%4:02:05::'
+    - id: 'straight%4:50:05::'
       pertainym:
       - 'straight%3:00:01::'
       synset: 00052386-r
-    - id: 'straight%4:02:04::'
+    - id: 'straight%4:45:04::'
       synset: 00058666-r
-    - id: 'straight%4:02:00::'
+    - id: 'straight%4:45:00::'
       synset: 00511965-r
 straight and narrow:
   n:
@@ -119944,7 +119944,7 @@ straight man:
 straight off:
   r:
     sense:
-    - id: 'straight_off%4:02:00::'
+    - id: 'straight_off%4:49:00::'
       synset: 00049277-r
 straight person:
   n:
@@ -120017,7 +120017,7 @@ straight-backed:
       synset: 00202571-s
   r:
     sense:
-    - id: 'straight-backed%4:02:00::'
+    - id: 'straight-backed%4:45:00::'
       synset: 00331596-r
 straight-billed:
   a:
@@ -120081,7 +120081,7 @@ straightaway:
       synset: 04338264-n
   r:
     sense:
-    - id: 'straightaway%4:02:00::'
+    - id: 'straightaway%4:49:00::'
       synset: 00049277-r
 straightedge:
   n:
@@ -120210,7 +120210,7 @@ straightforward:
 straightforwardly:
   r:
     sense:
-    - id: 'straightforwardly%4:02:01::'
+    - id: 'straightforwardly%4:45:01::'
       pertainym:
       - straightforward%5:00:00:direct:02
       synset: 00051555-r
@@ -120269,9 +120269,9 @@ straightness:
 straightway:
   r:
     sense:
-    - id: 'straightway%4:02:01::'
+    - id: 'straightway%4:49:01::'
       synset: 00469634-r
-    - id: 'straightway%4:02:00::'
+    - id: 'straightway%4:49:00::'
       synset: 00469534-r
 strain:
   n:
@@ -120583,7 +120583,7 @@ strangely:
     pronunciation:
     - value: ˈstɹeɪndʒli
     sense:
-    - id: 'strangely%4:02:01::'
+    - id: 'strangely%4:45:01::'
       pertainym:
       - 'strange%3:00:00::'
       synset: 00439274-r
@@ -120941,7 +120941,7 @@ strategical:
 strategically:
   r:
     sense:
-    - id: 'strategically%4:02:00::'
+    - id: 'strategically%4:52:00::'
       pertainym:
       - 'strategic%3:01:00::'
       synset: 00470985-r
@@ -121995,7 +121995,7 @@ strenuous:
 strenuously:
   r:
     sense:
-    - id: 'strenuously%4:02:01::'
+    - id: 'strenuously%4:45:01::'
       pertainym:
       - strenuous%5:00:00:energetic:00
       synset: 00091221-r
@@ -122695,20 +122695,20 @@ strictly:
     pronunciation:
     - value: ˈstɹɪktli
     sense:
-    - id: 'strictly%4:02:00::'
+    - id: 'strictly%4:53:00::'
       synset: 00180598-r
-    - id: 'strictly%4:02:02::'
+    - id: 'strictly%4:45:02::'
       pertainym:
       - strict%5:00:00:exact:00
       synset: 00471219-r
-    - id: 'strictly%4:02:01::'
+    - id: 'strictly%4:45:01::'
       pertainym:
       - strict%5:00:00:exact:00
       synset: 00227027-r
 strictly speaking:
   r:
     sense:
-    - id: 'strictly_speaking%4:02:00::'
+    - id: 'strictly_speaking%4:47:00::'
       synset: 00150568-r
 strictness:
   n:
@@ -122801,7 +122801,7 @@ strident:
 stridently:
   r:
     sense:
-    - id: 'stridently%4:02:00::'
+    - id: 'stridently%4:45:00::'
       pertainym:
       - strident%5:00:00:cacophonous:00
       synset: 00471105-r
@@ -123263,7 +123263,7 @@ striking:
 strikingly:
   r:
     sense:
-    - id: 'strikingly%4:02:00::'
+    - id: 'strikingly%4:45:00::'
       pertainym:
       - striking%5:00:00:impressive:00
       synset: 00195596-r
@@ -123511,7 +123511,7 @@ stringent:
 stringently:
   r:
     sense:
-    - id: 'stringently%4:02:00::'
+    - id: 'stringently%4:45:00::'
       pertainym:
       - stringent%5:00:00:demanding:01
       synset: 00471219-r
@@ -124440,12 +124440,12 @@ strongly:
     - value: stɹɑŋli
     sense:
     - antonym:
-      - 'weakly%4:02:01::'
-      id: 'strongly%4:02:00::'
+      - 'weakly%4:45:01::'
+      id: 'strongly%4:51:00::'
       pertainym:
       - 'strong%3:00:00::'
       synset: 00178775-r
-    - id: 'strongly%4:02:01::'
+    - id: 'strongly%4:51:01::'
       pertainym:
       - 'strong%3:00:00::'
       synset: 00430156-r
@@ -124617,7 +124617,7 @@ structuralism:
 structurally:
   r:
     sense:
-    - id: 'structurally%4:02:00::'
+    - id: 'structurally%4:52:00::'
       pertainym:
       - 'structural%3:01:01::'
       synset: 00245268-r
@@ -124938,7 +124938,7 @@ stubborn:
 stubbornly:
   r:
     sense:
-    - id: 'stubbornly%4:02:00::'
+    - id: 'stubbornly%4:45:00::'
       pertainym:
       - 'stubborn%3:00:00::'
       synset: 00200274-r
@@ -125201,7 +125201,7 @@ studious:
 studiously:
   r:
     sense:
-    - id: 'studiously%4:02:00::'
+    - id: 'studiously%4:45:00::'
       pertainym:
       - studious%5:00:00:careful:00
       synset: 00188854-r
@@ -125490,7 +125490,7 @@ stuffer:
 stuffily:
   r:
     sense:
-    - id: 'stuffily%4:02:00::'
+    - id: 'stuffily%4:45:00::'
       pertainym:
       - stuffy%5:00:00:conventional:00
       synset: 00471390-r
@@ -125830,7 +125830,7 @@ stunning:
 stunningly:
   r:
     sense:
-    - id: 'stunningly%4:02:00::'
+    - id: 'stunningly%4:51:00::'
       pertainym:
       - stunning%5:00:00:impressive:00
       synset: 00211285-r
@@ -126015,7 +126015,7 @@ stupendous:
 stupendously:
   r:
     sense:
-    - id: 'stupendously%4:02:00::'
+    - id: 'stupendously%4:51:00::'
       pertainym:
       - stupendous%5:00:00:large:00
       synset: 00471530-r
@@ -126083,7 +126083,7 @@ stupidity:
 stupidly:
   r:
     sense:
-    - id: 'stupidly%4:02:00::'
+    - id: 'stupidly%4:45:00::'
       pertainym:
       - 'stupid%3:00:00::'
       synset: 00176830-r
@@ -126111,7 +126111,7 @@ stuporous:
 sturdily:
   r:
     sense:
-    - id: 'sturdily%4:02:00::'
+    - id: 'sturdily%4:45:00::'
       pertainym:
       - sturdy%5:00:00:robust:00
       synset: 00471643-r
@@ -126372,7 +126372,7 @@ stylish:
 stylishly:
   r:
     sense:
-    - id: 'stylishly%4:02:00::'
+    - id: 'stylishly%4:45:00::'
       pertainym:
       - 'stylish%3:00:00::'
       synset: 00471739-r
@@ -126415,7 +126415,7 @@ stylistic:
 stylistically:
   r:
     sense:
-    - id: 'stylistically%4:02:00::'
+    - id: 'stylistically%4:52:00::'
       pertainym:
       - stylistic%5:00:00:rhetorical:00
       synset: 00471848-r
@@ -126634,7 +126634,7 @@ suave:
 suavely:
   r:
     sense:
-    - id: 'suavely%4:02:00::'
+    - id: 'suavely%4:45:00::'
       pertainym:
       - suave%5:00:00:refined:01
       synset: 00471967-r
@@ -126682,7 +126682,7 @@ sub rosa:
     pronunciation:
     - value: ˌsʌb.ˈɹəʊ.zə
     sense:
-    - id: 'sub_rosa%4:02:00::'
+    - id: 'sub_rosa%4:45:00::'
       synset: 00259032-r
 sub-Saharan:
   a:
@@ -127175,7 +127175,7 @@ subconscious mind:
 subconsciously:
   r:
     sense:
-    - id: 'subconsciously%4:02:00::'
+    - id: 'subconsciously%4:45:00::'
       pertainym:
       - subconscious%5:00:00:unconscious:00
       synset: 00247175-r
@@ -127267,7 +127267,7 @@ subcutaneous test:
 subcutaneously:
   r:
     sense:
-    - id: 'subcutaneously%4:02:00::'
+    - id: 'subcutaneously%4:50:00::'
       pertainym:
       - 'subcutaneous%3:01:00::'
       synset: 00136898-r
@@ -128020,8 +128020,8 @@ subjectively:
   r:
     sense:
     - antonym:
-      - 'objectively%4:02:00::'
-      id: 'subjectively%4:02:00::'
+      - 'objectively%4:45:00::'
+      id: 'subjectively%4:52:00::'
       pertainym:
       - 'subjective%3:00:00::'
       synset: 00414088-r
@@ -128340,14 +128340,14 @@ sublimed:
 sublimely:
   r:
     sense:
-    - id: 'sublimely%4:02:00::'
+    - id: 'sublimely%4:45:00::'
       pertainym:
       - sublime%5:00:00:elated:00
       - sublime%5:00:00:glorious:00
       - sublime%5:00:00:noble:01
       - sublime%5:00:00:sacred:00
       synset: 00472106-r
-    - id: 'sublimely%4:02:01::'
+    - id: 'sublimely%4:51:01::'
       synset: 00217783-r
 subliminal:
   a:
@@ -128801,7 +128801,7 @@ submissive:
 submissively:
   r:
     sense:
-    - id: 'submissively%4:02:00::'
+    - id: 'submissively%4:45:00::'
       pertainym:
       - submissive%5:00:00:servile:00
       synset: 00309424-r
@@ -129841,7 +129841,7 @@ subsequently:
     pronunciation:
     - value: ˈsʌb.sɪ.kwənt.li
     sense:
-    - id: 'subsequently%4:02:00::'
+    - id: 'subsequently%4:49:00::'
       pertainym:
       - 'subsequent%3:00:00::'
       synset: 00061741-r
@@ -129896,7 +129896,7 @@ subservient:
 subserviently:
   r:
     sense:
-    - id: 'subserviently%4:02:00::'
+    - id: 'subserviently%4:45:00::'
       pertainym:
       - subservient%5:00:00:servile:00
       synset: 00414319-r
@@ -130345,11 +130345,11 @@ substantiality:
 substantially:
   r:
     sense:
-    - id: 'substantially%4:02:01::'
+    - id: 'substantially%4:51:01::'
       pertainym:
       - substantial%5:00:00:considerable:00
       synset: 00014747-r
-    - id: 'substantially%4:02:02::'
+    - id: 'substantially%4:51:02::'
       pertainym:
       - substantial%5:00:00:sound:01
       synset: 00381262-r
@@ -130815,7 +130815,7 @@ subtly:
     - value: ˈsʌ.tl̩.li
       variety: US
     sense:
-    - id: 'subtly%4:02:00::'
+    - id: 'subtly%4:51:00::'
       pertainym:
       - subtle%5:00:00:impalpable:00
       synset: 00472327-r
@@ -131354,8 +131354,8 @@ successfully:
     - value: səkˈsɛsfəli
     sense:
     - antonym:
-      - 'unsuccessfully%4:02:00::'
-      id: 'successfully%4:02:00::'
+      - 'unsuccessfully%4:45:00::'
+      id: 'successfully%4:45:00::'
       pertainym:
       - 'successful%3:00:00::'
       synset: 00120824-r
@@ -131399,7 +131399,7 @@ successive:
 successively:
   r:
     sense:
-    - id: 'successively%4:02:00::'
+    - id: 'successively%4:45:00::'
       pertainym:
       - successive%5:00:00:ordered:00
       synset: 00181906-r
@@ -131440,7 +131440,7 @@ succinct:
 succinctly:
   r:
     sense:
-    - id: 'succinctly%4:02:01::'
+    - id: 'succinctly%4:45:01::'
       pertainym:
       - succinct%5:00:00:concise:00
       synset: 00291622-r
@@ -131654,7 +131654,7 @@ such:
       synset: 01558587-s
   r:
     sense:
-    - id: 'such%4:02:00::'
+    - id: 'such%4:51:00::'
       synset: 00148422-r
 suchlike:
   a:
@@ -132067,7 +132067,7 @@ suddenly:
     pronunciation:
     - value: ˈsʌdn̩li
     sense:
-    - id: 'suddenly%4:02:01::'
+    - id: 'suddenly%4:45:01::'
       pertainym:
       - 'sudden%3:00:00::'
       synset: 81484980-r
@@ -132417,8 +132417,8 @@ sufficiently:
     - value: səˈfɪʃəntli
     sense:
     - antonym:
-      - 'insufficiently%4:02:00::'
-      id: 'sufficiently%4:02:00::'
+      - 'insufficiently%4:51:00::'
+      id: 'sufficiently%4:51:00::'
       pertainym:
       - 'sufficient%3:00:00::'
       synset: 00146607-r
@@ -133008,7 +133008,7 @@ suggestive:
 suggestively:
   r:
     sense:
-    - id: 'suggestively%4:02:00::'
+    - id: 'suggestively%4:45:00::'
       pertainym:
       - suggestive%5:00:00:connotative:00
       synset: 00518106-r
@@ -133196,8 +133196,8 @@ suitably:
   r:
     sense:
     - antonym:
-      - 'unsuitably%4:02:00::'
-      id: 'suitably%4:02:00::'
+      - 'unsuitably%4:45:00::'
+      id: 'suitably%4:45:00::'
       pertainym:
       - suitable%5:00:00:fit:02
       synset: 00140318-r
@@ -133556,7 +133556,7 @@ sulk:
 sulkily:
   r:
     sense:
-    - id: 'sulkily%4:02:00::'
+    - id: 'sulkily%4:45:00::'
       pertainym:
       - sulky%5:00:00:ill-natured:00
       synset: 00472843-r
@@ -133619,7 +133619,7 @@ sullenly:
     pronunciation:
     - value: ˈsʌlənli
     sense:
-    - id: 'sullenly%4:02:00::'
+    - id: 'sullenly%4:45:00::'
       pertainym:
       - sullen%5:00:00:ill-natured:00
       synset: 00243780-r
@@ -133827,7 +133827,7 @@ sultanate:
 sultrily:
   r:
     sense:
-    - id: 'sultrily%4:02:00::'
+    - id: 'sultrily%4:45:00::'
       pertainym:
       - sultry%5:00:00:hot:02
       synset: 00451334-r
@@ -133979,7 +133979,7 @@ summa cum laude:
       synset: 02597722-s
   r:
     sense:
-    - id: 'summa_cum_laude%4:02:00::'
+    - id: 'summa_cum_laude%4:45:00::'
       pertainym:
       - summa_cum_laude%5:00:00:worthy:00
       synset: 00292791-r
@@ -133988,7 +133988,7 @@ summarily:
     pronunciation:
     - value: səˈmɛɹɪli
     sense:
-    - id: 'summarily%4:02:00::'
+    - id: 'summarily%4:45:00::'
       pertainym:
       - summary%5:00:00:unofficial:00
       synset: 00472961-r
@@ -134568,7 +134568,7 @@ sumptuous:
 sumptuously:
   r:
     sense:
-    - id: 'sumptuously%4:02:00::'
+    - id: 'sumptuously%4:45:00::'
       pertainym:
       - sumptuous%5:00:00:rich:03
       synset: 00416794-r
@@ -135091,7 +135091,7 @@ sunlit:
 sunnily:
   r:
     sense:
-    - id: 'sunnily%4:02:00::'
+    - id: 'sunnily%4:45:00::'
       pertainym:
       - sunny%5:00:00:cheerful:00
       synset: 00220805-r
@@ -135347,7 +135347,7 @@ super:
       synset: 10695160-n
   r:
     sense:
-    - id: 'super%4:02:00::'
+    - id: 'super%4:51:00::'
       synset: 00046739-r
 super C:
   n:
@@ -135480,7 +135480,7 @@ superbia:
 superbly:
   r:
     sense:
-    - id: 'superbly%4:02:00::'
+    - id: 'superbly%4:51:00::'
       pertainym:
       - superb%5:00:00:superior:02
       synset: 00184576-r
@@ -135557,7 +135557,7 @@ supercilious:
 superciliously:
   r:
     sense:
-    - id: 'superciliously%4:02:00::'
+    - id: 'superciliously%4:45:00::'
       pertainym:
       - supercilious%5:00:00:uncomplimentary:00
       synset: 00462203-r
@@ -135808,7 +135808,7 @@ superficiality:
 superficially:
   r:
     sense:
-    - id: 'superficially%4:02:00::'
+    - id: 'superficially%4:45:00::'
       pertainym:
       - 'superficial%3:00:00::'
       synset: 00144756-r
@@ -135868,7 +135868,7 @@ superfluous:
 superfluously:
   r:
     sense:
-    - id: 'superfluously%4:02:00::'
+    - id: 'superfluously%4:45:00::'
       pertainym:
       - superfluous%5:00:00:unnecessary:00
       synset: 00473095-r
@@ -136243,7 +136243,7 @@ superlative degree:
 superlatively:
   r:
     sense:
-    - id: 'superlatively%4:02:00::'
+    - id: 'superlatively%4:45:00::'
       pertainym:
       - superlative%5:00:00:superior:02
       synset: 00473242-r
@@ -136415,7 +136415,7 @@ supernaturalistic:
 supernaturally:
   r:
     sense:
-    - id: 'supernaturally%4:02:00::'
+    - id: 'supernaturally%4:51:00::'
       pertainym:
       - 'supernatural%3:00:00::'
       synset: 00433131-r
@@ -136780,7 +136780,7 @@ superstitious notion:
 superstitiously:
   r:
     sense:
-    - id: 'superstitiously%4:02:00::'
+    - id: 'superstitiously%4:45:00::'
       pertainym:
       - superstitious%5:00:00:irrational:00
       synset: 00473325-r
@@ -137021,11 +137021,11 @@ supine:
 supinely:
   r:
     sense:
-    - id: 'supinely%4:02:01::'
+    - id: 'supinely%4:45:01::'
       pertainym:
       - supine%5:00:00:unerect:00
       synset: 00473613-r
-    - id: 'supinely%4:02:00::'
+    - id: 'supinely%4:45:00::'
       pertainym:
       - supine%5:00:00:passive:01
       synset: 00473471-r
@@ -137896,7 +137896,7 @@ supposed:
 supposedly:
   r:
     sense:
-    - id: 'supposedly%4:02:00::'
+    - id: 'supposedly%4:47:00::'
       synset: 00155582-r
 supposition:
   n:
@@ -138169,8 +138169,8 @@ supra:
   r:
     sense:
     - antonym:
-      - 'infra%4:02:00::'
-      id: 'supra%4:02:00::'
+      - 'infra%4:50:00::'
+      id: 'supra%4:50:00::'
       synset: 00080266-r
 supra expressionism:
   n:
@@ -138317,7 +138317,7 @@ supreme headquarters:
 supremely:
   r:
     sense:
-    - id: 'supremely%4:02:00::'
+    - id: 'supremely%4:51:00::'
       pertainym:
       - supreme%5:00:00:maximal:00
       synset: 00217783-r
@@ -138464,7 +138464,7 @@ sure:
     - value: ʃɔɹ
       variety: CA
     sense:
-    - id: 'sure%4:02:00::'
+    - id: 'sure%4:47:00::'
       synset: 00145758-r
 sure as shooting:
   a:
@@ -138473,14 +138473,14 @@ sure as shooting:
       synset: 00336939-s
   r:
     sense:
-    - id: 'sure_as_shooting%4:02:00::'
+    - id: 'sure_as_shooting%4:47:00::'
       synset: 00145758-r
 sure enough:
   r:
     sense:
-    - id: 'sure_enough%4:02:00::'
+    - id: 'sure_enough%4:47:00::'
       synset: 00151301-r
-    - id: 'sure_enough%4:02:02::'
+    - id: 'sure_enough%4:47:02::'
       synset: 00145758-r
 sure start maternity grant:
   n:
@@ -138530,7 +138530,7 @@ surely:
     - value: ˈʃʊɹli
       variety: US
     sense:
-    - id: 'surely%4:02:00::'
+    - id: 'surely%4:47:00::'
       pertainym:
       - 'sure%3:00:00::'
       synset: 00145758-r
@@ -139231,7 +139231,7 @@ surgical vacuum pump:
 surgically:
   r:
     sense:
-    - id: 'surgically%4:02:00::'
+    - id: 'surgically%4:45:00::'
       pertainym:
       - 'surgical%3:01:00::'
       synset: 00137952-r
@@ -139265,7 +139265,7 @@ surjective function:
 surlily:
   r:
     sense:
-    - id: 'surlily%4:02:00::'
+    - id: 'surlily%4:45:00::'
       pertainym:
       - surly%5:00:00:ill-natured:00
       synset: 00286085-r
@@ -139452,7 +139452,7 @@ surpassing:
 surpassingly:
   r:
     sense:
-    - id: 'surpassingly%4:02:00::'
+    - id: 'surpassingly%4:51:00::'
       pertainym:
       - surpassing%5:00:00:extraordinary:00
       synset: 00473918-r
@@ -139607,7 +139607,7 @@ surprised:
 surprisedly:
   r:
     sense:
-    - id: 'surprisedly%4:02:00::'
+    - id: 'surprisedly%4:45:00::'
       pertainym:
       - 'surprised%3:00:00::'
       synset: 00474199-r
@@ -139635,11 +139635,11 @@ surprising:
 surprisingly:
   r:
     sense:
-    - id: 'surprisingly%4:02:00::'
+    - id: 'surprisingly%4:47:00::'
       pertainym:
       - 'surprising%3:00:00::'
       synset: 00146264-r
-    - id: 'surprisingly%4:02:01::'
+    - id: 'surprisingly%4:47:01::'
       pertainym:
       - 'surprising%3:00:00::'
       synset: 00214599-r
@@ -139799,7 +139799,7 @@ surreptitiously:
     - value: sʌɹəpˈtɪʃəsli
       variety: GB
     sense:
-    - id: 'surreptitiously%4:02:00::'
+    - id: 'surreptitiously%4:45:00::'
       pertainym:
       - surreptitious%5:00:00:concealed:00
       synset: 00473730-r
@@ -140554,7 +140554,7 @@ suspicious:
 suspiciously:
   r:
     sense:
-    - id: 'suspiciously%4:02:00::'
+    - id: 'suspiciously%4:45:00::'
       pertainym:
       - suspicious%5:00:00:distrustful:00
       synset: 00242731-r
@@ -142521,7 +142521,7 @@ sweeping:
 sweepingly:
   r:
     sense:
-    - id: 'sweepingly%4:02:00::'
+    - id: 'sweepingly%4:45:00::'
       pertainym:
       - sweeping%5:00:00:indiscriminate:00
       synset: 00474294-r
@@ -142604,7 +142604,7 @@ sweet:
     - value: swit
       variety: US
     sense:
-    - id: 'sweet%4:02:00::'
+    - id: 'sweet%4:45:00::'
       synset: 00474454-r
 sweet Fanny Adams:
   n:
@@ -143200,7 +143200,7 @@ sweetly:
     pronunciation:
     - value: ˈswiːtli
     sense:
-    - id: 'sweetly%4:02:00::'
+    - id: 'sweetly%4:45:00::'
       pertainym:
       - sweet%5:00:00:lovable:00
       synset: 00474454-r
@@ -143483,7 +143483,7 @@ swiftly:
     pronunciation:
     - value: ˈswɪftli
     sense:
-    - id: 'swiftly%4:02:00::'
+    - id: 'swiftly%4:45:00::'
       pertainym:
       - swift%5:00:00:fast:01
       synset: 00053812-r
@@ -143745,7 +143745,7 @@ swimmingly:
     - value: ˈswɪmɪŋli
       variety: US
     sense:
-    - id: 'swimmingly%4:02:00::'
+    - id: 'swimmingly%4:45:00::'
       synset: 00211755-r
 swimsuit:
   n:
@@ -144999,7 +144999,7 @@ syllabic script:
 syllabically:
   r:
     sense:
-    - id: 'syllabically%4:02:00::'
+    - id: 'syllabically%4:45:00::'
       pertainym:
       - 'syllabic%3:01:01::'
       synset: 00144874-r
@@ -145309,7 +145309,7 @@ symbiotic:
 symbiotically:
   r:
     sense:
-    - id: 'symbiotically%4:02:00::'
+    - id: 'symbiotically%4:45:00::'
       pertainym:
       - symbiotic%5:00:00:dependent:00
       synset: 00117087-r
@@ -145394,11 +145394,11 @@ symbolically:
     pronunciation:
     - value: ˌsɪmˈbɒlɪklɨ
     sense:
-    - id: 'symbolically%4:02:00::'
+    - id: 'symbolically%4:45:00::'
       pertainym:
       - symbolic%5:00:00:representative:00
       synset: 00117187-r
-    - id: 'symbolically%4:02:01::'
+    - id: 'symbolically%4:45:01::'
       pertainym:
       - 'symbolic%3:01:00::'
       synset: 00127617-r
@@ -145610,8 +145610,8 @@ symmetrically:
   r:
     sense:
     - antonym:
-      - 'asymmetrically%4:02:00::'
-      id: 'symmetrically%4:02:00::'
+      - 'asymmetrically%4:45:00::'
+      id: 'symmetrically%4:45:00::'
       pertainym:
       - 'symmetrical%3:00:00::'
       synset: 00177127-r
@@ -145725,13 +145725,13 @@ sympathetically:
     - value: sɪmpəˈθɛtɪk(ə)li
       variety: GB
     sense:
-    - id: 'sympathetically%4:02:00::'
+    - id: 'sympathetically%4:45:00::'
       pertainym:
       - 'sympathetic%3:01:00::'
       synset: 00193717-r
     - antonym:
-      - 'unsympathetically%4:02:00::'
-      id: 'sympathetically%4:02:01::'
+      - 'unsympathetically%4:45:00::'
+      id: 'sympathetically%4:45:01::'
       pertainym:
       - 'sympathetic%3:00:00::'
       synset: 00193863-r
@@ -146063,7 +146063,7 @@ symptomatic:
 symptomatically:
   r:
     sense:
-    - id: 'symptomatically%4:02:00::'
+    - id: 'symptomatically%4:45:00::'
       pertainym:
       - 'symptomatic%3:01:00::'
       synset: 00145154-r
@@ -146557,7 +146557,7 @@ synchronous operation:
 synchronously:
   r:
     sense:
-    - id: 'synchronously%4:02:00::'
+    - id: 'synchronously%4:45:00::'
       pertainym:
       - 'synchronous%3:00:00::'
       synset: 00474799-r
@@ -147009,11 +147009,11 @@ synergistic:
 synergistically:
   r:
     sense:
-    - id: 'synergistically%4:02:01::'
+    - id: 'synergistically%4:52:01::'
       pertainym:
       - synergistic%5:00:00:cooperative:00
       synset: 00518336-r
-    - id: 'synergistically%4:02:00::'
+    - id: 'synergistically%4:45:00::'
       pertainym:
       - 'synergistic%3:00:00::'
       synset: 00518214-r
@@ -147133,7 +147133,7 @@ synonymous:
 synonymously:
   r:
     sense:
-    - id: 'synonymously%4:02:00::'
+    - id: 'synonymously%4:45:00::'
       pertainym:
       - 'synonymous%3:00:00::'
       synset: 00518447-r
@@ -147275,7 +147275,7 @@ syntactical:
 syntactically:
   r:
     sense:
-    - id: 'syntactically%4:02:00::'
+    - id: 'syntactically%4:52:00::'
       pertainym:
       - 'syntactic%3:01:00::'
       synset: 00137077-r
@@ -147552,7 +147552,7 @@ synthetical:
 synthetically:
   r:
     sense:
-    - id: 'synthetically%4:02:00::'
+    - id: 'synthetically%4:45:00::'
       pertainym:
       - synthetic%5:00:00:artificial:00
       synset: 00474961-r
@@ -147852,8 +147852,8 @@ systematically:
   r:
     sense:
     - antonym:
-      - 'unsystematically%4:02:00::'
-      id: 'systematically%4:02:00::'
+      - 'unsystematically%4:45:00::'
+      id: 'systematically%4:45:00::'
       pertainym:
       - 'systematic%3:00:00::'
       synset: 00121358-r
