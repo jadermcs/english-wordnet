@@ -120,7 +120,7 @@ A. testudineus:
 A.D.:
   r:
     sense:
-    - id: 'a.d.%4:02:00::'
+    - id: 'a.d.%4:49:00::'
       synset: 00001885-r
 A.E.:
   n:
@@ -134,7 +134,7 @@ A.M.:
       synset: 84502472-n
   r:
     sense:
-    - id: 'a.m.%4:02:00::'
+    - id: 'a.m.%4:49:00::'
       synset: 00252773-r
 A/C:
   n:
@@ -324,7 +324,7 @@ ACTH:
 AD:
   r:
     sense:
-    - id: 'ad%4:02:00::'
+    - id: 'ad%4:49:00::'
       synset: 00001885-r
 ADA:
   n:
@@ -488,7 +488,7 @@ AM:
       synset: 84502472-n
   r:
     sense:
-    - id: 'am%4:02:05::'
+    - id: 'am%4:49:05::'
       synset: 00252773-r
 AMD:
   n:
@@ -606,7 +606,7 @@ ASAP:
     pronunciation:
     - value: ˌeɪ.ɛs.eɪˈpi
     sense:
-    - id: 'asap%4:02:00::'
+    - id: 'asap%4:49:00::'
       synset: 00034524-r
 ASAT:
   a:
@@ -18727,7 +18727,7 @@ a Kempis:
 a bit:
   r:
     sense:
-    - id: 'a_bit%4:02:00::'
+    - id: 'a_bit%4:51:00::'
       synset: 00034050-r
 a capella:
   a:
@@ -18740,7 +18740,7 @@ a capella:
     pronunciation:
     - value: ˌækəˈpɛlə
     sense:
-    - id: 'a_capella%4:02:00::'
+    - id: 'a_capella%4:45:00::'
       pertainym:
       - a_capella%5:00:00:unaccompanied:01
       synset: 00001740-r
@@ -18766,7 +18766,7 @@ a cappella:
     - value: ˌɑ kəˈpɛl.ə
       variety: US
     sense:
-    - id: 'a_cappella%4:02:00::'
+    - id: 'a_cappella%4:45:00::'
       pertainym:
       - a_cappella%5:00:00:unaccompanied:01
       synset: 00001740-r
@@ -18793,24 +18793,24 @@ a fortiori:
     - value: ˈeɪ fɔɹʃˈjɔˑɹaɪ
       variety: US
     sense:
-    - id: 'a_fortiori%4:02:00::'
+    - id: 'a_fortiori%4:54:00::'
       synset: 00064021-r
 a good deal:
   r:
     sense:
-    - id: 'a_good_deal%4:02:00::'
+    - id: 'a_good_deal%4:51:00::'
       synset: 00059709-r
 a great deal:
   r:
     sense:
-    - id: 'a_great_deal%4:02:00::'
+    - id: 'a_great_deal%4:51:00::'
       synset: 00059709-r
-    - id: 'a_great_deal%4:02:03::'
+    - id: 'a_great_deal%4:51:03::'
       synset: 00059951-r
 a hundred times:
   r:
     sense:
-    - id: 'a_hundred_times%4:02:00::'
+    - id: 'a_hundred_times%4:51:00::'
       synset: 00361728-r
 a la carte:
   a:
@@ -18825,7 +18825,7 @@ a la carte:
       synset: 06509108-n
   r:
     sense:
-    - id: 'a_la_carte%4:02:00::'
+    - id: 'a_la_carte%4:45:00::'
       synset: 00259491-r
 a la mode:
   a:
@@ -18835,12 +18835,12 @@ a la mode:
       synset: 00974685-s
   r:
     sense:
-    - id: 'a_la_mode%4:02:00::'
+    - id: 'a_la_mode%4:45:00::'
       synset: 00500380-r
 a little:
   r:
     sense:
-    - id: 'a_little%4:02:00::'
+    - id: 'a_little%4:51:00::'
       synset: 00034050-r
 a lot:
   r:
@@ -18850,12 +18850,12 @@ a lot:
     - value: əˈlɑt
       variety: US
     sense:
-    - id: 'a_lot%4:02:00::'
+    - id: 'a_lot%4:51:00::'
       synset: 00059709-r
 a million times:
   r:
     sense:
-    - id: 'a_million_times%4:02:00::'
+    - id: 'a_million_times%4:51:00::'
       synset: 00346455-r
 a posteriori:
   a:
@@ -18869,8 +18869,8 @@ a posteriori:
   r:
     sense:
     - antonym:
-      - 'a_priori%4:02:00::'
-      id: 'a_posteriori%4:02:00::'
+      - 'a_priori%4:52:00::'
+      id: 'a_posteriori%4:45:00::'
       synset: 00252994-r
 a priori:
   a:
@@ -18884,13 +18884,13 @@ a priori:
   r:
     sense:
     - antonym:
-      - 'a_posteriori%4:02:00::'
-      id: 'a_priori%4:02:00::'
+      - 'a_posteriori%4:45:00::'
+      id: 'a_priori%4:52:00::'
       synset: 00253080-r
 a trifle:
   r:
     sense:
-    - id: 'a_trifle%4:02:00::'
+    - id: 'a_trifle%4:51:00::'
       synset: 00034050-r
 a-ok:
   a:
@@ -18907,7 +18907,7 @@ a-okay:
 a.k.a.:
   r:
     sense:
-    - id: 'a.k.a.%4:02:00::'
+    - id: 'a.k.a.%4:53:00::'
       synset: 00271877-r
 a.m.:
   n:
@@ -18916,7 +18916,7 @@ a.m.:
       synset: 84502472-n
   r:
     sense:
-    - id: 'a.m.%4:02:03::'
+    - id: 'a.m.%4:49:03::'
       synset: 00252773-r
 aa:
   n:
@@ -18980,7 +18980,7 @@ ab initio:
     - value: ˌæb ɪˈnɪʃ.i.oʊ
       variety: US
     sense:
-    - id: 'ab_initio%4:02:00::'
+    - id: 'ab_initio%4:49:00::'
       synset: 00103744-r
 aba:
   n:
@@ -19016,9 +19016,9 @@ abacinate:
 aback:
   r:
     sense:
-    - id: 'aback%4:02:01::'
+    - id: 'aback%4:50:01::'
       synset: 00076005-r
-    - id: 'aback%4:02:00::'
+    - id: 'aback%4:45:00::'
       synset: 00075922-r
 abactinal:
   a:
@@ -19049,7 +19049,7 @@ abaft:
     - value: əˈbæft
       variety: US
     sense:
-    - id: 'abaft%4:02:00::'
+    - id: 'abaft%4:50:00::'
       synset: 00276839-r
 abalone:
   n:
@@ -19385,8 +19385,8 @@ abaxially:
   r:
     sense:
     - antonym:
-      - 'adaxially%4:02:00::'
-      id: 'abaxially%4:02:00::'
+      - 'adaxially%4:50:00::'
+      id: 'abaxially%4:50:00::'
       pertainym:
       - 'abaxial%3:00:00::'
       synset: 00515036-r
@@ -19882,7 +19882,7 @@ abeam:
     - value: ə.ˈbim
       variety: US
     sense:
-    - id: 'abeam%4:02:00::'
+    - id: 'abeam%4:50:00::'
       synset: 00076147-r
 abecedarian:
   a:
@@ -19919,7 +19919,7 @@ abed:
     - value: əˈbɛd
       variety: US
     sense:
-    - id: 'abed%4:02:00::'
+    - id: 'abed%4:50:00::'
       synset: 00230832-r
 abele:
   n:
@@ -20401,7 +20401,7 @@ abjectly:
     - value: æbˈd͡ʒɛktli
       variety: US
     sense:
-    - id: 'abjectly%4:02:00::'
+    - id: 'abjectly%4:45:00::'
       pertainym:
       - abject%5:00:00:hopeless:00
       synset: 00265770-r
@@ -20688,7 +20688,7 @@ ably:
     - value: ˈeɪ.bli
       variety: US
     sense:
-    - id: 'ably%4:02:00::'
+    - id: 'ably%4:45:00::'
       pertainym:
       - able%5:00:00:competent:00
       synset: 00186658-r
@@ -20816,7 +20816,7 @@ abnormally:
     - value: æbˈnɔɹ.mə.li
       variety: US
     sense:
-    - id: 'abnormally%4:02:00::'
+    - id: 'abnormally%4:45:00::'
       pertainym:
       - 'abnormal%3:00:00::'
       synset: 00228787-r
@@ -20828,13 +20828,13 @@ aboard:
     - value: əˈbɔɹd
       variety: US
     sense:
-    - id: 'aboard%4:02:01::'
+    - id: 'aboard%4:50:01::'
       synset: 00251347-r
-    - id: 'aboard%4:02:00::'
+    - id: 'aboard%4:50:00::'
       synset: 00251215-r
-    - id: 'aboard%4:02:04::'
+    - id: 'aboard%4:50:04::'
       synset: 00251525-r
-    - id: 'aboard%4:02:02::'
+    - id: 'aboard%4:50:02::'
       synset: 00251433-r
 abocclusion:
   n:
@@ -20996,11 +20996,11 @@ abominably:
     - value: əˈbɑm.ə.nə.bli
       variety: US
     sense:
-    - id: 'abominably%4:02:01::'
+    - id: 'abominably%4:45:01::'
       pertainym:
       - abominable%5:00:00:hateful:00
       synset: 00311025-r
-    - id: 'abominably%4:02:00::'
+    - id: 'abominably%4:45:00::'
       synset: 00055639-r
 abominate:
   v:
@@ -21065,8 +21065,8 @@ aborad:
       variety: US
     sense:
     - antonym:
-      - 'orad%4:02:00::'
-      id: 'aborad%4:02:00::'
+      - 'orad%4:50:00::'
+      id: 'aborad%4:50:00::'
       pertainym:
       - 'aboral%3:00:00::'
       synset: 00174307-r
@@ -21224,7 +21224,7 @@ abortively:
     - value: əˈbɔɹ.tɪv.li
       variety: US
     sense:
-    - id: 'abortively%4:02:00::'
+    - id: 'abortively%4:45:00::'
       pertainym:
       - abortive%5:00:00:unfruitful:00
       synset: 00265906-r
@@ -21314,19 +21314,19 @@ about:
     - value: əˈ baʊt
       variety: US
     sense:
-    - id: 'about%4:02:00::'
+    - id: 'about%4:49:00::'
       synset: 00007414-r
-    - id: 'about%4:02:06::'
+    - id: 'about%4:50:06::'
       synset: 00072240-r
-    - id: 'about%4:02:01::'
+    - id: 'about%4:50:01::'
       synset: 00071565-r
-    - id: 'about%4:02:04::'
+    - id: 'about%4:50:04::'
       synset: 00072729-r
-    - id: 'about%4:02:02::'
+    - id: 'about%4:50:02::'
       synset: 00072601-r
-    - id: 'about%4:02:03::'
+    - id: 'about%4:50:03::'
       synset: 00359910-r
-    - id: 'about%4:02:05::'
+    - id: 'about%4:51:05::'
       synset: 00073433-r
 about turn:
   n:
@@ -21399,19 +21399,19 @@ above:
       variety: US
     sense:
     - antonym:
-      - 'below%4:02:00::'
-      id: 'above%4:02:00::'
+      - 'below%4:50:00::'
+      id: 'above%4:50:00::'
       synset: 00080266-r
     - antonym:
-      - 'below%4:02:01::'
-      id: 'above%4:02:01::'
+      - 'below%4:50:01::'
+      id: 'above%4:50:01::'
       synset: 00080519-r
 above all:
   r:
     sense:
-    - id: 'above_all%4:02:00::'
+    - id: 'above_all%4:53:00::'
       synset: 00151729-r
-    - id: 'above_all%4:02:01::'
+    - id: 'above_all%4:53:01::'
       synset: 00159313-r
 above-mentioned:
   a:
@@ -21436,7 +21436,7 @@ aboveboard:
       synset: 02326406-s
   r:
     sense:
-    - id: 'aboveboard%4:02:00::'
+    - id: 'aboveboard%4:45:00::'
       synset: 00315777-r
 aboveground:
   a:
@@ -21655,7 +21655,7 @@ abreast:
     pronunciation:
     - value: əˈbɹɛst
     sense:
-    - id: 'abreast%4:02:00::'
+    - id: 'abreast%4:45:00::'
       synset: 00251953-r
 abridge:
   v:
@@ -21740,11 +21740,11 @@ abroad:
     - value: əˈbɹɔd
       variety: US
     sense:
-    - id: 'abroad%4:02:00::'
+    - id: 'abroad%4:50:00::'
       synset: 00104690-r
-    - id: 'abroad%4:02:02::'
+    - id: 'abroad%4:50:02::'
       synset: 00264611-r
-    - id: 'abroad%4:02:01::'
+    - id: 'abroad%4:50:01::'
       synset: 00183162-r
 abrocome:
   n:
@@ -21835,7 +21835,7 @@ abruptly:
     - value: əˈbɹʌp.li
       variety: US
     sense:
-    - id: 'abruptly%4:02:01::'
+    - id: 'abruptly%4:45:01::'
       pertainym:
       - abrupt%5:00:00:sudden:00
       synset: 81484980-r
@@ -22107,7 +22107,7 @@ absently:
     - value: ˈæb.sn̩t.li
       variety: US
     sense:
-    - id: 'absently%4:02:00::'
+    - id: 'absently%4:45:00::'
       pertainym:
       - absent%5:00:00:inattentive:00
       synset: 00066590-r
@@ -22121,7 +22121,7 @@ absentminded:
 absentmindedly:
   r:
     sense:
-    - id: 'absentmindedly%4:02:00::'
+    - id: 'absentmindedly%4:45:00::'
       pertainym:
       - absentminded%5:00:00:inattentive:00
       synset: 00066590-r
@@ -22330,11 +22330,11 @@ absolutely:
     - value: ˌæb.səˈlut.li
       variety: US
     sense:
-    - id: 'absolutely%4:02:00::'
+    - id: 'absolutely%4:51:00::'
       pertainym:
       - absolute%5:00:01:complete:00
       synset: 00009459-r
-    - id: 'absolutely%4:02:01::'
+    - id: 'absolutely%4:51:01::'
       pertainym:
       - 'absolute%3:00:00::'
       synset: 00007887-r
@@ -22912,7 +22912,7 @@ abstemiously:
     pronunciation:
     - value: æbˈsti.mi.əs.li
     sense:
-    - id: 'abstemiously%4:02:00::'
+    - id: 'abstemiously%4:45:00::'
       pertainym:
       - 'abstemious%3:00:00::'
       synset: 00265986-r
@@ -23112,7 +23112,7 @@ abstractedly:
     - value: əbˈstɹæk.tɪd.li
       variety: US
     sense:
-    - id: 'abstractedly%4:02:00::'
+    - id: 'abstractedly%4:45:00::'
       pertainym:
       - abstracted%5:00:00:inattentive:00
       synset: 00066590-r
@@ -23219,8 +23219,8 @@ abstractly:
       variety: US
     sense:
     - antonym:
-      - 'concretely%4:02:00::'
-      id: 'abstractly%4:02:00::'
+      - 'concretely%4:52:00::'
+      id: 'abstractly%4:45:00::'
       pertainym:
       - 'abstract%3:00:00::'
       synset: 00199377-r
@@ -23270,7 +23270,7 @@ abstrusely:
     - value: æbˈstɹus.li
       variety: US
     sense:
-    - id: 'abstrusely%4:02:00::'
+    - id: 'abstrusely%4:45:00::'
       pertainym:
       - abstruse%5:00:00:esoteric:00
       synset: 00266190-r
@@ -23373,7 +23373,7 @@ absurdly:
     - value: æbˈsɝd.li
       variety: US
     sense:
-    - id: 'absurdly%4:02:00::'
+    - id: 'absurdly%4:51:00::'
       pertainym:
       - absurd%5:00:00:illogical:00
       synset: 00302411-r
@@ -23454,7 +23454,7 @@ abundantly:
     - value: əˈbʌn.dn̩t.li
       variety: US
     sense:
-    - id: 'abundantly%4:02:00::'
+    - id: 'abundantly%4:51:00::'
       pertainym:
       - 'abundant%3:00:00::'
       synset: 00215852-r
@@ -23572,7 +23572,7 @@ abusively:
     - value: əˈbju.sɪv.li
       variety: US
     sense:
-    - id: 'abusively%4:02:00::'
+    - id: 'abusively%4:45:00::'
       pertainym:
       - abusive%5:00:00:harmful:00
       synset: 00056277-r
@@ -23701,7 +23701,7 @@ abysmally:
     - value: əˈbɪz.ml̩.i
       variety: US
     sense:
-    - id: 'abysmally%4:02:00::'
+    - id: 'abysmally%4:45:00::'
       synset: 00055639-r
 abyss:
   n:
@@ -23884,7 +23884,7 @@ academically:
     - value: ˌæk.əˈdɛm.ɪk.ə.li
       variety: US
     sense:
-    - id: 'academically%4:02:00::'
+    - id: 'academically%4:52:00::'
       pertainym:
       - 'academic%3:01:00::'
       synset: 00122170-r
@@ -24371,7 +24371,7 @@ accelerando:
     - value: æksɛləˈɹændəʊ
       variety: GB
     sense:
-    - id: 'accelerando%4:02:00::'
+    - id: 'accelerando%4:45:00::'
       pertainym:
       - accelerando%5:00:00:increasing:02
       synset: 00266358-r
@@ -24829,8 +24829,8 @@ acceptably:
       variety: US
     sense:
     - antonym:
-      - 'unacceptably%4:02:00::'
-      id: 'acceptably%4:02:00::'
+      - 'unacceptably%4:51:00::'
+      id: 'acceptably%4:45:00::'
       pertainym:
       - 'acceptable%3:00:00::'
       synset: 00055850-r
@@ -25267,14 +25267,14 @@ accidentally:
     - value: ˌæksəˈdɛnt(ə)li
     sense:
     - antonym:
-      - 'deliberately%4:02:00::'
-      id: 'accidentally%4:02:00::'
+      - 'deliberately%4:45:00::'
+      id: 'accidentally%4:45:00::'
       synset: 00040959-r
-    - id: 'accidentally%4:02:03::'
+    - id: 'accidentally%4:51:03::'
       synset: 00213709-r
     - antonym:
-      - 'deliberately%4:02:00::'
-      id: 'accidentally%4:02:02::'
+      - 'deliberately%4:45:00::'
+      id: 'accidentally%4:45:02::'
       pertainym:
       - accidental%5:00:00:unintended:00
       synset: 00063188-r
@@ -25543,7 +25543,7 @@ accommodatingly:
     - value: ə.ˈkɒm.ə.ˌdeɪt.ɪŋ.li
       variety: US
     sense:
-    - id: 'accommodatingly%4:02:00::'
+    - id: 'accommodatingly%4:46:00::'
       pertainym:
       - 'accommodating%3:00:00::'
       synset: 00233351-r
@@ -25928,9 +25928,9 @@ accordingly:
     - value: əˈkɔː(ɹ).dɪŋ.li
       variety: GB
     sense:
-    - id: 'accordingly%4:02:00::'
+    - id: 'accordingly%4:54:00::'
       synset: 00063395-r
-    - id: 'accordingly%4:02:01::'
+    - id: 'accordingly%4:45:01::'
       synset: 00063627-r
 accordion:
   n:
@@ -26659,12 +26659,12 @@ accurately:
       variety: GB
     sense:
     - antonym:
-      - 'inaccurately%4:02:00::'
-      id: 'accurately%4:02:01::'
+      - 'inaccurately%4:45:00::'
+      id: 'accurately%4:45:01::'
       pertainym:
       - 'accurate%3:00:00::'
       synset: 00205951-r
-    - id: 'accurately%4:02:02::'
+    - id: 'accurately%4:45:02::'
       pertainym:
       - accurate%5:00:00:correct:00
       synset: 00206226-r
@@ -26859,7 +26859,7 @@ accusingly:
     - value: ə.ˈkju.zɪŋ.li
       variety: US
     sense:
-    - id: 'accusingly%4:02:00::'
+    - id: 'accusingly%4:45:00::'
       pertainym:
       - accusing%5:00:00:inculpatory:00
       synset: 00066818-r
@@ -28609,7 +28609,7 @@ acoustical:
 acoustically:
   r:
     sense:
-    - id: 'acoustically%4:02:00::'
+    - id: 'acoustically%4:52:00::'
       pertainym:
       - 'acoustic%3:01:00::'
       synset: 00135653-r
@@ -29344,26 +29344,26 @@ across:
       variety: US
     - value: əˈkɹɑs
     sense:
-    - id: 'across%4:02:01::'
+    - id: 'across%4:50:01::'
       synset: 00274382-r
-    - id: 'across%4:02:00::'
+    - id: 'across%4:50:00::'
       synset: 00274275-r
 across the board:
   r:
     sense:
-    - id: 'across_the_board%4:02:00::'
+    - id: 'across_the_board%4:53:00::'
       pertainym:
       - across-the-board%5:00:00:comprehensive:00
       synset: 00151983-r
 across the country:
   r:
     sense:
-    - id: 'across_the_country%4:02:00::'
+    - id: 'across_the_country%4:50:00::'
       synset: 00409125-r
 across the nation:
   r:
     sense:
-    - id: 'across_the_nation%4:02:00::'
+    - id: 'across_the_nation%4:50:00::'
       synset: 00409125-r
 across-the-board:
   a:
@@ -30356,8 +30356,8 @@ actively:
     - value: ˈæktɪvli
     sense:
     - antonym:
-      - 'passively%4:02:00::'
-      id: 'actively%4:02:00::'
+      - 'passively%4:45:00::'
+      id: 'actively%4:45:00::'
       pertainym:
       - 'active%3:00:03::'
       synset: 00079883-r
@@ -30660,15 +30660,15 @@ actually:
     - value: ˈæk.(t)ʃu.(ə.)li
       variety: US
     sense:
-    - id: 'actually%4:02:01::'
+    - id: 'actually%4:53:01::'
       pertainym:
       - actual%5:00:02:real:00
       synset: 00150568-r
-    - id: 'actually%4:02:00::'
+    - id: 'actually%4:53:00::'
       synset: 00150196-r
-    - id: 'actually%4:02:03::'
+    - id: 'actually%4:49:03::'
       synset: 00151061-r
-    - id: 'actually%4:02:02::'
+    - id: 'actually%4:53:02::'
       synset: 00150802-r
 actuarial:
   a:
@@ -31005,21 +31005,21 @@ acutely:
     pronunciation:
     - value: əˈkjuːtlɪ
     sense:
-    - id: 'acutely%4:02:01::'
+    - id: 'acutely%4:51:01::'
       pertainym:
       - acute%5:00:00:perceptive:00
       synset: 00386914-r
     - antonym:
-      - 'chronically%4:02:00::'
-      id: 'acutely%4:02:00::'
+      - 'chronically%4:49:00::'
+      id: 'acutely%4:51:00::'
       pertainym:
       - 'acute%3:00:00::'
       synset: 00141793-r
-    - id: 'acutely%4:02:02::'
+    - id: 'acutely%4:45:02::'
       pertainym:
       - acute%5:00:00:pointed:00
       synset: 00505194-r
-    - id: 'acutely%4:02:03::'
+    - id: 'acutely%4:45:03::'
       pertainym:
       - sharp%5:00:00:smart:00
       synset: 00274018-r
@@ -31125,7 +31125,7 @@ ad hoc:
     - value: ˌæd ˈhɑk
       variety: US
     sense:
-    - id: 'ad_hoc%4:02:00::'
+    - id: 'ad_hoc%4:45:00::'
       synset: 00252456-r
 ad hominem:
   a:
@@ -31138,26 +31138,26 @@ ad infinitum:
     - value: ˌæd ɪnfɪˈnaɪtəm
       variety: GB
     sense:
-    - id: 'ad_infinitum%4:02:01::'
+    - id: 'ad_infinitum%4:49:01::'
       pertainym:
       - 'infinite%3:00:00::'
       synset: 00088265-r
 ad interim:
   r:
     sense:
-    - id: 'ad_interim%4:02:00::'
+    - id: 'ad_interim%4:49:00::'
       synset: 00089037-r
 ad lib:
   r:
     pronunciation:
     - value: æd ˈlɪb
     sense:
-    - id: 'ad_lib%4:02:00::'
+    - id: 'ad_lib%4:45:00::'
       synset: 00089143-r
 ad libitum:
   r:
     sense:
-    - id: 'ad_libitum%4:02:00::'
+    - id: 'ad_libitum%4:45:00::'
       synset: 00089143-r
 ad nauseam:
   r:
@@ -31167,17 +31167,17 @@ ad nauseam:
     - value: ˌæd ˈnɔziəm
       variety: US
     sense:
-    - id: 'ad_nauseam%4:02:00::'
+    - id: 'ad_nauseam%4:51:00::'
       synset: 00252542-r
 ad val:
   r:
     sense:
-    - id: 'ad_val%4:02:00::'
+    - id: 'ad_val%4:45:00::'
       synset: 00252635-r
 ad valorem:
   r:
     sense:
-    - id: 'ad_valorem%4:02:00::'
+    - id: 'ad_valorem%4:45:00::'
       synset: 00252635-r
 ad valorem tax:
   n:
@@ -31257,7 +31257,7 @@ adagio:
       synset: 00527296-n
   r:
     sense:
-    - id: 'adagio%4:02:00::'
+    - id: 'adagio%4:45:00::'
       pertainym:
       - adagio%5:00:00:slow:02
       synset: 00266490-r
@@ -31304,7 +31304,7 @@ adamantine:
 adamantly:
   r:
     sense:
-    - id: 'adamantly%4:02:00::'
+    - id: 'adamantly%4:51:00::'
       pertainym:
       - adamant%5:00:00:inflexible:02
       synset: 00178660-r
@@ -31452,8 +31452,8 @@ adaxially:
   r:
     sense:
     - antonym:
-      - 'abaxially%4:02:00::'
-      id: 'adaxially%4:02:00::'
+      - 'abaxially%4:50:00::'
+      id: 'adaxially%4:50:00::'
       pertainym:
       - 'adaxial%3:00:00::'
       synset: 00515130-r
@@ -31798,7 +31798,7 @@ additional:
 additionally:
   r:
     sense:
-    - id: 'additionally%4:02:00::'
+    - id: 'additionally%4:53:00::'
       synset: 00046607-r
 additive:
   a:
@@ -32357,8 +32357,8 @@ adequately:
   r:
     sense:
     - antonym:
-      - 'inadequately%4:02:00::'
-      id: 'adequately%4:02:00::'
+      - 'inadequately%4:51:00::'
+      id: 'adequately%4:51:00::'
       pertainym:
       - adequate%5:00:00:sufficient:00
       synset: 00371514-r
@@ -32728,7 +32728,7 @@ adjectivally:
     pronunciation:
     - value: ˌædʒɛkˈtaɪvəli
     sense:
-    - id: 'adjectivally%4:02:00::'
+    - id: 'adjectivally%4:45:00::'
       pertainym:
       - 'adjectival%3:01:00::'
       synset: 00515224-r
@@ -32768,7 +32768,7 @@ adjectively:
     - value: ˈadʒɛktɪvli
       variety: GB
     sense:
-    - id: 'adjectively%4:02:00::'
+    - id: 'adjectively%4:45:00::'
       pertainym:
       - 'adjectival%3:01:00::'
       synset: 00268751-r
@@ -33364,7 +33364,7 @@ administrative unit:
 administratively:
   r:
     sense:
-    - id: 'administratively%4:02:00::'
+    - id: 'administratively%4:52:00::'
       pertainym:
       - 'administrative%3:01:00::'
       synset: 00266597-r
@@ -33432,7 +33432,7 @@ admirably:
     - value: ˈæd.mɪɹ.əˌbli
       variety: US
     sense:
-    - id: 'admirably%4:02:00::'
+    - id: 'admirably%4:46:00::'
       pertainym:
       - admirable%5:00:01:reputable:00
       synset: 00220366-r
@@ -33542,7 +33542,7 @@ admirer:
 admiringly:
   r:
     sense:
-    - id: 'admiringly%4:02:00::'
+    - id: 'admiringly%4:45:00::'
       synset: 00056397-r
 admissibility:
   n:
@@ -33708,7 +33708,7 @@ admittance:
 admittedly:
   r:
     sense:
-    - id: 'admittedly%4:02:00::'
+    - id: 'admittedly%4:54:00::'
       synset: 00185770-r
 admittible:
   a:
@@ -34154,7 +34154,7 @@ adorably:
     pronunciation:
     - value: əˈdɔɹəbli
     sense:
-    - id: 'adorably%4:02:00::'
+    - id: 'adorably%4:45:00::'
       pertainym:
       - adorable%5:00:00:lovable:00
       synset: 00266729-r
@@ -34213,7 +34213,7 @@ adoring:
 adoringly:
   r:
     sense:
-    - id: 'adoringly%4:02:00::'
+    - id: 'adoringly%4:45:00::'
       pertainym:
       - adoring%5:00:00:loving:00
       synset: 00056487-r
@@ -34426,11 +34426,11 @@ adrift:
     pronunciation:
     - value: əˈdɹɪft
     sense:
-    - id: 'adrift%4:02:01::'
+    - id: 'adrift%4:50:01::'
       pertainym:
       - adrift%5:00:00:afloat:00
       synset: 00269134-r
-    - id: 'adrift%4:02:00::'
+    - id: 'adrift%4:50:00::'
       pertainym:
       - adrift%5:00:00:purposeless:00
       synset: 00268988-r
@@ -34451,8 +34451,8 @@ adroitly:
     - value: əˈdɹɔɪtli
     sense:
     - antonym:
-      - 'maladroitly%4:02:00::'
-      id: 'adroitly%4:02:00::'
+      - 'maladroitly%4:45:00::'
+      id: 'adroitly%4:45:00::'
       pertainym:
       - 'adroit%3:00:00::'
       synset: 00056592-r
@@ -34824,7 +34824,7 @@ adulterous:
 adulterously:
   r:
     sense:
-    - id: 'adulterously%4:02:00::'
+    - id: 'adulterously%4:45:00::'
       pertainym:
       - adulterous%5:00:00:unfaithful:01
       synset: 00135774-r
@@ -35196,8 +35196,8 @@ advantageously:
   r:
     sense:
     - antonym:
-      - 'disadvantageously%4:02:00::'
-      id: 'advantageously%4:02:00::'
+      - 'disadvantageously%4:45:00::'
+      id: 'advantageously%4:45:00::'
       pertainym:
       - 'advantageous%3:00:00::'
       synset: 00014255-r
@@ -35458,7 +35458,7 @@ adverbial of reason:
 adverbially:
   r:
     sense:
-    - id: 'adverbially%4:02:00::'
+    - id: 'adverbially%4:45:00::'
       pertainym:
       - 'adverbial%3:01:00::'
       synset: 00268865-r
@@ -35512,7 +35512,7 @@ adverse witness:
 adversely:
   r:
     sense:
-    - id: 'adversely%4:02:00::'
+    - id: 'adversely%4:45:00::'
       pertainym:
       - adverse%5:00:00:unfavorable:02
       synset: 00262533-r
@@ -35594,8 +35594,8 @@ advertently:
   r:
     sense:
     - antonym:
-      - 'inadvertently%4:02:00::'
-      id: 'advertently%4:02:00::'
+      - 'inadvertently%4:45:00::'
+      id: 'advertently%4:45:00::'
       pertainym:
       - advertent%5:00:00:attentive:00
       synset: 00154814-r
@@ -35845,7 +35845,7 @@ advised:
 advisedly:
   r:
     sense:
-    - id: 'advisedly%4:02:00::'
+    - id: 'advisedly%4:45:00::'
       synset: 00062868-r
 advisee:
   n:
@@ -36193,7 +36193,7 @@ aerialist:
 aerially:
   r:
     sense:
-    - id: 'aerially%4:02:00::'
+    - id: 'aerially%4:50:00::'
       pertainym:
       - 'aerial%3:00:00::'
       synset: 00204147-r
@@ -36723,7 +36723,7 @@ aesthetical:
 aesthetically:
   r:
     sense:
-    - id: 'aesthetically%4:02:00::'
+    - id: 'aesthetically%4:52:00::'
       pertainym:
       - aesthetic%5:00:00:tasteful:02
       synset: 00262662-r
@@ -36852,7 +36852,7 @@ afar:
     - value: əˈfɑː
       variety: GB
     sense:
-    - id: 'afar%4:02:00::'
+    - id: 'afar%4:50:00::'
       synset: 00101433-r
 afeard:
   a:
@@ -36904,7 +36904,7 @@ affableness:
 affably:
   r:
     sense:
-    - id: 'affably%4:02:00::'
+    - id: 'affably%4:45:00::'
       pertainym:
       - affable%5:00:00:friendly:01
       synset: 00221532-r
@@ -37028,7 +37028,7 @@ affected role:
 affectedly:
   r:
     sense:
-    - id: 'affectedly%4:02:00::'
+    - id: 'affectedly%4:45:00::'
       pertainym:
       - 'affected%3:00:01::'
       synset: 00066927-r
@@ -37053,7 +37053,7 @@ affecting:
 affectingly:
   r:
     sense:
-    - id: 'affectingly%4:02:00::'
+    - id: 'affectingly%4:45:00::'
       pertainym:
       - affecting%5:00:00:moving:01
       synset: 00067005-r
@@ -37089,7 +37089,7 @@ affectionately:
     pronunciation:
     - value: əˈfɛkʃənətli
     sense:
-    - id: 'affectionately%4:02:00::'
+    - id: 'affectionately%4:51:00::'
       pertainym:
       - affectionate%5:00:00:loving:00
       synset: 00078013-r
@@ -37428,7 +37428,7 @@ affirmative pleading:
 affirmatively:
   r:
     sense:
-    - id: 'affirmatively%4:02:00::'
+    - id: 'affirmatively%4:45:00::'
       pertainym:
       - 'affirmative%3:00:00::'
       synset: 00515323-r
@@ -37825,11 +37825,11 @@ afield:
     pronunciation:
     - value: əˈfiːld
     sense:
-    - id: 'afield%4:02:03::'
+    - id: 'afield%4:50:03::'
       synset: 00264611-r
-    - id: 'afield%4:02:01::'
+    - id: 'afield%4:50:01::'
       synset: 00264402-r
-    - id: 'afield%4:02:00::'
+    - id: 'afield%4:50:00::'
       synset: 00264278-r
 afire:
   a:
@@ -37907,7 +37907,7 @@ afoot:
     pronunciation:
     - value: əˈfʊt
     sense:
-    - id: 'afoot%4:02:01::'
+    - id: 'afoot%4:45:01::'
       pertainym:
       - afoot%5:00:00:moving:02
       synset: 00240791-r
@@ -37969,7 +37969,7 @@ afresh:
     - value: ʌˈfɹɛʃ
       variety: US
     sense:
-    - id: 'afresh%4:02:00::'
+    - id: 'afresh%4:45:00::'
       synset: 00113764-r
 afropavo:
   n:
@@ -37987,8 +37987,8 @@ aft:
   r:
     sense:
     - antonym:
-      - 'fore%4:02:00::'
-      id: 'aft%4:02:00::'
+      - 'fore%4:50:00::'
+      id: 'aft%4:50:00::'
       synset: 00276839-r
 after:
   a:
@@ -38010,26 +38010,26 @@ after:
     - value: ˈæf.tɚ
       variety: US
     sense:
-    - id: 'after%4:02:01::'
+    - id: 'after%4:49:01::'
       synset: 00061741-r
-    - id: 'after%4:02:00::'
+    - id: 'after%4:50:00::'
       synset: 00510603-r
 after a fashion:
   r:
     sense:
-    - id: 'after_a_fashion%4:02:00::'
+    - id: 'after_a_fashion%4:45:00::'
       synset: 00152098-r
 after all:
   r:
     sense:
-    - id: 'after_all%4:02:00::'
+    - id: 'after_all%4:53:00::'
       synset: 00152207-r
-    - id: 'after_all%4:02:01::'
+    - id: 'after_all%4:54:01::'
       synset: 00152363-r
 after hours:
   r:
     sense:
-    - id: 'after_hours%4:02:00::'
+    - id: 'after_hours%4:49:00::'
       synset: 00152484-r
 after part:
   n:
@@ -38216,7 +38216,7 @@ afterward:
     - value: ˈæf.tɚ.wɚd
       variety: US
     sense:
-    - id: 'afterward%4:02:00::'
+    - id: 'afterward%4:49:00::'
       synset: 00061741-r
 afterwards:
   r:
@@ -38226,7 +38226,7 @@ afterwards:
     - value: ˈæf.tɚ.wɚdz
       variety: US
     sense:
-    - id: 'afterwards%4:02:00::'
+    - id: 'afterwards%4:49:00::'
       synset: 00061741-r
 afterworld:
   n:
@@ -38243,27 +38243,27 @@ again:
     pronunciation:
     - value: əˈɡɛn
     sense:
-    - id: 'again%4:02:00::'
+    - id: 'again%4:48:00::'
       synset: 00040777-r
 again and again:
   r:
     sense:
-    - id: 'again_and_again%4:02:00::'
+    - id: 'again_and_again%4:48:00::'
       synset: 00178467-r
 against the clock:
   r:
     sense:
-    - id: 'against_the_clock%4:02:00::'
+    - id: 'against_the_clock%4:45:00::'
       synset: 00152579-r
 against the wind:
   r:
     sense:
-    - id: 'against_the_wind%4:02:00::'
+    - id: 'against_the_wind%4:50:00::'
       synset: 00095443-r
 against time:
   r:
     sense:
-    - id: 'against_time%4:02:00::'
+    - id: 'against_time%4:45:00::'
       synset: 00152579-r
 agal:
   n:
@@ -38986,7 +38986,7 @@ aggravating:
 aggravatingly:
   r:
     sense:
-    - id: 'aggravatingly%4:02:00::'
+    - id: 'aggravatingly%4:45:00::'
       pertainym:
       - aggravating%5:00:00:intensifying:00
       synset: 00511417-r
@@ -39164,7 +39164,7 @@ aggressive:
 aggressively:
   r:
     sense:
-    - id: 'aggressively%4:02:00::'
+    - id: 'aggressively%4:45:00::'
       pertainym:
       - 'aggressive%3:00:00::'
       synset: 00050485-r
@@ -39250,7 +39250,7 @@ agile:
 agilely:
   r:
     sense:
-    - id: 'agilely%4:02:00::'
+    - id: 'agilely%4:45:00::'
       pertainym:
       - agile%5:00:00:active:01
       synset: 00191127-r
@@ -39596,7 +39596,7 @@ ago:
     - value: əˈɡəʊ
       variety: GB
     sense:
-    - id: 'ago%4:02:00::'
+    - id: 'ago%4:49:00::'
       synset: 00074361-r
 agog:
   a:
@@ -39761,7 +39761,7 @@ agonizing:
 agonizingly:
   r:
     sense:
-    - id: 'agonizingly%4:02:00::'
+    - id: 'agonizingly%4:51:00::'
       pertainym:
       - agonizing%5:00:00:painful:00
       synset: 00262820-r
@@ -40033,8 +40033,8 @@ agreeably:
   r:
     sense:
     - antonym:
-      - 'disagreeably%4:02:00::'
-      id: 'agreeably%4:02:00::'
+      - 'disagreeably%4:45:00::'
+      id: 'agreeably%4:51:00::'
       pertainym:
       - 'agreeable%3:00:00::'
       synset: 00220590-r
@@ -40310,7 +40310,7 @@ aground:
     pronunciation:
     - value: əˈɡɹaʊnd
     sense:
-    - id: 'aground%4:02:00::'
+    - id: 'aground%4:50:00::'
       synset: 00271442-r
 agrypnia:
   n:
@@ -40391,31 +40391,31 @@ ahead:
     pronunciation:
     - value: əˈhɛd
     sense:
-    - id: 'ahead%4:02:00::'
+    - id: 'ahead%4:50:00::'
       synset: 00067181-r
     - antonym:
-      - 'back%4:02:01::'
-      id: 'ahead%4:02:06::'
+      - 'back%4:49:01::'
+      id: 'ahead%4:49:06::'
       synset: 00075708-r
-    - id: 'ahead%4:02:02::'
+    - id: 'ahead%4:50:02::'
       synset: 00067665-r
-    - id: 'ahead%4:02:01::'
+    - id: 'ahead%4:49:01::'
       synset: 00067445-r
-    - id: 'ahead%4:02:05::'
+    - id: 'ahead%4:50:05::'
       synset: 00068470-r
-    - id: 'ahead%4:02:04::'
+    - id: 'ahead%4:49:04::'
       synset: 00068223-r
-    - id: 'ahead%4:02:03::'
+    - id: 'ahead%4:50:03::'
       synset: 00067913-r
 ahead of the game:
   r:
     sense:
-    - id: 'ahead_of_the_game%4:02:00::'
+    - id: 'ahead_of_the_game%4:50:00::'
       synset: 00152713-r
 ahead of time:
   r:
     sense:
-    - id: 'ahead_of_time%4:02:00::'
+    - id: 'ahead_of_time%4:49:00::'
       synset: 00100632-r
 ahem:
   n:
@@ -40452,7 +40452,7 @@ ahorse:
     - value: əˈhɔɹs
       variety: US
     sense:
-    - id: 'ahorse%4:02:00::'
+    - id: 'ahorse%4:45:00::'
       synset: 00002484-r
 ahorseback:
   a:
@@ -40464,7 +40464,7 @@ ahorseback:
     pronunciation:
     - value: əˈhɔː(ɹ)sbæk
     sense:
-    - id: 'ahorseback%4:02:00::'
+    - id: 'ahorseback%4:45:00::'
       synset: 00002484-r
 ai:
   n:
@@ -40740,7 +40740,7 @@ aimlessly:
     pronunciation:
     - value: ˈeɪmləsli
     sense:
-    - id: 'aimlessly%4:02:00::'
+    - id: 'aimlessly%4:45:00::'
       pertainym:
       - aimless%5:00:00:purposeless:00
       synset: 00207135-r
@@ -41647,7 +41647,7 @@ airily:
     - value: ˈeɹ.ə.li
       variety: US
     sense:
-    - id: 'airily%4:02:00::'
+    - id: 'airily%4:45:00::'
       synset: 00343559-r
 airiness:
   n:
@@ -42069,7 +42069,7 @@ akimbo:
     - value: əˈkɪm.boʊ
       variety: US
     sense:
-    - id: 'akimbo%4:02:00::'
+    - id: 'akimbo%4:45:00::'
       synset: 00271541-r
 akin:
   a:
@@ -42393,7 +42393,7 @@ alarmingly:
     - value: ə.ˈlɑɹm.ɪŋ.li
       variety: US
     sense:
-    - id: 'alarmingly%4:02:00::'
+    - id: 'alarmingly%4:51:00::'
       pertainym:
       - 'alarming%3:00:00::'
       synset: 00006055-r
@@ -42433,7 +42433,7 @@ alary:
 alas:
   r:
     sense:
-    - id: 'alas%4:02:00::'
+    - id: 'alas%4:45:00::'
       synset: 00043179-r
 alastrim:
   n:
@@ -43207,7 +43207,7 @@ alee:
     pronunciation:
     - value: əˈliː
     sense:
-    - id: 'alee%4:02:00::'
+    - id: 'alee%4:50:00::'
       synset: 00271649-r
 alehoof:
   n:
@@ -43312,7 +43312,7 @@ alerting:
 alertly:
   r:
     sense:
-    - id: 'alertly%4:02:00::'
+    - id: 'alertly%4:45:00::'
       pertainym:
       - alert%5:00:00:aware:00
       synset: 00271723-r
@@ -43442,7 +43442,7 @@ alfresco:
     - value: ælˈfɹɛs.koʊ
       variety: US
     sense:
-    - id: 'alfresco%4:02:00::'
+    - id: 'alfresco%4:50:00::'
       synset: 00111402-r
 alga:
   n:
@@ -43545,7 +43545,7 @@ algebraical:
 algebraically:
   r:
     sense:
-    - id: 'algebraically%4:02:00::'
+    - id: 'algebraically%4:52:00::'
       pertainym:
       - 'algebraic%3:01:00::'
       synset: 00132327-r
@@ -43731,7 +43731,7 @@ alias:
     - value: ˈeɪ.li.əs
       variety: US
     sense:
-    - id: 'alias%4:02:00::'
+    - id: 'alias%4:53:00::'
       synset: 00271877-r
 alibi:
   n:
@@ -44047,9 +44047,9 @@ alike:
     pronunciation:
     - value: əˈlaɪk
     sense:
-    - id: 'alike%4:02:00::'
+    - id: 'alike%4:53:00::'
       synset: 00070072-r
-    - id: 'alike%4:02:01::'
+    - id: 'alike%4:45:01::'
       synset: 00070003-r
 alikeness:
   n:
@@ -44721,12 +44721,12 @@ all:
     - value: ɔl
       variety: US
     sense:
-    - id: 'all%4:02:00::'
+    - id: 'all%4:51:00::'
       synset: 00008423-r
 all along:
   r:
     sense:
-    - id: 'all_along%4:02:00::'
+    - id: 'all_along%4:49:00::'
       synset: 00068615-r
 all arounder:
   n:
@@ -44741,9 +44741,9 @@ all at once:
     - value: ˌɔl ət ˈwʌn(t)s
       variety: US
     sense:
-    - id: 'all_at_once%4:02:01::'
+    - id: 'all_at_once%4:45:01::'
       synset: 00464132-r
-    - id: 'all_at_once%4:02:00::'
+    - id: 'all_at_once%4:49:00::'
       synset: 00153015-r
 all clear:
   n:
@@ -44755,7 +44755,7 @@ all clear:
 all day long:
   r:
     sense:
-    - id: 'all_day_long%4:02:00::'
+    - id: 'all_day_long%4:49:00::'
       synset: 00306173-r
 all fours:
   n:
@@ -44782,7 +44782,7 @@ all in:
 all in all:
   r:
     sense:
-    - id: 'all_in_all%4:02:00::'
+    - id: 'all_in_all%4:53:00::'
       synset: 00152813-r
 all of a sudden:
   r:
@@ -44790,9 +44790,9 @@ all of a sudden:
     - value: ˌɔl əv ə ˈsʌdən
       variety: US
     sense:
-    - id: 'all_of_a_sudden%4:02:00::'
+    - id: 'all_of_a_sudden%4:49:00::'
       synset: 00153015-r
-    - id: 'all_of_a_sudden%4:02:01::'
+    - id: 'all_of_a_sudden%4:45:01::'
       synset: 81484980-r
 all over:
   a:
@@ -44801,9 +44801,9 @@ all over:
       synset: 01006696-s
   r:
     sense:
-    - id: 'all_over%4:02:01::'
+    - id: 'all_over%4:50:01::'
       synset: 00199469-r
-    - id: 'all_over%4:02:00::'
+    - id: 'all_over%4:50:00::'
       synset: 00026137-r
 all right:
   a:
@@ -44816,47 +44816,47 @@ all right:
     pronunciation:
     - value: ˌɔːlˈɹaɪt
     sense:
-    - id: 'all_right%4:02:00::'
+    - id: 'all_right%4:53:00::'
       synset: 00053542-r
-    - id: 'all_right%4:02:01::'
+    - id: 'all_right%4:51:01::'
       synset: 00053690-r
-    - id: 'all_right%4:02:02::'
+    - id: 'all_right%4:45:02::'
       synset: 00015933-r
 all the same:
   r:
     sense:
-    - id: 'all_the_same%4:02:00::'
+    - id: 'all_the_same%4:54:00::'
       synset: 00027761-r
 all the time:
   r:
     sense:
-    - id: 'all_the_time%4:02:01::'
+    - id: 'all_the_time%4:48:01::'
       synset: 00158123-r
 all the way:
   r:
     sense:
-    - id: 'all_the_way%4:02:09::'
+    - id: 'all_the_way%4:51:09::'
       synset: 00153124-r
-    - id: 'all_the_way%4:02:03::'
+    - id: 'all_the_way%4:51:03::'
       synset: 00287169-r
-    - id: 'all_the_way%4:02:04::'
+    - id: 'all_the_way%4:51:04::'
       synset: 00153231-r
 all together:
   r:
     sense:
-    - id: 'all_together%4:02:00::'
+    - id: 'all_together%4:45:00::'
       synset: 00464132-r
-    - id: 'all_together%4:02:01::'
+    - id: 'all_together%4:45:01::'
       synset: 00064312-r
 all told:
   r:
     sense:
-    - id: 'all_told%4:02:00::'
+    - id: 'all_told%4:51:00::'
       synset: 00064168-r
 all too:
   r:
     sense:
-    - id: 'all_too%4:02:00::'
+    - id: 'all_too%4:51:00::'
       synset: 00251727-r
 all-around:
   a:
@@ -44892,14 +44892,14 @@ all-fired:
       synset: 01537778-s
   r:
     sense:
-    - id: 'all-fired%4:02:00::'
+    - id: 'all-fired%4:51:00::'
       pertainym:
       - all-fired%5:00:00:immoderate:00
       synset: 00025503-r
 all-firedly:
   r:
     sense:
-    - id: 'all-firedly%4:02:00::'
+    - id: 'all-firedly%4:51:00::'
       pertainym:
       - all-fired%5:00:00:immoderate:00
       synset: 00025503-r
@@ -45094,7 +45094,7 @@ alleged:
 allegedly:
   r:
     sense:
-    - id: 'allegedly%4:02:00::'
+    - id: 'allegedly%4:51:00::'
       pertainym:
       - alleged%5:00:00:declared:00
       synset: 00155440-r
@@ -45156,7 +45156,7 @@ allegorically:
     - value: æl.əˈɡɒɹ.ɪk.(ə.)li
       variety: GB
     sense:
-    - id: 'allegorically%4:02:00::'
+    - id: 'allegorically%4:45:00::'
       pertainym:
       - allegorical%5:00:00:representative:00
       synset: 00136008-r
@@ -45282,7 +45282,7 @@ allegretto:
       synset: 07053695-n
   r:
     sense:
-    - id: 'allegretto%4:02:00::'
+    - id: 'allegretto%4:45:00::'
       pertainym:
       - allegretto%5:00:00:fast:02
       synset: 00272012-r
@@ -45315,7 +45315,7 @@ allegro:
     - value: əˈleɪɡɹoʊ
       variety: US
     sense:
-    - id: 'allegro%4:02:00::'
+    - id: 'allegro%4:45:00::'
       pertainym:
       - allegro%5:00:00:fast:02
       synset: 00272144-r
@@ -45733,7 +45733,7 @@ alliterative:
 alliteratively:
   r:
     sense:
-    - id: 'alliteratively%4:02:00::'
+    - id: 'alliteratively%4:45:00::'
       pertainym:
       - alliterative%5:00:00:rhymed:00
       synset: 00272273-r
@@ -46236,7 +46236,7 @@ allowable:
 allowably:
   r:
     sense:
-    - id: 'allowably%4:02:00::'
+    - id: 'allowably%4:52:00::'
       synset: 00087414-r
 allowance:
   n:
@@ -46714,7 +46714,7 @@ almost:
     - value: ˈɔl.moʊst
       variety: US
     sense:
-    - id: 'almost%4:02:00::'
+    - id: 'almost%4:51:00::'
       synset: 00073433-r
 alms:
   n:
@@ -46794,13 +46794,13 @@ aloft:
     - value: əˈlɒft
       variety: GB
     sense:
-    - id: 'aloft%4:02:04::'
+    - id: 'aloft%4:50:04::'
       synset: 00501282-r
-    - id: 'aloft%4:02:07::'
+    - id: 'aloft%4:50:07::'
       synset: 00501202-r
-    - id: 'aloft%4:02:01::'
+    - id: 'aloft%4:50:01::'
       synset: 00500808-r
-    - id: 'aloft%4:02:00::'
+    - id: 'aloft%4:50:00::'
       synset: 00500697-r
 aloha:
   n:
@@ -46843,9 +46843,9 @@ alone:
     - value: əˈloʊn
       variety: US
     sense:
-    - id: 'alone%4:02:00::'
+    - id: 'alone%4:51:00::'
       synset: 00009062-r
-    - id: 'alone%4:02:01::'
+    - id: 'alone%4:45:01::'
       pertainym:
       - alone%5:00:00:unaccompanied:00
       synset: 00159090-r
@@ -46865,15 +46865,15 @@ along:
     - value: əˈlɔŋ
       variety: US
     sense:
-    - id: 'along%4:02:01::'
+    - id: 'along%4:50:01::'
       synset: 00068768-r
-    - id: 'along%4:02:00::'
+    - id: 'along%4:53:00::'
       synset: 00068977-r
-    - id: 'along%4:02:03::'
+    - id: 'along%4:45:03::'
       synset: 00069386-r
-    - id: 'along%4:02:02::'
+    - id: 'along%4:53:02::'
       synset: 00069153-r
-    - id: 'along%4:02:04::'
+    - id: 'along%4:50:04::'
       synset: 00069564-r
 alongside:
   r:
@@ -46883,7 +46883,7 @@ alongside:
     - value: ə.lɒŋˈsaɪd
       variety: GB
     sense:
-    - id: 'alongside%4:02:00::'
+    - id: 'alongside%4:50:00::'
       synset: 00251525-r
 aloof:
   a:
@@ -46898,7 +46898,7 @@ aloof:
     pronunciation:
     - value: əˈluːf
     sense:
-    - id: 'aloof%4:02:00::'
+    - id: 'aloof%4:45:00::'
       pertainym:
       - aloof%5:00:00:reserved:01
       synset: 00123700-r
@@ -46938,9 +46938,9 @@ aloud:
     pronunciation:
     - value: əˈlaʊd
     sense:
-    - id: 'aloud%4:02:00::'
+    - id: 'aloud%4:45:00::'
       synset: 00070171-r
-    - id: 'aloud%4:02:01::'
+    - id: 'aloud%4:45:01::'
       synset: 00070301-r
 alp:
   n:
@@ -47235,7 +47235,7 @@ alphabetical:
 alphabetically:
   r:
     sense:
-    - id: 'alphabetically%4:02:00::'
+    - id: 'alphabetically%4:45:00::'
       pertainym:
       - 'alphabetical%3:01:00::'
       synset: 00204261-r
@@ -47476,7 +47476,7 @@ alprazolam:
 already:
   r:
     sense:
-    - id: 'already%4:02:00::'
+    - id: 'already%4:49:00::'
       synset: 00032194-r
 alright:
   a:
@@ -47488,11 +47488,11 @@ alright:
       synset: 02088638-s
   r:
     sense:
-    - id: 'alright%4:02:01::'
+    - id: 'alright%4:51:01::'
       synset: 00053690-r
-    - id: 'alright%4:02:00::'
+    - id: 'alright%4:53:00::'
       synset: 00053542-r
-    - id: 'alright%4:02:02::'
+    - id: 'alright%4:45:02::'
       synset: 00015933-r
 alsatian:
   n:
@@ -47509,12 +47509,12 @@ also:
     - value: ˈɔl.soʊ
       variety: US
     sense:
-    - id: 'also%4:02:00::'
+    - id: 'also%4:53:00::'
       synset: 00048072-r
 also known as:
   r:
     sense:
-    - id: 'also_known_as%4:02:00::'
+    - id: 'also_known_as%4:53:00::'
       synset: 00271877-r
 also-ran:
   n:
@@ -47792,7 +47792,7 @@ alternately:
     - value: ˈɔl.tɚ.nət.li
       variety: US
     sense:
-    - id: 'alternately%4:02:00::'
+    - id: 'alternately%4:45:00::'
       pertainym:
       - alternate%5:00:01:cyclic:01
       synset: 00138372-r
@@ -47896,7 +47896,7 @@ alternatively:
     - value: ɔl.ˈtɝ.nə.tɪv.li
       variety: US
     sense:
-    - id: 'alternatively%4:02:00::'
+    - id: 'alternatively%4:54:00::'
       pertainym:
       - alternative%5:00:00:disjunctive:00
       synset: 00063710-r
@@ -48064,11 +48064,11 @@ altogether:
     - value: ɔl.tuˈɡɛð.ɚ
       variety: US
     sense:
-    - id: 'altogether%4:02:04::'
+    - id: 'altogether%4:51:04::'
       synset: 00008423-r
-    - id: 'altogether%4:02:00::'
+    - id: 'altogether%4:51:00::'
       synset: 00064168-r
-    - id: 'altogether%4:02:03::'
+    - id: 'altogether%4:53:03::'
       synset: 00152813-r
 altoist:
   n:
@@ -48130,7 +48130,7 @@ altruistic:
 altruistically:
   r:
     sense:
-    - id: 'altruistically%4:02:00::'
+    - id: 'altruistically%4:46:00::'
       pertainym:
       - 'altruistic%3:00:00::'
       synset: 00272405-r
@@ -48484,15 +48484,15 @@ always:
     - value: ˈɔl.weɪz
       variety: US
     sense:
-    - id: 'always%4:02:00::'
+    - id: 'always%4:48:00::'
       synset: 00019801-r
-    - id: 'always%4:02:04::'
+    - id: 'always%4:48:04::'
       synset: 00020931-r
-    - id: 'always%4:02:03::'
+    - id: 'always%4:48:03::'
       synset: 00020735-r
-    - id: 'always%4:02:02::'
+    - id: 'always%4:48:02::'
       synset: 00020219-r
-    - id: 'always%4:02:01::'
+    - id: 'always%4:48:01::'
       synset: 00020071-r
 alyssum:
   n:
@@ -48506,7 +48506,7 @@ am:
       synset: 84502472-n
   r:
     sense:
-    - id: 'am%4:02:04::'
+    - id: 'am%4:49:04::'
       synset: 00252773-r
 amabilis fir:
   n:
@@ -48530,9 +48530,9 @@ amah:
 amain:
   r:
     sense:
-    - id: 'amain%4:02:01::'
+    - id: 'amain%4:45:01::'
       synset: 00274564-r
-    - id: 'amain%4:02:00::'
+    - id: 'amain%4:45:00::'
       synset: 00274479-r
 amalgam:
   n:
@@ -48728,8 +48728,8 @@ amateurishly:
   r:
     sense:
     - antonym:
-      - 'expertly%4:02:00::'
-      id: 'amateurishly%4:02:00::'
+      - 'expertly%4:45:00::'
+      id: 'amateurishly%4:45:00::'
       synset: 00215731-r
 amateurishness:
   n:
@@ -48845,7 +48845,7 @@ amazing:
 amazingly:
   r:
     sense:
-    - id: 'amazingly%4:02:00::'
+    - id: 'amazingly%4:45:00::'
       pertainym:
       - amazing%5:00:00:surprising:00
       synset: 00214599-r
@@ -49091,8 +49091,8 @@ ambiguously:
   r:
     sense:
     - antonym:
-      - 'unambiguously%4:02:01::'
-      id: 'ambiguously%4:02:00::'
+      - 'unambiguously%4:45:01::'
+      id: 'ambiguously%4:45:00::'
       pertainym:
       - 'ambiguous%3:00:00::'
       synset: 00221803-r
@@ -49162,8 +49162,8 @@ ambitiously:
   r:
     sense:
     - antonym:
-      - 'unambitiously%4:02:00::'
-      id: 'ambitiously%4:02:00::'
+      - 'unambitiously%4:45:00::'
+      id: 'ambitiously%4:45:00::'
       pertainym:
       - 'ambitious%3:00:00::'
       synset: 00263637-r
@@ -50044,7 +50044,7 @@ amiableness:
 amiably:
   r:
     sense:
-    - id: 'amiably%4:02:00::'
+    - id: 'amiably%4:45:00::'
       pertainym:
       - amiable%5:00:00:friendly:01
       synset: 00221532-r
@@ -50081,7 +50081,7 @@ amicableness:
 amicably:
   r:
     sense:
-    - id: 'amicably%4:02:00::'
+    - id: 'amicably%4:45:00::'
       pertainym:
       - 'amicable%3:00:00::'
       synset: 00263983-r
@@ -50117,16 +50117,16 @@ amidship:
       synset: 00331117-s
   r:
     sense:
-    - id: 'amidship%4:02:00::'
+    - id: 'amidship%4:50:00::'
       synset: 00403940-r
-    - id: 'amidship%4:02:01::'
+    - id: 'amidship%4:50:01::'
       synset: 00274669-r
 amidships:
   r:
     pronunciation:
     - value: əˈmɪd.ʃɪps
     sense:
-    - id: 'amidships%4:02:00::'
+    - id: 'amidships%4:50:00::'
       synset: 00403940-r
 amigo:
   n:
@@ -50284,11 +50284,11 @@ amiss:
     pronunciation:
     - value: əˈmɪs
     sense:
-    - id: 'amiss%4:02:00::'
+    - id: 'amiss%4:45:00::'
       synset: 00273429-r
-    - id: 'amiss%4:02:01::'
+    - id: 'amiss%4:45:01::'
       synset: 00010738-r
-    - id: 'amiss%4:02:03::'
+    - id: 'amiss%4:45:03::'
       synset: 00010509-r
 amitosis:
   n:
@@ -50860,9 +50860,9 @@ amok:
     pronunciation:
     - value: əˈmɒk
     sense:
-    - id: 'amok%4:02:01::'
+    - id: 'amok%4:45:01::'
       synset: 00274935-r
-    - id: 'amok%4:02:00::'
+    - id: 'amok%4:45:00::'
       pertainym:
       - amok%5:00:00:agitated:00
       synset: 00274737-r
@@ -50898,7 +50898,7 @@ amorally:
     - value: eɪˈmɔɹəli
       variety: US
     sense:
-    - id: 'amorally%4:02:00::'
+    - id: 'amorally%4:45:00::'
       synset: 00366419-r
 amorist:
   n:
@@ -50934,7 +50934,7 @@ amorously:
     pronunciation:
     - value: ˈæ.mə.ɹəs.li
     sense:
-    - id: 'amorously%4:02:00::'
+    - id: 'amorously%4:45:00::'
       pertainym:
       - amorous%5:00:01:loving:00
       synset: 00269381-r
@@ -51653,14 +51653,14 @@ amply:
       variety: US
     sense:
     - antonym:
-      - 'meagerly%4:02:00::'
-      id: 'amply%4:02:00::'
+      - 'meagerly%4:51:00::'
+      id: 'amply%4:51:00::'
       pertainym:
       - 'ample%3:00:00::'
       synset: 00398920-r
     - antonym:
-      - 'meagerly%4:02:00::'
-      id: 'amply%4:02:01::'
+      - 'meagerly%4:51:00::'
+      id: 'amply%4:51:01::'
       pertainym:
       - 'ample%3:00:00::'
       synset: 00180395-r
@@ -51777,9 +51777,9 @@ amuck:
       synset: 00086117-s
   r:
     sense:
-    - id: 'amuck%4:02:01::'
+    - id: 'amuck%4:45:01::'
       synset: 00274935-r
-    - id: 'amuck%4:02:00::'
+    - id: 'amuck%4:45:00::'
       pertainym:
       - amuck%5:00:00:agitated:00
       synset: 00274737-r
@@ -51863,7 +51863,7 @@ amusingly:
     pronunciation:
     - value: əˈm(j)uzɪŋli
     sense:
-    - id: 'amusingly%4:02:00::'
+    - id: 'amusingly%4:45:00::'
       pertainym:
       - amusing%5:00:00:interesting:00
       synset: 00094727-r
@@ -52157,7 +52157,7 @@ anachronistically:
     pronunciation:
     - value: əˌnækɹəˈnɪstɪkli
     sense:
-    - id: 'anachronistically%4:02:00::'
+    - id: 'anachronistically%4:52:00::'
       pertainym:
       - anachronistic%5:00:00:asynchronous:00
       synset: 00229728-r
@@ -52800,7 +52800,7 @@ analogously:
     pronunciation:
     - value: əˈnæl.ə.ɡəs.li
     sense:
-    - id: 'analogously%4:02:00::'
+    - id: 'analogously%4:45:00::'
       pertainym:
       - analogous%5:00:00:similar:00
       synset: 00071050-r
@@ -53082,7 +53082,7 @@ analytically:
     - value: æn.əˈlɪt.ɪk.əl.li
       variety: US
     sense:
-    - id: 'analytically%4:02:00::'
+    - id: 'analytically%4:52:00::'
       pertainym:
       - 'analytic%3:00:01::'
       synset: 00241992-r
@@ -53432,7 +53432,7 @@ anarchical:
 anarchically:
   r:
     sense:
-    - id: 'anarchically%4:02:00::'
+    - id: 'anarchically%4:45:00::'
       pertainym:
       - anarchic%5:00:00:uncontrolled:00
       synset: 00242324-r
@@ -53769,7 +53769,7 @@ anatomical structure:
 anatomically:
   r:
     sense:
-    - id: 'anatomically%4:02:00::'
+    - id: 'anatomically%4:52:00::'
       pertainym:
       - 'anatomical%3:01:00::'
       synset: 00064621-r
@@ -54132,7 +54132,7 @@ ancient pine:
 anciently:
   r:
     sense:
-    - id: 'anciently%4:02:00::'
+    - id: 'anciently%4:49:00::'
       pertainym:
       - ancient%5:00:00:past:00
       synset: 00005591-r
@@ -54177,27 +54177,27 @@ ancylose:
 and how:
   r:
     sense:
-    - id: 'and_how%4:02:00::'
+    - id: 'and_how%4:51:00::'
       synset: 00153403-r
 and so:
   r:
     sense:
-    - id: 'and_so%4:02:00::'
+    - id: 'and_so%4:49:00::'
       synset: 00118527-r
 and so forth:
   r:
     sense:
-    - id: 'and_so_forth%4:02:00::'
+    - id: 'and_so_forth%4:53:00::'
       synset: 00104351-r
 and so on:
   r:
     sense:
-    - id: 'and_so_on%4:02:00::'
+    - id: 'and_so_on%4:53:00::'
       synset: 00104351-r
 and then some:
   r:
     sense:
-    - id: 'and_then_some%4:02:00::'
+    - id: 'and_then_some%4:51:00::'
       synset: 00153498-r
 andante:
   a:
@@ -54216,7 +54216,7 @@ andante:
       synset: 07053894-n
   r:
     sense:
-    - id: 'andante%4:02:00::'
+    - id: 'andante%4:45:00::'
       pertainym:
       - andante%5:00:00:slow:02
       synset: 00269243-r
@@ -54897,7 +54897,7 @@ anew:
     - value: əˈnjuː
       variety: GB
     sense:
-    - id: 'anew%4:02:00::'
+    - id: 'anew%4:45:00::'
       synset: 00113764-r
 anfractuous:
   a:
@@ -55016,7 +55016,7 @@ angelically:
     pronunciation:
     - value: ænˈdʒɛlɪkli
     sense:
-    - id: 'angelically%4:02:00::'
+    - id: 'angelically%4:45:00::'
       pertainym:
       - angelic%5:00:00:good:02
       synset: 00269487-r
@@ -55629,7 +55629,7 @@ angrily:
     - value: ˈæŋ.ɡɹə.li
       variety: US
     sense:
-    - id: 'angrily%4:02:00::'
+    - id: 'angrily%4:45:00::'
       pertainym:
       - 'angry%3:00:00::'
       synset: 00228939-r
@@ -56356,7 +56356,7 @@ animatedly:
     pronunciation:
     - value: ˈænɪˌmeɪtɪdli
     sense:
-    - id: 'animatedly%4:02:00::'
+    - id: 'animatedly%4:45:00::'
       pertainym:
       - 'animated%3:00:00::'
       synset: 00264754-r
@@ -56722,7 +56722,7 @@ anisotropic:
 anisotropically:
   r:
     sense:
-    - id: 'anisotropically%4:02:00::'
+    - id: 'anisotropically%4:45:00::'
       pertainym:
       - 'anisotropic%3:00:00::'
       synset: 00003675-r
@@ -57104,7 +57104,7 @@ anniversary:
 anno Domini:
   r:
     sense:
-    - id: 'anno_domini%4:02:00::'
+    - id: 'anno_domini%4:49:00::'
       synset: 00001885-r
 annon:
   n:
@@ -57329,7 +57329,7 @@ annoyingly:
     pronunciation:
     - value: ʌˈnɔɪjɪŋli
     sense:
-    - id: 'annoyingly%4:02:00::'
+    - id: 'annoyingly%4:45:00::'
       pertainym:
       - annoying%5:00:00:disagreeable:00
       synset: 00003761-r
@@ -57391,11 +57391,11 @@ annually:
     - value: ˈæn.jʊə.li
       variety: GB
     sense:
-    - id: 'annually%4:02:00::'
+    - id: 'annually%4:48:00::'
       pertainym:
       - annual%5:00:00:periodic:00
       synset: 00082087-r
-    - id: 'annually%4:02:01::'
+    - id: 'annually%4:48:01::'
       synset: 00252039-r
 annualry:
   n:
@@ -57752,7 +57752,7 @@ anomalously:
     - value: əˈnɑmələsli
       variety: US
     sense:
-    - id: 'anomalously%4:02:00::'
+    - id: 'anomalously%4:45:00::'
       pertainym:
       - anomalous%5:00:00:abnormal:00
       synset: 00272583-r
@@ -57827,9 +57827,9 @@ anomy:
 anon:
   r:
     sense:
-    - id: 'anon%4:02:01::'
+    - id: 'anon%4:48:01::'
       synset: 00035707-r
-    - id: 'anon%4:02:00::'
+    - id: 'anon%4:49:00::'
       synset: 00034196-r
 anon.:
   a:
@@ -57881,7 +57881,7 @@ anonymously:
     pronunciation:
     - value: əˈnɒnəməsli
     sense:
-    - id: 'anonymously%4:02:00::'
+    - id: 'anonymously%4:45:00::'
       pertainym:
       - 'anonymous%3:00:00::'
       synset: 00264086-r
@@ -58508,7 +58508,7 @@ antagonistic muscle:
 antagonistically:
   r:
     sense:
-    - id: 'antagonistically%4:02:00::'
+    - id: 'antagonistically%4:45:00::'
       pertainym:
       - antagonistic%5:00:00:hostile:01
       synset: 00266869-r
@@ -58569,7 +58569,7 @@ ante:
 ante meridiem:
   r:
     sense:
-    - id: 'ante_meridiem%4:02:00::'
+    - id: 'ante_meridiem%4:49:00::'
       synset: 00252773-r
 ante up:
   v:
@@ -58677,7 +58677,7 @@ antecedent:
 antecedently:
   r:
     sense:
-    - id: 'antecedently%4:02:00::'
+    - id: 'antecedently%4:49:00::'
       pertainym:
       - 'antecedent%3:00:00::'
       synset: 00061170-r
@@ -59006,7 +59006,7 @@ anteriority:
 anteriorly:
   r:
     sense:
-    - id: 'anteriorly%4:02:00::'
+    - id: 'anteriorly%4:50:00::'
       pertainym:
       - 'anterior%3:00:00::'
       synset: 00267010-r
@@ -60145,7 +60145,7 @@ anticlockwise:
     - value: ˌæn.tɪˈklɑkˌwaɪz
       variety: US
     sense:
-    - id: 'anticlockwise%4:02:00::'
+    - id: 'anticlockwise%4:50:00::'
       synset: 00255539-r
 anticoagulant:
   n:
@@ -61347,7 +61347,7 @@ antithetical:
 antithetically:
   r:
     sense:
-    - id: 'antithetically%4:02:00::'
+    - id: 'antithetically%4:54:00::'
       pertainym:
       - antithetic%5:00:00:different:00
       synset: 00275080-r
@@ -61766,7 +61766,7 @@ anxiously:
     - value: ˈæŋ(k).ʃəs.li
       variety: US
     sense:
-    - id: 'anxiously%4:02:00::'
+    - id: 'anxiously%4:45:00::'
       pertainym:
       - anxious%5:00:00:troubled:00
       synset: 00187482-r
@@ -61794,12 +61794,12 @@ any:
     - value: ˈɛni
       variety: US
     sense:
-    - id: 'any%4:02:00::'
+    - id: 'any%4:51:00::'
       synset: 00024868-r
 any longer:
   r:
     sense:
-    - id: 'any_longer%4:02:01::'
+    - id: 'any_longer%4:49:01::'
       synset: 00032002-r
 any-and-all bid:
   n:
@@ -61812,9 +61812,9 @@ anyhow:
     - value: ˈɛn.i.haʊ
       variety: US
     sense:
-    - id: 'anyhow%4:02:00::'
+    - id: 'anyhow%4:54:00::'
       synset: 00026948-r
-    - id: 'anyhow%4:02:01::'
+    - id: 'anyhow%4:45:01::'
       synset: 00027635-r
 anymore:
   r:
@@ -61826,21 +61826,21 @@ anymore:
     - value: ˌæ.niˈmoːɹ
       variety: IE
     sense:
-    - id: 'anymore%4:02:01::'
+    - id: 'anymore%4:49:01::'
       synset: 00032002-r
 anyplace:
   r:
     sense:
-    - id: 'anyplace%4:02:00::'
+    - id: 'anyplace%4:50:00::'
       synset: 00025699-r
 anyway:
   r:
     pronunciation:
     - value: ˈɛniweɪ
     sense:
-    - id: 'anyway%4:02:00::'
+    - id: 'anyway%4:54:00::'
       synset: 00026948-r
-    - id: 'anyway%4:02:01::'
+    - id: 'anyway%4:45:01::'
       synset: 00027635-r
 anyways:
   r:
@@ -61848,7 +61848,7 @@ anyways:
     - value: ˈɛn.iˌweɪz
       variety: US
     sense:
-    - id: 'anyways%4:02:00::'
+    - id: 'anyways%4:54:00::'
       synset: 00026948-r
 anywhere:
   r:
@@ -61858,7 +61858,7 @@ anywhere:
     - value: ˈɛn.i.(h)wɛɹ
       variety: US
     sense:
-    - id: 'anywhere%4:02:00::'
+    - id: 'anywhere%4:50:00::'
       synset: 00025699-r
 ao dai:
   n:
@@ -61969,9 +61969,9 @@ apace:
     pronunciation:
     - value: əˈpeɪs
     sense:
-    - id: 'apace%4:02:01::'
+    - id: 'apace%4:45:01::'
       synset: 00086390-r
-    - id: 'apace%4:02:00::'
+    - id: 'apace%4:45:00::'
       synset: 00086161-r
 apache:
   n:
@@ -62030,17 +62030,17 @@ apart:
     - value: əˈpɑɹt
       variety: US
     sense:
-    - id: 'apart%4:02:03::'
+    - id: 'apart%4:50:03::'
       synset: 00182561-r
-    - id: 'apart%4:02:01::'
+    - id: 'apart%4:54:01::'
       synset: 00182242-r
-    - id: 'apart%4:02:07::'
+    - id: 'apart%4:50:07::'
       synset: 00236119-r
-    - id: 'apart%4:02:06::'
+    - id: 'apart%4:50:06::'
       synset: 00235931-r
-    - id: 'apart%4:02:04::'
+    - id: 'apart%4:50:04::'
       synset: 00182739-r
-    - id: 'apart%4:02:02::'
+    - id: 'apart%4:45:02::'
       synset: 00182430-r
 apartheid:
   n:
@@ -62093,7 +62093,7 @@ apathetic:
 apathetically:
   r:
     sense:
-    - id: 'apathetically%4:02:00::'
+    - id: 'apathetically%4:45:00::'
       pertainym:
       - apathetic%5:00:00:uninterested:00
       synset: 00267091-r
@@ -62665,7 +62665,7 @@ apiece:
     - value: əˈpis
       variety: US
     sense:
-    - id: 'apiece%4:02:00::'
+    - id: 'apiece%4:53:00::'
       synset: 00241635-r
 apish:
   a:
@@ -63007,7 +63007,7 @@ apologetic:
 apologetically:
   r:
     sense:
-    - id: 'apologetically%4:02:00::'
+    - id: 'apologetically%4:45:00::'
       pertainym:
       - 'apologetic%3:00:00::'
       synset: 00175592-r
@@ -63694,7 +63694,7 @@ appallingly:
     - value: ʌˈpɑlɪŋli
       variety: US
     sense:
-    - id: 'appallingly%4:02:00::'
+    - id: 'appallingly%4:51:00::'
       pertainym:
       - appalling%5:00:00:alarming:00
       synset: 00263006-r
@@ -63821,11 +63821,11 @@ apparently:
     - value: əˈpæɹ.ɨnt.li
       variety: US
     sense:
-    - id: 'apparently%4:02:00::'
+    - id: 'apparently%4:51:00::'
       pertainym:
       - apparent%5:00:00:superficial:00
       synset: 00040353-r
-    - id: 'apparently%4:02:01::'
+    - id: 'apparently%4:51:01::'
       pertainym:
       - apparent%5:00:00:obvious:00
       synset: 00039730-r
@@ -63967,8 +63967,8 @@ appealingly:
       variety: GB
     sense:
     - antonym:
-      - 'unappealingly%4:02:00::'
-      id: 'appealingly%4:02:00::'
+      - 'unappealingly%4:51:00::'
+      id: 'appealingly%4:45:00::'
       pertainym:
       - 'appealing%3:00:00::'
       synset: 00263125-r
@@ -65306,7 +65306,7 @@ appositive:
 appositively:
   r:
     sense:
-    - id: 'appositively%4:02:00::'
+    - id: 'appositively%4:45:00::'
       pertainym:
       - 'appositive%3:01:00::'
       synset: 00122297-r
@@ -65375,7 +65375,7 @@ appreciable:
 appreciably:
   r:
     sense:
-    - id: 'appreciably%4:02:01::'
+    - id: 'appreciably%4:51:01::'
       pertainym:
       - appreciable%5:00:00:considerable:00
       synset: 00007009-r
@@ -65460,8 +65460,8 @@ appreciatively:
     - value: ʌˈpɹiʃəˌtɪvli
     sense:
     - antonym:
-      - 'unappreciatively%4:02:00::'
-      id: 'appreciatively%4:02:00::'
+      - 'unappreciatively%4:46:00::'
+      id: 'appreciatively%4:45:00::'
       pertainym:
       - appreciative%5:00:00:grateful:00
       synset: 00272695-r
@@ -65595,7 +65595,7 @@ apprehensive:
 apprehensively:
   r:
     sense:
-    - id: 'apprehensively%4:02:00::'
+    - id: 'apprehensively%4:45:00::'
       pertainym:
       - apprehensive%5:00:00:afraid:00
       synset: 00187482-r
@@ -66018,8 +66018,8 @@ appropriately:
   r:
     sense:
     - antonym:
-      - 'inappropriately%4:02:00::'
-      id: 'appropriately%4:02:00::'
+      - 'inappropriately%4:45:00::'
+      id: 'appropriately%4:45:00::'
       pertainym:
       - 'appropriate%3:00:00::'
       synset: 00140318-r
@@ -66171,8 +66171,8 @@ approvingly:
   r:
     sense:
     - antonym:
-      - 'disapprovingly%4:02:00::'
-      id: 'approvingly%4:02:00::'
+      - 'disapprovingly%4:45:00::'
+      id: 'approvingly%4:45:00::'
       pertainym:
       - approving%5:00:00:favorable:02
       synset: 00263397-r
@@ -66224,7 +66224,7 @@ approximately:
     - value: əˈpɹɒk.sɪ.mət.li
       variety: GB
     sense:
-    - id: 'approximately%4:02:00::'
+    - id: 'approximately%4:49:00::'
       synset: 00007414-r
 approximation:
   n:
@@ -66370,9 +66370,9 @@ apropos:
     - value: ˌæp.ɹəˈpoʊ
       variety: US
     sense:
-    - id: 'apropos%4:02:00::'
+    - id: 'apropos%4:49:00::'
       synset: 00275183-r
-    - id: 'apropos%4:02:01::'
+    - id: 'apropos%4:54:01::'
       synset: 00157363-r
 apse:
   n:
@@ -66464,7 +66464,7 @@ aptly:
     pronunciation:
     - value: ˈæp(t).li
     sense:
-    - id: 'aptly%4:02:00::'
+    - id: 'aptly%4:45:00::'
       pertainym:
       - apt%5:00:00:intelligent:00
       synset: 00186658-r
@@ -67060,7 +67060,7 @@ arbitrament:
 arbitrarily:
   r:
     sense:
-    - id: 'arbitrarily%4:02:00::'
+    - id: 'arbitrarily%4:45:00::'
       synset: 00071165-r
 arbitrariness:
   n:
@@ -68225,7 +68225,7 @@ architectural style:
 architecturally:
   r:
     sense:
-    - id: 'architecturally%4:02:00::'
+    - id: 'architecturally%4:52:00::'
       pertainym:
       - 'architectural%3:01:00::'
       synset: 00269596-r
@@ -68316,7 +68316,7 @@ archivist:
 archly:
   r:
     sense:
-    - id: 'archly%4:02:00::'
+    - id: 'archly%4:45:00::'
       pertainym:
       - arch%5:00:00:playful:00
       synset: 00275591-r
@@ -68541,7 +68541,7 @@ ardent spirits:
 ardently:
   r:
     sense:
-    - id: 'ardently%4:02:00::'
+    - id: 'ardently%4:45:00::'
       pertainym:
       - ardent%5:00:00:passionate:00
       synset: 00267213-r
@@ -68609,7 +68609,7 @@ arduous:
 arduously:
   r:
     sense:
-    - id: 'arduously%4:02:00::'
+    - id: 'arduously%4:45:00::'
       pertainym:
       - arduous%5:00:00:effortful:00
       synset: 00275698-r
@@ -68990,7 +68990,7 @@ arguable:
 arguably:
   r:
     sense:
-    - id: 'arguably%4:02:00::'
+    - id: 'arguably%4:51:00::'
       pertainym:
       - arguable%5:00:00:controversial:00
       synset: 00005724-r
@@ -69130,7 +69130,7 @@ argumentative:
 argumentatively:
   r:
     sense:
-    - id: 'argumentatively%4:02:00::'
+    - id: 'argumentatively%4:45:00::'
       pertainym:
       - 'argumentative%3:00:00::'
       synset: 00320223-r
@@ -69242,7 +69242,7 @@ arietta:
 aright:
   r:
     sense:
-    - id: 'aright%4:02:00::'
+    - id: 'aright%4:45:00::'
       synset: 00205350-r
 aril:
   n:
@@ -69381,7 +69381,7 @@ aristocratical:
 aristocratically:
   r:
     sense:
-    - id: 'aristocratically%4:02:00::'
+    - id: 'aristocratically%4:45:00::'
       pertainym:
       - aristocratic%5:00:01:noble:02
       synset: 00204383-r
@@ -69443,7 +69443,7 @@ arithmetical:
 arithmetically:
   r:
     sense:
-    - id: 'arithmetically%4:02:00::'
+    - id: 'arithmetically%4:52:00::'
       pertainym:
       - 'arithmetic%3:01:00::'
       synset: 00273056-r
@@ -70344,25 +70344,25 @@ around:
     pronunciation:
     - value: əˈɹaʊnd
     sense:
-    - id: 'around%4:02:01::'
+    - id: 'around%4:50:01::'
       synset: 00071565-r
-    - id: 'around%4:02:05::'
+    - id: 'around%4:50:05::'
       synset: 00072001-r
-    - id: 'around%4:02:04::'
+    - id: 'around%4:50:04::'
       synset: 00072729-r
-    - id: 'around%4:02:06::'
+    - id: 'around%4:45:06::'
       synset: 00072141-r
-    - id: 'around%4:02:03::'
+    - id: 'around%4:49:03::'
       synset: 00007414-r
-    - id: 'around%4:02:09::'
+    - id: 'around%4:50:09::'
       synset: 00072601-r
-    - id: 'around%4:02:08::'
+    - id: 'around%4:50:08::'
       synset: 00072443-r
-    - id: 'around%4:02:07::'
+    - id: 'around%4:50:07::'
       synset: 00072240-r
-    - id: 'around%4:02:00::'
+    - id: 'around%4:50:00::'
       synset: 00071450-r
-    - id: 'around%4:02:02::'
+    - id: 'around%4:49:02::'
       synset: 00071856-r
 around the bend:
   a:
@@ -70372,7 +70372,7 @@ around the bend:
 around the clock:
   r:
     sense:
-    - id: 'around_the_clock%4:02:00::'
+    - id: 'around_the_clock%4:49:00::'
       synset: 00153617-r
 around-the-clock:
   a:
@@ -70929,7 +70929,7 @@ arrogant:
 arrogantly:
   r:
     sense:
-    - id: 'arrogantly%4:02:00::'
+    - id: 'arrogantly%4:46:00::'
       pertainym:
       - arrogant%5:00:00:proud:00
       synset: 00267447-r
@@ -72033,15 +72033,15 @@ artful:
 artfully:
   r:
     sense:
-    - id: 'artfully%4:02:00::'
+    - id: 'artfully%4:45:00::'
       pertainym:
       - 'artful%3:00:00::'
       synset: 00247412-r
-    - id: 'artfully%4:02:01::'
+    - id: 'artfully%4:46:01::'
       pertainym:
       - 'artful%3:00:02::'
       synset: 00316988-r
-    - id: 'artfully%4:02:02::'
+    - id: 'artfully%4:46:02::'
       pertainym:
       - 'artful%3:00:00::'
       synset: 00295240-r
@@ -72435,14 +72435,14 @@ articulately:
   r:
     sense:
     - antonym:
-      - 'inarticulately%4:02:03::'
-      id: 'articulately%4:02:03::'
+      - 'inarticulately%4:45:03::'
+      id: 'articulately%4:45:03::'
       pertainym:
       - 'articulate%3:00:00::'
       synset: 00329241-r
     - antonym:
-      - 'inarticulately%4:02:00::'
-      id: 'articulately%4:02:00::'
+      - 'inarticulately%4:45:00::'
+      id: 'articulately%4:45:00::'
       pertainym:
       - 'articulate%3:00:00::'
       synset: 00269743-r
@@ -72740,8 +72740,8 @@ artificially:
   r:
     sense:
     - antonym:
-      - 'naturally%4:02:01::'
-      id: 'artificially%4:02:00::'
+      - 'naturally%4:45:01::'
+      id: 'artificially%4:45:00::'
       pertainym:
       - 'artificial%3:00:00::'
       synset: 00141600-r
@@ -72919,7 +72919,7 @@ artistic style:
 artistically:
   r:
     sense:
-    - id: 'artistically%4:02:00::'
+    - id: 'artistically%4:45:00::'
       pertainym:
       - artistic%5:00:00:aesthetic:00
       synset: 00249854-r
@@ -72955,11 +72955,11 @@ artless:
 artlessly:
   r:
     sense:
-    - id: 'artlessly%4:02:01::'
+    - id: 'artlessly%4:45:01::'
       pertainym:
       - artless%5:00:00:unskilled:00
       synset: 00275957-r
-    - id: 'artlessly%4:02:00::'
+    - id: 'artlessly%4:45:00::'
       pertainym:
       - 'artless%3:00:02::'
       synset: 00275799-r
@@ -73092,89 +73092,89 @@ as:
     pronunciation:
     - value: ˈæs
     sense:
-    - id: 'as%4:02:00::'
+    - id: 'as%4:51:00::'
       synset: 00022585-r
 as a group:
   r:
     sense:
-    - id: 'as_a_group%4:02:00::'
+    - id: 'as_a_group%4:45:00::'
       synset: 00158427-r
 as a matter of fact:
   r:
     sense:
-    - id: 'as_a_matter_of_fact%4:02:00::'
+    - id: 'as_a_matter_of_fact%4:53:00::'
       synset: 00149927-r
 as far as possible:
   r:
     sense:
-    - id: 'as_far_as_possible%4:02:01::'
+    - id: 'as_far_as_possible%4:51:01::'
       synset: 00120125-r
 as follows:
   r:
     sense:
-    - id: 'as_follows%4:02:00::'
+    - id: 'as_follows%4:45:00::'
       synset: 00153742-r
 as if by magic:
   r:
     sense:
-    - id: 'as_if_by_magic%4:02:00::'
+    - id: 'as_if_by_magic%4:45:00::'
       synset: 00130565-r
 as it is:
   r:
     sense:
-    - id: 'as_it_is%4:02:00::'
+    - id: 'as_it_is%4:54:00::'
       synset: 00027470-r
 as it were:
   r:
     sense:
-    - id: 'as_it_were%4:02:00::'
+    - id: 'as_it_were%4:45:00::'
       synset: 00153834-r
 as luck would have it:
   r:
     sense:
-    - id: 'as_luck_would_have_it%4:02:00::'
+    - id: 'as_luck_would_have_it%4:45:00::'
       synset: 00042664-r
 as much as possible:
   r:
     sense:
-    - id: 'as_much_as_possible%4:02:00::'
+    - id: 'as_much_as_possible%4:51:00::'
       synset: 00120125-r
 as needed:
   r:
     sense:
-    - id: 'as_needed%4:02:00::'
+    - id: 'as_needed%4:49:00::'
       synset: 00182904-r
 as required:
   r:
     sense:
-    - id: 'as_required%4:02:00::'
+    - id: 'as_required%4:49:00::'
       synset: 00182904-r
 as the crow flies:
   r:
     sense:
-    - id: 'as_the_crow_flies%4:02:00::'
+    - id: 'as_the_crow_flies%4:50:00::'
       synset: 00154056-r
 as usual:
   r:
     sense:
-    - id: 'as_usual%4:02:00::'
+    - id: 'as_usual%4:46:00::'
       synset: 00107831-r
 as we say:
   r:
     sense:
-    - id: 'as_we_say%4:02:00::'
+    - id: 'as_we_say%4:45:00::'
       synset: 00153940-r
 as well:
   r:
     pronunciation:
     - value: æzwɛl
     sense:
-    - id: 'as_well%4:02:01::'
+    - id: 'as_well%4:53:01::'
       synset: 00048072-r
 as yet:
   r:
     sense:
-    - id: 'as_yet%4:02:00::'
+    - id: 'as_yet%4:49:00::'
       synset: 00028314-r
 asa dulcis:
   n:
@@ -73609,7 +73609,7 @@ ascetical:
 ascetically:
   r:
     sense:
-    - id: 'ascetically%4:02:00::'
+    - id: 'ascetically%4:45:00::'
       pertainym:
       - ascetic%5:00:00:abstemious:00
       synset: 00267688-r
@@ -73796,7 +73796,7 @@ asea:
     pronunciation:
     - value: əˈsiː
     sense:
-    - id: 'asea%4:02:00::'
+    - id: 'asea%4:50:00::'
       synset: 00449471-r
 asepsis:
   n:
@@ -73846,7 +73846,7 @@ asexuality:
 asexually:
   r:
     sense:
-    - id: 'asexually%4:02:00::'
+    - id: 'asexually%4:45:00::'
       pertainym:
       - 'asexual%3:00:00::'
       synset: 00073946-r
@@ -73949,8 +73949,8 @@ ashamedly:
   r:
     sense:
     - antonym:
-      - 'unashamedly%4:02:00::'
-      id: 'ashamedly%4:02:00::'
+      - 'unashamedly%4:45:00::'
+      id: 'ashamedly%4:45:00::'
       pertainym:
       - 'ashamed%3:00:00::'
       synset: 00267823-r
@@ -73999,7 +73999,7 @@ ashore:
     - value: əˈʃɔː
       variety: GB
     sense:
-    - id: 'ashore%4:02:00::'
+    - id: 'ashore%4:50:00::'
       synset: 00139983-r
 ashram:
   n:
@@ -74040,17 +74040,17 @@ aside:
     pronunciation:
     - value: əˈsaɪd
     sense:
-    - id: 'aside%4:02:00::'
+    - id: 'aside%4:50:00::'
       synset: 00235622-r
-    - id: 'aside%4:02:01::'
+    - id: 'aside%4:50:01::'
       synset: 00235782-r
-    - id: 'aside%4:02:04::'
+    - id: 'aside%4:54:04::'
       synset: 00182242-r
-    - id: 'aside%4:02:06::'
+    - id: 'aside%4:50:06::'
       synset: 00236681-r
-    - id: 'aside%4:02:05::'
+    - id: 'aside%4:50:05::'
       synset: 00235931-r
-    - id: 'aside%4:02:03::'
+    - id: 'aside%4:50:03::'
       synset: 00235417-r
 asigmatic aorist:
   n:
@@ -74211,9 +74211,9 @@ askance:
     - value: əˈskæns
       variety: US
     sense:
-    - id: 'askance%4:02:02::'
+    - id: 'askance%4:45:02::'
       synset: 00273330-r
-    - id: 'askance%4:02:00::'
+    - id: 'askance%4:45:00::'
       synset: 00273182-r
 askant:
   a:
@@ -74241,7 +74241,7 @@ askew:
     - value: əˈskjuː
       variety: GB
     sense:
-    - id: 'askew%4:02:01::'
+    - id: 'askew%4:45:01::'
       synset: 00273600-r
 asking:
   n:
@@ -74265,9 +74265,9 @@ aslant:
       synset: 01237620-s
   r:
     sense:
-    - id: 'aslant%4:02:01::'
+    - id: 'aslant%4:45:01::'
       synset: 00276392-r
-    - id: 'aslant%4:02:00::'
+    - id: 'aslant%4:45:00::'
       synset: 00276140-r
 asleep:
   a:
@@ -74287,11 +74287,11 @@ asleep:
       synset: 00096726-s
   r:
     sense:
-    - id: 'asleep%4:02:00::'
+    - id: 'asleep%4:50:00::'
       pertainym:
       - 'asleep%3:00:00::'
       synset: 00276465-r
-    - id: 'asleep%4:02:01::'
+    - id: 'asleep%4:45:01::'
       pertainym:
       - asleep%5:00:00:dead:01
       synset: 00276557-r
@@ -75404,8 +75404,8 @@ assertively:
   r:
     sense:
     - antonym:
-      - 'unassertively%4:02:00::'
-      id: 'assertively%4:02:00::'
+      - 'unassertively%4:45:00::'
+      id: 'assertively%4:45:00::'
       pertainym:
       - 'assertive%3:00:00::'
       synset: 00267920-r
@@ -75634,7 +75634,7 @@ assiduous:
 assiduously:
   r:
     sense:
-    - id: 'assiduously%4:02:00::'
+    - id: 'assiduously%4:45:00::'
       pertainym:
       - assiduous%5:00:00:diligent:00
       synset: 00273736-r
@@ -76636,7 +76636,7 @@ assuredly:
     - value: əˈʃʊəɹɪdli
       variety: GB
     sense:
-    - id: 'assuredly%4:02:00::'
+    - id: 'assuredly%4:51:00::'
       pertainym:
       - assured%5:00:00:confident:00
       synset: 00268242-r
@@ -76785,11 +76785,11 @@ astern:
     - value: əˈstɜːn
       variety: GB
     sense:
-    - id: 'astern%4:02:02::'
+    - id: 'astern%4:50:02::'
       synset: 00277302-r
-    - id: 'astern%4:02:01::'
+    - id: 'astern%4:50:01::'
       synset: 00276839-r
-    - id: 'astern%4:02:00::'
+    - id: 'astern%4:50:00::'
       synset: 00276631-r
 asternal:
   a:
@@ -77029,7 +77029,7 @@ astonishing:
 astonishingly:
   r:
     sense:
-    - id: 'astonishingly%4:02:00::'
+    - id: 'astonishingly%4:45:00::'
       pertainym:
       - astonishing%5:00:00:surprising:00
       synset: 00214599-r
@@ -77075,7 +77075,7 @@ astraddle:
     pronunciation:
     - value: əˈstɹædəl
     sense:
-    - id: 'astraddle%4:02:00::'
+    - id: 'astraddle%4:50:00::'
       synset: 00277404-r
 astragal:
   n:
@@ -77138,18 +77138,18 @@ astray:
     - value: əˈstɹeɪ
       variety: US
     sense:
-    - id: 'astray%4:02:00::'
+    - id: 'astray%4:50:00::'
       synset: 00207713-r
-    - id: 'astray%4:02:04::'
+    - id: 'astray%4:50:04::'
       synset: 00498056-r
 astride:
   r:
     pronunciation:
     - value: əˈstɹaɪd
     sense:
-    - id: 'astride%4:02:00::'
+    - id: 'astride%4:50:00::'
       synset: 00277404-r
-    - id: 'astride%4:02:01::'
+    - id: 'astride%4:50:01::'
       synset: 00277506-r
 astringe:
   v:
@@ -77441,7 +77441,7 @@ astronomical year:
 astronomically:
   r:
     sense:
-    - id: 'astronomically%4:02:00::'
+    - id: 'astronomically%4:51:00::'
       pertainym:
       - astronomic%5:00:00:large:00
       synset: 00122434-r
@@ -77504,7 +77504,7 @@ astute:
 astutely:
   r:
     sense:
-    - id: 'astutely%4:02:00::'
+    - id: 'astutely%4:45:00::'
       pertainym:
       - astute%5:00:00:smart:00
       synset: 00274018-r
@@ -77533,7 +77533,7 @@ asunder:
     - value: əˈsʌndɚ
       variety: US
     sense:
-    - id: 'asunder%4:02:00::'
+    - id: 'asunder%4:45:00::'
       synset: 00182430-r
 asylum:
   n:
@@ -77566,8 +77566,8 @@ asymmetrically:
   r:
     sense:
     - antonym:
-      - 'symmetrically%4:02:00::'
-      id: 'asymmetrically%4:02:00::'
+      - 'symmetrically%4:45:00::'
+      id: 'asymmetrically%4:45:00::'
       synset: 00177264-r
 asymmetry:
   n:
@@ -77611,7 +77611,7 @@ asymptotic:
 asymptotically:
   r:
     sense:
-    - id: 'asymptotically%4:02:00::'
+    - id: 'asymptotically%4:45:00::'
       pertainym:
       - 'asymptotic%3:01:00::'
       synset: 00074057-r
@@ -77727,59 +77727,59 @@ at a loss:
       synset: 01770438-s
   r:
     sense:
-    - id: 'at_a_loss%4:02:00::'
+    - id: 'at_a_loss%4:45:00::'
       synset: 00264204-r
 at a low price:
   r:
     sense:
-    - id: 'at_a_low_price%4:02:00::'
+    - id: 'at_a_low_price%4:45:00::'
       synset: 00159774-r
 at a lower place:
   r:
     sense:
-    - id: 'at_a_lower_place%4:02:00::'
+    - id: 'at_a_lower_place%4:50:00::'
       synset: 00080389-r
 at a time:
   r:
     sense:
-    - id: 'at_a_time%4:02:00::'
+    - id: 'at_a_time%4:45:00::'
       synset: 00154319-r
 at all:
   r:
     sense:
-    - id: 'at_all%4:02:00::'
+    - id: 'at_all%4:51:00::'
       synset: 00057267-r
 at all costs:
   r:
     sense:
-    - id: 'at_all_costs%4:02:00::'
+    - id: 'at_all_costs%4:51:00::'
       synset: 00154174-r
 at an equal rate:
   r:
     sense:
-    - id: 'at_an_equal_rate%4:02:00::'
+    - id: 'at_an_equal_rate%4:45:00::'
       synset: 00258553-r
 at any cost:
   r:
     sense:
-    - id: 'at_any_cost%4:02:00::'
+    - id: 'at_any_cost%4:51:00::'
       synset: 00154174-r
 at any expense:
   r:
     sense:
-    - id: 'at_any_expense%4:02:00::'
+    - id: 'at_any_expense%4:51:00::'
       synset: 00154174-r
 at any rate:
   r:
     sense:
-    - id: 'at_any_rate%4:02:00::'
+    - id: 'at_any_rate%4:54:00::'
       synset: 00026948-r
-    - id: 'at_any_rate%4:02:01::'
+    - id: 'at_any_rate%4:53:01::'
       synset: 00105348-r
 at arm's length:
   r:
     sense:
-    - id: 'at_arm''s_length%4:02:00::'
+    - id: 'at_arm''s_length%4:50:00::'
       synset: 00251028-r
 at bay:
   a:
@@ -77791,18 +77791,18 @@ at best:
   r:
     sense:
     - antonym:
-      - 'at_worst%4:02:00::'
-      id: 'at_best%4:02:00::'
+      - 'at_worst%4:51:00::'
+      id: 'at_best%4:51:00::'
       synset: 00106462-r
 at bottom:
   r:
     sense:
-    - id: 'at_bottom%4:02:00::'
+    - id: 'at_bottom%4:52:00::'
       synset: 00104786-r
 at close range:
   r:
     sense:
-    - id: 'at_close_range%4:02:00::'
+    - id: 'at_close_range%4:50:00::'
       synset: 00411953-r
 at fault:
   a:
@@ -77812,31 +77812,31 @@ at fault:
 at first:
   r:
     sense:
-    - id: 'at_first%4:02:01::'
+    - id: 'at_first%4:49:01::'
       synset: 00103744-r
 at first blush:
   r:
     sense:
-    - id: 'at_first_blush%4:02:00::'
+    - id: 'at_first_blush%4:49:00::'
       synset: 00104134-r
 at first glance:
   r:
     sense:
-    - id: 'at_first_glance%4:02:00::'
+    - id: 'at_first_glance%4:49:00::'
       synset: 00103874-r
-    - id: 'at_first_glance%4:02:01::'
+    - id: 'at_first_glance%4:49:01::'
       synset: 00104016-r
 at first hand:
   r:
     sense:
-    - id: 'at_first_hand%4:02:00::'
+    - id: 'at_first_hand%4:45:00::'
       synset: 00342127-r
 at first sight:
   r:
     sense:
-    - id: 'at_first_sight%4:02:00::'
+    - id: 'at_first_sight%4:49:00::'
       synset: 00103874-r
-    - id: 'at_first_sight%4:02:01::'
+    - id: 'at_first_sight%4:49:01::'
       synset: 00104016-r
 at hand:
   a:
@@ -77850,7 +77850,7 @@ at hand:
 at heart:
   r:
     sense:
-    - id: 'at_heart%4:02:00::'
+    - id: 'at_heart%4:52:00::'
       synset: 00104786-r
 at home:
   n:
@@ -77859,9 +77859,9 @@ at home:
       synset: 08271461-n
   r:
     sense:
-    - id: 'at_home%4:02:01::'
+    - id: 'at_home%4:50:01::'
       synset: 00098817-r
-    - id: 'at_home%4:02:00::'
+    - id: 'at_home%4:50:00::'
       synset: 00098716-r
 at large:
   a:
@@ -77871,31 +77871,31 @@ at large:
       synset: 01065803-s
   r:
     sense:
-    - id: 'at_large%4:02:00::'
+    - id: 'at_large%4:45:00::'
       synset: 00104920-r
 at last:
   r:
     sense:
-    - id: 'at_last%4:02:00::'
+    - id: 'at_last%4:49:00::'
       synset: 00048441-r
 at least:
   r:
     sense:
-    - id: 'at_least%4:02:01::'
+    - id: 'at_least%4:53:01::'
       synset: 00105348-r
     - antonym:
-      - 'at_most%4:02:00::'
-      id: 'at_least%4:02:00::'
+      - 'at_most%4:51:00::'
+      id: 'at_least%4:51:00::'
       synset: 00105032-r
 at leisure:
   r:
     sense:
-    - id: 'at_leisure%4:02:00::'
+    - id: 'at_leisure%4:45:00::'
       synset: 00105677-r
 at length:
   r:
     sense:
-    - id: 'at_length%4:02:00::'
+    - id: 'at_length%4:49:00::'
       synset: 00065975-r
 at loggerheads:
   a:
@@ -77905,14 +77905,14 @@ at loggerheads:
 at long last:
   r:
     sense:
-    - id: 'at_long_last%4:02:00::'
+    - id: 'at_long_last%4:49:00::'
       synset: 00048441-r
 at most:
   r:
     sense:
     - antonym:
-      - 'at_least%4:02:00::'
-      id: 'at_most%4:02:00::'
+      - 'at_least%4:51:00::'
+      id: 'at_most%4:51:00::'
       synset: 00105215-r
 at odds:
   a:
@@ -77926,16 +77926,16 @@ at once:
     - value: ət ˈwʌns
       variety: GB
     sense:
-    - id: 'at_once%4:02:00::'
+    - id: 'at_once%4:49:00::'
       synset: 00049277-r
-    - id: 'at_once%4:02:03::'
+    - id: 'at_once%4:45:03::'
       synset: 00154319-r
 at one time:
   r:
     sense:
-    - id: 'at_one_time%4:02:00::'
+    - id: 'at_one_time%4:45:00::'
       synset: 00154319-r
-    - id: 'at_one_time%4:02:01::'
+    - id: 'at_one_time%4:49:01::'
       synset: 00119861-r
 at peace:
   a:
@@ -77946,12 +77946,12 @@ at peace:
 at present:
   r:
     sense:
-    - id: 'at_present%4:02:00::'
+    - id: 'at_present%4:49:00::'
       synset: 00049758-r
 at random:
   r:
     sense:
-    - id: 'at_random%4:02:00::'
+    - id: 'at_random%4:45:00::'
       synset: 00071165-r
 at rest:
   a:
@@ -77970,28 +77970,28 @@ at sea:
 at stake:
   r:
     sense:
-    - id: 'at_stake%4:02:01::'
+    - id: 'at_stake%4:50:01::'
       synset: 00160135-r
-    - id: 'at_stake%4:02:00::'
+    - id: 'at_stake%4:50:00::'
       synset: 00160030-r
 at the best:
   r:
     sense:
-    - id: 'at_the_best%4:02:00::'
+    - id: 'at_the_best%4:51:00::'
       synset: 00106462-r
 at the least:
   r:
     sense:
     - antonym:
-      - 'at_the_most%4:02:00::'
-      id: 'at_the_least%4:02:00::'
+      - 'at_the_most%4:51:00::'
+      id: 'at_the_least%4:51:00::'
       synset: 00105032-r
 at the most:
   r:
     sense:
     - antonym:
-      - 'at_the_least%4:02:00::'
-      id: 'at_the_most%4:02:00::'
+      - 'at_the_least%4:51:00::'
+      id: 'at_the_most%4:51:00::'
       synset: 00105215-r
 at the ready:
   a:
@@ -78002,21 +78002,21 @@ at the ready:
 at the same time:
   r:
     sense:
-    - id: 'at_the_same_time%4:02:03::'
+    - id: 'at_the_same_time%4:49:03::'
       synset: 00120979-r
-    - id: 'at_the_same_time%4:02:05::'
+    - id: 'at_the_same_time%4:49:05::'
       synset: 00121107-r
-    - id: 'at_the_same_time%4:02:06::'
+    - id: 'at_the_same_time%4:54:06::'
       synset: 00027761-r
 at the worst:
   r:
     sense:
-    - id: 'at_the_worst%4:02:00::'
+    - id: 'at_the_worst%4:51:00::'
       synset: 00106595-r
 at times:
   r:
     sense:
-    - id: 'at_times%4:02:00::'
+    - id: 'at_times%4:48:00::'
       synset: 00021667-r
 at variance:
   a:
@@ -78027,7 +78027,7 @@ at variance:
 at will:
   r:
     sense:
-    - id: 'at_will%4:02:00::'
+    - id: 'at_will%4:48:00::'
       synset: 00154430-r
 at work:
   a:
@@ -78039,8 +78039,8 @@ at worst:
   r:
     sense:
     - antonym:
-      - 'at_best%4:02:00::'
-      id: 'at_worst%4:02:00::'
+      - 'at_best%4:51:00::'
+      id: 'at_worst%4:51:00::'
       synset: 00106595-r
 at-bat:
   n:
@@ -78507,9 +78507,9 @@ athwart:
     - value: əˈθwɔː(ɹ)t
       variety: GB
     sense:
-    - id: 'athwart%4:02:01::'
+    - id: 'athwart%4:50:01::'
       synset: 00277575-r
-    - id: 'athwart%4:02:00::'
+    - id: 'athwart%4:45:00::'
       synset: 00276140-r
 atilt:
   a:
@@ -79592,7 +79592,7 @@ atonality:
 atonally:
   r:
     sense:
-    - id: 'atonally%4:02:00::'
+    - id: 'atonally%4:45:00::'
       pertainym:
       - 'atonal%3:00:00::'
       synset: 00238395-r
@@ -79681,7 +79681,7 @@ atop:
     pronunciation:
     - value: əˈtɒp
     sense:
-    - id: 'atop%4:02:00::'
+    - id: 'atop%4:50:00::'
       synset: 00277655-r
 atopic allergy:
   n:
@@ -79871,11 +79871,11 @@ atrocious:
 atrociously:
   r:
     sense:
-    - id: 'atrociously%4:02:00::'
+    - id: 'atrociously%4:45:00::'
       pertainym:
       - atrocious%5:00:00:bad:00
       synset: 00055639-r
-    - id: 'atrociously%4:02:01::'
+    - id: 'atrociously%4:51:01::'
       synset: 00118279-r
 atrociousness:
   n:
@@ -80706,7 +80706,7 @@ attentive:
 attentively:
   r:
     sense:
-    - id: 'attentively%4:02:00::'
+    - id: 'attentively%4:45:00::'
       pertainym:
       - 'attentive%3:00:00::'
       synset: 00197829-r
@@ -81194,8 +81194,8 @@ attractively:
   r:
     sense:
     - antonym:
-      - 'unattractively%4:02:00::'
-      id: 'attractively%4:02:00::'
+      - 'unattractively%4:45:00::'
+      id: 'attractively%4:45:00::'
       pertainym:
       - 'attractive%3:00:01::'
       synset: 00243465-r
@@ -81305,7 +81305,7 @@ attributively:
     pronunciation:
     - value: ə.ˈtɹɪ.bju.tɪv.li
     sense:
-    - id: 'attributively%4:02:00::'
+    - id: 'attributively%4:45:00::'
       pertainym:
       - 'attributive%3:00:00::'
       synset: 00270082-r
@@ -81409,8 +81409,8 @@ atypically:
   r:
     sense:
     - antonym:
-      - 'typically%4:02:00::'
-      id: 'atypically%4:02:00::'
+      - 'typically%4:46:00::'
+      id: 'atypically%4:46:00::'
       pertainym:
       - 'atypical%3:00:00::'
       synset: 00129174-r
@@ -81608,7 +81608,7 @@ audaciously:
     pronunciation:
     - value: ɔˈdeɪʃəsli
     sense:
-    - id: 'audaciously%4:02:00::'
+    - id: 'audaciously%4:45:00::'
       pertainym:
       - audacious%5:00:00:adventurous:00
       synset: 00268385-r
@@ -81686,8 +81686,8 @@ audibly:
   r:
     sense:
     - antonym:
-      - 'inaudibly%4:02:00::'
-      id: 'audibly%4:02:00::'
+      - 'inaudibly%4:45:00::'
+      id: 'audibly%4:45:00::'
       pertainym:
       - 'audible%3:00:00::'
       synset: 00270228-r
@@ -82327,7 +82327,7 @@ aurally:
     pronunciation:
     - value: ˈɔːɹ.əl.i
     sense:
-    - id: 'aurally%4:02:00::'
+    - id: 'aurally%4:52:00::'
       pertainym:
       - 'aural%3:01:00::'
       synset: 00076947-r
@@ -82662,8 +82662,8 @@ auspiciously:
   r:
     sense:
     - antonym:
-      - 'inauspiciously%4:02:00::'
-      id: 'auspiciously%4:02:00::'
+      - 'inauspiciously%4:45:00::'
+      id: 'auspiciously%4:45:00::'
       pertainym:
       - 'auspicious%3:00:00::'
       synset: 00218914-r
@@ -82733,7 +82733,7 @@ austerely:
     - value: ɔˈstiəɹli
       variety: US
     sense:
-    - id: 'austerely%4:02:00::'
+    - id: 'austerely%4:45:00::'
       pertainym:
       - austere%5:00:00:plain:01
       synset: 00277709-r
@@ -82892,7 +82892,7 @@ authentic:
 authentically:
   r:
     sense:
-    - id: 'authentically%4:02:00::'
+    - id: 'authentically%4:51:00::'
       pertainym:
       - authentic%5:00:00:genuine:00
       synset: 00270584-r
@@ -83132,7 +83132,7 @@ authoritative:
 authoritatively:
   r:
     sense:
-    - id: 'authoritatively%4:02:00::'
+    - id: 'authoritatively%4:45:00::'
       pertainym:
       - authoritative%5:00:00:influential:00
       synset: 00242842-r
@@ -83602,11 +83602,11 @@ autocratically:
     - value: ˈɔːt.əˌkɹæt.ɪk(.ə)liː
       variety: GB
     sense:
-    - id: 'autocratically%4:02:02::'
+    - id: 'autocratically%4:45:02::'
       pertainym:
       - autocratic%5:00:00:domineering:00
       synset: 00312823-r
-    - id: 'autocratically%4:02:00::'
+    - id: 'autocratically%4:45:00::'
       pertainym:
       - autocratic%5:00:00:domineering:00
       synset: 00204504-r
@@ -84076,11 +84076,11 @@ automatically:
     - value: ˈɔːtəʊˌmæt.ɪk(.ə)li
       variety: GB
     sense:
-    - id: 'automatically%4:02:00::'
+    - id: 'automatically%4:45:00::'
       pertainym:
       - automatic%5:00:00:involuntary:02
       synset: 00005948-r
-    - id: 'automatically%4:02:01::'
+    - id: 'automatically%4:45:01::'
       pertainym:
       - automatic%5:00:00:mechanical:00
       synset: 00114936-r
@@ -84986,7 +84986,7 @@ avaricious:
 avariciously:
   r:
     sense:
-    - id: 'avariciously%4:02:00::'
+    - id: 'avariciously%4:45:00::'
       pertainym:
       - avaricious%5:00:00:acquisitive:00
       synset: 00277821-r
@@ -85460,7 +85460,7 @@ avidity:
 avidly:
   r:
     sense:
-    - id: 'avidly%4:02:00::'
+    - id: 'avidly%4:45:00::'
       pertainym:
       - avid%5:00:00:desirous:00
       synset: 00268567-r
@@ -85743,11 +85743,11 @@ avowed:
 avowedly:
   r:
     sense:
-    - id: 'avowedly%4:02:00::'
+    - id: 'avowedly%4:45:00::'
       pertainym:
       - avowed%5:00:00:declared:00
       synset: 00277958-r
-    - id: 'avowedly%4:02:01::'
+    - id: 'avowedly%4:54:01::'
       synset: 00185770-r
 avower:
   n:
@@ -86006,27 +86006,27 @@ away:
     pronunciation:
     - value: əˈweɪ
     sense:
-    - id: 'away%4:02:00::'
+    - id: 'away%4:50:00::'
       synset: 00234667-r
-    - id: 'away%4:02:01::'
+    - id: 'away%4:50:01::'
       synset: 00235026-r
-    - id: 'away%4:02:03::'
+    - id: 'away%4:50:03::'
       synset: 00235782-r
-    - id: 'away%4:02:04::'
+    - id: 'away%4:50:04::'
       synset: 00236283-r
-    - id: 'away%4:02:08::'
+    - id: 'away%4:50:08::'
       synset: 00236984-r
-    - id: 'away%4:02:05::'
+    - id: 'away%4:45:05::'
       synset: 00236477-r
-    - id: 'away%4:02:09::'
+    - id: 'away%4:50:09::'
       synset: 00237168-r
-    - id: 'away%4:02:10::'
+    - id: 'away%4:45:10::'
       synset: 00237300-r
-    - id: 'away%4:02:07::'
+    - id: 'away%4:50:07::'
       synset: 00236800-r
-    - id: 'away%4:02:06::'
+    - id: 'away%4:50:06::'
       synset: 00236681-r
-    - id: 'away%4:02:02::'
+    - id: 'away%4:50:02::'
       synset: 00235417-r
 away game:
   n:
@@ -86163,7 +86163,7 @@ awful:
     - value: ˈɔfəl
       variety: US
     sense:
-    - id: 'awful%4:02:00::'
+    - id: 'awful%4:51:00::'
       synset: 00055488-r
 awfully:
   r:
@@ -86173,13 +86173,13 @@ awfully:
     - value: ˈɔfəli
       variety: US
     sense:
-    - id: 'awfully%4:02:00::'
+    - id: 'awfully%4:51:00::'
       synset: 00055488-r
-    - id: 'awfully%4:02:01::'
+    - id: 'awfully%4:51:01::'
       pertainym:
       - awful%5:00:00:alarming:00
       synset: 00056878-r
-    - id: 'awfully%4:02:02::'
+    - id: 'awfully%4:45:02::'
       pertainym:
       - awful%5:00:00:bad:00
       synset: 00055639-r
@@ -86204,7 +86204,7 @@ awhile:
     pronunciation:
     - value: əˈwaɪl
     sense:
-    - id: 'awhile%4:02:00::'
+    - id: 'awhile%4:49:00::'
       synset: 00145441-r
 awing:
   a:
@@ -86247,7 +86247,7 @@ awkward:
 awkwardly:
   r:
     sense:
-    - id: 'awkwardly%4:02:00::'
+    - id: 'awkwardly%4:45:00::'
       pertainym:
       - 'awkward%3:00:00::'
       synset: 00196447-r
@@ -86384,9 +86384,9 @@ awry:
     pronunciation:
     - value: əˈɹaɪ
     sense:
-    - id: 'awry%4:02:00::'
+    - id: 'awry%4:45:00::'
       synset: 00273429-r
-    - id: 'awry%4:02:01::'
+    - id: 'awry%4:45:01::'
       synset: 00273600-r
 ax:
   n:
@@ -86547,7 +86547,7 @@ axial turbine:
 axially:
   r:
     sense:
-    - id: 'axially%4:02:00::'
+    - id: 'axially%4:50:00::'
       pertainym:
       - 'axial%3:01:00::'
       synset: 00077086-r
@@ -86700,7 +86700,7 @@ axiomatical:
 axiomatically:
   r:
     sense:
-    - id: 'axiomatically%4:02:00::'
+    - id: 'axiomatically%4:52:00::'
       pertainym:
       - 'axiomatic%3:01:00::'
       synset: 00122541-r

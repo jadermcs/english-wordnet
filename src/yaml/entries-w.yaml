@@ -4649,7 +4649,7 @@ w:
 wackily:
   r:
     sense:
-    - id: 'wackily%4:02:00::'
+    - id: 'wackily%4:45:00::'
       pertainym:
       - wacky%5:00:00:insane:00
       synset: 00305302-r
@@ -4843,7 +4843,7 @@ wafer-thin:
       synset: 02424090-s
   r:
     sense:
-    - id: 'wafer-thin%4:02:00::'
+    - id: 'wafer-thin%4:51:00::'
       pertainym:
       - wafer-thin%5:00:00:thin:01
       synset: 00518934-r
@@ -5077,7 +5077,7 @@ waggish:
 waggishly:
   r:
     sense:
-    - id: 'waggishly%4:02:00::'
+    - id: 'waggishly%4:45:00::'
       pertainym:
       - waggish%5:00:00:humorous:00
       synset: 00496251-r
@@ -5355,12 +5355,12 @@ waist pack:
 waist-deep:
   r:
     sense:
-    - id: 'waist-deep%4:02:00::'
+    - id: 'waist-deep%4:51:00::'
       synset: 00496326-r
 waist-high:
   r:
     sense:
-    - id: 'waist-high%4:02:00::'
+    - id: 'waist-high%4:51:00::'
       synset: 00496326-r
 waist-length:
   a:
@@ -7084,7 +7084,7 @@ wanker:
 wanly:
   r:
     sense:
-    - id: 'wanly%4:02:00::'
+    - id: 'wanly%4:45:00::'
       pertainym:
       - wan%5:00:00:weak:00
       synset: 00496422-r
@@ -7353,11 +7353,11 @@ wanton away:
 wantonly:
   r:
     sense:
-    - id: 'wantonly%4:02:01::'
+    - id: 'wantonly%4:45:01::'
       pertainym:
       - wanton%5:00:00:unmotivated:00
       synset: 00496534-r
-    - id: 'wantonly%4:02:00::'
+    - id: 'wantonly%4:45:00::'
       pertainym:
       - wanton%5:00:00:unchaste:00
       synset: 00390848-r
@@ -7848,8 +7848,8 @@ warily:
   r:
     sense:
     - antonym:
-      - 'unwarily%4:02:00::'
-      id: 'warily%4:02:00::'
+      - 'unwarily%4:45:00::'
+      id: 'warily%4:45:00::'
       pertainym:
       - 'wary%3:00:00::'
       synset: 00227750-r
@@ -7923,7 +7923,7 @@ warm:
       synset: 00447342-s
   r:
     sense:
-    - id: 'warm%4:02:00::'
+    - id: 'warm%4:45:00::'
       pertainym:
       - 'warm%3:00:01::'
       synset: 00434207-r
@@ -8080,11 +8080,11 @@ warmly:
     - value: wɔːmli
       variety: GB
     sense:
-    - id: 'warmly%4:02:00::'
+    - id: 'warmly%4:45:00::'
       pertainym:
       - 'warm%3:00:02::'
       synset: 00221335-r
-    - id: 'warmly%4:02:01::'
+    - id: 'warmly%4:45:01::'
       pertainym:
       - 'warm%3:00:01::'
       synset: 00434207-r
@@ -9395,7 +9395,7 @@ wasteful:
 wastefully:
   r:
     sense:
-    - id: 'wastefully%4:02:00::'
+    - id: 'wastefully%4:51:00::'
       pertainym:
       - 'wasteful%3:00:00::'
       synset: 00434339-r
@@ -9707,7 +9707,7 @@ watchful:
 watchfully:
   r:
     sense:
-    - id: 'watchfully%4:02:00::'
+    - id: 'watchfully%4:45:00::'
       pertainym:
       - 'watchful%3:00:00::'
       synset: 00495238-r
@@ -12185,7 +12185,7 @@ way:
       synset: 13306996-n
   r:
     sense:
-    - id: 'way%4:02:00::'
+    - id: 'way%4:51:00::'
       synset: 00102302-r
 way of life:
   n:
@@ -12490,8 +12490,8 @@ weakly:
   r:
     sense:
     - antonym:
-      - 'strongly%4:02:00::'
-      id: 'weakly%4:02:01::'
+      - 'strongly%4:51:00::'
+      id: 'weakly%4:45:01::'
       pertainym:
       - 'weak%3:00:00::'
       synset: 00178969-r
@@ -12563,7 +12563,7 @@ wealth:
 wealthily:
   r:
     sense:
-    - id: 'wealthily%4:02:00::'
+    - id: 'wealthily%4:45:00::'
       pertainym:
       - wealthy%5:00:00:rich:00
       synset: 00496653-r
@@ -13002,7 +13002,7 @@ wearily:
     - value: ˈwɪəɹɪli
       variety: GB
     sense:
-    - id: 'wearily%4:02:00::'
+    - id: 'wearily%4:45:00::'
       pertainym:
       - weary%5:00:00:tired:00
       synset: 00090912-r
@@ -14093,12 +14093,12 @@ week:
 week after week:
   r:
     sense:
-    - id: 'week_after_week%4:02:00::'
+    - id: 'week_after_week%4:48:00::'
       synset: 00179514-r
 week by week:
   r:
     sense:
-    - id: 'week_by_week%4:02:00::'
+    - id: 'week_by_week%4:49:00::'
       synset: 00179602-r
 week from Monday:
   n:
@@ -14186,7 +14186,7 @@ weekly:
     pronunciation:
     - value: wiːk.li
     sense:
-    - id: 'weekly%4:02:00::'
+    - id: 'weekly%4:48:00::'
       synset: 00081941-r
 weeknight:
   n:
@@ -14581,11 +14581,11 @@ weighted mean:
 weightily:
   r:
     sense:
-    - id: 'weightily%4:02:01::'
+    - id: 'weightily%4:45:01::'
       pertainym:
       - weighty%5:00:00:important:00
       synset: 00496822-r
-    - id: 'weightily%4:02:00::'
+    - id: 'weightily%4:45:00::'
       pertainym:
       - 'weighty%3:00:00::'
       synset: 00496720-r
@@ -14728,7 +14728,7 @@ weirdie:
 weirdly:
   r:
     sense:
-    - id: 'weirdly%4:02:00::'
+    - id: 'weirdly%4:45:00::'
       pertainym:
       - weird%5:00:00:strange:00
       synset: 00194478-r
@@ -15016,40 +15016,40 @@ well:
     - better
     sense:
     - antonym:
-      - 'ill%4:02:00::'
-      id: 'well%4:02:00::'
+      - 'ill%4:51:00::'
+      id: 'well%4:45:00::'
       synset: 00011555-r
-    - id: 'well%4:02:05::'
+    - id: 'well%4:45:05::'
       synset: 00013241-r
-    - id: 'well%4:02:03::'
+    - id: 'well%4:51:03::'
       synset: 00012993-r
-    - id: 'well%4:02:15::'
+    - id: 'well%4:51:15::'
       synset: 00015597-r
-    - id: 'well%4:02:08::'
+    - id: 'well%4:51:08::'
       synset: 00013891-r
     - antonym:
-      - 'ill%4:02:02::'
-      id: 'well%4:02:07::'
+      - 'ill%4:45:02::'
+      id: 'well%4:45:07::'
       synset: 00013554-r
-    - id: 'well%4:02:11::'
+    - id: 'well%4:51:11::'
       synset: 00014747-r
-    - id: 'well%4:02:14::'
+    - id: 'well%4:51:14::'
       synset: 00015469-r
-    - id: 'well%4:02:13::'
+    - id: 'well%4:46:13::'
       synset: 00015344-r
     - antonym:
-      - 'badly%4:02:12::'
-      id: 'well%4:02:12::'
+      - 'badly%4:45:12::'
+      id: 'well%4:45:12::'
       synset: 00015078-r
     - antonym:
-      - 'badly%4:02:10::'
-      id: 'well%4:02:10::'
+      - 'badly%4:45:10::'
+      id: 'well%4:45:10::'
       synset: 00014255-r
-    - id: 'well%4:02:09::'
+    - id: 'well%4:45:09::'
       synset: 00014088-r
     - antonym:
-      - 'badly%4:02:08::'
-      id: 'well%4:02:01::'
+      - 'badly%4:45:08::'
+      id: 'well%4:45:01::'
       synset: 00012591-r
   v:
     sense:
@@ -15353,7 +15353,7 @@ well-mined:
 well-nigh:
   r:
     sense:
-    - id: 'well-nigh%4:02:00::'
+    - id: 'well-nigh%4:51:00::'
       synset: 00073433-r
 well-nourished:
   a:
@@ -15434,7 +15434,7 @@ well-timed:
       synset: 01665994-s
   r:
     sense:
-    - id: 'well-timed%4:02:00::'
+    - id: 'well-timed%4:49:00::'
       synset: 00275183-r
 well-to-do:
   a:
@@ -15710,7 +15710,7 @@ west:
     pronunciation:
     - value: wɛst
     sense:
-    - id: 'west%4:02:00::'
+    - id: 'west%4:50:00::'
       synset: 00325301-r
 west by north:
   n:
@@ -15788,13 +15788,13 @@ westerly:
     pronunciation:
     - value: ˈwɛstə(ɹ)li
     sense:
-    - id: 'westerly%4:02:00::'
+    - id: 'westerly%4:50:00::'
       pertainym:
       - 'west%3:00:00::'
       synset: 00325863-r
     - antonym:
-      - 'easterly%4:02:02::'
-      id: 'westerly%4:02:02::'
+      - 'easterly%4:50:02::'
+      id: 'westerly%4:50:02::'
       pertainym:
       - 'west%3:00:00::'
       synset: 00325751-r
@@ -16140,14 +16140,14 @@ westward:
     sense:
     - exemplifies:
       - 'american_english%1:10:00::'
-      id: 'westward%4:02:00::'
+      id: 'westward%4:50:00::'
       synset: 00325415-r
 westwards:
   r:
     sense:
     - exemplifies:
       - 'british_english%1:10:01::'
-      id: 'westwards%4:02:00::'
+      id: 'westwards%4:50:00::'
       synset: 00325415-r
 wet:
   a:
@@ -16409,7 +16409,7 @@ whacking:
       synset: 01163216-n
   r:
     sense:
-    - id: 'whacking%4:02:00::'
+    - id: 'whacking%4:51:00::'
       synset: 00496954-r
 whacko:
   n:
@@ -16683,7 +16683,7 @@ what for:
 what is more:
   r:
     sense:
-    - id: 'what_is_more%4:02:00::'
+    - id: 'what_is_more%4:54:00::'
       synset: 00029763-r
 whatchamacallit:
   n:
@@ -16713,7 +16713,7 @@ whatever:
 whatever may come:
   r:
     sense:
-    - id: 'whatever_may_come%4:02:00::'
+    - id: 'whatever_may_come%4:54:00::'
       synset: 00157956-r
 whatnot:
   n:
@@ -17154,7 +17154,7 @@ wheeze:
 wheezily:
   r:
     sense:
-    - id: 'wheezily%4:02:00::'
+    - id: 'wheezily%4:45:00::'
       pertainym:
       - wheezy%5:00:00:unhealthy:00
       synset: 00497025-r
@@ -17173,7 +17173,7 @@ wheezing:
 wheezingly:
   r:
     sense:
-    - id: 'wheezingly%4:02:00::'
+    - id: 'wheezingly%4:45:00::'
       pertainym:
       - wheezing%5:00:00:unhealthy:00
       synset: 00497025-r
@@ -17248,19 +17248,19 @@ whelp:
 when first seen:
   r:
     sense:
-    - id: 'when_first_seen%4:02:00::'
+    - id: 'when_first_seen%4:49:00::'
       synset: 00104134-r
 when the time comes:
   r:
     sense:
-    - id: 'when_the_time_comes%4:02:00::'
+    - id: 'when_the_time_comes%4:49:00::'
       synset: 00166484-r
 whence:
   r:
     pronunciation:
     - value: ʍɛns
     sense:
-    - id: 'whence%4:02:00::'
+    - id: 'whence%4:50:00::'
       synset: 00497507-r
 whereabouts:
   n:
@@ -17277,7 +17277,7 @@ wherefore:
 wheresoever:
   r:
     sense:
-    - id: 'wheresoever%4:02:00::'
+    - id: 'wheresoever%4:50:00::'
       synset: 00497575-r
 wherever:
   r:
@@ -17287,7 +17287,7 @@ wherever:
     - value: wɛəˈɹɛvə
       variety: GB
     sense:
-    - id: 'wherever%4:02:00::'
+    - id: 'wherever%4:50:00::'
       synset: 00497575-r
 wherewithal:
   n:
@@ -17516,7 +17516,7 @@ whimsicality:
 whimsically:
   r:
     sense:
-    - id: 'whimsically%4:02:00::'
+    - id: 'whimsically%4:45:00::'
       synset: 00338792-r
 whimsy:
   n:
@@ -20399,7 +20399,7 @@ whole:
     - value: hoʊl
       variety: US
     sense:
-    - id: 'whole%4:02:00::'
+    - id: 'whole%4:51:00::'
       synset: 00008423-r
 whole blood:
   n:
@@ -20547,7 +20547,7 @@ wholeheartedly:
     - value: ˌhəʊlˈhɑː(ɹ)t.ədli
       variety: GB
     sense:
-    - id: 'wholeheartedly%4:02:00::'
+    - id: 'wholeheartedly%4:45:00::'
       pertainym:
       - wholehearted%5:00:00:sincere:00
       synset: 00497146-r
@@ -20604,10 +20604,10 @@ wholesale:
     - value: ˈhoʊlseɪl
     sense:
     - antonym:
-      - 'retail%4:02:00::'
-      id: 'wholesale%4:02:00::'
+      - 'retail%4:45:00::'
+      id: 'wholesale%4:45:00::'
       synset: 00444667-r
-    - id: 'wholesale%4:02:01::'
+    - id: 'wholesale%4:45:01::'
       synset: 00262135-r
   v:
     pronunciation:
@@ -20667,7 +20667,7 @@ wholesome:
 wholesomely:
   r:
     sense:
-    - id: 'wholesomely%4:02:00::'
+    - id: 'wholesomely%4:51:00::'
       pertainym:
       - 'wholesome%3:00:00::'
       synset: 00497327-r
@@ -20690,8 +20690,8 @@ wholly:
       variety: US
     sense:
     - antonym:
-      - 'partly%4:02:00::'
-      id: 'wholly%4:02:00::'
+      - 'partly%4:51:00::'
+      id: 'wholly%4:51:00::'
       pertainym:
       - 'whole%3:00:00::'
       synset: 00008423-r
@@ -20875,7 +20875,7 @@ whopping:
     - value: ˈ(h)wɑpɪŋ
       variety: US
     sense:
-    - id: 'whopping%4:02:00::'
+    - id: 'whopping%4:51:00::'
       synset: 00046739-r
 whore:
   n:
@@ -21082,7 +21082,7 @@ wickedly:
     pronunciation:
     - value: ˈwɪkɪdli
     sense:
-    - id: 'wickedly%4:02:00::'
+    - id: 'wickedly%4:45:00::'
       pertainym:
       - 'wicked%3:00:00::'
       synset: 00145622-r
@@ -21218,13 +21218,13 @@ wide:
     pronunciation:
     - value: waɪd
     sense:
-    - id: 'wide%4:02:01::'
+    - id: 'wide%4:51:01::'
       synset: 00497941-r
-    - id: 'wide%4:02:03::'
+    - id: 'wide%4:51:03::'
       synset: 00498208-r
-    - id: 'wide%4:02:02::'
+    - id: 'wide%4:50:02::'
       synset: 00498056-r
-    - id: 'wide%4:02:00::'
+    - id: 'wide%4:45:00::'
       synset: 00497722-r
 wide area network:
   n:
@@ -21334,9 +21334,9 @@ widely:
     pronunciation:
     - value: ˈwaɪdli
     sense:
-    - id: 'widely%4:02:01::'
+    - id: 'widely%4:45:01::'
       synset: 00497722-r
-    - id: 'widely%4:02:02::'
+    - id: 'widely%4:51:02::'
       synset: 00508875-r
 widely distributed:
   a:
@@ -21815,9 +21815,9 @@ wild:
       synset: 08701286-n
   r:
     sense:
-    - id: 'wild%4:02:02::'
+    - id: 'wild%4:45:02::'
       synset: 00441150-r
-    - id: 'wild%4:02:01::'
+    - id: 'wild%4:45:01::'
       pertainym:
       - 'wild%3:00:01::'
       synset: 00176356-r
@@ -22561,15 +22561,15 @@ wildly:
     pronunciation:
     - value: ˈwaɪldli
     sense:
-    - id: 'wildly%4:02:00::'
+    - id: 'wildly%4:51:00::'
       pertainym:
       - 'wild%3:00:02::'
       synset: 00176221-r
-    - id: 'wildly%4:02:02::'
+    - id: 'wildly%4:45:02::'
       pertainym:
       - wild%5:00:00:passionate:00
       synset: 00176621-r
-    - id: 'wildly%4:02:01::'
+    - id: 'wildly%4:45:01::'
       pertainym:
       - wild%5:00:00:passionate:00
       synset: 00176473-r
@@ -22619,7 +22619,7 @@ wilfully:
     - value: ˈwɪlfəli
       variety: GB
     sense:
-    - id: 'wilfully%4:02:00::'
+    - id: 'wilfully%4:46:00::'
       pertainym:
       - wilful%5:00:00:voluntary:01
       synset: 00498325-r
@@ -22718,7 +22718,7 @@ willful neglect:
 willfully:
   r:
     sense:
-    - id: 'willfully%4:02:00::'
+    - id: 'willfully%4:46:00::'
       pertainym:
       - willful%5:00:00:voluntary:01
       synset: 00498325-r
@@ -22766,8 +22766,8 @@ willingly:
     - value: ˈwɪlɪŋli
     sense:
     - antonym:
-      - 'unwillingly%4:02:00::'
-      id: 'willingly%4:02:00::'
+      - 'unwillingly%4:45:00::'
+      id: 'willingly%4:46:00::'
       pertainym:
       - 'willing%3:00:00::'
       synset: 00306669-r
@@ -22857,9 +22857,9 @@ willy-nilly:
     pronunciation:
     - value: ˌ(ˈ)wɪliˈnɪli
     sense:
-    - id: 'willy-nilly%4:02:00::'
+    - id: 'willy-nilly%4:45:00::'
       synset: 00071165-r
-    - id: 'willy-nilly%4:02:01::'
+    - id: 'willy-nilly%4:45:01::'
       synset: 00246037-r
 wilt:
   n:
@@ -23484,7 +23484,7 @@ windily:
     pronunciation:
     - value: ˈwɪndɪli
     sense:
-    - id: 'windily%4:02:00::'
+    - id: 'windily%4:45:00::'
       pertainym:
       - windy%5:00:00:prolix:00
       synset: 00494741-r
@@ -23834,8 +23834,8 @@ windward:
     - value: ˈwɪndwə(ɹ)d
     sense:
     - antonym:
-      - 'leeward%4:02:00::'
-      id: 'windward%4:02:00::'
+      - 'leeward%4:50:00::'
+      id: 'windward%4:50:00::'
       synset: 00095613-r
 windward side:
   n:
@@ -24588,7 +24588,7 @@ winsome:
 winsomely:
   r:
     sense:
-    - id: 'winsomely%4:02:00::'
+    - id: 'winsomely%4:45:00::'
       pertainym:
       - winsome%5:00:00:attractive:01
       synset: 00238567-r
@@ -25600,8 +25600,8 @@ wisely:
     - value: ˈwaɪzli
     sense:
     - antonym:
-      - 'foolishly%4:02:00::'
-      id: 'wisely%4:02:00::'
+      - 'foolishly%4:45:00::'
+      id: 'wisely%4:46:00::'
       pertainym:
       - 'wise%3:00:00::'
       synset: 00202999-r
@@ -25758,7 +25758,7 @@ wishful thinking:
 wishfully:
   r:
     sense:
-    - id: 'wishfully%4:02:00::'
+    - id: 'wishfully%4:45:00::'
       pertainym:
       - 'wishful%3:00:00::'
       synset: 00498462-r
@@ -25852,7 +25852,7 @@ wistful:
 wistfully:
   r:
     sense:
-    - id: 'wistfully%4:02:00::'
+    - id: 'wistfully%4:45:00::'
       pertainym:
       - wistful%5:00:01:sad:00
       synset: 00498580-r
@@ -26050,7 +26050,7 @@ with child:
 with kid gloves:
   r:
     sense:
-    - id: 'with_kid_gloves%4:02:01::'
+    - id: 'with_kid_gloves%4:45:01::'
       synset: 00283532-r
 with-it:
   a:
@@ -26067,9 +26067,9 @@ withal:
     - value: wɪˈðɑl
       variety: US
     sense:
-    - id: 'withal%4:02:01::'
+    - id: 'withal%4:54:01::'
       synset: 00027761-r
-    - id: 'withal%4:02:00::'
+    - id: 'withal%4:53:00::'
       synset: 00040906-r
 withdraw:
   v:
@@ -26357,7 +26357,7 @@ withering:
 witheringly:
   r:
     sense:
-    - id: 'witheringly%4:02:00::'
+    - id: 'witheringly%4:45:00::'
       pertainym:
       - withering%5:00:00:destructive:00
       synset: 00498753-r
@@ -26449,7 +26449,7 @@ within:
     - value: wɪðˈɪn
       variety: US
     sense:
-    - id: 'within%4:02:00::'
+    - id: 'within%4:50:00::'
       synset: 00111558-r
 without a stitch:
   a:
@@ -26459,7 +26459,7 @@ without a stitch:
 without doubt:
   r:
     sense:
-    - id: 'without_doubt%4:02:02::'
+    - id: 'without_doubt%4:51:02::'
       synset: 00151192-r
 withstand:
   v:
@@ -26602,7 +26602,7 @@ witticism:
 wittily:
   r:
     sense:
-    - id: 'wittily%4:02:00::'
+    - id: 'wittily%4:45:00::'
       pertainym:
       - witty%5:00:00:humorous:00
       synset: 00498879-r
@@ -26628,8 +26628,8 @@ wittingly:
   r:
     sense:
     - antonym:
-      - 'unwittingly%4:02:00::'
-      id: 'wittingly%4:02:00::'
+      - 'unwittingly%4:45:00::'
+      id: 'wittingly%4:45:00::'
       pertainym:
       - witting%5:00:00:intended:00
       synset: 00239363-r
@@ -26857,7 +26857,7 @@ woeful:
 woefully:
   r:
     sense:
-    - id: 'woefully%4:02:00::'
+    - id: 'woefully%4:45:00::'
       pertainym:
       - woeful%5:00:00:sorrowful:00
       synset: 00093820-r
@@ -27031,7 +27031,7 @@ wolfish:
 wolfishly:
   r:
     sense:
-    - id: 'wolfishly%4:02:00::'
+    - id: 'wolfishly%4:45:00::'
       pertainym:
       - 'wolfish%3:01:00::'
       synset: 00498998-r
@@ -27491,7 +27491,7 @@ wonderfully:
     pronunciation:
     - value: wʌn.də(ɹ).fli
     sense:
-    - id: 'wonderfully%4:02:00::'
+    - id: 'wonderfully%4:51:00::'
       pertainym:
       - wonderful%5:00:00:extraordinary:00
       synset: 00184576-r
@@ -27511,7 +27511,7 @@ wondering:
 wonderingly:
   r:
     sense:
-    - id: 'wonderingly%4:02:00::'
+    - id: 'wonderingly%4:45:00::'
       pertainym:
       - wondering%5:00:00:curious:00
       synset: 00359488-r
@@ -27552,12 +27552,12 @@ wondrous:
     pronunciation:
     - value: ˈwʌndɹəs
     sense:
-    - id: 'wondrous%4:02:00::'
+    - id: 'wondrous%4:51:00::'
       synset: 00184576-r
 wondrously:
   r:
     sense:
-    - id: 'wondrously%4:02:00::'
+    - id: 'wondrously%4:51:00::'
       pertainym:
       - wondrous%5:00:00:extraordinary:00
       synset: 00184576-r
@@ -28102,7 +28102,7 @@ wooden-headed:
 woodenly:
   r:
     sense:
-    - id: 'woodenly%4:02:00::'
+    - id: 'woodenly%4:45:00::'
       pertainym:
       - wooden%5:00:00:awkward:00
       synset: 00196072-r
@@ -28795,7 +28795,7 @@ word finder:
 word for word:
   r:
     sense:
-    - id: 'word_for_word%4:02:00::'
+    - id: 'word_for_word%4:45:00::'
       synset: 00259374-r
 word form:
   n:
@@ -28947,7 +28947,7 @@ wordfinder:
 wordily:
   r:
     sense:
-    - id: 'wordily%4:02:00::'
+    - id: 'wordily%4:45:00::'
       pertainym:
       - wordy%5:00:01:prolix:00
       synset: 00494741-r
@@ -28973,7 +28973,7 @@ wordless:
 wordlessly:
   r:
     sense:
-    - id: 'wordlessly%4:02:00::'
+    - id: 'wordlessly%4:45:00::'
       pertainym:
       - wordless%5:00:00:inarticulate:00
       synset: 00112833-r
@@ -30367,7 +30367,7 @@ worried:
 worriedly:
   r:
     sense:
-    - id: 'worriedly%4:02:00::'
+    - id: 'worriedly%4:45:00::'
       pertainym:
       - worried%5:00:00:troubled:00
       synset: 00499160-r
@@ -30498,7 +30498,7 @@ worrying:
 worryingly:
   r:
     sense:
-    - id: 'worryingly%4:02:00::'
+    - id: 'worryingly%4:51:00::'
       pertainym:
       - worrying%5:00:00:heavy:02
       synset: 00499077-r
@@ -30551,7 +30551,7 @@ worse:
     - value: wɝs
       variety: US
     sense:
-    - id: 'worse%4:02:00::'
+    - id: 'worse%4:51:00::'
       synset: 00017539-r
 worsen:
   v:
@@ -30763,7 +30763,7 @@ worst:
     - value: wɝst
       variety: US
     sense:
-    - id: 'worst%4:02:00::'
+    - id: 'worst%4:51:00::'
       synset: 00017703-r
   v:
     pronunciation:
@@ -30840,7 +30840,7 @@ worthful:
 worthily:
   r:
     sense:
-    - id: 'worthily%4:02:00::'
+    - id: 'worthily%4:45:00::'
       pertainym:
       - 'worthy%3:00:00::'
       synset: 00499327-r
@@ -30872,7 +30872,7 @@ worthless:
 worthlessly:
   r:
     sense:
-    - id: 'worthlessly%4:02:00::'
+    - id: 'worthlessly%4:45:00::'
       pertainym:
       - 'worthless%3:00:00::'
       synset: 00499417-r
@@ -31315,7 +31315,7 @@ wrathful:
 wrathfully:
   r:
     sense:
-    - id: 'wrathfully%4:02:00::'
+    - id: 'wrathfully%4:45:00::'
       pertainym:
       - wrathful%5:00:00:angry:00
       synset: 00499496-r
@@ -31678,7 +31678,7 @@ wretched:
 wretchedly:
   r:
     sense:
-    - id: 'wretchedly%4:02:00::'
+    - id: 'wretchedly%4:45:00::'
       pertainym:
       - wretched%5:00:00:unfortunate:00
       synset: 00499630-r
@@ -32594,7 +32594,7 @@ wrong:
     - value: ɹɔŋ
       variety: US
     sense:
-    - id: 'wrong%4:02:00::'
+    - id: 'wrong%4:45:00::'
       synset: 00205553-r
   v:
     pronunciation:
@@ -32677,7 +32677,7 @@ wrongfully:
     pronunciation:
     - value: ˈɹɒŋfəli
     sense:
-    - id: 'wrongfully%4:02:00::'
+    - id: 'wrongfully%4:45:00::'
       pertainym:
       - wrongful%5:00:00:unjust:00
       synset: 00519025-r
@@ -32700,7 +32700,7 @@ wrongheaded:
 wrongheadedly:
   r:
     sense:
-    - id: 'wrongheadedly%4:02:00::'
+    - id: 'wrongheadedly%4:46:00::'
       pertainym:
       - wrongheaded%5:00:00:wrong:04
       synset: 00200566-r
@@ -32712,13 +32712,13 @@ wrongly:
     - value: ˈɹɔŋli
       variety: US
     sense:
-    - id: 'wrongly%4:02:03::'
+    - id: 'wrongly%4:45:03::'
       pertainym:
       - 'wrong%3:00:01::'
       synset: 00206334-r
     - antonym:
-      - 'right%4:02:02::'
-      id: 'wrongly%4:02:00::'
+      - 'right%4:45:02::'
+      id: 'wrongly%4:45:00::'
       pertainym:
       - wrong%5:00:00:inaccurate:00
       synset: 00205553-r
@@ -32797,7 +32797,7 @@ wryly:
     pronunciation:
     - value: ˈɹaɪli
     sense:
-    - id: 'wryly%4:02:00::'
+    - id: 'wryly%4:45:00::'
       pertainym:
       - wry%5:00:00:humorous:00
       synset: 00226460-r

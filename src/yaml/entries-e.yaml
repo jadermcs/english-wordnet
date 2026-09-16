@@ -8452,7 +8452,7 @@ e'er:
     - value: ɛɹ
       variety: US
     sense:
-    - id: 'e''er%4:02:00::'
+    - id: 'e''er%4:48:00::'
       synset: 00019801-r
 e-commerce:
   n:
@@ -8525,7 +8525,7 @@ e.g.:
     - value: ˌiˈdʒi
       variety: US
     sense:
-    - id: 'e.g.%4:02:00::'
+    - id: 'e.g.%4:53:00::'
       synset: 00160239-r
 eV:
   n:
@@ -8545,19 +8545,19 @@ each:
     - value: it͡ʃ
       variety: US
     sense:
-    - id: 'each%4:02:00::'
+    - id: 'each%4:53:00::'
       synset: 00241635-r
 each week:
   r:
     sense:
-    - id: 'each_week%4:02:00::'
+    - id: 'each_week%4:48:00::'
       synset: 00081941-r
 each year:
   r:
     sense:
-    - id: 'each_year%4:02:00::'
+    - id: 'each_year%4:48:00::'
       synset: 00082087-r
-    - id: 'each_year%4:02:01::'
+    - id: 'each_year%4:48:01::'
       synset: 00252039-r
 eager:
   a:
@@ -8592,7 +8592,7 @@ eagerly:
     - value: ˈiːɡəli
       variety: GB
     sense:
-    - id: 'eagerly%4:02:00::'
+    - id: 'eagerly%4:45:00::'
       pertainym:
       - 'eager%3:00:00::'
       synset: 00202206-r
@@ -8901,11 +8901,11 @@ earlier:
     - value: ˈɜː.lɪə
       variety: GB
     sense:
-    - id: 'earlier%4:02:00::'
+    - id: 'earlier%4:49:00::'
       synset: 00061477-r
-    - id: 'earlier%4:02:02::'
+    - id: 'earlier%4:49:02::'
       synset: 00260528-r
-    - id: 'earlier%4:02:04::'
+    - id: 'earlier%4:49:04::'
       synset: 00168316-r
 earliest:
   a:
@@ -8924,7 +8924,7 @@ earliest:
     - value: ˈɜː.li.ɪst
       variety: GB
     sense:
-    - id: 'earliest%4:02:00::'
+    - id: 'earliest%4:49:00::'
       synset: 00035028-r
 earliness:
   n:
@@ -8987,13 +8987,13 @@ early:
     - value: ˈɜː.li
       variety: GB
     sense:
-    - id: 'early%4:02:01::'
+    - id: 'early%4:49:01::'
       synset: 00101231-r
     - antonym:
-      - 'late%4:02:00::'
-      id: 'early%4:02:00::'
+      - 'late%4:49:00::'
+      id: 'early%4:49:00::'
       synset: 00100632-r
-    - id: 'early%4:02:02::'
+    - id: 'early%4:49:02::'
       synset: 00101142-r
 early bird:
   n:
@@ -9025,7 +9025,7 @@ early morel:
 early on:
   r:
     sense:
-    - id: 'early_on%4:02:00::'
+    - id: 'early_on%4:49:00::'
       synset: 00101231-r
 early purple orchid:
   n:
@@ -9184,7 +9184,7 @@ earnestly:
     - value: ˈɜːnɪstli
       variety: GB
     sense:
-    - id: 'earnestly%4:02:02::'
+    - id: 'earnestly%4:45:02::'
       pertainym:
       - earnest%5:00:00:serious:00
       synset: 00166233-r
@@ -9748,15 +9748,15 @@ easily:
       variety: GB
     - value: ˈiː.zə.liː
     sense:
-    - id: 'easily%4:02:01::'
+    - id: 'easily%4:45:01::'
       pertainym:
       - 'easy%3:00:01::'
       synset: 00148912-r
-    - id: 'easily%4:02:06::'
+    - id: 'easily%4:51:06::'
       synset: 00054973-r
     - derivation:
       - 'easy%3:00:01::'
-      id: 'easily%4:02:05::'
+      id: 'easily%4:51:05::'
       synset: 00012993-r
 easiness:
   n:
@@ -9809,7 +9809,7 @@ east:
     pronunciation:
     - value: iːst
     sense:
-    - id: 'east%4:02:00::'
+    - id: 'east%4:50:00::'
       synset: 00325179-r
 east African cedar:
   n:
@@ -9895,8 +9895,8 @@ easterly:
     - value: ˈis.tɚˌli
     sense:
     - antonym:
-      - 'westerly%4:02:02::'
-      id: 'easterly%4:02:02::'
+      - 'westerly%4:50:02::'
+      id: 'easterly%4:50:02::'
       pertainym:
       - 'east%3:00:00::'
       synset: 00325628-r
@@ -10108,14 +10108,14 @@ eastward:
     sense:
     - exemplifies:
       - 'american_english%1:10:00::'
-      id: 'eastward%4:02:00::'
+      id: 'eastward%4:50:00::'
       synset: 00325528-r
 eastwards:
   r:
     sense:
     - exemplifies:
       - 'british_english%1:10:01::'
-      id: 'eastwards%4:02:00::'
+      id: 'eastwards%4:50:00::'
       synset: 00325528-r
 easy:
   a:
@@ -10132,7 +10132,7 @@ easy:
       - 'difficult%3:00:00::'
       derivation:
       - 'easiness%1:07:00::'
-      - 'easily%4:02:05::'
+      - 'easily%4:51:05::'
       id: 'easy%3:00:01::'
       synset: 00752852-a
     - antonym:
@@ -10174,11 +10174,11 @@ easy:
     - value: ˈizi
       variety: US
     sense:
-    - id: 'easy%4:02:01::'
+    - id: 'easy%4:45:01::'
       synset: 00148912-r
-    - id: 'easy%4:02:02::'
+    - id: 'easy%4:45:02::'
       synset: 00162829-r
-    - id: 'easy%4:02:00::'
+    - id: 'easy%4:45:00::'
       pertainym:
       - 'easy%3:00:01::'
       synset: 00149175-r
@@ -10727,7 +10727,7 @@ ebullient:
 ebulliently:
   r:
     sense:
-    - id: 'ebulliently%4:02:00::'
+    - id: 'ebulliently%4:45:00::'
       pertainym:
       - ebullient%5:00:00:spirited:00
       synset: 00325982-r
@@ -10795,11 +10795,11 @@ eccentric person:
 eccentrically:
   r:
     sense:
-    - id: 'eccentrically%4:02:01::'
+    - id: 'eccentrically%4:45:01::'
       pertainym:
       - eccentric%5:00:00:unconventional:01
       synset: 00516033-r
-    - id: 'eccentrically%4:02:00::'
+    - id: 'eccentrically%4:45:00::'
       pertainym:
       - 'eccentric%3:00:00::'
       synset: 00515929-r
@@ -10902,7 +10902,7 @@ ecclesiastical robe:
 ecclesiastically:
   r:
     sense:
-    - id: 'ecclesiastically%4:02:00::'
+    - id: 'ecclesiastically%4:52:00::'
       pertainym:
       - 'ecclesiastic%3:01:00::'
       synset: 00326234-r
@@ -11385,7 +11385,7 @@ ecological warfare:
 ecologically:
   r:
     sense:
-    - id: 'ecologically%4:02:00::'
+    - id: 'ecologically%4:52:00::'
       pertainym:
       - 'ecological%3:01:00::'
       synset: 00326369-r
@@ -11619,15 +11619,15 @@ economical:
 economically:
   r:
     sense:
-    - id: 'economically%4:02:00::'
+    - id: 'economically%4:52:00::'
       pertainym:
       - 'economic%3:01:00::'
       synset: 00124113-r
-    - id: 'economically%4:02:02::'
+    - id: 'economically%4:45:02::'
       pertainym:
       - economic%5:00:00:efficient:00
       synset: 00124384-r
-    - id: 'economically%4:02:01::'
+    - id: 'economically%4:52:01::'
       pertainym:
       - 'economic%3:01:01::'
       synset: 00124249-r
@@ -11855,7 +11855,7 @@ ecstatic state:
 ecstatically:
   r:
     sense:
-    - id: 'ecstatically%4:02:00::'
+    - id: 'ecstatically%4:45:00::'
       pertainym:
       - ecstatic%5:00:00:joyous:00
       synset: 00326532-r
@@ -12330,9 +12330,9 @@ edger:
 edgeways:
   r:
     sense:
-    - id: 'edgeways%4:02:01::'
+    - id: 'edgeways%4:45:01::'
       synset: 00326886-r
-    - id: 'edgeways%4:02:00::'
+    - id: 'edgeways%4:45:00::'
       synset: 00326736-r
 edgewise:
   r:
@@ -12342,9 +12342,9 @@ edgewise:
     - value: ˈɛdʒwaɪz
       variety: US
     sense:
-    - id: 'edgewise%4:02:00::'
+    - id: 'edgewise%4:45:00::'
       synset: 00326736-r
-    - id: 'edgewise%4:02:01::'
+    - id: 'edgewise%4:45:01::'
       synset: 00326886-r
 edginess:
   n:
@@ -12712,7 +12712,7 @@ editorialize:
 editorially:
   r:
     sense:
-    - id: 'editorially%4:02:00::'
+    - id: 'editorially%4:52:00::'
       pertainym:
       - 'editorial%3:01:00::'
       synset: 00228507-r
@@ -12892,7 +12892,7 @@ educationalist:
 educationally:
   r:
     sense:
-    - id: 'educationally%4:02:00::'
+    - id: 'educationally%4:52:00::'
       pertainym:
       - 'educational%3:01:00::'
       synset: 00326996-r
@@ -13029,7 +13029,7 @@ eerily:
     pronunciation:
     - value: ˈɪəɹɪli
     sense:
-    - id: 'eerily%4:02:00::'
+    - id: 'eerily%4:45:00::'
       synset: 00327195-r
 eeriness:
   n:
@@ -13201,12 +13201,12 @@ effectively:
     - value: ɪˈfɛktɪvli
     sense:
     - antonym:
-      - 'ineffectively%4:02:00::'
-      id: 'effectively%4:02:01::'
+      - 'ineffectively%4:45:00::'
+      id: 'effectively%4:45:01::'
       pertainym:
       - 'effective%3:00:00::'
       synset: 00327717-r
-    - id: 'effectively%4:02:00::'
+    - id: 'effectively%4:53:00::'
       pertainym:
       - effective%5:00:00:actual:00
       synset: 00060570-r
@@ -13285,8 +13285,8 @@ effectually:
       variety: US
     sense:
     - antonym:
-      - 'ineffectually%4:02:00::'
-      id: 'effectually%4:02:00::'
+      - 'ineffectually%4:45:00::'
+      id: 'effectually%4:45:00::'
       synset: 00327305-r
 effectualness:
   n:
@@ -13491,8 +13491,8 @@ efficaciously:
   r:
     sense:
     - antonym:
-      - 'inefficaciously%4:02:00::'
-      id: 'efficaciously%4:02:00::'
+      - 'inefficaciously%4:45:00::'
+      id: 'efficaciously%4:45:00::'
       pertainym:
       - 'efficacious%3:00:00::'
       synset: 00327717-r
@@ -13564,8 +13564,8 @@ efficiently:
   r:
     sense:
     - antonym:
-      - 'inefficiently%4:02:00::'
-      id: 'efficiently%4:02:00::'
+      - 'inefficiently%4:45:00::'
+      id: 'efficiently%4:45:00::'
       pertainym:
       - efficient%5:00:00:competent:00
       synset: 00237570-r
@@ -13721,7 +13721,7 @@ effortlessly:
     - value: ˈef.ɚt.ləs.li
       variety: US
     sense:
-    - id: 'effortlessly%4:02:00::'
+    - id: 'effortlessly%4:45:00::'
       pertainym:
       - effortless%5:00:00:easy:01
       synset: 00198411-r
@@ -13815,7 +13815,7 @@ effusive:
 effusively:
   r:
     sense:
-    - id: 'effusively%4:02:00::'
+    - id: 'effusively%4:45:00::'
       pertainym:
       - effusive%5:00:00:demonstrative:00
       synset: 00328245-r
@@ -14287,7 +14287,7 @@ egotistical:
 egotistically:
   r:
     sense:
-    - id: 'egotistically%4:02:00::'
+    - id: 'egotistically%4:45:00::'
       pertainym:
       - egotistic%5:00:00:selfish:00
       synset: 00328482-r
@@ -14679,7 +14679,7 @@ either:
     pronunciation:
     - value: ˈaɪð.ə(ɹ)
     sense:
-    - id: 'either%4:02:00::'
+    - id: 'either%4:53:00::'
       synset: 00025252-r
 ejaculate:
   n:
@@ -14945,7 +14945,7 @@ elaborated:
 elaborately:
   r:
     sense:
-    - id: 'elaborately%4:02:00::'
+    - id: 'elaborately%4:45:00::'
       pertainym:
       - elaborate%5:00:00:fancy:00
       synset: 00085190-r
@@ -16220,7 +16220,7 @@ electrical work:
 electrically:
   r:
     sense:
-    - id: 'electrically%4:02:00::'
+    - id: 'electrically%4:45:00::'
       pertainym:
       - 'electric%3:01:00::'
       synset: 00129766-r
@@ -17048,7 +17048,7 @@ electronically:
     - value: ˌɛl.ɛkˈtɹɒn.ɪk.li
       variety: GB
     sense:
-    - id: 'electronically%4:02:00::'
+    - id: 'electronically%4:45:00::'
       pertainym:
       - 'electronic%3:01:00::'
       synset: 00124466-r
@@ -17210,7 +17210,7 @@ electrostatic unit:
 electrostatically:
   r:
     sense:
-    - id: 'electrostatically%4:02:00::'
+    - id: 'electrostatically%4:45:00::'
       pertainym:
       - 'electrostatic%3:01:00::'
       synset: 00142296-r
@@ -17321,12 +17321,12 @@ elegantly:
   r:
     sense:
     - antonym:
-      - 'inelegantly%4:02:00::'
-      id: 'elegantly%4:02:00::'
+      - 'inelegantly%4:45:00::'
+      id: 'elegantly%4:45:00::'
       pertainym:
       - 'elegant%3:00:00::'
       synset: 00328994-r
-    - id: 'elegantly%4:02:01::'
+    - id: 'elegantly%4:45:01::'
       pertainym:
       - elegant%5:00:00:graceful:00
       synset: 00328801-r
@@ -17494,7 +17494,7 @@ elemental:
 elementarily:
   r:
     sense:
-    - id: 'elementarily%4:02:00::'
+    - id: 'elementarily%4:45:00::'
       pertainym:
       - elementary%5:00:00:easy:01
       synset: 00328163-r
@@ -18429,12 +18429,12 @@ eloquently:
   r:
     sense:
     - antonym:
-      - 'ineloquently%4:02:00::'
-      id: 'eloquently%4:02:00::'
+      - 'ineloquently%4:45:00::'
+      id: 'eloquently%4:45:00::'
       pertainym:
       - eloquent%5:00:00:articulate:00
       synset: 00329241-r
-    - id: 'eloquently%4:02:01::'
+    - id: 'eloquently%4:45:01::'
       synset: 00269743-r
 elsewhere:
   r:
@@ -18444,7 +18444,7 @@ elsewhere:
     - value: ˈɛlsˌʍɛːɹ
       variety: US
     sense:
-    - id: 'elsewhere%4:02:00::'
+    - id: 'elsewhere%4:50:00::'
       synset: 00085352-r
 elsholtzia:
   n:
@@ -19105,7 +19105,7 @@ embarrassing:
 embarrassingly:
   r:
     sense:
-    - id: 'embarrassingly%4:02:00::'
+    - id: 'embarrassingly%4:51:00::'
       pertainym:
       - embarrassing%5:00:00:unpleasant:00
       synset: 00329628-r
@@ -20245,7 +20245,7 @@ eminently:
     pronunciation:
     - value: ˈɛmɪnəntli
     sense:
-    - id: 'eminently%4:02:00::'
+    - id: 'eminently%4:51:00::'
       pertainym:
       - eminent%5:00:00:superior:01
       synset: 00329771-r
@@ -20560,12 +20560,12 @@ emotionally:
       variety: GB
     sense:
     - antonym:
-      - 'unemotionally%4:02:00::'
-      id: 'emotionally%4:02:01::'
+      - 'unemotionally%4:45:00::'
+      id: 'emotionally%4:45:01::'
       pertainym:
       - 'emotional%3:00:00::'
       synset: 00187156-r
-    - id: 'emotionally%4:02:00::'
+    - id: 'emotionally%4:52:00::'
       pertainym:
       - 'emotional%3:01:00::'
       synset: 00187053-r
@@ -20580,7 +20580,7 @@ emotionless:
 emotionlessly:
   r:
     sense:
-    - id: 'emotionlessly%4:02:00::'
+    - id: 'emotionlessly%4:45:00::'
       synset: 00187293-r
 emotionlessness:
   n:
@@ -20634,7 +20634,7 @@ empathetic:
 empathetically:
   r:
     sense:
-    - id: 'empathetically%4:02:00::'
+    - id: 'empathetically%4:45:00::'
       pertainym:
       - empathetic%5:00:00:sympathetic:00
       synset: 00193863-r
@@ -20846,7 +20846,7 @@ emphatically:
     pronunciation:
     - value: ɛmˈfætɪkli
     sense:
-    - id: 'emphatically%4:02:00::'
+    - id: 'emphatically%4:51:00::'
       pertainym:
       - emphatic%5:00:00:assertive:00
       synset: 00037329-r
@@ -20945,8 +20945,8 @@ empirically:
   r:
     sense:
     - antonym:
-      - 'theoretically%4:02:01::'
-      id: 'empirically%4:02:00::'
+      - 'theoretically%4:45:01::'
+      id: 'empirically%4:45:00::'
       pertainym:
       - 'empirical%3:00:00::'
       synset: 00084388-r
@@ -21541,7 +21541,7 @@ emulous:
 emulously:
   r:
     sense:
-    - id: 'emulously%4:02:00::'
+    - id: 'emulously%4:45:00::'
       pertainym:
       - emulous%5:00:00:competitive:00
       synset: 00329932-r
@@ -21627,12 +21627,12 @@ en:
 en bloc:
   r:
     sense:
-    - id: 'en_bloc%4:02:00::'
+    - id: 'en_bloc%4:45:00::'
       synset: 00158427-r
 en clair:
   r:
     sense:
-    - id: 'en_clair%4:02:00::'
+    - id: 'en_clair%4:45:00::'
       synset: 00253817-r
 en dash:
   n:
@@ -21650,7 +21650,7 @@ en famille:
     - value: ˌɒ̃ faˈmiː
       variety: GB
     sense:
-    - id: 'en_famille%4:02:00::'
+    - id: 'en_famille%4:50:00::'
       synset: 00253874-r
 en garde:
   a:
@@ -21665,7 +21665,7 @@ en masse:
     - value: ɪn ˈmæs
       variety: US
     sense:
-    - id: 'en_masse%4:02:00::'
+    - id: 'en_masse%4:45:00::'
       synset: 00158427-r
 en passant:
   n:
@@ -21684,12 +21684,12 @@ en passant:
     - value: ɑ̃ pæˈsɑ̃
       variety: US
     sense:
-    - id: 'en_passant%4:02:00::'
+    - id: 'en_passant%4:45:00::'
       synset: 00167590-r
 en route:
   r:
     sense:
-    - id: 'en_route%4:02:00::'
+    - id: 'en_route%4:50:00::'
       synset: 00172731-r
 enable:
   v:
@@ -22188,7 +22188,7 @@ enchanting:
 enchantingly:
   r:
     sense:
-    - id: 'enchantingly%4:02:00::'
+    - id: 'enchantingly%4:51:00::'
       pertainym:
       - enchanting%5:00:00:attractive:01
       synset: 00280264-r
@@ -22688,8 +22688,8 @@ encouragingly:
   r:
     sense:
     - antonym:
-      - 'discouragingly%4:02:00::'
-      id: 'encouragingly%4:02:00::'
+      - 'discouragingly%4:51:00::'
+      id: 'encouragingly%4:45:00::'
       pertainym:
       - 'encouraging%3:00:00::'
       synset: 00330072-r
@@ -23143,7 +23143,7 @@ end of the world:
 end on:
   r:
     sense:
-    - id: 'end_on%4:02:00::'
+    - id: 'end_on%4:50:00::'
       synset: 00330385-r
 end organ:
   n:
@@ -23208,7 +23208,7 @@ end-to-end:
       synset: 01448075-s
   r:
     sense:
-    - id: 'end-to-end%4:02:00::'
+    - id: 'end-to-end%4:49:00::'
       synset: 00103637-r
 endaemonism:
   n:
@@ -23303,7 +23303,7 @@ endearing:
 endearingly:
   r:
     sense:
-    - id: 'endearingly%4:02:00::'
+    - id: 'endearingly%4:45:00::'
       pertainym:
       - endearing%5:00:00:lovable:00
       synset: 00266729-r
@@ -23535,17 +23535,17 @@ endless:
 endlessly:
   r:
     sense:
-    - id: 'endlessly%4:02:00::'
+    - id: 'endlessly%4:51:00::'
       pertainym:
       - endless%5:00:00:infinite:00
       synset: 00226558-r
-    - id: 'endlessly%4:02:01::'
+    - id: 'endlessly%4:45:01::'
       pertainym:
       - endless%5:00:00:infinite:00
       synset: 00284287-r
-    - id: 'endlessly%4:02:04::'
+    - id: 'endlessly%4:45:04::'
       synset: 00382155-r
-    - id: 'endlessly%4:02:02::'
+    - id: 'endlessly%4:49:02::'
       pertainym:
       - endless%5:00:00:long:02
       synset: 00284664-r
@@ -23810,7 +23810,7 @@ endogenous depression:
 endogenously:
   r:
     sense:
-    - id: 'endogenously%4:02:00::'
+    - id: 'endogenously%4:45:00::'
       pertainym:
       - 'endogenous%3:00:00::'
       synset: 00516126-r
@@ -24370,7 +24370,7 @@ enduring:
 enduringly:
   r:
     sense:
-    - id: 'enduringly%4:02:00::'
+    - id: 'enduringly%4:49:00::'
       pertainym:
       - enduring%5:00:00:permanent:00
       synset: 00251832-r
@@ -24384,20 +24384,20 @@ enduringness:
 endways:
   r:
     sense:
-    - id: 'endways%4:02:02::'
+    - id: 'endways%4:45:02::'
       synset: 00330623-r
-    - id: 'endways%4:02:01::'
+    - id: 'endways%4:45:01::'
       synset: 00330507-r
-    - id: 'endways%4:02:00::'
+    - id: 'endways%4:50:00::'
       synset: 00330385-r
 endwise:
   r:
     sense:
-    - id: 'endwise%4:02:02::'
+    - id: 'endwise%4:45:02::'
       synset: 00330623-r
-    - id: 'endwise%4:02:01::'
+    - id: 'endwise%4:45:01::'
       synset: 00330507-r
-    - id: 'endwise%4:02:00::'
+    - id: 'endwise%4:50:00::'
       synset: 00330385-r
 enema:
   n:
@@ -24448,7 +24448,7 @@ energetic monism:
 energetically:
   r:
     sense:
-    - id: 'energetically%4:02:01::'
+    - id: 'energetically%4:45:01::'
       pertainym:
       - 'energetic%3:00:00::'
       synset: 00091139-r
@@ -25089,7 +25089,7 @@ engaging:
 engagingly:
   r:
     sense:
-    - id: 'engagingly%4:02:00::'
+    - id: 'engagingly%4:45:00::'
       pertainym:
       - engaging%5:00:00:attractive:01
       synset: 00238567-r
@@ -25565,7 +25565,7 @@ enigmatical canon:
 enigmatically:
   r:
     sense:
-    - id: 'enigmatically%4:02:00::'
+    - id: 'enigmatically%4:45:00::'
       pertainym:
       - enigmatic%5:00:00:incomprehensible:00
       synset: 00298090-r
@@ -25716,7 +25716,7 @@ enjoyableness:
 enjoyably:
   r:
     sense:
-    - id: 'enjoyably%4:02:00::'
+    - id: 'enjoyably%4:51:00::'
       pertainym:
       - enjoyable%5:00:00:pleasant:00
       synset: 00220590-r
@@ -26209,7 +26209,7 @@ enormous:
 enormously:
   r:
     sense:
-    - id: 'enormously%4:02:00::'
+    - id: 'enormously%4:51:00::'
       pertainym:
       - enormous%5:00:00:large:00
       synset: 00197952-r
@@ -26244,7 +26244,7 @@ enough:
     pronunciation:
     - value: ɪˈnʌf
     sense:
-    - id: 'enough%4:02:00::'
+    - id: 'enough%4:51:00::'
       synset: 00146749-r
 enounce:
   v:
@@ -26315,7 +26315,7 @@ enquirer:
 enquiringly:
   r:
     sense:
-    - id: 'enquiringly%4:02:00::'
+    - id: 'enquiringly%4:45:00::'
       synset: 00378258-r
 enquiry:
   n:
@@ -27116,7 +27116,7 @@ enterprising:
 enterprisingly:
   r:
     sense:
-    - id: 'enterprisingly%4:02:00::'
+    - id: 'enterprisingly%4:45:00::'
       pertainym:
       - 'enterprising%3:00:00::'
       synset: 00330729-r
@@ -27178,7 +27178,7 @@ entertaining:
 entertainingly:
   r:
     sense:
-    - id: 'entertainingly%4:02:00::'
+    - id: 'entertainingly%4:45:00::'
       synset: 00330871-r
 entertainment:
   n:
@@ -27257,7 +27257,7 @@ enthralling:
 enthrallingly:
   r:
     sense:
-    - id: 'enthrallingly%4:02:00::'
+    - id: 'enthrallingly%4:51:00::'
       pertainym:
       - enthralling%5:00:00:attractive:01
       synset: 00280264-r
@@ -27389,12 +27389,12 @@ enthusiastically:
   r:
     sense:
     - antonym:
-      - 'unenthusiastically%4:02:00::'
-      id: 'enthusiastically%4:02:00::'
+      - 'unenthusiastically%4:45:00::'
+      id: 'enthusiastically%4:45:00::'
       pertainym:
       - 'enthusiastic%3:00:00::'
       synset: 00190291-r
-    - id: 'enthusiastically%4:02:01::'
+    - id: 'enthusiastically%4:51:01::'
       synset: 00458782-r
 entice:
   v:
@@ -27480,11 +27480,11 @@ entirely:
     - value: ɪnˈtaɪɹli
       variety: US
     sense:
-    - id: 'entirely%4:02:00::'
+    - id: 'entirely%4:51:00::'
       pertainym:
       - entire%5:00:01:whole:00
       synset: 00008423-r
-    - id: 'entirely%4:02:02::'
+    - id: 'entirely%4:51:02::'
       synset: 00009062-r
 entireness:
   n:
@@ -27869,7 +27869,7 @@ entreat:
 entreatingly:
   r:
     sense:
-    - id: 'entreatingly%4:02:00::'
+    - id: 'entreatingly%4:45:00::'
       synset: 00280063-r
 entreaty:
   n:
@@ -28265,7 +28265,7 @@ enviable:
 enviably:
   r:
     sense:
-    - id: 'enviably%4:02:00::'
+    - id: 'enviably%4:51:00::'
       pertainym:
       - enviable%5:00:00:desirable:00
       synset: 00004306-r
@@ -28282,7 +28282,7 @@ envious:
 enviously:
   r:
     sense:
-    - id: 'enviously%4:02:00::'
+    - id: 'enviously%4:45:00::'
       pertainym:
       - envious%5:00:00:desirous:00
       synset: 00304549-r
@@ -28362,7 +28362,7 @@ environmentalist:
 environmentally:
   r:
     sense:
-    - id: 'environmentally%4:02:00::'
+    - id: 'environmentally%4:52:00::'
       pertainym:
       - 'environmental%3:01:00::'
       synset: 00331028-r
@@ -29844,7 +29844,7 @@ episodic memory:
 episodically:
   r:
     sense:
-    - id: 'episodically%4:02:00::'
+    - id: 'episodically%4:48:00::'
       pertainym:
       - episodic%5:00:00:unpredictable:00
       synset: 00142439-r
@@ -30304,7 +30304,7 @@ equable:
 equably:
   r:
     sense:
-    - id: 'equably%4:02:00::'
+    - id: 'equably%4:51:00::'
       pertainym:
       - equable%5:00:00:good-natured:00
       synset: 00331161-r
@@ -30545,13 +30545,13 @@ equally:
     pronunciation:
     - value: ˈiːkwəli
     sense:
-    - id: 'equally%4:02:01::'
+    - id: 'equally%4:51:01::'
       pertainym:
       - 'equal%3:00:00::'
       synset: 00022585-r
     - antonym:
-      - 'unequally%4:02:02::'
-      id: 'equally%4:02:02::'
+      - 'unequally%4:45:02::'
+      id: 'equally%4:45:02::'
       pertainym:
       - 'equal%3:00:00::'
       synset: 00333793-r
@@ -31103,8 +31103,8 @@ equitably:
       variety: US
     sense:
     - antonym:
-      - 'inequitably%4:02:00::'
-      id: 'equitably%4:02:00::'
+      - 'inequitably%4:45:00::'
+      id: 'equitably%4:45:00::'
       pertainym:
       - 'equitable%3:00:00::'
       synset: 00331271-r
@@ -31210,7 +31210,7 @@ equivocal:
 equivocally:
   r:
     sense:
-    - id: 'equivocally%4:02:00::'
+    - id: 'equivocally%4:45:00::'
       pertainym:
       - 'equivocal%3:00:00::'
       synset: 00221803-r
@@ -31515,7 +31515,7 @@ erection ring:
 erectly:
   r:
     sense:
-    - id: 'erectly%4:02:00::'
+    - id: 'erectly%4:45:00::'
       pertainym:
       - 'erect%3:00:00::'
       synset: 00331596-r
@@ -31609,7 +31609,7 @@ ergo:
     - value: ˈɝɡoʊ
       variety: US
     sense:
-    - id: 'ergo%4:02:00::'
+    - id: 'ergo%4:54:00::'
       synset: 00043757-r
 ergocalciferol:
   n:
@@ -31929,7 +31929,7 @@ erotica:
 erotically:
   r:
     sense:
-    - id: 'erotically%4:02:00::'
+    - id: 'erotically%4:45:00::'
       pertainym:
       - erotic%5:00:00:sexy:00
       synset: 00516208-r
@@ -32037,7 +32037,7 @@ erratically:
     - value: ɪˈɹæt.ɪk.li
       variety: US
     sense:
-    - id: 'erratically%4:02:00::'
+    - id: 'erratically%4:45:00::'
       pertainym:
       - erratic%5:00:00:changeable:00
       synset: 00108490-r
@@ -32087,7 +32087,7 @@ erroneously:
     pronunciation:
     - value: ɪˈɹəʊnɪəsli
     sense:
-    - id: 'erroneously%4:02:00::'
+    - id: 'erroneously%4:46:00::'
       pertainym:
       - erroneous%5:00:00:incorrect:00
       synset: 00196934-r
@@ -32161,7 +32161,7 @@ ersatz:
 erst:
   r:
     sense:
-    - id: 'erst%4:02:00::'
+    - id: 'erst%4:49:00::'
       synset: 00119861-r
 erstwhile:
   a:
@@ -32181,7 +32181,7 @@ erstwhile:
     - value: ˈɚst.waɪl
       variety: US
     sense:
-    - id: 'erstwhile%4:02:00::'
+    - id: 'erstwhile%4:49:00::'
       synset: 00119861-r
 eruct:
   v:
@@ -32229,7 +32229,7 @@ erudite:
 eruditely:
   r:
     sense:
-    - id: 'eruditely%4:02:00::'
+    - id: 'eruditely%4:45:00::'
       pertainym:
       - erudite%5:00:00:scholarly:00
       synset: 00331730-r
@@ -32874,7 +32874,7 @@ eschatological:
 eschatologically:
   r:
     sense:
-    - id: 'eschatologically%4:02:00::'
+    - id: 'eschatologically%4:52:00::'
       pertainym:
       - 'eschatological%3:01:00::'
       synset: 00085466-r
@@ -33154,11 +33154,11 @@ especially:
     pronunciation:
     - value: ɪˈspɛʃ(ə)li
     sense:
-    - id: 'especially%4:02:00::'
+    - id: 'especially%4:51:00::'
       pertainym:
       - especial%5:00:00:uncommon:00
       synset: 00084573-r
-    - id: 'especially%4:02:01::'
+    - id: 'especially%4:45:01::'
       pertainym:
       - especial%5:00:00:uncommon:00
       synset: 00504802-r
@@ -33452,7 +33452,7 @@ essentially:
     pronunciation:
     - value: ɪˈsɛnʃəli
     sense:
-    - id: 'essentially%4:02:01::'
+    - id: 'essentially%4:51:01::'
       pertainym:
       - 'essential%3:00:00::'
       synset: 00003864-r
@@ -33761,7 +33761,7 @@ esthetical:
 esthetically:
   r:
     sense:
-    - id: 'esthetically%4:02:00::'
+    - id: 'esthetically%4:52:00::'
       pertainym:
       - esthetic%5:00:00:tasteful:02
       synset: 00262662-r
@@ -34125,36 +34125,36 @@ esurient:
 et al:
   r:
     sense:
-    - id: 'et_al%4:02:00::'
+    - id: 'et_al%4:53:00::'
       synset: 00192785-r
-    - id: 'et_al%4:02:01::'
+    - id: 'et_al%4:53:01::'
       synset: 00192665-r
 et al.:
   r:
     sense:
-    - id: 'et_al.%4:02:00::'
+    - id: 'et_al.%4:53:00::'
       synset: 00192785-r
-    - id: 'et_al.%4:02:01::'
+    - id: 'et_al.%4:53:01::'
       synset: 00192665-r
 et alia:
   r:
     sense:
-    - id: 'et_alia%4:02:00::'
+    - id: 'et_alia%4:53:00::'
       synset: 00192785-r
 et aliae:
   r:
     sense:
-    - id: 'et_aliae%4:02:00::'
+    - id: 'et_aliae%4:53:00::'
       synset: 00192785-r
 et alibi:
   r:
     sense:
-    - id: 'et_alibi%4:02:00::'
+    - id: 'et_alibi%4:53:00::'
       synset: 00192665-r
 et alii:
   r:
     sense:
-    - id: 'et_alii%4:02:00::'
+    - id: 'et_alii%4:53:00::'
       synset: 00192785-r
 eta:
   n:
@@ -34191,7 +34191,7 @@ etc.:
     pronunciation:
     - value: ˌɛt ˈsɛt(ə)ɹə
     sense:
-    - id: 'etc.%4:02:00::'
+    - id: 'etc.%4:53:00::'
       synset: 00104351-r
 etcetera:
   n:
@@ -34200,7 +34200,7 @@ etcetera:
       synset: 03304208-n
   r:
     sense:
-    - id: 'etcetera%4:02:00::'
+    - id: 'etcetera%4:53:00::'
       synset: 00104351-r
 etch:
   v:
@@ -34323,7 +34323,7 @@ eternally:
     pronunciation:
     - value: ɪˈtɜː(ɹ)nəli
     sense:
-    - id: 'eternally%4:02:00::'
+    - id: 'eternally%4:49:00::'
       pertainym:
       - eternal%5:00:00:permanent:00
       synset: 00088030-r
@@ -34626,8 +34626,8 @@ ethically:
   r:
     sense:
     - antonym:
-      - 'unethically%4:02:00::'
-      id: 'ethically%4:02:00::'
+      - 'unethically%4:45:00::'
+      id: 'ethically%4:45:00::'
       pertainym:
       - 'ethical%3:00:00::'
       synset: 00331898-r
@@ -34777,7 +34777,7 @@ ethnical:
 ethnically:
   r:
     sense:
-    - id: 'ethnically%4:02:00::'
+    - id: 'ethnically%4:52:00::'
       pertainym:
       - ethnic%5:00:00:social:00
       synset: 00124579-r
@@ -35583,7 +35583,7 @@ euphemistic:
 euphemistically:
   r:
     sense:
-    - id: 'euphemistically%4:02:00::'
+    - id: 'euphemistically%4:45:00::'
       pertainym:
       - 'euphemistic%3:00:00::'
       synset: 00332226-r
@@ -36363,7 +36363,7 @@ evasive answer:
 evasively:
   r:
     sense:
-    - id: 'evasively%4:02:00::'
+    - id: 'evasively%4:45:00::'
       pertainym:
       - evasive%5:00:00:equivocal:00
       synset: 00332382-r
@@ -36422,13 +36422,13 @@ even:
       synset: 15191509-n
   r:
     sense:
-    - id: 'even%4:02:00::'
+    - id: 'even%4:53:00::'
       synset: 00017907-r
-    - id: 'even%4:02:03::'
+    - id: 'even%4:53:03::'
       synset: 00018505-r
-    - id: 'even%4:02:01::'
+    - id: 'even%4:53:01::'
       synset: 00018101-r
-    - id: 'even%4:02:04::'
+    - id: 'even%4:53:04::'
       synset: 00018651-r
   v:
     sense:
@@ -36453,12 +36453,12 @@ even:
 even a little:
   r:
     sense:
-    - id: 'even_a_little%4:02:00::'
+    - id: 'even_a_little%4:51:00::'
       synset: 00151616-r
 even as:
   r:
     sense:
-    - id: 'even_as%4:02:01::'
+    - id: 'even_as%4:54:01::'
       synset: 00018343-r
 even chance:
   n:
@@ -36500,7 +36500,7 @@ even out:
 even so:
   r:
     sense:
-    - id: 'even_so%4:02:00::'
+    - id: 'even_so%4:54:00::'
       synset: 00027761-r
 even spacing:
   n:
@@ -36567,7 +36567,7 @@ evenhanded:
 evenhandedly:
   r:
     sense:
-    - id: 'evenhandedly%4:02:00::'
+    - id: 'evenhandedly%4:45:00::'
       synset: 00107446-r
 evening:
   n:
@@ -36658,14 +36658,14 @@ evenly:
   r:
     sense:
     - antonym:
-      - 'unevenly%4:02:01::'
-      id: 'evenly%4:02:01::'
+      - 'unevenly%4:45:01::'
+      id: 'evenly%4:45:01::'
       pertainym:
       - even%5:00:01:equal:00
       synset: 00333793-r
     - antonym:
-      - 'unevenly%4:02:00::'
-      id: 'evenly%4:02:00::'
+      - 'unevenly%4:45:00::'
+      id: 'evenly%4:45:00::'
       pertainym:
       - 'even%3:00:01::'
       synset: 00332587-r
@@ -36759,7 +36759,7 @@ eventually:
     - value: ɪ.ˈvɛn.t͡ʃu.ə.li
       variety: US
     sense:
-    - id: 'eventually%4:02:00::'
+    - id: 'eventually%4:49:00::'
       pertainym:
       - eventual%5:00:00:ultimate:00
       synset: 00048676-r
@@ -36783,20 +36783,20 @@ ever:
     - value: ˈɛvɚ
       variety: US
     sense:
-    - id: 'ever%4:02:04::'
+    - id: 'ever%4:49:04::'
       synset: 00147423-r
     - antonym:
-      - 'never%4:02:00::'
-      id: 'ever%4:02:00::'
+      - 'never%4:48:00::'
+      id: 'ever%4:48:00::'
       synset: 00019801-r
-    - id: 'ever%4:02:05::'
+    - id: 'ever%4:51:05::'
       synset: 00213902-r
 ever so:
   r:
     pronunciation:
     - value: ˈɛvə(ɹ) ˌsoʊ
     sense:
-    - id: 'ever_so%4:02:00::'
+    - id: 'ever_so%4:51:00::'
       synset: 00213902-r
 ever-changing:
   a:
@@ -36935,7 +36935,7 @@ everlasting pea:
 everlastingly:
   r:
     sense:
-    - id: 'everlastingly%4:02:00::'
+    - id: 'everlastingly%4:49:00::'
       pertainym:
       - everlasting%5:00:00:permanent:00
       synset: 00088030-r
@@ -36955,9 +36955,9 @@ evermore:
       variety: GB
     - value: ˌɛvɚˈmo(ː)ɹ
     sense:
-    - id: 'evermore%4:02:01::'
+    - id: 'evermore%4:49:01::'
       synset: 00334320-r
-    - id: 'evermore%4:02:00::'
+    - id: 'evermore%4:49:00::'
       synset: 00088030-r
 eversion:
   n:
@@ -37012,12 +37012,12 @@ every:
 every bit:
   r:
     sense:
-    - id: 'every_bit%4:02:00::'
+    - id: 'every_bit%4:51:00::'
       synset: 00022585-r
 every inch:
   r:
     sense:
-    - id: 'every_inch%4:02:00::'
+    - id: 'every_inch%4:51:00::'
       synset: 00158651-r
 every last:
   a:
@@ -37028,39 +37028,39 @@ every last:
 every night:
   r:
     sense:
-    - id: 'every_night%4:02:00::'
+    - id: 'every_night%4:48:00::'
       synset: 00412120-r
 every now and then:
   r:
     sense:
-    - id: 'every_now_and_then%4:02:00::'
+    - id: 'every_now_and_then%4:48:00::'
       synset: 00158535-r
 every quarter:
   r:
     sense:
-    - id: 'every_quarter%4:02:00::'
+    - id: 'every_quarter%4:48:00::'
       synset: 00438741-r
 every so often:
   r:
     sense:
-    - id: 'every_so_often%4:02:00::'
+    - id: 'every_so_often%4:48:00::'
       synset: 00158535-r
 every week:
   r:
     sense:
-    - id: 'every_week%4:02:00::'
+    - id: 'every_week%4:48:00::'
       synset: 00081941-r
 every which way:
   r:
     sense:
-    - id: 'every_which_way%4:02:01::'
+    - id: 'every_which_way%4:45:01::'
       synset: 00071165-r
-    - id: 'every_which_way%4:02:00::'
+    - id: 'every_which_way%4:45:00::'
       synset: 00164789-r
 every year:
   r:
     sense:
-    - id: 'every_year%4:02:00::'
+    - id: 'every_year%4:48:00::'
       synset: 00082087-r
 everyday:
   a:
@@ -37093,7 +37093,7 @@ everyman:
 everyplace:
   r:
     sense:
-    - id: 'everyplace%4:02:00::'
+    - id: 'everyplace%4:50:00::'
       synset: 00026137-r
 everything:
   n:
@@ -37108,7 +37108,7 @@ everywhere:
     - value: ɛv.ɹi.(h)wɛɹ
       variety: US
     sense:
-    - id: 'everywhere%4:02:00::'
+    - id: 'everywhere%4:50:00::'
       synset: 00026137-r
 everywoman:
   n:
@@ -37252,7 +37252,7 @@ evidently:
     - value: ˈɛvɪdəntli
       variety: GB
     sense:
-    - id: 'evidently%4:02:00::'
+    - id: 'evidently%4:51:00::'
       pertainym:
       - evident%5:00:00:obvious:00
       synset: 00039730-r
@@ -37317,7 +37317,7 @@ evilly:
     - value: ˈivəli
       variety: US
     sense:
-    - id: 'evilly%4:02:00::'
+    - id: 'evilly%4:45:00::'
       pertainym:
       - 'evil%3:00:00::'
       synset: 00145622-r
@@ -37500,7 +37500,7 @@ evolution:
 evolutionarily:
   r:
     sense:
-    - id: 'evolutionarily%4:02:00::'
+    - id: 'evolutionarily%4:52:00::'
       pertainym:
       - 'evolutionary%3:01:00::'
       synset: 00332684-r
@@ -37599,7 +37599,7 @@ ex:
 ex cathedra:
   r:
     sense:
-    - id: 'ex_cathedra%4:02:00::'
+    - id: 'ex_cathedra%4:45:00::'
       synset: 00084962-r
 ex gratia:
   a:
@@ -37622,7 +37622,7 @@ ex officio:
     pronunciation:
     - value: ˌɛks əˈfɪʃioʊ
     sense:
-    - id: 'ex_officio%4:02:00::'
+    - id: 'ex_officio%4:52:00::'
       synset: 00253968-r
 ex post facto:
   a:
@@ -37632,7 +37632,7 @@ ex post facto:
 ex tempore:
   r:
     sense:
-    - id: 'ex_tempore%4:02:00::'
+    - id: 'ex_tempore%4:45:00::'
       synset: 00260899-r
 ex vivo:
   a:
@@ -37641,7 +37641,7 @@ ex vivo:
       synset: 01362125-a
   r:
     sense:
-    - id: 'ex_vivo%4:02:00::'
+    - id: 'ex_vivo%4:50:00::'
       synset: 00516462-r
 ex-ante evaluation:
   n:
@@ -37838,15 +37838,15 @@ exactly:
     pronunciation:
     - value: ɪɡˈzæk(t)li
     sense:
-    - id: 'exactly%4:02:01::'
+    - id: 'exactly%4:51:01::'
       pertainym:
       - 'exact%3:00:00::'
       synset: 00159432-r
-    - id: 'exactly%4:02:04::'
+    - id: 'exactly%4:51:04::'
       synset: 00370459-r
     - antonym:
-      - 'inexactly%4:02:00::'
-      id: 'exactly%4:02:02::'
+      - 'inexactly%4:45:00::'
+      id: 'exactly%4:45:02::'
       pertainym:
       - exact%5:00:00:correct:00
       synset: 00370083-r
@@ -37902,7 +37902,7 @@ exaggerated:
 exaggeratedly:
   r:
     sense:
-    - id: 'exaggeratedly%4:02:00::'
+    - id: 'exaggeratedly%4:45:00::'
       synset: 00191026-r
 exaggeration:
   n:
@@ -38284,7 +38284,7 @@ exasperating:
 exasperatingly:
   r:
     sense:
-    - id: 'exasperatingly%4:02:00::'
+    - id: 'exasperatingly%4:51:00::'
       pertainym:
       - exasperating%5:00:00:displeasing:00
       synset: 00085603-r
@@ -38466,7 +38466,7 @@ exceedingly:
     pronunciation:
     - value: ɪkˈsiːdɪŋli
     sense:
-    - id: 'exceedingly%4:02:00::'
+    - id: 'exceedingly%4:51:00::'
       synset: 00046739-r
 excel:
   v:
@@ -38528,7 +38528,7 @@ excellent:
 excellently:
   r:
     sense:
-    - id: 'excellently%4:02:00::'
+    - id: 'excellently%4:45:00::'
       pertainym:
       - excellent%5:00:00:superior:02
       synset: 00183802-r
@@ -38602,7 +38602,7 @@ exceptional:
 exceptionally:
   r:
     sense:
-    - id: 'exceptionally%4:02:00::'
+    - id: 'exceptionally%4:51:00::'
       pertainym:
       - exceptional%5:00:00:extraordinary:00
       synset: 00180279-r
@@ -38676,7 +38676,7 @@ excessively:
     pronunciation:
     - value: ɪkˈsɛsɪvli
     sense:
-    - id: 'excessively%4:02:00::'
+    - id: 'excessively%4:51:00::'
       pertainym:
       - excessive%5:00:00:immoderate:00
       synset: 00047930-r
@@ -39112,7 +39112,7 @@ excited:
 excitedly:
   r:
     sense:
-    - id: 'excitedly%4:02:00::'
+    - id: 'excitedly%4:45:00::'
       pertainym:
       - 'excited%3:00:00::'
       synset: 00155110-r
@@ -39153,8 +39153,8 @@ excitingly:
   r:
     sense:
     - antonym:
-      - 'unexcitingly%4:02:00::'
-      id: 'excitingly%4:02:00::'
+      - 'unexcitingly%4:45:00::'
+      id: 'excitingly%4:45:00::'
       pertainym:
       - 'exciting%3:00:00::'
       synset: 00334438-r
@@ -39365,7 +39365,7 @@ exclusively:
     pronunciation:
     - value: ɪkˈskluːsɪvli
     sense:
-    - id: 'exclusively%4:02:00::'
+    - id: 'exclusively%4:51:00::'
       pertainym:
       - exclusive%5:00:00:unshared:00
       synset: 00009062-r
@@ -39628,7 +39628,7 @@ excruciatingly:
     pronunciation:
     - value: ɛkˈskɹuːʃiːeɪtɪŋli
     sense:
-    - id: 'excruciatingly%4:02:00::'
+    - id: 'excruciatingly%4:51:00::'
       pertainym:
       - excruciating%5:00:00:painful:00
       synset: 00262820-r
@@ -39740,8 +39740,8 @@ excusably:
   r:
     sense:
     - antonym:
-      - 'inexcusably%4:02:00::'
-      id: 'excusably%4:02:00::'
+      - 'inexcusably%4:51:00::'
+      id: 'excusably%4:46:00::'
       pertainym:
       - excusable%5:00:00:pardonable:00
       synset: 00334820-r
@@ -40843,7 +40843,7 @@ exhaustively:
     - value: ɛɡˈzɑ.stɪv.li
       variety: US
     sense:
-    - id: 'exhaustively%4:02:00::'
+    - id: 'exhaustively%4:45:00::'
       synset: 00057795-r
 exhibit:
   n:
@@ -41651,7 +41651,7 @@ exorbitant:
 exorbitantly:
   r:
     sense:
-    - id: 'exorbitantly%4:02:00::'
+    - id: 'exorbitantly%4:51:00::'
       pertainym:
       - exorbitant%5:00:00:immoderate:00
       synset: 00335337-r
@@ -42087,11 +42087,11 @@ expansive bit:
 expansively:
   r:
     sense:
-    - id: 'expansively%4:02:01::'
+    - id: 'expansively%4:45:01::'
       pertainym:
       - expansive%5:00:00:impressive:00
       synset: 00507174-r
-    - id: 'expansively%4:02:00::'
+    - id: 'expansively%4:45:00::'
       pertainym:
       - expansive%5:00:00:euphoric:00
       synset: 00325982-r
@@ -42298,7 +42298,7 @@ expectant:
 expectantly:
   r:
     sense:
-    - id: 'expectantly%4:02:00::'
+    - id: 'expectantly%4:45:00::'
       pertainym:
       - expectant%5:00:00:hopeful:00
       synset: 00247536-r
@@ -42451,8 +42451,8 @@ expediently:
   r:
     sense:
     - antonym:
-      - 'inexpediently%4:02:00::'
-      id: 'expediently%4:02:00::'
+      - 'inexpediently%4:45:00::'
+      id: 'expediently%4:45:00::'
       pertainym:
       - 'expedient%3:00:00::'
       synset: 00335532-r
@@ -42515,7 +42515,7 @@ expeditiously:
     - value: ɛks.pəˈdɪʃ.əs.li
       variety: GB
     sense:
-    - id: 'expeditiously%4:02:00::'
+    - id: 'expeditiously%4:45:00::'
       pertainym:
       - expeditious%5:00:00:efficient:00
       synset: 00237570-r
@@ -42687,8 +42687,8 @@ expensively:
   r:
     sense:
     - antonym:
-      - 'cheaply%4:02:01::'
-      id: 'expensively%4:02:00::'
+      - 'cheaply%4:45:01::'
+      id: 'expensively%4:45:00::'
       pertainym:
       - 'expensive%3:00:00::'
       synset: 00335764-r
@@ -42938,7 +42938,7 @@ experimentalism:
 experimentally:
   r:
     sense:
-    - id: 'experimentally%4:02:00::'
+    - id: 'experimentally%4:45:00::'
       pertainym:
       - experimental%5:00:01:empirical:00
       synset: 00085689-r
@@ -43016,8 +43016,8 @@ expertly:
   r:
     sense:
     - antonym:
-      - 'amateurishly%4:02:00::'
-      id: 'expertly%4:02:00::'
+      - 'amateurishly%4:45:00::'
+      id: 'expertly%4:45:00::'
       pertainym:
       - expert%5:00:00:skilled:00
       synset: 00215587-r
@@ -43332,8 +43332,8 @@ explicitly:
   r:
     sense:
     - antonym:
-      - 'implicitly%4:02:00::'
-      id: 'explicitly%4:02:00::'
+      - 'implicitly%4:45:00::'
+      id: 'explicitly%4:45:00::'
       pertainym:
       - 'explicit%3:00:00::'
       synset: 00369214-r
@@ -43757,9 +43757,9 @@ explosive unit:
 explosively:
   r:
     sense:
-    - id: 'explosively%4:02:00::'
+    - id: 'explosively%4:45:00::'
       synset: 00336120-r
-    - id: 'explosively%4:02:01::'
+    - id: 'explosively%4:51:01::'
       pertainym:
       - explosive%5:00:00:unstable:00
       synset: 00336240-r
@@ -43853,7 +43853,7 @@ exponentially:
     - value: ɛkspə(ʊ)ˈnɛnʃəli
       variety: GB
     sense:
-    - id: 'exponentially%4:02:00::'
+    - id: 'exponentially%4:51:00::'
       pertainym:
       - 'exponential%3:01:00::'
       synset: 00336392-r
@@ -44249,7 +44249,7 @@ express:
       synset: 01108365-n
   r:
     sense:
-    - id: 'express%4:02:00::'
+    - id: 'express%4:45:00::'
       synset: 00336514-r
   v:
     sense:
@@ -44498,8 +44498,8 @@ expressively:
   r:
     sense:
     - antonym:
-      - 'inexpressively%4:02:00::'
-      id: 'expressively%4:02:00::'
+      - 'inexpressively%4:45:00::'
+      id: 'expressively%4:45:00::'
       synset: 00336594-r
 expressiveness:
   n:
@@ -44513,7 +44513,7 @@ expressly:
     pronunciation:
     - value: ɪkˈspɹɛsli
     sense:
-    - id: 'expressly%4:02:00::'
+    - id: 'expressly%4:53:00::'
       pertainym:
       - express%5:00:00:explicit:00
       synset: 00085862-r
@@ -44645,7 +44645,7 @@ exquisite:
 exquisitely:
   r:
     sense:
-    - id: 'exquisitely%4:02:00::'
+    - id: 'exquisitely%4:45:00::'
       pertainym:
       - exquisite%5:00:00:delicate:00
       synset: 00103013-r
@@ -44708,14 +44708,14 @@ extemporaneous:
 extemporaneously:
   r:
     sense:
-    - id: 'extemporaneously%4:02:00::'
+    - id: 'extemporaneously%4:45:00::'
       pertainym:
       - extemporaneous%5:00:00:unprepared:00
       synset: 00336906-r
 extemporarily:
   r:
     sense:
-    - id: 'extemporarily%4:02:00::'
+    - id: 'extemporarily%4:45:00::'
       pertainym:
       - extemporary%5:00:00:unprepared:00
       synset: 00336906-r
@@ -44735,7 +44735,7 @@ extempore:
     pronunciation:
     - value: ɛkˈstɛmpəɹi
     sense:
-    - id: 'extempore%4:02:00::'
+    - id: 'extempore%4:45:00::'
       synset: 00336906-r
 extemporisation:
   n:
@@ -45094,7 +45094,7 @@ extensive:
 extensively:
   r:
     sense:
-    - id: 'extensively%4:02:00::'
+    - id: 'extensively%4:51:00::'
       pertainym:
       - extensive%5:00:00:large:00
       synset: 00037013-r
@@ -45523,12 +45523,12 @@ externally:
   r:
     sense:
     - antonym:
-      - 'internally%4:02:00::'
-      id: 'externally%4:02:01::'
+      - 'internally%4:50:00::'
+      id: 'externally%4:50:01::'
       pertainym:
       - 'external%3:00:00::'
       synset: 00250779-r
-    - id: 'externally%4:02:00::'
+    - id: 'externally%4:50:00::'
       synset: 00231947-r
 exteroception:
   n:
@@ -45826,7 +45826,7 @@ extortionate:
 extortionately:
   r:
     sense:
-    - id: 'extortionately%4:02:00::'
+    - id: 'extortionately%4:51:00::'
       pertainym:
       - extortionate%5:00:00:immoderate:00
       synset: 00335337-r
@@ -45868,7 +45868,7 @@ extra:
     pronunciation:
     - value: ˈɛkstɹə
     sense:
-    - id: 'extra%4:02:01::'
+    - id: 'extra%4:51:01::'
       synset: 00085109-r
 extra dividend:
   n:
@@ -46218,7 +46218,7 @@ extraordinaire:
 extraordinarily:
   r:
     sense:
-    - id: 'extraordinarily%4:02:00::'
+    - id: 'extraordinarily%4:51:00::'
       pertainym:
       - extraordinary%5:00:00:immoderate:00
       synset: 00047401-r
@@ -46415,13 +46415,13 @@ extravagant:
 extravagantly:
   r:
     sense:
-    - id: 'extravagantly%4:02:02::'
+    - id: 'extravagantly%4:51:02::'
       synset: 00215852-r
-    - id: 'extravagantly%4:02:00::'
+    - id: 'extravagantly%4:45:00::'
       pertainym:
       - extravagant%5:00:00:wasteful:00
       synset: 00337069-r
-    - id: 'extravagantly%4:02:01::'
+    - id: 'extravagantly%4:45:01::'
       synset: 00189129-r
 extravaganza:
   n:
@@ -46573,9 +46573,9 @@ extremely:
     pronunciation:
     - value: ɪksˈtɹiːmli
     sense:
-    - id: 'extremely%4:02:02::'
+    - id: 'extremely%4:51:02::'
       synset: 00089896-r
-    - id: 'extremely%4:02:00::'
+    - id: 'extremely%4:51:00::'
       pertainym:
       - extreme%5:00:00:intense:00
       synset: 00046739-r
@@ -46845,11 +46845,11 @@ exuberant:
 exuberantly:
   r:
     sense:
-    - id: 'exuberantly%4:02:00::'
+    - id: 'exuberantly%4:51:00::'
       pertainym:
       - exuberant%5:00:00:abundant:00
       synset: 00337268-r
-    - id: 'exuberantly%4:02:01::'
+    - id: 'exuberantly%4:45:01::'
       pertainym:
       - exuberant%5:00:00:spirited:00
       synset: 00325982-r
@@ -46967,7 +46967,7 @@ exultant:
 exultantly:
   r:
     sense:
-    - id: 'exultantly%4:02:00::'
+    - id: 'exultantly%4:45:00::'
       pertainym:
       - exultant%5:00:00:elated:00
       synset: 00229039-r
@@ -46992,7 +46992,7 @@ exulting:
 exultingly:
   r:
     sense:
-    - id: 'exultingly%4:02:00::'
+    - id: 'exultingly%4:45:00::'
       pertainym:
       - exulting%5:00:00:elated:00
       synset: 00229039-r
