@@ -2721,7 +2721,7 @@ jagged:
 jaggedly:
   r:
     sense:
-    - id: 'jaggedly%4:45:00::'
+    - id: 'jaggedly%4:02:00::'
       pertainym:
       - jagged%5:00:00:uneven:00
       synset: 00440739-r
@@ -3327,7 +3327,7 @@ jarring:
 jarringly:
   r:
     sense:
-    - id: 'jarringly%4:45:00::'
+    - id: 'jarringly%4:02:00::'
       pertainym:
       - jarring%5:00:00:cacophonous:00
       synset: 00385396-r
@@ -3442,7 +3442,7 @@ jauntily:
     - value: ˈdʒɑn.tɪ.li
       variety: US
     sense:
-    - id: 'jauntily%4:45:00::'
+    - id: 'jauntily%4:02:00::'
       pertainym:
       - jaunty%5:00:00:fashionable:00
       synset: 00409457-r
@@ -3770,11 +3770,11 @@ jealous:
 jealously:
   r:
     sense:
-    - id: 'jealously%4:45:00::'
+    - id: 'jealously%4:02:00::'
       pertainym:
       - jealous%5:00:00:desirous:00
       synset: 00385526-r
-    - id: 'jealously%4:45:01::'
+    - id: 'jealously%4:02:01::'
       pertainym:
       - jealous%5:00:00:desirous:00
       synset: 00304549-r
@@ -3850,7 +3850,7 @@ jeering:
 jeeringly:
   r:
     sense:
-    - id: 'jeeringly%4:45:00::'
+    - id: 'jeeringly%4:02:00::'
       pertainym:
       - jeering%5:00:00:disrespectful:00
       synset: 00349656-r
@@ -3887,7 +3887,7 @@ jejune:
 jejunely:
   r:
     sense:
-    - id: 'jejunely%4:45:00::'
+    - id: 'jejunely%4:02:00::'
       pertainym:
       - jejune%5:00:00:immature:02
       synset: 00385631-r
@@ -4295,11 +4295,11 @@ jerker:
 jerkily:
   r:
     sense:
-    - id: 'jerkily%4:45:01::'
+    - id: 'jerkily%4:02:01::'
       pertainym:
       - jerky%5:00:00:unsteady:00
       synset: 00465509-r
-    - id: 'jerkily%4:45:00::'
+    - id: 'jerkily%4:02:00::'
       synset: 00385934-r
 jerkin:
   n:
@@ -4484,7 +4484,7 @@ jesting:
 jestingly:
   r:
     sense:
-    - id: 'jestingly%4:45:00::'
+    - id: 'jestingly%4:02:00::'
       pertainym:
       - jesting%5:00:00:humorous:00
       synset: 00386040-r
@@ -5653,7 +5653,7 @@ jocose:
 jocosely:
   r:
     sense:
-    - id: 'jocosely%4:45:00::'
+    - id: 'jocosely%4:02:00::'
       pertainym:
       - jocose%5:00:00:humorous:00
       synset: 00386220-r
@@ -5698,7 +5698,7 @@ jocular:
       synset: 01270186-s
   r:
     sense:
-    - id: 'jocular%4:45:00::'
+    - id: 'jocular%4:02:00::'
       pertainym:
       - jocular%5:00:00:humorous:00
       synset: 00386220-r
@@ -6224,9 +6224,9 @@ jointing plane:
 jointly:
   r:
     sense:
-    - id: 'jointly%4:45:02::'
+    - id: 'jointly%4:02:02::'
       synset: 00199140-r
-    - id: 'jointly%4:45:00::'
+    - id: 'jointly%4:02:00::'
       pertainym:
       - 'joint%3:00:00::'
       synset: 00117989-r
@@ -6353,11 +6353,11 @@ joking:
 jokingly:
   r:
     sense:
-    - id: 'jokingly%4:45:00::'
+    - id: 'jokingly%4:02:00::'
       pertainym:
       - joking%5:00:00:humorous:00
       synset: 00386040-r
-    - id: 'jokingly%4:45:01::'
+    - id: 'jokingly%4:02:01::'
       pertainym:
       - joking%5:00:00:humorous:00
       synset: 00086017-r
@@ -6433,7 +6433,7 @@ jolly:
     - value: ˈdʒɑli
       variety: US
     sense:
-    - id: 'jolly%4:51:00::'
+    - id: 'jolly%4:02:00::'
       synset: 00036138-r
   v:
     form:
@@ -6853,7 +6853,7 @@ journalistic:
 journalistically:
   r:
     sense:
-    - id: 'journalistically%4:45:00::'
+    - id: 'journalistically%4:02:00::'
       pertainym:
       - 'journalistic%3:01:00::'
       synset: 00386371-r
@@ -7007,7 +7007,7 @@ jovially:
     - value: ˈdʒoʊ.vɪ.ə.li
       variety: US
     sense:
-    - id: 'jovially%4:45:00::'
+    - id: 'jovially%4:02:00::'
       pertainym:
       - jovial%5:00:00:joyous:00
       synset: 00386509-r
@@ -7088,8 +7088,8 @@ joyfully:
     - value: ˈdʒɔɪfəli
     sense:
     - antonym:
-      - 'joylessly%4:45:00::'
-      id: 'joyfully%4:45:00::'
+      - 'joylessly%4:02:00::'
+      id: 'joyfully%4:02:00::'
       pertainym:
       - joyful%5:00:00:joyous:00
       synset: 00350043-r
@@ -7114,8 +7114,8 @@ joylessly:
   r:
     sense:
     - antonym:
-      - 'joyfully%4:45:00::'
-      id: 'joylessly%4:45:00::'
+      - 'joyfully%4:02:00::'
+      id: 'joylessly%4:02:00::'
       pertainym:
       - 'joyless%3:00:00::'
       synset: 00350246-r
@@ -7141,7 +7141,7 @@ joyous:
 joyously:
   r:
     sense:
-    - id: 'joyously%4:45:00::'
+    - id: 'joyously%4:02:00::'
       pertainym:
       - 'joyous%3:00:00::'
       synset: 00350043-r
@@ -7226,7 +7226,7 @@ jubilantly:
     pronunciation:
     - value: ˈdʒuː.bɪ.lənt.li
     sense:
-    - id: 'jubilantly%4:45:00::'
+    - id: 'jubilantly%4:02:00::'
       pertainym:
       - jubilant%5:00:00:joyous:00
       synset: 00050835-r
@@ -7730,11 +7730,11 @@ judicial writ:
 judicially:
   r:
     sense:
-    - id: 'judicially%4:52:01::'
+    - id: 'judicially%4:02:01::'
       pertainym:
       - judicial%5:00:00:legal:00
       synset: 00516805-r
-    - id: 'judicially%4:52:00::'
+    - id: 'judicially%4:02:00::'
       pertainym:
       - 'judicial%3:01:00::'
       synset: 00144291-r
@@ -7767,8 +7767,8 @@ judiciously:
   r:
     sense:
     - antonym:
-      - 'injudiciously%4:45:00::'
-      id: 'judiciously%4:45:00::'
+      - 'injudiciously%4:02:00::'
+      id: 'judiciously%4:02:00::'
       synset: 00386616-r
 judiciousness:
   n:
@@ -9150,7 +9150,7 @@ jurisprudential:
 jurisprudentially:
   r:
     sense:
-    - id: 'jurisprudentially%4:52:00::'
+    - id: 'jurisprudentially%4:02:00::'
       pertainym:
       - 'jurisprudential%3:01:00::'
       synset: 00253591-r
@@ -9269,31 +9269,31 @@ just:
       synset: 02044341-s
   r:
     sense:
-    - id: 'just%4:53:00::'
+    - id: 'just%4:02:00::'
       synset: 00005103-r
-    - id: 'just%4:51:05::'
+    - id: 'just%4:02:05::'
       synset: 00159432-r
-    - id: 'just%4:49:01::'
+    - id: 'just%4:02:01::'
       synset: 00033695-r
-    - id: 'just%4:51:03::'
+    - id: 'just%4:02:03::'
       synset: 00247755-r
-    - id: 'just%4:51:04::'
+    - id: 'just%4:02:04::'
       synset: 00002669-r
-    - id: 'just%4:53:07::'
+    - id: 'just%4:02:07::'
       synset: 00301750-r
-    - id: 'just%4:49:06::'
+    - id: 'just%4:02:06::'
       synset: 00003175-r
-    - id: 'just%4:51:08::'
+    - id: 'just%4:02:08::'
       synset: 00002935-r
 just about:
   r:
     sense:
-    - id: 'just_about%4:49:00::'
+    - id: 'just_about%4:02:00::'
       synset: 00007414-r
 just as:
   r:
     sense:
-    - id: 'just_as%4:54:02::'
+    - id: 'just_as%4:02:02::'
       synset: 00018343-r
 just deserts:
   n:
@@ -9312,27 +9312,27 @@ just in case:
     pronunciation:
     - value: ˌdʒʌst ɪn ˈkeɪs
     sense:
-    - id: 'just_in_case%4:49:00::'
+    - id: 'just_in_case%4:02:00::'
       synset: 00165958-r
 just in time:
   r:
     sense:
-    - id: 'just_in_time%4:49:00::'
+    - id: 'just_in_time%4:02:00::'
       synset: 00168591-r
 just now:
   r:
     sense:
-    - id: 'just_now%4:49:00::'
+    - id: 'just_now%4:02:00::'
       synset: 00033695-r
 just right:
   r:
     sense:
-    - id: 'just_right%4:45:00::'
+    - id: 'just_right%4:02:00::'
       synset: 00173452-r
 just so:
   r:
     sense:
-    - id: 'just_so%4:45:00::'
+    - id: 'just_so%4:02:00::'
       synset: 00169253-r
 just the ticket:
   n:
@@ -9342,7 +9342,7 @@ just the ticket:
 just then:
   r:
     sense:
-    - id: 'just_then%4:49:00::'
+    - id: 'just_then%4:02:00::'
       synset: 00105927-r
 just-noticeable difference:
   n:
@@ -9390,8 +9390,8 @@ justifiably:
   r:
     sense:
     - antonym:
-      - 'unjustifiably%4:45:00::'
-      id: 'justifiably%4:45:00::'
+      - 'unjustifiably%4:02:00::'
+      id: 'justifiably%4:02:00::'
       pertainym:
       - justifiable%5:00:00:excusable:00
       synset: 00240401-r
@@ -9451,7 +9451,7 @@ justified:
 justifiedly:
   r:
     sense:
-    - id: 'justifiedly%4:47:00::'
+    - id: 'justifiedly%4:02:00::'
       synset: 00206702-r
 justifier:
   n:
@@ -9505,12 +9505,12 @@ justly:
       variety: GB
     sense:
     - antonym:
-      - 'unjustly%4:45:00::'
-      id: 'justly%4:47:01::'
+      - 'unjustly%4:02:00::'
+      id: 'justly%4:02:01::'
       pertainym:
       - 'just%3:00:00::'
       synset: 00206702-r
-    - id: 'justly%4:47:00::'
+    - id: 'justly%4:02:00::'
       pertainym:
       - 'just%3:00:00::'
       synset: 00206553-r

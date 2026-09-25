@@ -25,7 +25,7 @@ The names of the lexicographer files and their corresponding file numbers are li
 
 00 	adj.all 	all adjective clusters
 01 	adj.pert 	relational adjectives (pertainyms)
-02 	adv.all 	all adverbs (_legacy_)
+02 	adv.all 	all adverbs (_legacy_; see the adverb files below, which all use this number)
 03 	noun.Tops 	unique beginner for nouns
 04 	noun.act 	nouns denoting acts or actions
 05 	noun.animal 	nouns denoting animals
@@ -68,13 +68,25 @@ The names of the lexicographer files and their corresponding file numbers are li
 42 	verb.stative 	verbs of being, having, spatial relations
 43 	verb.weather 	verbs of raining, snowing, thawing, thundering
 44 	adj.ppl 	participial adjectives
-45  adv.manner   manner adverbs
-46  (retired; formerly adv.subject_oriented, folded into other adverb categories)
-47  adv.speaker_oriented     speaker oriented adverbs
-48  adv.frequency        frequency adverbs
-49  adv.temporal     time, date adverbs
-50  adv.spatial      spatial, location adverbs
-51  adv.degree       degree, intensity adverbs
-52  adv.domain       domain, scope, context adverbs
-53  adv.focus        focus adverbs
-54  adv.contrast     contrastive adverbs
+50 	contrib.colloq 	contributed colloquialisms
+51 	contrib.plwn 	contributed synsets from plWordNet
+
+## Adverb Lexicographer Files
+
+OEWN splits the legacy `adv.all` file into a set of more descriptive adverb
+categories, described in [ADVERBS.md](ADVERBS.md):
+
+adv.manner 	manner adverbs
+adv.speaker_oriented 	speaker oriented adverbs
+adv.frequency 	frequency adverbs
+adv.temporal 	time, date adverbs
+adv.spatial 	spatial, location adverbs
+adv.degree 	degree, intensity adverbs
+adv.domain 	domain, scope, context adverbs
+adv.focus 	focus adverbs
+adv.contrast 	contrastive adverbs
+
+These files are not assigned new file numbers. Sense keys are a legacy feature
+inherited from Princeton WordNet, so every one of these files keeps `02`, the
+file number of the legacy `adv.all`, and no sense keys change when a synset
+moves between adverb categories.

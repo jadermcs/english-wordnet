@@ -3298,7 +3298,7 @@ rabid:
       variety: US
     sense:
     - derivation:
-      - 'rabidly%4:45:00::'
+      - 'rabidly%4:02:00::'
       id: 'rabid%3:01:00::'
       pertainym:
       - 'rabies%1:26:00::'
@@ -3306,7 +3306,7 @@ rabid:
     - derivation:
       - 'rabidity%1:07:00::'
       - 'rabidness%1:07:00::'
-      - 'rabidly%4:51:01::'
+      - 'rabidly%4:02:01::'
       id: rabid%5:00:00:passionate:00
       synset: 01731073-s
 rabidity:
@@ -3323,13 +3323,13 @@ rabidly:
     sense:
     - derivation:
       - rabid%5:00:00:passionate:00
-      id: 'rabidly%4:51:01::'
+      id: 'rabidly%4:02:01::'
       pertainym:
       - rabid%5:00:00:passionate:00
       synset: 00519615-r
     - derivation:
       - 'rabid%3:01:00::'
-      id: 'rabidly%4:45:00::'
+      id: 'rabidly%4:02:00::'
       synset: 00519523-r
 rabidness:
   n:
@@ -3671,14 +3671,14 @@ racialist:
 racially:
   r:
     sense:
-    - id: 'racially%4:52:00::'
+    - id: 'racially%4:02:00::'
       pertainym:
       - 'racial%3:01:00::'
       synset: 00130906-r
 racily:
   r:
     sense:
-    - id: 'racily%4:45:00::'
+    - id: 'racily%4:02:00::'
       pertainym:
       - racy%5:00:00:sexy:00
       synset: 00440376-r
@@ -4221,7 +4221,7 @@ radial-ply tire:
 radially:
   r:
     sense:
-    - id: 'radially%4:50:00::'
+    - id: 'radially%4:02:00::'
       pertainym:
       - radial%5:00:00:symmetrical:00
       synset: 00440475-r
@@ -4291,7 +4291,7 @@ radiant heating:
 radiantly:
   r:
     sense:
-    - id: 'radiantly%4:45:00::'
+    - id: 'radiantly%4:02:00::'
       pertainym:
       - radiant%5:00:00:bright:00
       synset: 00440634-r
@@ -4556,7 +4556,7 @@ radicalize:
 radically:
   r:
     sense:
-    - id: 'radically%4:51:00::'
+    - id: 'radically%4:02:00::'
       pertainym:
       - radical%5:00:00:new:00
       synset: 00179828-r
@@ -4920,7 +4920,7 @@ radioactive waste:
 radioactively:
   r:
     sense:
-    - id: 'radioactively%4:45:00::'
+    - id: 'radioactively%4:02:00::'
       pertainym:
       - 'radioactive%3:00:00::'
       synset: 00517314-r
@@ -5413,7 +5413,7 @@ raffish:
 raffishly:
   r:
     sense:
-    - id: 'raffishly%4:45:00::'
+    - id: 'raffishly%4:02:00::'
       pertainym:
       - raffish%5:00:00:fashionable:00
       synset: 00222610-r
@@ -5754,11 +5754,11 @@ ragged-fringed orchid:
 raggedly:
   r:
     sense:
-    - id: 'raggedly%4:45:02::'
+    - id: 'raggedly%4:02:02::'
       synset: 00441018-r
-    - id: 'raggedly%4:45:01::'
+    - id: 'raggedly%4:02:01::'
       synset: 00440888-r
-    - id: 'raggedly%4:45:00::'
+    - id: 'raggedly%4:02:00::'
       pertainym:
       - ragged%5:00:00:uneven:00
       synset: 00440739-r
@@ -7163,7 +7163,7 @@ rakish:
 rakishly:
   r:
     sense:
-    - id: 'rakishly%4:45:00::'
+    - id: 'rakishly%4:02:00::'
       pertainym:
       - rakish%5:00:00:fashionable:00
       synset: 00222610-r
@@ -7195,7 +7195,7 @@ rallentando:
       synset: 02549225-s
   r:
     sense:
-    - id: 'rallentando%4:45:00::'
+    - id: 'rallentando%4:02:00::'
       synset: 00425799-r
 rally:
   n:
@@ -7445,7 +7445,7 @@ rambling:
 ramblingly:
   r:
     sense:
-    - id: 'ramblingly%4:45:00::'
+    - id: 'ramblingly%4:02:00::'
       synset: 00502553-r
 rambotan:
   n:
@@ -7727,7 +7727,7 @@ rampant arch:
 rampantly:
   r:
     sense:
-    - id: 'rampantly%4:45:00::'
+    - id: 'rampantly%4:02:00::'
       pertainym:
       - rampant%5:00:00:abundant:00
       synset: 00441150-r
@@ -8015,7 +8015,7 @@ randomly:
     pronunciation:
     - value: ˈɹændm̩li
     sense:
-    - id: 'randomly%4:45:00::'
+    - id: 'randomly%4:02:00::'
       pertainym:
       - 'random%3:00:00::'
       synset: 00071165-r
@@ -8687,7 +8687,7 @@ rapacious:
 rapaciously:
   r:
     sense:
-    - id: 'rapaciously%4:45:00::'
+    - id: 'rapaciously%4:02:00::'
       pertainym:
       - rapacious%5:00:00:gluttonous:00
       synset: 00441286-r
@@ -8867,7 +8867,7 @@ rapidly:
     pronunciation:
     - value: ˈɹæpɪdli
     sense:
-    - id: 'rapidly%4:45:00::'
+    - id: 'rapidly%4:02:00::'
       pertainym:
       - rapid%5:00:00:fast:01
       synset: 00086161-r
@@ -9041,7 +9041,7 @@ rapturous:
 rapturously:
   r:
     sense:
-    - id: 'rapturously%4:45:00::'
+    - id: 'rapturously%4:02:00::'
       pertainym:
       - rapturous%5:00:00:joyous:00
       synset: 00326532-r
@@ -9175,8 +9175,8 @@ rarely:
       variety: GB
     sense:
     - antonym:
-      - 'often%4:48:00::'
-      id: 'rarely%4:48:00::'
+      - 'often%4:02:00::'
+      id: 'rarely%4:02:00::'
       pertainym:
       - rare%5:00:00:infrequent:00
       synset: 00035772-r
@@ -9305,7 +9305,7 @@ rasher:
 rashly:
   r:
     sense:
-    - id: 'rashly%4:45:03::'
+    - id: 'rashly%4:02:03::'
       pertainym:
       - rash%5:00:00:imprudent:00
       synset: 00356438-r
@@ -9402,7 +9402,7 @@ rasping:
 raspingly:
   r:
     sense:
-    - id: 'raspingly%4:45:00::'
+    - id: 'raspingly%4:02:00::'
       pertainym:
       - rasping%5:00:00:cacophonous:00
       synset: 00352317-r
@@ -9854,13 +9854,13 @@ rather:
     - value: ˈɹæð.ɚ
       variety: US
     sense:
-    - id: 'rather%4:54:02::'
+    - id: 'rather%4:02:02::'
       synset: 00099264-r
-    - id: 'rather%4:51:04::'
+    - id: 'rather%4:02:04::'
       synset: 00018764-r
-    - id: 'rather%4:47:01::'
+    - id: 'rather%4:02:01::'
       synset: 00116461-r
-    - id: 'rather%4:51:00::'
+    - id: 'rather%4:02:00::'
       synset: 00019243-r
 rathole:
   n:
@@ -10348,8 +10348,8 @@ rationally:
   r:
     sense:
     - antonym:
-      - 'irrationally%4:45:00::'
-      id: 'rationally%4:45:00::'
+      - 'irrationally%4:02:00::'
+      id: 'rationally%4:02:00::'
       pertainym:
       - 'rational%3:00:00::'
       synset: 00186016-r
@@ -10648,7 +10648,7 @@ rattling:
       synset: 07405840-n
   r:
     sense:
-    - id: 'rattling%4:51:00::'
+    - id: 'rattling%4:02:00::'
       synset: 00032295-r
 rattrap:
   n:
@@ -10695,11 +10695,11 @@ raucous:
 raucously:
   r:
     sense:
-    - id: 'raucously%4:45:00::'
+    - id: 'raucously%4:02:00::'
       pertainym:
       - raucous%5:00:00:cacophonous:00
       synset: 00200762-r
-    - id: 'raucously%4:45:01::'
+    - id: 'raucously%4:02:01::'
       pertainym:
       - raucous%5:00:00:disorderly:00
       synset: 00447380-r
@@ -10977,7 +10977,7 @@ ravenous:
 ravenously:
   r:
     sense:
-    - id: 'ravenously%4:45:00::'
+    - id: 'ravenously%4:02:00::'
       pertainym:
       - ravenous%5:00:00:hungry:00
       synset: 00361850-r
@@ -11036,7 +11036,7 @@ raving:
     pronunciation:
     - value: ˈɹeɪvɪŋ
     sense:
-    - id: 'raving%4:51:00::'
+    - id: 'raving%4:02:00::'
       synset: 00441365-r
 raving mad:
   a:
@@ -11046,7 +11046,7 @@ raving mad:
 ravingly:
   r:
     sense:
-    - id: 'ravingly%4:51:00::'
+    - id: 'ravingly%4:02:00::'
       synset: 00441365-r
 ravioli:
   n:
@@ -11100,7 +11100,7 @@ ravishing:
 ravishingly:
   r:
     sense:
-    - id: 'ravishingly%4:51:00::'
+    - id: 'ravishingly%4:02:00::'
       pertainym:
       - ravishing%5:00:00:beautiful:00
       synset: 00441443-r
@@ -12354,7 +12354,7 @@ readable:
 readably:
   r:
     sense:
-    - id: 'readably%4:45:00::'
+    - id: 'readably%4:02:00::'
       pertainym:
       - readable%5:00:00:legible:00
       synset: 00364072-r
@@ -12417,9 +12417,9 @@ readily:
     pronunciation:
     - value: ˈɹɛdɪli
     sense:
-    - id: 'readily%4:45:00::'
+    - id: 'readily%4:02:00::'
       synset: 00162392-r
-    - id: 'readily%4:45:01::'
+    - id: 'readily%4:02:01::'
       synset: 00106028-r
 readiness:
   n:
@@ -12816,7 +12816,7 @@ real:
     pronunciation:
     - value: ˈɹiːəl
     sense:
-    - id: 'real%4:51:01::'
+    - id: 'real%4:02:01::'
       synset: 00032295-r
 real GNP:
   n:
@@ -13164,12 +13164,12 @@ realistically:
   r:
     sense:
     - antonym:
-      - 'unrealistically%4:51:00::'
-      id: 'realistically%4:45:01::'
+      - 'unrealistically%4:02:00::'
+      id: 'realistically%4:02:01::'
       pertainym:
       - 'realistic%3:00:00::'
       synset: 00216815-r
-    - id: 'realistically%4:45:00::'
+    - id: 'realistically%4:02:00::'
       pertainym:
       - realistic%5:00:00:representational:00
       synset: 00126365-r
@@ -13411,17 +13411,17 @@ really:
     - value: ˈɹɪli
       variety: US
     sense:
-    - id: 'really%4:51:03::'
+    - id: 'really%4:02:03::'
       pertainym:
       - real%5:00:00:true:00
       synset: 00037620-r
-    - id: 'really%4:47:04::'
+    - id: 'really%4:02:04::'
       pertainym:
       - 'real%3:00:00::'
       synset: 00150568-r
-    - id: 'really%4:47:02::'
+    - id: 'really%4:02:02::'
       synset: 00038407-r
-    - id: 'really%4:51:00::'
+    - id: 'really%4:02:00::'
       synset: 00032295-r
 realm:
   n:
@@ -13877,12 +13877,12 @@ rearward:
     - value: ˈɹiɹ.wɝ d
       variety: US
     sense:
-    - id: 'rearward%4:50:00::'
+    - id: 'rearward%4:02:00::'
       synset: 00074673-r
 rearwards:
   r:
     sense:
-    - id: 'rearwards%4:50:00::'
+    - id: 'rearwards%4:02:00::'
       synset: 00074673-r
 reason:
   n:
@@ -14025,14 +14025,14 @@ reasonably:
     - value: ˈɹiː.zən.ə.bli
     sense:
     - antonym:
-      - 'unreasonably%4:51:00::'
-      id: 'reasonably%4:51:00::'
+      - 'unreasonably%4:02:00::'
+      id: 'reasonably%4:02:00::'
       pertainym:
       - reasonable%5:00:00:moderate:00
       synset: 00036138-r
     - antonym:
-      - 'unreasonably%4:45:01::'
-      id: 'reasonably%4:45:01::'
+      - 'unreasonably%4:02:01::'
+      id: 'reasonably%4:02:01::'
       pertainym:
       - reasonable%5:00:00:rational:00
       synset: 00217109-r
@@ -14209,7 +14209,7 @@ reassuring:
 reassuringly:
   r:
     sense:
-    - id: 'reassuringly%4:45:00::'
+    - id: 'reassuringly%4:02:00::'
       pertainym:
       - 'reassuring%3:00:00::'
       synset: 00441580-r
@@ -14393,7 +14393,7 @@ rebellious:
 rebelliously:
   r:
     sense:
-    - id: 'rebelliously%4:45:00::'
+    - id: 'rebelliously%4:02:00::'
       pertainym:
       - rebellious%5:00:00:insubordinate:00
       synset: 00200090-r
@@ -14611,7 +14611,7 @@ rebuker:
 rebukingly:
   r:
     sense:
-    - id: 'rebukingly%4:45:00::'
+    - id: 'rebukingly%4:02:00::'
       synset: 00441740-r
 reburial:
   n:
@@ -15348,7 +15348,7 @@ recently:
     pronunciation:
     - value: ˈɹiːsəntli
     sense:
-    - id: 'recently%4:49:00::'
+    - id: 'recently%4:02:00::'
       pertainym:
       - recent%5:00:00:past:00
       synset: 00108184-r
@@ -15465,7 +15465,7 @@ receptive aphasia:
 receptively:
   r:
     sense:
-    - id: 'receptively%4:45:00::'
+    - id: 'receptively%4:02:00::'
       pertainym:
       - 'receptive%3:00:00::'
       synset: 00441823-r
@@ -15780,15 +15780,15 @@ reciprocality:
 reciprocally:
   r:
     sense:
-    - id: 'reciprocally%4:54:02::'
+    - id: 'reciprocally%4:02:02::'
       pertainym:
       - 'reciprocal%3:00:00::'
       synset: 00407778-r
-    - id: 'reciprocally%4:45:01::'
+    - id: 'reciprocally%4:02:01::'
       pertainym:
       - 'reciprocal%3:00:00::'
       synset: 00407555-r
-    - id: 'reciprocally%4:45:00::'
+    - id: 'reciprocally%4:02:00::'
       pertainym:
       - 'reciprocal%3:00:00::'
       synset: 00177405-r
@@ -16019,7 +16019,7 @@ reckless:
 recklessly:
   r:
     sense:
-    - id: 'recklessly%4:45:00::'
+    - id: 'recklessly%4:02:00::'
       pertainym:
       - reckless%5:00:00:careless:00
       synset: 00356657-r
@@ -16410,8 +16410,8 @@ recognizably:
   r:
     sense:
     - antonym:
-      - 'unrecognizably%4:51:00::'
-      id: 'recognizably%4:51:00::'
+      - 'unrecognizably%4:02:00::'
+      id: 'recognizably%4:02:00::'
       pertainym:
       - recognizable%5:00:00:perceptible:00
       synset: 00425915-r
@@ -18270,7 +18270,7 @@ recurrent fever:
 recurrently:
   r:
     sense:
-    - id: 'recurrently%4:48:00::'
+    - id: 'recurrently%4:02:00::'
       pertainym:
       - recurrent%5:00:00:continual:00
       synset: 00517422-r
@@ -19341,7 +19341,7 @@ red-handed:
       synset: 01325911-s
   r:
     sense:
-    - id: 'red-handed%4:45:00::'
+    - id: 'red-handed%4:02:00::'
       synset: 00126486-r
 red-header:
   n:
@@ -20191,7 +20191,7 @@ redline:
 redly:
   r:
     sense:
-    - id: 'redly%4:45:00::'
+    - id: 'redly%4:02:00::'
       pertainym:
       - red%5:00:01:chromatic:00
       synset: 00508749-r
@@ -22024,7 +22024,7 @@ reflective power:
 reflectively:
   r:
     sense:
-    - id: 'reflectively%4:45:00::'
+    - id: 'reflectively%4:02:00::'
       pertainym:
       - reflective%5:00:00:thoughtful:00
       synset: 00441902-r
@@ -22186,7 +22186,7 @@ reflexive verb:
 reflexively:
   r:
     sense:
-    - id: 'reflexively%4:45:00::'
+    - id: 'reflexively%4:02:00::'
       pertainym:
       - reflexive%5:00:00:involuntary:02
       synset: 00193383-r
@@ -22211,7 +22211,7 @@ reflexivity:
 reflexly:
   r:
     sense:
-    - id: 'reflexly%4:45:00::'
+    - id: 'reflexly%4:02:00::'
       pertainym:
       - reflex%5:00:00:involuntary:02
       synset: 00193383-r
@@ -22767,7 +22767,7 @@ refreshful:
 refreshfully:
   r:
     sense:
-    - id: 'refreshfully%4:47:00::'
+    - id: 'refreshfully%4:02:00::'
       synset: 00442143-r
 refreshing:
   a:
@@ -22781,11 +22781,11 @@ refreshing:
 refreshingly:
   r:
     sense:
-    - id: 'refreshingly%4:47:01::'
+    - id: 'refreshingly%4:02:01::'
       pertainym:
       - refreshing%5:00:00:invigorating:00
       synset: 00442143-r
-    - id: 'refreshingly%4:47:00::'
+    - id: 'refreshingly%4:02:00::'
       pertainym:
       - refreshing%5:00:00:new:00
       synset: 00442014-r
@@ -23264,7 +23264,7 @@ regalia:
 regally:
   r:
     sense:
-    - id: 'regally%4:45:00::'
+    - id: 'regally%4:02:00::'
       pertainym:
       - regal%5:00:00:noble:02
       synset: 00442305-r
@@ -23358,7 +23358,7 @@ regardless:
     - value: ɹɪˈɡɑːd.lɪs
       variety: GB
     sense:
-    - id: 'regardless%4:54:00::'
+    - id: 'regardless%4:02:00::'
       synset: 00119427-r
 regatta:
   n:
@@ -23615,7 +23615,7 @@ regimental:
 regimentally:
   r:
     sense:
-    - id: 'regimentally%4:45:00::'
+    - id: 'regimentally%4:02:00::'
       pertainym:
       - 'regimental%3:01:00::'
       synset: 00513641-r
@@ -23708,7 +23708,7 @@ regionally:
     pronunciation:
     - value: ˈɹiːd͡ʒənəli
     sense:
-    - id: 'regionally%4:50:00::'
+    - id: 'regionally%4:02:00::'
       pertainym:
       - 'regional%3:01:00::'
       synset: 00136377-r
@@ -24149,7 +24149,7 @@ regretful:
 regretfully:
   r:
     sense:
-    - id: 'regretfully%4:47:00::'
+    - id: 'regretfully%4:02:00::'
       pertainym:
       - 'regretful%3:00:00::'
       synset: 00426224-r
@@ -24166,7 +24166,7 @@ regrettable:
 regrettably:
   r:
     sense:
-    - id: 'regrettably%4:47:00::'
+    - id: 'regrettably%4:02:00::'
       pertainym:
       - regrettable%5:00:00:unfortunate:00
       synset: 00043179-r
@@ -24458,20 +24458,20 @@ regularly:
       variety: GB
     sense:
     - antonym:
-      - 'irregularly%4:48:00::'
-      id: 'regularly%4:48:00::'
+      - 'irregularly%4:02:00::'
+      id: 'regularly%4:02:00::'
       pertainym:
       - 'regular%3:00:00::'
       synset: 00333223-r
     - antonym:
-      - 'irregularly%4:45:03::'
-      id: 'regularly%4:45:03::'
+      - 'irregularly%4:02:03::'
+      id: 'regularly%4:02:03::'
       pertainym:
       - 'regular%3:00:01::'
       synset: 00333541-r
     - antonym:
-      - 'irregularly%4:45:01::'
-      id: 'regularly%4:45:01::'
+      - 'irregularly%4:02:01::'
+      id: 'regularly%4:02:01::'
       pertainym:
       - even%5:00:00:steady:00
       synset: 00332957-r
@@ -26072,7 +26072,7 @@ relative-in-law:
 relatively:
   r:
     sense:
-    - id: 'relatively%4:51:00::'
+    - id: 'relatively%4:02:00::'
       pertainym:
       - 'relative%3:00:00::'
       synset: 00162033-r
@@ -26128,7 +26128,7 @@ relativistic mass:
 relativistically:
   r:
     sense:
-    - id: 'relativistically%4:52:00::'
+    - id: 'relativistically%4:02:00::'
       pertainym:
       - 'relativistic%3:01:00::'
       synset: 00130777-r
@@ -26686,7 +26686,7 @@ relentlessly:
     pronunciation:
     - value: ɹɪˈlɛntləsli
     sense:
-    - id: 'relentlessly%4:45:00::'
+    - id: 'relentlessly%4:02:00::'
       pertainym:
       - relentless%5:00:00:continual:00
       synset: 00219337-r
@@ -26732,8 +26732,8 @@ relevantly:
   r:
     sense:
     - antonym:
-      - 'irrelevantly%4:45:00::'
-      id: 'relevantly%4:45:00::'
+      - 'irrelevantly%4:02:00::'
+      id: 'relevantly%4:02:00::'
       pertainym:
       - 'relevant%3:00:00::'
       synset: 00442416-r
@@ -26785,8 +26785,8 @@ reliably:
   r:
     sense:
     - antonym:
-      - 'unreliably%4:45:00::'
-      id: 'reliably%4:45:00::'
+      - 'unreliably%4:02:00::'
+      id: 'reliably%4:02:00::'
       pertainym:
       - 'reliable%3:00:00::'
       synset: 00225012-r
@@ -27218,11 +27218,11 @@ religiousism:
 religiously:
   r:
     sense:
-    - id: 'religiously%4:52:00::'
+    - id: 'religiously%4:02:00::'
       pertainym:
       - religious%5:00:00:sacred:00
       synset: 00179946-r
-    - id: 'religiously%4:48:01::'
+    - id: 'religiously%4:02:01::'
       pertainym:
       - religious%5:00:00:scrupulous:00
       synset: 00180072-r
@@ -27474,7 +27474,7 @@ reluctantly:
     pronunciation:
     - value: ɹɪˈlʌktəntli
     sense:
-    - id: 'reluctantly%4:45:00::'
+    - id: 'reluctantly%4:02:00::'
       pertainym:
       - reluctant%5:00:00:unwilling:00
       synset: 00091747-r
@@ -27752,12 +27752,12 @@ remarkably:
       variety: GB
     sense:
     - antonym:
-      - 'unremarkably%4:48:00::'
-      id: 'remarkably%4:51:00::'
+      - 'unremarkably%4:02:00::'
+      id: 'remarkably%4:02:00::'
       pertainym:
       - remarkable%5:00:00:extraordinary:00
       synset: 00107917-r
-    - id: 'remarkably%4:51:01::'
+    - id: 'remarkably%4:02:01::'
       synset: 00456645-r
 remarriage:
   n:
@@ -28140,7 +28140,7 @@ reminiscent:
 reminiscently:
   r:
     sense:
-    - id: 'reminiscently%4:45:00::'
+    - id: 'reminiscently%4:02:00::'
       pertainym:
       - reminiscent%5:00:00:mindful:00
       synset: 00442505-r
@@ -28430,7 +28430,7 @@ remorseful:
 remorsefully:
   r:
     sense:
-    - id: 'remorsefully%4:47:00::'
+    - id: 'remorsefully%4:02:00::'
       pertainym:
       - remorseful%5:00:00:penitent:00
       synset: 00219478-r
@@ -28442,7 +28442,7 @@ remorseless:
 remorselessly:
   r:
     sense:
-    - id: 'remorselessly%4:45:00::'
+    - id: 'remorselessly%4:02:00::'
       pertainym:
       - remorseless%5:00:00:merciless:00
       synset: 00402381-r
@@ -28506,9 +28506,9 @@ remotely:
     pronunciation:
     - value: ɹɪˈmoʊtli
     sense:
-    - id: 'remotely%4:51:01::'
+    - id: 'remotely%4:02:01::'
       synset: 00442738-r
-    - id: 'remotely%4:51:00::'
+    - id: 'remotely%4:02:00::'
       pertainym:
       - remote%5:00:00:unlikely:00
       synset: 00442638-r
@@ -29539,7 +29539,7 @@ rent-free:
       synset: 01715262-s
   r:
     sense:
-    - id: 'rent-free%4:45:00::'
+    - id: 'rent-free%4:02:00::'
       synset: 00262049-r
 rent-rebate:
   n:
@@ -30248,7 +30248,7 @@ repeated:
 repeatedly:
   r:
     sense:
-    - id: 'repeatedly%4:48:01::'
+    - id: 'repeatedly%4:02:01::'
       pertainym:
       - repeated%5:00:00:continual:00
       synset: 00178467-r
@@ -30425,7 +30425,7 @@ repellent:
 repellently:
   r:
     sense:
-    - id: 'repellently%4:45:00::'
+    - id: 'repellently%4:02:00::'
       pertainym:
       - repellent%5:00:00:offensive:01
       synset: 00442936-r
@@ -30437,7 +30437,7 @@ repelling:
 repellingly:
   r:
     sense:
-    - id: 'repellingly%4:45:00::'
+    - id: 'repellingly%4:02:00::'
       pertainym:
       - repelling%5:00:00:offensive:01
       synset: 00442936-r
@@ -30486,8 +30486,8 @@ repentantly:
   r:
     sense:
     - antonym:
-      - 'unrepentantly%4:45:00::'
-      id: 'repentantly%4:45:00::'
+      - 'unrepentantly%4:02:00::'
+      id: 'repentantly%4:02:00::'
       pertainym:
       - 'repentant%3:00:00::'
       synset: 00366906-r
@@ -30608,7 +30608,7 @@ repetitive:
 repetitively:
   r:
     sense:
-    - id: 'repetitively%4:45:00::'
+    - id: 'repetitively%4:02:00::'
       pertainym:
       - 'repetitive%3:00:00::'
       synset: 00443066-r
@@ -31125,7 +31125,7 @@ reportedly:
     - value: ɹɪˈpɔːtɪdli
       variety: GB
     sense:
-    - id: 'reportedly%4:47:00::'
+    - id: 'reportedly%4:02:00::'
       pertainym:
       - 'reported%3:00:00::'
       synset: 00202356-r
@@ -31356,7 +31356,7 @@ reprehensible:
 reprehensibly:
   r:
     sense:
-    - id: 'reprehensibly%4:45:00::'
+    - id: 'reprehensibly%4:02:00::'
       pertainym:
       - reprehensible%5:00:00:wrong:01
       synset: 00305019-r
@@ -31370,7 +31370,7 @@ reprehension:
 reprehensively:
   r:
     sense:
-    - id: 'reprehensively%4:51:00::'
+    - id: 'reprehensively%4:02:00::'
       pertainym:
       - reprehensible%5:00:00:wrong:01
       synset: 00293079-r
@@ -31887,7 +31887,7 @@ reproachful:
 reproachfully:
   r:
     sense:
-    - id: 'reproachfully%4:45:00::'
+    - id: 'reproachfully%4:02:00::'
       pertainym:
       - reproachful%5:00:00:unfavorable:02
       synset: 00164275-r
@@ -32017,7 +32017,7 @@ reproducible:
 reproducibly:
   r:
     sense:
-    - id: 'reproducibly%4:45:00::'
+    - id: 'reproducibly%4:02:00::'
       pertainym:
       - 'reproducible%3:00:00::'
       synset: 00061079-r
@@ -32140,7 +32140,7 @@ reproving:
 reprovingly:
   r:
     sense:
-    - id: 'reprovingly%4:45:00::'
+    - id: 'reprovingly%4:02:00::'
       pertainym:
       - reproving%5:00:00:unfavorable:02
       synset: 00164275-r
@@ -32457,7 +32457,7 @@ repulsive force:
 repulsively:
   r:
     sense:
-    - id: 'repulsively%4:45:00::'
+    - id: 'repulsively%4:02:00::'
       pertainym:
       - repulsive%5:00:00:offensive:01
       synset: 00311025-r
@@ -32528,8 +32528,8 @@ reputably:
   r:
     sense:
     - antonym:
-      - 'disreputably%4:45:00::'
-      id: 'reputably%4:45:00::'
+      - 'disreputably%4:02:00::'
+      id: 'reputably%4:02:00::'
       pertainym:
       - 'reputable%3:00:00::'
       synset: 00320573-r
@@ -32583,7 +32583,7 @@ repute:
 reputedly:
   r:
     sense:
-    - id: 'reputedly%4:47:00::'
+    - id: 'reputedly%4:02:00::'
       synset: 00443214-r
 request:
   n:
@@ -33345,7 +33345,7 @@ resentful:
 resentfully:
   r:
     sense:
-    - id: 'resentfully%4:45:00::'
+    - id: 'resentfully%4:02:00::'
       pertainym:
       - 'resentful%3:00:00::'
       synset: 00443329-r
@@ -33524,7 +33524,7 @@ reserved:
 reservedly:
   r:
     sense:
-    - id: 'reservedly%4:45:00::'
+    - id: 'reservedly%4:02:00::'
       pertainym:
       - 'reserved%3:00:01::'
       synset: 00443542-r
@@ -33863,7 +33863,7 @@ residential district:
 residentially:
   r:
     sense:
-    - id: 'residentially%4:52:00::'
+    - id: 'residentially%4:02:00::'
       pertainym:
       - 'residential%3:00:00::'
       synset: 00513738-r
@@ -34024,9 +34024,9 @@ resignation:
 resignedly:
   r:
     sense:
-    - id: 'resignedly%4:47:00::'
+    - id: 'resignedly%4:02:00::'
       synset: 00443633-r
-    - id: 'resignedly%4:45:01::'
+    - id: 'resignedly%4:02:01::'
       synset: 00265770-r
 resile:
   v:
@@ -34420,12 +34420,12 @@ resolutely:
       variety: GB
     sense:
     - antonym:
-      - 'irresolutely%4:45:00::'
-      id: 'resolutely%4:45:00::'
+      - 'irresolutely%4:02:00::'
+      id: 'resolutely%4:02:00::'
       pertainym:
       - 'resolute%3:00:00::'
       synset: 00243009-r
-    - id: 'resolutely%4:45:01::'
+    - id: 'resolutely%4:02:01::'
       synset: 00300019-r
 resoluteness:
   n:
@@ -34807,7 +34807,7 @@ resoundingly:
     pronunciation:
     - value: ɹɪˈzaʊndɪŋli
     sense:
-    - id: 'resoundingly%4:45:00::'
+    - id: 'resoundingly%4:02:00::'
       pertainym:
       - resounding%5:00:00:reverberant:00
       synset: 00443892-r
@@ -34836,7 +34836,7 @@ resourceful:
 resourcefully:
   r:
     sense:
-    - id: 'resourcefully%4:45:00::'
+    - id: 'resourcefully%4:02:00::'
       pertainym:
       - resourceful%5:00:00:capable:00
       synset: 00444028-r
@@ -34968,11 +34968,11 @@ respectable:
 respectably:
   r:
     sense:
-    - id: 'respectably%4:51:01::'
+    - id: 'respectably%4:02:01::'
       pertainym:
       - 'respectable%3:00:00::'
       synset: 00444277-r
-    - id: 'respectably%4:45:00::'
+    - id: 'respectably%4:02:00::'
       pertainym:
       - respectable%5:00:00:reputable:00
       synset: 00444111-r
@@ -35012,8 +35012,8 @@ respectfully:
     - value: ɹɪˈspɛktfəli
     sense:
     - antonym:
-      - 'disrespectfully%4:45:00::'
-      id: 'respectfully%4:47:00::'
+      - 'disrespectfully%4:02:00::'
+      id: 'respectfully%4:02:00::'
       pertainym:
       - 'respectful%3:00:00::'
       synset: 00320668-r
@@ -35038,7 +35038,7 @@ respectively:
     pronunciation:
     - value: ɹɪˈspɛktɪvli
     sense:
-    - id: 'respectively%4:53:00::'
+    - id: 'respectively%4:02:00::'
       pertainym:
       - respective%5:00:00:individual:00
       synset: 00138725-r
@@ -35291,7 +35291,7 @@ resplendent trogon:
 resplendently:
   r:
     sense:
-    - id: 'resplendently%4:45:00::'
+    - id: 'resplendently%4:02:00::'
       pertainym:
       - resplendent%5:00:00:beautiful:00
       synset: 00351959-r
@@ -35453,8 +35453,8 @@ responsibly:
   r:
     sense:
     - antonym:
-      - 'irresponsibly%4:45:00::'
-      id: 'responsibly%4:45:00::'
+      - 'irresponsibly%4:02:00::'
+      id: 'responsibly%4:02:00::'
       pertainym:
       - 'responsible%3:00:00::'
       synset: 00107190-r
@@ -35820,7 +35820,7 @@ restful:
 restfully:
   r:
     sense:
-    - id: 'restfully%4:45:00::'
+    - id: 'restfully%4:02:00::'
       pertainym:
       - 'restful%3:00:00::'
       synset: 00440039-r
@@ -35904,7 +35904,7 @@ restive:
 restively:
   r:
     sense:
-    - id: 'restively%4:45:00::'
+    - id: 'restively%4:02:00::'
       pertainym:
       - restive%5:00:00:tense:03
       synset: 00239256-r
@@ -35955,7 +35955,7 @@ restless legs syndrome:
 restlessly:
   r:
     sense:
-    - id: 'restlessly%4:45:00::'
+    - id: 'restlessly%4:02:00::'
       pertainym:
       - 'restless%3:00:00::'
       synset: 00208339-r
@@ -36353,7 +36353,7 @@ restrictive clause:
 restrictively:
   r:
     sense:
-    - id: 'restrictively%4:45:00::'
+    - id: 'restrictively%4:02:00::'
       pertainym:
       - 'restrictive%3:00:00::'
       synset: 00444433-r
@@ -36733,8 +36733,8 @@ retail:
       variety: US
     sense:
     - antonym:
-      - 'wholesale%4:45:00::'
-      id: 'retail%4:45:00::'
+      - 'wholesale%4:02:00::'
+      id: 'retail%4:02:00::'
       synset: 00444562-r
   v:
     pronunciation:
@@ -37233,7 +37233,7 @@ retentive:
 retentively:
   r:
     sense:
-    - id: 'retentively%4:45:00::'
+    - id: 'retentively%4:02:00::'
       pertainym:
       - 'retentive%3:00:00::'
       synset: 00444777-r
@@ -37317,7 +37317,7 @@ reticent:
 reticently:
   r:
     sense:
-    - id: 'reticently%4:45:00::'
+    - id: 'reticently%4:02:00::'
       pertainym:
       - reticent%5:00:00:unassertive:00
       synset: 00444856-r
@@ -38175,7 +38175,7 @@ retroactively:
     - value: ˌɹɛtɹoʊˈæktɪvli
       variety: US
     sense:
-    - id: 'retroactively%4:49:00::'
+    - id: 'retroactively%4:02:00::'
       pertainym:
       - retroactive%5:00:00:retrospective:00
       synset: 00214164-r
@@ -38444,7 +38444,7 @@ retrospective:
 retrospectively:
   r:
     sense:
-    - id: 'retrospectively%4:49:00::'
+    - id: 'retrospectively%4:02:00::'
       pertainym:
       - 'retrospective%3:00:00::'
       synset: 00444990-r
@@ -39103,7 +39103,7 @@ revengeful:
 revengefully:
   r:
     sense:
-    - id: 'revengefully%4:45:00::'
+    - id: 'revengefully%4:02:00::'
       pertainym:
       - revengeful%5:00:00:unforgiving:00
       synset: 00445141-r
@@ -39390,7 +39390,7 @@ reverential:
 reverentially:
   r:
     sense:
-    - id: 'reverentially%4:45:00::'
+    - id: 'reverentially%4:02:00::'
       pertainym:
       - reverential%5:00:00:reverent:00
       synset: 00445354-r
@@ -39398,8 +39398,8 @@ reverently:
   r:
     sense:
     - antonym:
-      - 'irreverently%4:45:00::'
-      id: 'reverently%4:45:00::'
+      - 'irreverently%4:02:00::'
+      id: 'reverently%4:02:00::'
       pertainym:
       - 'reverent%3:00:00::'
       synset: 00445354-r
@@ -39623,7 +39623,7 @@ reversed:
 reversely:
   r:
     sense:
-    - id: 'reversely%4:45:00::'
+    - id: 'reversely%4:02:00::'
       synset: 00445539-r
 reversibility:
   n:
@@ -39673,7 +39673,7 @@ reversible process:
 reversibly:
   r:
     sense:
-    - id: 'reversibly%4:45:00::'
+    - id: 'reversibly%4:02:00::'
       pertainym:
       - reversible%5:00:00:changeable:00
       synset: 00126647-r
@@ -40386,7 +40386,7 @@ revolting:
 revoltingly:
   r:
     sense:
-    - id: 'revoltingly%4:51:00::'
+    - id: 'revoltingly%4:02:00::'
       pertainym:
       - revolting%5:00:00:offensive:01
       synset: 00315534-r
@@ -40721,7 +40721,7 @@ rewarding:
 rewardingly:
   r:
     sense:
-    - id: 'rewardingly%4:45:00::'
+    - id: 'rewardingly%4:02:00::'
       pertainym:
       - 'rewarding%3:00:00::'
       synset: 00126790-r
@@ -40934,7 +40934,7 @@ rhapsodic:
 rhapsodically:
   r:
     sense:
-    - id: 'rhapsodically%4:45:00::'
+    - id: 'rhapsodically%4:02:00::'
       pertainym:
       - rhapsodic%5:00:00:joyous:00
       synset: 00326532-r
@@ -41129,7 +41129,7 @@ rhetorical question:
 rhetorically:
   r:
     sense:
-    - id: 'rhetorically%4:45:00::'
+    - id: 'rhetorically%4:02:00::'
       pertainym:
       - 'rhetorical%3:00:00::'
       synset: 00445617-r
@@ -41822,7 +41822,7 @@ rhythmical:
 rhythmically:
   r:
     sense:
-    - id: 'rhythmically%4:45:00::'
+    - id: 'rhythmically%4:02:00::'
       pertainym:
       - 'rhythmical%3:00:00::'
       synset: 00403491-r
@@ -42342,13 +42342,13 @@ richly:
     pronunciation:
     - value: ˈɹɪt͡ʃli
     sense:
-    - id: 'richly%4:51:02::'
+    - id: 'richly%4:02:02::'
       synset: 00398920-r
-    - id: 'richly%4:50:01::'
+    - id: 'richly%4:02:01::'
       pertainym:
       - 'rich%3:00:00::'
       synset: 00359047-r
-    - id: 'richly%4:45:00::'
+    - id: 'richly%4:02:00::'
       pertainym:
       - 'rich%3:00:00::'
       synset: 00189129-r
@@ -43081,7 +43081,7 @@ ridiculous:
 ridiculously:
   r:
     sense:
-    - id: 'ridiculously%4:51:00::'
+    - id: 'ridiculously%4:02:00::'
       pertainym:
       - ridiculous%5:00:00:humorous:00
       synset: 00388921-r
@@ -43579,29 +43579,29 @@ right:
       synset: 13362771-n
   r:
     sense:
-    - id: 'right%4:51:04::'
+    - id: 'right%4:02:04::'
       synset: 00206480-r
-    - id: 'right%4:49:08::'
+    - id: 'right%4:02:08::'
       synset: 00105849-r
-    - id: 'right%4:45:09::'
+    - id: 'right%4:02:09::'
       synset: 00058571-r
     - antonym:
-      - 'left%4:50:03::'
-      id: 'right%4:50:03::'
+      - 'left%4:02:03::'
+      id: 'right%4:02:03::'
       synset: 00389732-r
-    - id: 'right%4:45:01::'
+    - id: 'right%4:02:01::'
       synset: 00197608-r
-    - id: 'right%4:50:00::'
+    - id: 'right%4:02:00::'
       synset: 00151409-r
-    - id: 'right%4:51:06::'
+    - id: 'right%4:02:06::'
       synset: 00032793-r
-    - id: 'right%4:51:07::'
+    - id: 'right%4:02:07::'
       synset: 00008423-r
-    - id: 'right%4:47:05::'
+    - id: 'right%4:02:05::'
       synset: 00206553-r
     - antonym:
-      - 'wrongly%4:45:00::'
-      id: 'right%4:45:02::'
+      - 'wrongly%4:02:00::'
+      id: 'right%4:02:02::'
       pertainym:
       - right%5:00:00:accurate:00
       synset: 00205350-r
@@ -43636,7 +43636,7 @@ right:
 right along:
   r:
     sense:
-    - id: 'right_along%4:49:00::'
+    - id: 'right_along%4:02:00::'
       synset: 00068615-r
 right angle:
   n:
@@ -43668,9 +43668,9 @@ right atrium of the heart:
 right away:
   r:
     sense:
-    - id: 'right_away%4:49:00::'
+    - id: 'right_away%4:02:00::'
       synset: 00049277-r
-    - id: 'right_away%4:49:03::'
+    - id: 'right_away%4:02:03::'
       synset: 00106154-r
 right brain:
   n:
@@ -43778,7 +43778,7 @@ right of way:
 right on:
   r:
     sense:
-    - id: 'right_on%4:50:01::'
+    - id: 'right_on%4:02:01::'
       synset: 00151409-r
 right prism:
   n:
@@ -43792,7 +43792,7 @@ right smart:
       synset: 00627587-s
   r:
     sense:
-    - id: 'right_smart%4:51:00::'
+    - id: 'right_smart%4:02:00::'
       synset: 00102302-r
 right stage:
   n:
@@ -43890,7 +43890,7 @@ right-down:
       synset: 00522835-s
   r:
     sense:
-    - id: 'right-down%4:51:00::'
+    - id: 'right-down%4:02:00::'
       synset: 00445743-r
 right-eyed:
   a:
@@ -43996,8 +43996,8 @@ righteously:
   r:
     sense:
     - antonym:
-      - 'unrighteously%4:45:00::'
-      id: 'righteously%4:45:00::'
+      - 'unrighteously%4:02:00::'
+      id: 'righteously%4:02:00::'
       pertainym:
       - 'righteous%3:00:00::'
       synset: 00445841-r
@@ -44049,7 +44049,7 @@ rightfully:
     pronunciation:
     - value: ˈɹaɪtfəli
     sense:
-    - id: 'rightfully%4:47:00::'
+    - id: 'rightfully%4:02:00::'
       pertainym:
       - rightful%5:00:00:legitimate:00
       synset: 00224480-r
@@ -44104,7 +44104,7 @@ rightly:
     pronunciation:
     - value: ˈɹaɪtli
     sense:
-    - id: 'rightly%4:47:00::'
+    - id: 'rightly%4:02:00::'
       pertainym:
       - 'right%3:00:01::'
       synset: 00206702-r
@@ -44235,7 +44235,7 @@ rigidity:
 rigidly:
   r:
     sense:
-    - id: 'rigidly%4:45:00::'
+    - id: 'rigidly%4:02:00::'
       pertainym:
       - rigid%5:00:00:inflexible:01
       synset: 00196288-r
@@ -44311,7 +44311,7 @@ rigorous:
 rigorously:
   r:
     sense:
-    - id: 'rigorously%4:45:00::'
+    - id: 'rigorously%4:02:00::'
       pertainym:
       - rigorous%5:00:00:exact:00
       synset: 00227027-r
@@ -45173,11 +45173,11 @@ riotously:
     - value: ˈɹaɪ.ət.əs.li
       variety: GB
     sense:
-    - id: 'riotously%4:45:01::'
+    - id: 'riotously%4:02:01::'
       pertainym:
       - riotous%5:00:00:unquiet:00
       synset: 00484064-r
-    - id: 'riotously%4:51:00::'
+    - id: 'riotously%4:02:00::'
       pertainym:
       - riotous%5:00:00:abundant:00
       synset: 00337268-r
@@ -45349,7 +45349,7 @@ ripe olive:
 ripely:
   r:
     sense:
-    - id: 'ripely%4:45:00::'
+    - id: 'ripely%4:02:00::'
       pertainym:
       - 'ripe%3:00:00::'
       synset: 00443804-r
@@ -45935,7 +45935,7 @@ risk-free:
 riskily:
   r:
     sense:
-    - id: 'riskily%4:45:00::'
+    - id: 'riskily%4:02:00::'
       pertainym:
       - risky%5:00:00:dangerous:00
       synset: 00446091-r
@@ -46165,7 +46165,7 @@ ritualize:
 ritually:
   r:
     sense:
-    - id: 'ritually%4:45:00::'
+    - id: 'ritually%4:02:00::'
       pertainym:
       - ceremonial%5:00:00:formal:01
       synset: 00222149-r
@@ -46907,7 +46907,7 @@ roaring:
       synset: 07136069-n
   r:
     sense:
-    - id: 'roaring%4:51:00::'
+    - id: 'roaring%4:02:00::'
       synset: 00446217-r
 roast:
   a:
@@ -47291,7 +47291,7 @@ robustious:
 robustly:
   r:
     sense:
-    - id: 'robustly%4:45:00::'
+    - id: 'robustly%4:02:00::'
       pertainym:
       - 'robust%3:00:00::'
       synset: 00446279-r
@@ -48249,11 +48249,11 @@ roguish:
 roguishly:
   r:
     sense:
-    - id: 'roguishly%4:45:01::'
+    - id: 'roguishly%4:02:01::'
       pertainym:
       - roguish%5:00:00:dishonest:00
       synset: 00446492-r
-    - id: 'roguishly%4:45:00::'
+    - id: 'roguishly%4:02:00::'
       pertainym:
       - roguish%5:00:00:playful:00
       synset: 00446377-r
@@ -48884,7 +48884,7 @@ rollicking:
 rollickingly:
   r:
     sense:
-    - id: 'rollickingly%4:45:00::'
+    - id: 'rollickingly%4:02:00::'
       pertainym:
       - rollicking%5:00:00:playful:00
       synset: 00222767-r
@@ -49171,12 +49171,12 @@ romantically:
   r:
     sense:
     - antonym:
-      - 'unromantically%4:45:00::'
-      id: 'romantically%4:45:02::'
+      - 'unromantically%4:02:00::'
+      id: 'romantically%4:02:02::'
       pertainym:
       - romantic%5:00:00:impractical:00
       synset: 00472504-r
-    - id: 'romantically%4:45:01::'
+    - id: 'romantically%4:02:01::'
       pertainym:
       - romantic%5:00:01:loving:00
       synset: 00446613-r
@@ -49656,7 +49656,7 @@ roomie:
 roomily:
   r:
     sense:
-    - id: 'roomily%4:45:00::'
+    - id: 'roomily%4:02:00::'
       pertainym:
       - roomy%5:00:00:commodious:00
       synset: 00446725-r
@@ -51030,7 +51030,7 @@ rotational nystagmus:
 rotationally:
   r:
     sense:
-    - id: 'rotationally%4:45:00::'
+    - id: 'rotationally%4:02:00::'
       pertainym:
       - 'rotational%3:01:00::'
       synset: 00446868-r
@@ -51183,7 +51183,7 @@ rotten borough:
 rottenly:
   r:
     sense:
-    - id: 'rottenly%4:45:00::'
+    - id: 'rottenly%4:02:00::'
       pertainym:
       - rotten%5:00:03:bad:00
       synset: 00055639-r
@@ -51257,7 +51257,7 @@ rotundity:
 rotundly:
   r:
     sense:
-    - id: 'rotundly%4:45:00::'
+    - id: 'rotundly%4:02:00::'
       pertainym:
       - rotund%5:00:00:full:01
       synset: 00447080-r
@@ -51386,9 +51386,9 @@ rough:
     pronunciation:
     - value: ɹʌf
     sense:
-    - id: 'rough%4:45:03::'
+    - id: 'rough%4:02:03::'
       synset: 00355829-r
-    - id: 'rough%4:45:00::'
+    - id: 'rough%4:02:00::'
       synset: 00355712-r
   v:
     pronunciation:
@@ -51655,13 +51655,13 @@ roughly:
     pronunciation:
     - value: ˈɹʌf.li
     sense:
-    - id: 'roughly%4:49:00::'
+    - id: 'roughly%4:02:00::'
       synset: 00007414-r
-    - id: 'roughly%4:45:03::'
+    - id: 'roughly%4:02:03::'
       pertainym:
       - rough%5:00:00:aggressive:00
       synset: 00355829-r
-    - id: 'roughly%4:45:02::'
+    - id: 'roughly%4:02:02::'
       pertainym:
       - 'rough%3:00:00::'
       synset: 00355712-r
@@ -51817,7 +51817,7 @@ round:
       synset: 03036796-n
   r:
     sense:
-    - id: 'round%4:49:00::'
+    - id: 'round%4:02:00::'
       synset: 00071856-r
   v:
     sense:
@@ -52010,7 +52010,7 @@ round the bend:
 round the clock:
   r:
     sense:
-    - id: 'round_the_clock%4:49:00::'
+    - id: 'round_the_clock%4:02:00::'
       synset: 00153617-r
 round top:
   n:
@@ -52052,7 +52052,7 @@ round-arm:
       synset: 02480427-s
   r:
     sense:
-    - id: 'round-arm%4:45:00::'
+    - id: 'round-arm%4:02:00::'
       synset: 00447267-r
 round-backed:
   a:
@@ -52258,11 +52258,11 @@ roundish:
 roundly:
   r:
     sense:
-    - id: 'roundly%4:51:00::'
+    - id: 'roundly%4:02:00::'
       pertainym:
       - 'round%3:00:00::'
       synset: 00230431-r
-    - id: 'roundly%4:45:01::'
+    - id: 'roundly%4:02:01::'
       synset: 00280953-r
 roundness:
   n:
@@ -52544,7 +52544,7 @@ routinely:
     pronunciation:
     - value: ɹuːˈtiːnli
     sense:
-    - id: 'routinely%4:48:00::'
+    - id: 'routinely%4:02:00::'
       synset: 00212244-r
 routineness:
   n:
@@ -52708,7 +52708,7 @@ rowboat:
 rowdily:
   r:
     sense:
-    - id: 'rowdily%4:45:00::'
+    - id: 'rowdily%4:02:00::'
       pertainym:
       - rowdy%5:00:00:disorderly:00
       synset: 00447380-r
@@ -52955,7 +52955,7 @@ royalist:
 royally:
   r:
     sense:
-    - id: 'royally%4:45:00::'
+    - id: 'royally%4:02:00::'
       pertainym:
       - 'royal%3:01:00::'
       synset: 00126869-r
@@ -53753,7 +53753,7 @@ rudely:
     pronunciation:
     - value: ˈɹuːdli
     sense:
-    - id: 'rudely%4:45:00::'
+    - id: 'rudely%4:02:00::'
       pertainym:
       - rude%5:00:00:impolite:00
       synset: 00220161-r
@@ -53840,7 +53840,7 @@ rueful:
 ruefully:
   r:
     sense:
-    - id: 'ruefully%4:47:00::'
+    - id: 'ruefully%4:02:00::'
       pertainym:
       - rueful%5:00:00:penitent:00
       synset: 00219478-r
@@ -54113,7 +54113,7 @@ ruggedize:
 ruggedly:
   r:
     sense:
-    - id: 'ruggedly%4:45:00::'
+    - id: 'ruggedly%4:02:00::'
       pertainym:
       - 'rugged%3:00:00::'
       synset: 00503188-r
@@ -54326,7 +54326,7 @@ ruinous:
 ruinously:
   r:
     sense:
-    - id: 'ruinously%4:51:00::'
+    - id: 'ruinously%4:02:00::'
       pertainym:
       - ruinous%5:00:00:harmful:00
       synset: 00447534-r
@@ -56325,7 +56325,7 @@ rurality:
 rurally:
   r:
     sense:
-    - id: 'rurally%4:50:00::'
+    - id: 'rurally%4:02:00::'
       pertainym:
       - 'rural%3:00:00::'
       synset: 00144584-r
@@ -57077,7 +57077,7 @@ ruthlessly:
     pronunciation:
     - value: ˈɹuːθ.ləs.li
     sense:
-    - id: 'ruthlessly%4:45:00::'
+    - id: 'ruthlessly%4:02:00::'
       pertainym:
       - ruthless%5:00:00:merciless:00
       synset: 00447656-r

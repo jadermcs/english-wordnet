@@ -49,15 +49,20 @@ lex_filenums = {
     "verb.stative": 42,
     "verb.weather": 43,
     "adj.ppl": 44,
-    "adv.manner": 45,
-    "adv.speaker_oriented": 47,
-    "adv.frequency": 48,
-    "adv.temporal": 49,
-    "adv.spatial": 50,
-    "adv.degree": 51,
-    "adv.domain": 52,
-    "adv.focus": 53,
-    "adv.contrast": 54}
+    "contrib.colloq": 50,
+    "contrib.plwn": 51,
+    # The adverb lexicographer files below are a finer-grained split of the
+    # legacy adv.all file. Sense keys are a legacy Princeton WordNet feature,
+    # so they all keep adv.all's file number (02) rather than getting new ones.
+    "adv.manner": 2,
+    "adv.speaker_oriented": 2,
+    "adv.frequency": 2,
+    "adv.temporal": 2,
+    "adv.spatial": 2,
+    "adv.degree": 2,
+    "adv.domain": 2,
+    "adv.focus": 2,
+    "adv.contrast": 2}
 
 ss_types = {
     PartOfSpeech.NOUN: 1,
